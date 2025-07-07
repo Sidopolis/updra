@@ -49,20 +49,11 @@ def write_markdown(updates):
     with open(MARKDOWN_FILE, "w", encoding="utf-8") as f:
         f.write(content.strip())
 
-def commit_and_push():
-    repo = Repo(".")
-    repo.git.add(MARKDOWN_FILE)
-    repo.index.commit(f"📦 Update ecosystem daily log – {datetime.utcnow().strftime('%Y-%m-%d')}")
-    origin = repo.remote(name="origin")
-    # origin.push()
-    print("✅ Pushed to GitHub")
-
 def main():
     updates = {}
     for topic in TOPICS:
         updates[topic] = fetch_latest_releases(topic)
     write_markdown(updates)
-    # commit_and_push()
 
 if __name__ == "__main__":
     main()
