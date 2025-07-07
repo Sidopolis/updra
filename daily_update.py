@@ -4,7 +4,13 @@ from git import Repo
 from datetime import datetime
 
 # 🔧 Configure your GitHub topics here
-TOPICS = ["serverless", "blockchain", "python"]
+TOPICS = [
+    "ai-ethics",
+    "quantum-computing",
+    "edge-computing",
+    "webassembly",
+    "green-software"
+]
 RELEASE_LIMIT = 3  # Max repos per topic to avoid rate limits
 
 # 📁 Markdown filename
