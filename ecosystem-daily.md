@@ -1,33 +1,31 @@
-# 🌐 Ecosystem Daily Log – 2025-07-22
+# 🌐 Ecosystem Daily Log – 2025-07-23
 
 ## 🔹 Ai-ethics
-- [xrkksn/aetherlab-community](https://github.com/xrkksn/aetherlab-community/releases/tag/1.2.9-alpha.3) – `1.2.9-alpha.3` (📅 2025-07-21)  
-  🔗 [Release Notes](https://github.com/xrkksn/aetherlab-community/releases/tag/1.2.9-alpha.3)
+- [GiuseppeMarino1/qbi-observer-lite](https://github.com/GiuseppeMarino1/qbi-observer-lite/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-07-22)  
+  🔗 [Release Notes](https://github.com/GiuseppeMarino1/qbi-observer-lite/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.5.0) – `v1.5.0` (📅 2025-04-10)  
-  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.5.0)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.11.0) – `0.11.0` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.11.0)
 - [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.3.7) – `2.3.7` (📅 2025-07-06)  
   🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.3.7)
 
 ## 🔹 Edge-computing
-- [Cloudslab/TrustMesh](https://github.com/Cloudslab/TrustMesh/releases/tag/release-17012025.2) – `release-17012025.2` (📅 2025-01-17)  
-  🔗 [Release Notes](https://github.com/Cloudslab/TrustMesh/releases/tag/release-17012025.2)
-- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.1) – `v2.2.1` (📅 2025-07-22)  
-  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.1)
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v5.3.0) – `v5.3.0` (📅 2025-07-15)  
   🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v5.3.0)
+- [unieojs/unieo](https://github.com/unieojs/unieo/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-07-23)  
+  🔗 [Release Notes](https://github.com/unieojs/unieo/releases/tag/v1.1.0)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.0) – `v2.2.0` (📅 2025-06-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.0)
-- [kubewarden/policy-server](https://github.com/kubewarden/policy-server/releases/tag/v1.26.0) – `v1.26.0` (📅 2025-06-24)  
-  🔗 [Release Notes](https://github.com/kubewarden/policy-server/releases/tag/v1.26.0)
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.1.0) – `0.1.0` (📅 2025-07-21)  
+  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.1.0)
+- [arrowpc/palettum](https://github.com/arrowpc/palettum/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-07-23)  
+  🔗 [Release Notes](https://github.com/arrowpc/palettum/releases/tag/v0.6.0)
 
 ## 🔹 Green-software
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.1) – `v2.1` (📅 2025-06-04)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.1)
-- [green-coding-solutions/eco-ci-energy-estimation](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5) – `v5` (📅 2025-06-21)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5)
-- [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
-  🔗 [Release Notes](https://github.com/kube-green/kube-green/releases/tag/v0.7.1)
+- [genai-impact/ecologits](https://github.com/genai-impact/ecologits/releases/tag/0.7.3) – `0.7.3` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/genai-impact/ecologits/releases/tag/0.7.3)
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.37.0) – `0.37.0` (📅 2025-07-18)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.37.0)
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
