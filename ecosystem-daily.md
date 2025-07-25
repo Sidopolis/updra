@@ -1,30 +1,31 @@
-# 🌐 Ecosystem Daily Log – 2025-07-24
+# 🌐 Ecosystem Daily Log – 2025-07-25
 
 ## 🔹 Ai-ethics
 - [OleGustavDahlJohnsen/concordia-manifest](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v1.0) – `v1.0` (📅 2025-07-24)  
   🔗 [Release Notes](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v1.0)
-- [GiuseppeMarino1/qbi-observer-lite](https://github.com/GiuseppeMarino1/qbi-observer-lite/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-07-22)  
-  🔗 [Release Notes](https://github.com/GiuseppeMarino1/qbi-observer-lite/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.3.7) – `2.3.7` (📅 2025-07-06)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.3.7)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
+- [Jij-Inc/OpenJij](https://github.com/Jij-Inc/OpenJij/releases/tag/v0.10.17) – `v0.10.17` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/Jij-Inc/OpenJij/releases/tag/v0.10.17)
+- [EQuS/jaxquantum](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-07-14)  
+  🔗 [Release Notes](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.0)
 
 ## 🔹 Edge-computing
-- [LoveDoLove/cloudflare-smart-tools](https://github.com/LoveDoLove/cloudflare-smart-tools/releases/tag/v2.0.4) – `v2.0.4` (📅 2025-07-24)  
-  🔗 [Release Notes](https://github.com/LoveDoLove/cloudflare-smart-tools/releases/tag/v2.0.4)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v5.3.0) – `v5.3.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v5.3.0)
+- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1) – `v0.32.1` (📅 2025-05-07)  
+  🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.121) – `v0.8.121` (📅 2025-07-19)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.121)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.12.1) – `v1.12.1` (📅 2025-06-25)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.12.1)
 - [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.4.3) – `@liam-hq/erd-core@0.4.3` (📅 2025-07-24)  
   🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.4.3)
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.1.0) – `0.1.0` (📅 2025-07-21)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.1.0)
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.2.0) – `0.2.0` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.2.0)
 
 ## 🔹 Green-software
-- No recent releases found.
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.1) – `v2.1` (📅 2025-06-04)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.1)
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.37.1) – `0.37.1` (📅 2025-07-24)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.37.1)
+- [green-coding-solutions/eco-ci-energy-estimation](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5) – `v5` (📅 2025-06-21)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5)
