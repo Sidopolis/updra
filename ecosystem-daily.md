@@ -1,31 +1,27 @@
-# 🌐 Ecosystem Daily Log – 2025-07-25
+# 🌐 Ecosystem Daily Log – 2025-07-26
 
 ## 🔹 Ai-ethics
 - [OleGustavDahlJohnsen/concordia-manifest](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v1.0) – `v1.0` (📅 2025-07-24)  
   🔗 [Release Notes](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v1.0)
 
 ## 🔹 Quantum-computing
-- [Jij-Inc/OpenJij](https://github.com/Jij-Inc/OpenJij/releases/tag/v0.10.17) – `v0.10.17` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/Jij-Inc/OpenJij/releases/tag/v0.10.17)
-- [EQuS/jaxquantum](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-07-14)  
-  🔗 [Release Notes](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.0)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.3.7) – `2.3.7` (📅 2025-07-06)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.3.7)
+- [itsubaki/q](https://github.com/itsubaki/q/releases/tag/v0.0.6) – `v0.0.6` (📅 2025-05-10)  
+  🔗 [Release Notes](https://github.com/itsubaki/q/releases/tag/v0.0.6)
 
 ## 🔹 Edge-computing
-- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1) – `v0.32.1` (📅 2025-05-07)  
-  🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v5.3.0) – `v5.3.0` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v5.3.0)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.14.1) – `0.14.1` (📅 2024-09-18)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.14.1)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.12.1) – `v1.12.1` (📅 2025-06-25)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.12.1)
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.4.3) – `@liam-hq/erd-core@0.4.3` (📅 2025-07-24)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.4.3)
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.2.0) – `0.2.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.2.0)
+- [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile/releases/tag/v33) – `v33` (📅 2025-04-27)  
+  🔗 [Release Notes](https://github.com/nihui/opencv-mobile/releases/tag/v33)
 
 ## 🔹 Green-software
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.1) – `v2.1` (📅 2025-06-04)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.1)
-- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.37.1) – `0.37.1` (📅 2025-07-24)  
-  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.37.1)
-- [green-coding-solutions/eco-ci-energy-estimation](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5) – `v5` (📅 2025-06-21)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5)
+- [simaocunha71/msc-thesis](https://github.com/simaocunha71/msc-thesis/releases/tag/v1.0.0) – `v1.0.0` (📅 2024-10-28)  
+  🔗 [Release Notes](https://github.com/simaocunha71/msc-thesis/releases/tag/v1.0.0)
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
