@@ -1,30 +1,30 @@
-# 🌐 Ecosystem Daily Log – 2025-07-28
+# 🌐 Ecosystem Daily Log – 2025-07-29
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [OleGustavDahlJohnsen/concordia-manifest](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v7.5.1) – `v7.5.1` (📅 2025-07-28)  
+  🔗 [Release Notes](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v7.5.1)
 
 ## 🔹 Quantum-computing
-- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
-  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
 - [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.3) – `2.4.3` (📅 2025-07-27)  
   🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.3)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.11.0) – `0.11.0` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.11.0)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
 
 ## 🔹 Edge-computing
-- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1) – `v0.32.1` (📅 2025-05-07)  
-  🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v5.3.0) – `v5.3.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v5.3.0)
-- [unieojs/unieo](https://github.com/unieojs/unieo/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-07-23)  
-  🔗 [Release Notes](https://github.com/unieojs/unieo/releases/tag/v1.1.0)
+- [unieojs/unieo](https://github.com/unieojs/unieo/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-07-29)  
+  🔗 [Release Notes](https://github.com/unieojs/unieo/releases/tag/v1.3.0)
+- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.68.3) – `v1.68.3` (📅 2025-07-29)  
+  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.68.3)
 
 ## 🔹 Webassembly
-- [masastack/MASA.Blazor](https://github.com/masastack/MASA.Blazor/releases/tag/1.10.3) – `1.10.3` (📅 2025-07-28)  
-  🔗 [Release Notes](https://github.com/masastack/MASA.Blazor/releases/tag/1.10.3)
-- [vertigo-web/vertigo](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.0) – `v0.8.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.0)
+- No recent releases found.
 
 ## 🔹 Green-software
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.1) – `v2.1` (📅 2025-06-04)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.1)
-- [simaocunha71/msc-thesis](https://github.com/simaocunha71/msc-thesis/releases/tag/v1.0.0) – `v1.0.0` (📅 2024-10-28)  
-  🔗 [Release Notes](https://github.com/simaocunha71/msc-thesis/releases/tag/v1.0.0)
+- [green-coding-solutions/eco-ci-energy-estimation](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5) – `v5` (📅 2025-06-21)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5)
