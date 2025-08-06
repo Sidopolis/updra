@@ -5,27 +5,26 @@
   🔗 [Release Notes](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v8.2)
 
 ## 🔹 Quantum-computing
-- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
-  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.2.28) – `v1.2.28` (📅 2025-08-06)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.2.28)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.0)
-- [eclipse-zenoh/zenoh-plugin-dds](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.0)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.17.0) – `v0.17.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.17.0)
+- [edgee-cloud/edgee](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.20) – `v1.2.20` (📅 2025-07-28)  
+  🔗 [Release Notes](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.20)
+- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.4.2-beta) – `v0.4.2-beta` (📅 2025-06-20)  
+  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.4.2-beta)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/schema%400.5.0) – `@liam-hq/schema@0.5.0` (📅 2025-08-06)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/schema%400.5.0)
+- [grafbase/extensions](https://github.com/grafbase/extensions/releases/tag/protoc-gen-grafbase-subgraph-v0.2.0) – `protoc-gen-grafbase-subgraph-v0.2.0` (📅 2025-07-28)  
+  🔗 [Release Notes](https://github.com/grafbase/extensions/releases/tag/protoc-gen-grafbase-subgraph-v0.2.0)
 - [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-29)  
   🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.3)
-- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript/releases/tag/v0.28.4) – `v0.28.4` (📅 2025-08-06)  
-  🔗 [Release Notes](https://github.com/AssemblyScript/assemblyscript/releases/tag/v0.28.4)
+- [use-ink/ink](https://github.com/use-ink/ink/releases/tag/v5.1.1) – `v5.1.1` (📅 2024-12-04)  
+  🔗 [Release Notes](https://github.com/use-ink/ink/releases/tag/v5.1.1)
 
 ## 🔹 Green-software
-- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
-  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
