@@ -5,26 +5,23 @@
   🔗 [Release Notes](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v8.2)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.0) – `v1.6.0` (📅 2025-07-23)  
+  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.0)
 
 ## 🔹 Edge-computing
 - [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.17.0) – `v0.17.0` (📅 2025-08-04)  
   🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.17.0)
-- [edgee-cloud/edgee](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.20) – `v1.2.20` (📅 2025-07-28)  
-  🔗 [Release Notes](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.20)
-- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.4.2-beta) – `v0.4.2-beta` (📅 2025-06-20)  
-  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.4.2-beta)
 
 ## 🔹 Webassembly
-- [grafbase/extensions](https://github.com/grafbase/extensions/releases/tag/protoc-gen-grafbase-subgraph-v0.2.0) – `protoc-gen-grafbase-subgraph-v0.2.0` (📅 2025-07-28)  
-  🔗 [Release Notes](https://github.com/grafbase/extensions/releases/tag/protoc-gen-grafbase-subgraph-v0.2.0)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-29)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.3)
-- [use-ink/ink](https://github.com/use-ink/ink/releases/tag/v5.1.1) – `v5.1.1` (📅 2024-12-04)  
-  🔗 [Release Notes](https://github.com/use-ink/ink/releases/tag/v5.1.1)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.55.0) – `v0.55.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.55.0)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_123) – `version_123` (📅 2025-03-25)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_123)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.38.0) – `0.38.0` (📅 2025-08-02)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.38.0)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
-- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
-  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
