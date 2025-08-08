@@ -5,28 +5,26 @@
   🔗 [Release Notes](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v8.2)
 
 ## 🔹 Quantum-computing
-- [CQCL/qnexus](https://github.com/CQCL/qnexus/releases/tag/v0.27.0) – `v0.27.0` (📅 2025-08-06)  
-  🔗 [Release Notes](https://github.com/CQCL/qnexus/releases/tag/v0.27.0)
-- [CQCL/tierkreis](https://github.com/CQCL/tierkreis/releases/tag/v2.0.1) – `v2.0.1` (📅 2025-08-07)  
-  🔗 [Release Notes](https://github.com/CQCL/tierkreis/releases/tag/v2.0.1)
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.75) – `v0.0.75` (📅 2025-08-08)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.75)
+- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.24.3) – `vm6502q.v9.24.3` (📅 2025-08-07)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.24.3)
+- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.65.5) – `v1.65.5` (📅 2025-08-07)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.65.5)
+- [Aegiq/lightworks](https://github.com/Aegiq/lightworks/releases/tag/v2.2.5) – `v2.2.5` (📅 2025-08-05)  
+  🔗 [Release Notes](https://github.com/Aegiq/lightworks/releases/tag/v2.2.5)
 
 ## 🔹 Edge-computing
-- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.1) – `v2.2.1` (📅 2025-07-22)  
-  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.1)
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v5.3.0) – `v5.3.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v5.3.0)
+- [open-horizon/exchange-api](https://github.com/open-horizon/exchange-api/releases/tag/v2.87.0) – `v2.87.0` (📅 2021-09-13)  
+  🔗 [Release Notes](https://github.com/open-horizon/exchange-api/releases/tag/v2.87.0)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.7) – `v2.11.7` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.7)
 
 ## 🔹 Webassembly
-- [eyereasoner/eye-js](https://github.com/eyereasoner/eye-js/releases/tag/v18.19.6) – `v18.19.6` (📅 2025-08-07)  
-  🔗 [Release Notes](https://github.com/eyereasoner/eye-js/releases/tag/v18.19.6)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
-- [grafbase/grafbase](https://github.com/grafbase/grafbase/releases/tag/grafbase-0.101.1) – `grafbase-0.101.1` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/grafbase/grafbase/releases/tag/grafbase-0.101.1)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v35.0.0) – `v35.0.0` (📅 2025-07-22)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v35.0.0)
+- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2) – `v1.8.2` (📅 2025-06-17)  
+  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2)
+- [StevenSYS/BlockBreak](https://github.com/StevenSYS/BlockBreak/releases/tag/v1.1) – `v1.1` (📅 2025-04-22)  
+  🔗 [Release Notes](https://github.com/StevenSYS/BlockBreak/releases/tag/v1.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
