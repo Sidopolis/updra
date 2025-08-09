@@ -1,30 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2025-08-09
 
 ## 🔹 Ai-ethics
-- [OleGustavDahlJohnsen/concordia-manifest](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v8.3) – `v8.3` (📅 2025-08-08)  
-  🔗 [Release Notes](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v8.3)
-- [OleGustavDahlJohnsen/project-agora](https://github.com/OleGustavDahlJohnsen/project-agora/releases/tag/v2.0-alpha1) – `v2.0-alpha1` (📅 2025-08-07)  
-  🔗 [Release Notes](https://github.com/OleGustavDahlJohnsen/project-agora/releases/tag/v2.0-alpha1)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.2.33) – `v1.2.33` (📅 2025-08-07)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.2.33)
-- [cda-tum/mqt-qubomaker](https://github.com/cda-tum/mqt-qubomaker/releases/tag/v1.0.1) – `v1.0.1` (📅 2024-10-11)  
-  🔗 [Release Notes](https://github.com/cda-tum/mqt-qubomaker/releases/tag/v1.0.1)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v5.3.0) – `v5.3.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v5.3.0)
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.20) – `v0.2.20` (📅 2025-08-09)  
-  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.20)
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.0)
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.0) – `v1.16.0` (📅 2025-07-31)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.0)
+- [bambooww/iot-tree](https://github.com/bambooww/iot-tree/releases/tag/1.7.6) – `1.7.6` (📅 2025-07-19)  
+  🔗 [Release Notes](https://github.com/bambooww/iot-tree/releases/tag/1.7.6)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.127) – `v0.8.127` (📅 2025-08-09)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.127)
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-04-22)  
-  🔗 [Release Notes](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.8.0)
+- [SoftbearStudios/mk48](https://github.com/SoftbearStudios/mk48/releases/tag/svelte) – `svelte` (📅 2022-10-15)  
+  🔗 [Release Notes](https://github.com/SoftbearStudios/mk48/releases/tag/svelte)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-29)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.3)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
