@@ -7,22 +7,24 @@
   🔗 [Release Notes](https://github.com/OleGustavDahlJohnsen/project-agora/releases/tag/v2.0-alpha1)
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.75) – `v0.0.75` (📅 2025-08-08)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.75)
-- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
-  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.2.33) – `v1.2.33` (📅 2025-08-07)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.2.33)
+- [cda-tum/mqt-qubomaker](https://github.com/cda-tum/mqt-qubomaker/releases/tag/v1.0.1) – `v1.0.1` (📅 2024-10-11)  
+  🔗 [Release Notes](https://github.com/cda-tum/mqt-qubomaker/releases/tag/v1.0.1)
 
 ## 🔹 Edge-computing
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v5.3.0) – `v5.3.0` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v5.3.0)
 - [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.20) – `v0.2.20` (📅 2025-08-09)  
   🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.20)
 - [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.0)
-- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0)
 
 ## 🔹 Webassembly
-- [fastertools/ftl-cli](https://github.com/fastertools/ftl-cli/releases/tag/cli-v0.0.42) – `cli-v0.0.42` (📅 2025-08-08)  
-  🔗 [Release Notes](https://github.com/fastertools/ftl-cli/releases/tag/cli-v0.0.42)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.127) – `v0.8.127` (📅 2025-08-09)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.127)
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-04-22)  
+  🔗 [Release Notes](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.8.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
