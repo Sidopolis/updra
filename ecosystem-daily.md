@@ -1,30 +1,28 @@
-# 🌐 Ecosystem Daily Log – 2025-08-08
+# 🌐 Ecosystem Daily Log – 2025-08-09
 
 ## 🔹 Ai-ethics
-- [OleGustavDahlJohnsen/concordia-manifest](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v8.2) – `v8.2` (📅 2025-08-03)  
-  🔗 [Release Notes](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v8.2)
+- [OleGustavDahlJohnsen/concordia-manifest](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v8.3) – `v8.3` (📅 2025-08-08)  
+  🔗 [Release Notes](https://github.com/OleGustavDahlJohnsen/concordia-manifest/releases/tag/v8.3)
+- [OleGustavDahlJohnsen/project-agora](https://github.com/OleGustavDahlJohnsen/project-agora/releases/tag/v2.0-alpha1) – `v2.0-alpha1` (📅 2025-08-07)  
+  🔗 [Release Notes](https://github.com/OleGustavDahlJohnsen/project-agora/releases/tag/v2.0-alpha1)
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.24.3) – `vm6502q.v9.24.3` (📅 2025-08-07)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.24.3)
-- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.65.5) – `v1.65.5` (📅 2025-08-07)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.65.5)
-- [Aegiq/lightworks](https://github.com/Aegiq/lightworks/releases/tag/v2.2.5) – `v2.2.5` (📅 2025-08-05)  
-  🔗 [Release Notes](https://github.com/Aegiq/lightworks/releases/tag/v2.2.5)
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.75) – `v0.0.75` (📅 2025-08-08)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.75)
+- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
+  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
 
 ## 🔹 Edge-computing
-- [open-horizon/exchange-api](https://github.com/open-horizon/exchange-api/releases/tag/v2.87.0) – `v2.87.0` (📅 2021-09-13)  
-  🔗 [Release Notes](https://github.com/open-horizon/exchange-api/releases/tag/v2.87.0)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.7) – `v2.11.7` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.7)
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.20) – `v0.2.20` (📅 2025-08-09)  
+  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.20)
+- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.0)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0)
 
 ## 🔹 Webassembly
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v35.0.0) – `v35.0.0` (📅 2025-07-22)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v35.0.0)
-- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2) – `v1.8.2` (📅 2025-06-17)  
-  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2)
-- [StevenSYS/BlockBreak](https://github.com/StevenSYS/BlockBreak/releases/tag/v1.1) – `v1.1` (📅 2025-04-22)  
-  🔗 [Release Notes](https://github.com/StevenSYS/BlockBreak/releases/tag/v1.1)
+- [fastertools/ftl-cli](https://github.com/fastertools/ftl-cli/releases/tag/cli-v0.0.42) – `cli-v0.0.42` (📅 2025-08-08)  
+  🔗 [Release Notes](https://github.com/fastertools/ftl-cli/releases/tag/cli-v0.0.42)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
