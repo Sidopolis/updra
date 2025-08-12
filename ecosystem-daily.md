@@ -1,21 +1,27 @@
-# 🌐 Ecosystem Daily Log – 2025-08-11
+# 🌐 Ecosystem Daily Log – 2025-08-12
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.1) – `v0.42.1` (📅 2025-07-24)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.1)
+- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
+  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.0) – `v1.6.0` (📅 2025-07-23)  
+  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.0)
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
+- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.1) – `v2.2.1` (📅 2025-07-22)  
+  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.1)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0)
+- [eclipse-zenoh/zenoh-plugin-dds](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.0)
 
 ## 🔹 Webassembly
-- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs/releases/tag/rust-v0.5.0) – `rust-v0.5.0` (📅 2025-08-07)  
-  🔗 [Release Notes](https://github.com/geoarrow/geoarrow-rs/releases/tag/rust-v0.5.0)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v35.0.0) – `v35.0.0` (📅 2025-07-22)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v35.0.0)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/schema%400.5.0) – `@liam-hq/schema@0.5.0` (📅 2025-08-06)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/schema%400.5.0)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.32.1) – `0.32.1` (📅 2025-07-21)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.32.1)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
