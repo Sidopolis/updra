@@ -4,27 +4,23 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-v0.22.2) – `hugr-v0.22.2` (📅 2025-08-06)  
-  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-v0.22.2)
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1)
-- [GizzZmo/Face-Recon](https://github.com/GizzZmo/Face-Recon/releases/tag/blockchain) – `blockchain` (📅 2025-04-19)  
-  🔗 [Release Notes](https://github.com/GizzZmo/Face-Recon/releases/tag/blockchain)
+- [munich-quantum-toolkit/syrec](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v1.2.1) – `v1.2.1` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v1.2.1)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.1.1) – `2.1.1` (📅 2025-07-10)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.1.1)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.7) – `v2.11.7` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.7)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v5.3.0) – `v5.3.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v5.3.0)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.2) – `@liam-hq/cli@0.7.2` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.2)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.0) – `v2.2.0` (📅 2025-06-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.0)
+- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs/releases/tag/rust-v0.5.0) – `rust-v0.5.0` (📅 2025-08-07)  
+  🔗 [Release Notes](https://github.com/geoarrow/geoarrow-rs/releases/tag/rust-v0.5.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
+- [Aryash2003/Green-cart](https://github.com/Aryash2003/Green-cart/releases/tag/interfering) – `interfering` (📅 2025-07-09)  
+  🔗 [Release Notes](https://github.com/Aryash2003/Green-cart/releases/tag/interfering)
