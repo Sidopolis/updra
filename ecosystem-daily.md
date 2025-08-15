@@ -7,22 +7,25 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.25.7) – `vm6502q.v9.25.7` (📅 2025-08-11)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.25.7)
+- [Infleqtion/client-superstaq](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.47) – `v0.5.47` (📅 2025-07-11)  
+  🔗 [Release Notes](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.47)
 
 ## 🔹 Edge-computing
-- [good-lly/s3mini](https://github.com/good-lly/s3mini/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-07-01)  
-  🔗 [Release Notes](https://github.com/good-lly/s3mini/releases/tag/v0.4.0)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-29)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.3)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v6.1.4) – `v6.1.4` (📅 2025-07-30)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v6.1.4)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_123) – `version_123` (📅 2025-03-25)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_123)
 
 ## 🔹 Green-software
-- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
-  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.38.7) – `0.38.7` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.38.7)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
-- [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
-  🔗 [Release Notes](https://github.com/kube-green/kube-green/releases/tag/v0.7.1)
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
