@@ -7,22 +7,19 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.1.1) – `2.1.1` (📅 2025-07-10)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.1.1)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [bytecodealliance/vscode-wit](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.10) – `wit-idl-v0.3.10` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.10)
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.33.1) – `0.33.1` (📅 2025-08-15)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.33.1)
-- [grafbase/grafbase](https://github.com/grafbase/grafbase/releases/tag/grafbase-0.102.0) – `grafbase-0.102.0` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/grafbase/grafbase/releases/tag/grafbase-0.102.0)
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.182) – `v3.0.182` (📅 2025-08-11)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.182)
+- [topheman/webassembly-component-model-experiments](https://github.com/topheman/webassembly-component-model-experiments/releases/tag/pluginlab%400.4.2) – `pluginlab@0.4.2` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/topheman/webassembly-component-model-experiments/releases/tag/pluginlab%400.4.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
