@@ -7,8 +7,8 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [gamy703/titanic_machine_learning](https://github.com/gamy703/titanic_machine_learning/releases/tag/v3.1.7) – `v3.1.7` (📅 2025-05-15)  
-  🔗 [Release Notes](https://github.com/gamy703/titanic_machine_learning/releases/tag/v3.1.7)
+- [dwavesystems/dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.13.6) – `0.13.6` (📅 2025-06-12)  
+  🔗 [Release Notes](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.13.6)
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -17,15 +17,15 @@
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [masastack/MASA.Blazor](https://github.com/masastack/MASA.Blazor/releases/tag/1.10.4) – `1.10.4` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/masastack/MASA.Blazor/releases/tag/1.10.4)
-- [dylibso/chicory](https://github.com/dylibso/chicory/releases/tag/1.5.1) – `1.5.1` (📅 2025-07-07)  
-  🔗 [Release Notes](https://github.com/dylibso/chicory/releases/tag/1.5.1)
+- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.7.19) – `v1.7.19` (📅 2025-08-16)  
+  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.7.19)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
-- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.39.0) – `0.39.0` (📅 2025-08-17)  
-  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.39.0)
-- [genai-impact/ecologits](https://github.com/genai-impact/ecologits/releases/tag/0.8.2) – `0.8.2` (📅 2025-08-16)  
-  🔗 [Release Notes](https://github.com/genai-impact/ecologits/releases/tag/0.8.2)
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.39.1) – `0.39.1` (📅 2025-08-18)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.39.1)
