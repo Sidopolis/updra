@@ -3,26 +3,26 @@
 ## 🔹 Ai-ethics
 - [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- [hand-shinya/ai-augmented-dialectics-theory](https://github.com/hand-shinya/ai-augmented-dialectics-theory/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-08-19)  
+  🔗 [Release Notes](https://github.com/hand-shinya/ai-augmented-dialectics-theory/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
-  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
+- [dwavesystems/dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.13.6) – `0.13.6` (📅 2025-06-12)  
+  🔗 [Release Notes](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.13.6)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0)
-- [eclipse-zenoh/zenoh-plugin-dds](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.0)
+- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.4.2-beta) – `v0.4.2-beta` (📅 2025-06-20)  
+  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.4.2-beta)
+- [rainyl/mnn.dart](https://github.com/rainyl/mnn.dart/releases/tag/v0.0.3) – `v0.0.3` (📅 2025-07-10)  
+  🔗 [Release Notes](https://github.com/rainyl/mnn.dart/releases/tag/v0.0.3)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.3) – `@liam-hq/cli@0.7.3` (📅 2025-08-15)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.3)
-- [rainbowatcher/toml-edit-js](https://github.com/rainbowatcher/toml-edit-js/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/rainbowatcher/toml-edit-js/releases/tag/v0.6.0)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [ENQT-GmbH/remoc](https://github.com/ENQT-GmbH/remoc/releases/tag/v0.15.9) – `v0.15.9` (📅 2025-07-31)  
+  🔗 [Release Notes](https://github.com/ENQT-GmbH/remoc/releases/tag/v0.15.9)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
