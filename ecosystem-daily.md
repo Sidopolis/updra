@@ -1,4 +1,4 @@
-# 🌐 Ecosystem Daily Log – 2025-08-18
+# 🌐 Ecosystem Daily Log – 2025-08-19
 
 ## 🔹 Ai-ethics
 - [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
@@ -7,20 +7,22 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [dwavesystems/dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.13.6) – `0.13.6` (📅 2025-06-12)  
-  🔗 [Release Notes](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.13.6)
+- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
+  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0)
+- [eclipse-zenoh/zenoh-plugin-dds](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.0)
 
 ## 🔹 Webassembly
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.7.19) – `v1.7.19` (📅 2025-08-16)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.7.19)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.3) – `@liam-hq/cli@0.7.3` (📅 2025-08-15)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.3)
+- [rainbowatcher/toml-edit-js](https://github.com/rainbowatcher/toml-edit-js/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/rainbowatcher/toml-edit-js/releases/tag/v0.6.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
