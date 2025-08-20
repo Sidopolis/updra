@@ -1,4 +1,4 @@
-# 🌐 Ecosystem Daily Log – 2025-08-19
+# 🌐 Ecosystem Daily Log – 2025-08-20
 
 ## 🔹 Ai-ethics
 - [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
@@ -7,27 +7,23 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Sats2/NoisyCircuits](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-08-19)  
-  🔗 [Release Notes](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.0.0)
-- [GraphQuantum/SDiagonalizability.jl](https://github.com/GraphQuantum/SDiagonalizability.jl/releases/tag/v0.1.2) – `v0.1.2` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/GraphQuantum/SDiagonalizability.jl/releases/tag/v0.1.2)
+- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
+  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
+- [TuringQ/deepquantum](https://github.com/TuringQ/deepquantum/releases/tag/v4.3.0) – `v4.3.0` (📅 2025-06-11)  
+  🔗 [Release Notes](https://github.com/TuringQ/deepquantum/releases/tag/v4.3.0)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.17.0) – `v0.17.0` (📅 2025-08-04)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.17.0)
-- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4) – `v0.8.4` (📅 2025-05-22)  
-  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4)
+- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.68.3) – `v1.68.3` (📅 2025-07-29)  
+  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.68.3)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
-- [bytecodealliance/wac](https://github.com/bytecodealliance/wac/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-06-25)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wac/releases/tag/v0.7.0)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-29)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.3)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
-- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.39.5) – `0.39.5` (📅 2025-08-19)  
-  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.39.5)
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
