@@ -7,23 +7,27 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
-  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
-- [TuringQ/deepquantum](https://github.com/TuringQ/deepquantum/releases/tag/v4.3.0) – `v4.3.0` (📅 2025-06-11)  
-  🔗 [Release Notes](https://github.com/TuringQ/deepquantum/releases/tag/v4.3.0)
+- [munich-quantum-toolkit/qecc](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-03-14)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0)
+- [gamy703/titanic_machine_learning](https://github.com/gamy703/titanic_machine_learning/releases/tag/v3.1.7) – `v3.1.7` (📅 2025-05-15)  
+  🔗 [Release Notes](https://github.com/gamy703/titanic_machine_learning/releases/tag/v3.1.7)
 
 ## 🔹 Edge-computing
-- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.68.3) – `v1.68.3` (📅 2025-07-29)  
-  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.68.3)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.17.0) – `v0.17.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.17.0)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
+- [kubewarden/policy-server](https://github.com/kubewarden/policy-server/releases/tag/v1.27.0) – `v1.27.0` (📅 2025-07-28)  
+  🔗 [Release Notes](https://github.com/kubewarden/policy-server/releases/tag/v1.27.0)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.3) – `@liam-hq/cli@0.7.3` (📅 2025-08-15)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.3)
 
 ## 🔹 Green-software
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
-- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
-  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
