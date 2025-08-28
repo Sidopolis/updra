@@ -5,9 +5,7 @@ name: Daily Ecosystem Update
 
 on:
   schedule:
-    - cron: '30 0 * * *'
-    - cron: '30 8 * * *'
-    - cron: '30 16 * * *'
+    - cron: '40 * * * *'
     
   workflow_dispatch:
 
