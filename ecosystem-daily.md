@@ -4,24 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [TeamGraphix/graphix](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-08-18)  
-  🔗 [Release Notes](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.2)
-- [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning/releases/tag/v0.42.0) – `v0.42.0` (📅 2025-07-14)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane-lightning/releases/tag/v0.42.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-21)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc1) – `v0.2.25-rc1` (📅 2025-08-27)  
-  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc1)
 
 ## 🔹 Webassembly
-- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.25.0) – `v2.25.0` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.25.0)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.129) – `v0.8.129` (📅 2025-08-23)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.129)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-08-20)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.4)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
