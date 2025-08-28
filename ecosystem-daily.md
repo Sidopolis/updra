@@ -4,8 +4,6 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qBraid/qBraid](https://github.com/qBraid/qBraid/releases/tag/v0.9.8) – `v0.9.8` (📅 2025-07-22)  
-  🔗 [Release Notes](https://github.com/qBraid/qBraid/releases/tag/v0.9.8)
 - [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0) – `v2.0` (📅 2025-08-28)  
   🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0)
 
@@ -16,12 +14,12 @@
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.130) – `v0.8.130` (📅 2025-08-28)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.130)
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.10) – `v1.0.0-beta.10` (📅 2025-08-05)  
-  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.10)
-- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2) – `v1.8.2` (📅 2025-06-17)  
-  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_123) – `version_123` (📅 2025-03-25)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_123)
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch/releases/tag/v2.20.6) – `v2.20.6` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/unum-cloud/usearch/releases/tag/v2.20.6)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
