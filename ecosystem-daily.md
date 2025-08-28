@@ -4,17 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [leenathomas01/Quantum-Drift-Nexus](https://github.com/leenathomas01/Quantum-Drift-Nexus/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/leenathomas01/Quantum-Drift-Nexus/releases/tag/v0.2.0)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc1) – `v0.2.25-rc1` (📅 2025-08-27)  
+  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc1)
 
 ## 🔹 Webassembly
-- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2) – `v1.8.2` (📅 2025-06-17)  
-  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2)
-- [isaac-mason/recast-navigation-js](https://github.com/isaac-mason/recast-navigation-js/releases/tag/%40recast-navigation/playcanvas%400.42.0) – `@recast-navigation/playcanvas@0.42.0` (📅 2025-08-27)  
-  🔗 [Release Notes](https://github.com/isaac-mason/recast-navigation-js/releases/tag/%40recast-navigation/playcanvas%400.42.0)
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.4.1) – `0.4.1` (📅 2025-08-06)  
+  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.4.1)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.12.1) – `v1.12.1` (📅 2025-06-25)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.12.1)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
