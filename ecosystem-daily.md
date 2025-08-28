@@ -4,8 +4,10 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [tensorflow/quantum](https://github.com/tensorflow/quantum/releases/tag/v0.7.3) – `v0.7.3` (📅 2024-05-16)  
-  🔗 [Release Notes](https://github.com/tensorflow/quantum/releases/tag/v0.7.3)
+- [qBraid/qBraid](https://github.com/qBraid/qBraid/releases/tag/v0.9.8) – `v0.9.8` (📅 2025-07-22)  
+  🔗 [Release Notes](https://github.com/qBraid/qBraid/releases/tag/v0.9.8)
+- [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0) – `v2.0` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0)
 
 ## 🔹 Edge-computing
 - [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
@@ -14,10 +16,12 @@
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1)
 
 ## 🔹 Webassembly
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2) – `v36.0.2` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2)
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.130) – `v0.8.130` (📅 2025-08-28)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.130)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.10) – `v1.0.0-beta.10` (📅 2025-08-05)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.10)
+- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2) – `v1.8.2` (📅 2025-06-17)  
+  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
