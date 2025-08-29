@@ -4,8 +4,10 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0) – `v2.0` (📅 2025-08-28)  
-  🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0)
+- [GizzZmo/Face-Recon](https://github.com/GizzZmo/Face-Recon/releases/tag/1.0.0) – `1.0.0` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/GizzZmo/Face-Recon/releases/tag/1.0.0)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
 - [groundlight/edge-endpoint](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1) – `0.7.1` (📅 2025-06-11)  
@@ -16,10 +18,10 @@
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.7.1) – `2.7.1` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.7.1)
-- [use-ink/ink](https://github.com/use-ink/ink/releases/tag/v5.1.1) – `v5.1.1` (📅 2024-12-04)  
-  🔗 [Release Notes](https://github.com/use-ink/ink/releases/tag/v5.1.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.131) – `v0.8.131` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.131)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-08-14)  
