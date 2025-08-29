@@ -4,22 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
-- [leenathomas01/Quantum-Drift-Nexus](https://github.com/leenathomas01/Quantum-Drift-Nexus/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-08-28)  
-  🔗 [Release Notes](https://github.com/leenathomas01/Quantum-Drift-Nexus/releases/tag/v0.2.0)
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v1.124.1) – `v1.124.1` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v1.124.1)
+- [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0) – `v2.0` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0)
 
 ## 🔹 Edge-computing
 - [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc2) – `v0.2.25-rc2` (📅 2025-08-29)  
   🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc2)
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
+- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.1) – `v2.2.1` (📅 2025-07-22)  
+  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.1)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.8) – `@liam-hq/cli@0.7.8` (📅 2025-08-28)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.8)
+- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.2.29) – `6.2.29` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.2.29)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2) – `v36.0.2` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2)
+- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.25.0) – `v2.25.0` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.25.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
