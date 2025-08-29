@@ -4,26 +4,26 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/workflows](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.16.2) – `v1.16.2` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.16.2)
-- [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0) – `v2.0` (📅 2025-08-28)  
-  🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0)
+- [dwavesystems/dwave-system](https://github.com/dwavesystems/dwave-system/releases/tag/1.32.0) – `1.32.0` (📅 2025-06-05)  
+  🔗 [Release Notes](https://github.com/dwavesystems/dwave-system/releases/tag/1.32.0)
+- [cirKITers/qml-essentials](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.35) – `0.1.35` (📅 2025-07-29)  
+  🔗 [Release Notes](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.35)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
-- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0)
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.0)
 - [rulego/streamsql](https://github.com/rulego/streamsql/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-08-08)  
   🔗 [Release Notes](https://github.com/rulego/streamsql/releases/tag/v0.10.2)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [bytecodealliance/StarlingMonkey](https://github.com/bytecodealliance/StarlingMonkey/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-08-06)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/StarlingMonkey/releases/tag/v0.1.0)
-- [dylibso/chicory](https://github.com/dylibso/chicory/releases/tag/1.5.1) – `1.5.1` (📅 2025-07-07)  
-  🔗 [Release Notes](https://github.com/dylibso/chicory/releases/tag/1.5.1)
-- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/11.0.0) – `11.0.0` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/11.0.0)
+- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2) – `v1.8.2` (📅 2025-06-17)  
+  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2)
+- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.6.0) – `v1.6.0` (📅 2025-07-11)  
+  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.6.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-08-20)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.4)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-08-14)  
