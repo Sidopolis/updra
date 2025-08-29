@@ -4,20 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0) – `v2.0` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0)
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.0.0) – `v6.0.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.0.0)
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc2) – `v0.2.25-rc2` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc2)
+- [rulego/streamsql](https://github.com/rulego/streamsql/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-08-08)  
+  🔗 [Release Notes](https://github.com/rulego/streamsql/releases/tag/v0.10.2)
+- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1) – `v0.32.1` (📅 2025-05-07)  
+  🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1)
 
 ## 🔹 Webassembly
-- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript/releases/tag/v0.28.4) – `v0.28.4` (📅 2025-08-06)  
-  🔗 [Release Notes](https://github.com/AssemblyScript/assemblyscript/releases/tag/v0.28.4)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.4)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.8) – `@liam-hq/cli@0.7.8` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.8)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
