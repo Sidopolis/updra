@@ -4,24 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qiskit-community/spank-plugins](https://github.com/qiskit-community/spank-plugins/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-08-27)  
-  🔗 [Release Notes](https://github.com/qiskit-community/spank-plugins/releases/tag/v0.2.0)
-- [GizzZmo/Face-Recon](https://github.com/GizzZmo/Face-Recon/releases/tag/blockchain) – `blockchain` (📅 2025-04-19)  
-  🔗 [Release Notes](https://github.com/GizzZmo/Face-Recon/releases/tag/blockchain)
+- [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0) – `v2.0` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
+- [rulego/streamsql](https://github.com/rulego/streamsql/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-08-08)  
+  🔗 [Release Notes](https://github.com/rulego/streamsql/releases/tag/v0.10.2)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.131) – `v0.8.131` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.131)
-- [arianrhodsandlot/nostalgist](https://github.com/arianrhodsandlot/nostalgist/releases/tag/v0.17.0) – `v0.17.0` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/arianrhodsandlot/nostalgist/releases/tag/v0.17.0)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.4)
+- [ENQT-GmbH/remoc](https://github.com/ENQT-GmbH/remoc/releases/tag/v0.16.1) – `v0.16.1` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/ENQT-GmbH/remoc/releases/tag/v0.16.1)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-08-14)  
