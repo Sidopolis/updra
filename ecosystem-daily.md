@@ -4,26 +4,28 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.90) – `v0.0.90` (📅 2025-08-28)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.90)
-- [qiboteam/qibotn](https://github.com/qiboteam/qibotn/releases/tag/v0.0.5) – `v0.0.5` (📅 2025-06-20)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibotn/releases/tag/v0.0.5)
+- [quantum-mob/Q3](https://github.com/quantum-mob/Q3/releases/tag/v4.2.6) – `v4.2.6` (📅 2025-07-05)  
+  🔗 [Release Notes](https://github.com/quantum-mob/Q3/releases/tag/v4.2.6)
+- [m-labs/artiq](https://github.com/m-labs/artiq/releases/tag/8.0) – `8.0` (📅 2024-06-06)  
+  🔗 [Release Notes](https://github.com/m-labs/artiq/releases/tag/8.0)
+- [pasqal-io/Pulser](https://github.com/pasqal-io/Pulser/releases/tag/v1.5.5) – `v1.5.5` (📅 2025-07-17)  
+  🔗 [Release Notes](https://github.com/pasqal-io/Pulser/releases/tag/v1.5.5)
 
 ## 🔹 Edge-computing
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4) – `v0.8.4` (📅 2025-05-22)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4)
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.1) – `v2.2.1` (📅 2025-07-22)  
   🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.1)
 - [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.69.4) – `v1.69.4` (📅 2025-08-28)  
   🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.69.4)
-- [rulego/streamsql](https://github.com/rulego/streamsql/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-08-08)  
-  🔗 [Release Notes](https://github.com/rulego/streamsql/releases/tag/v0.10.2)
 
 ## 🔹 Webassembly
-- [wa-lang/wa-lang-cn.github.io](https://github.com/wa-lang/wa-lang-cn.github.io/releases/tag/v1.0.0) – `v1.0.0` (📅 2022-10-30)  
-  🔗 [Release Notes](https://github.com/wa-lang/wa-lang-cn.github.io/releases/tag/v1.0.0)
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.8) – `@liam-hq/cli@0.7.8` (📅 2025-08-28)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.8)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.130) – `v0.8.130` (📅 2025-08-28)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.130)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2) – `v1.8.2` (📅 2025-06-17)  
+  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.12.1) – `v1.12.1` (📅 2025-06-25)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.12.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
