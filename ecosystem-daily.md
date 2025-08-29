@@ -6,16 +6,18 @@
 ## 🔹 Quantum-computing
 - [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0) – `v2.0` (📅 2025-08-28)  
   🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/v2.0)
+- [YounesAlias02/awesome-QAI-Papers-QNN-QRNN](https://github.com/YounesAlias02/awesome-QAI-Papers-QNN-QRNN/releases/tag/v1.3) – `v1.3` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/YounesAlias02/awesome-QAI-Papers-QNN-QRNN/releases/tag/v1.3)
 
 ## 🔹 Edge-computing
-- [rulego/streamsql](https://github.com/rulego/streamsql/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-08-08)  
-  🔗 [Release Notes](https://github.com/rulego/streamsql/releases/tag/v0.10.2)
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [ENQT-GmbH/remoc](https://github.com/ENQT-GmbH/remoc/releases/tag/v0.16.1) – `v0.16.1` (📅 2025-08-28)  
-  🔗 [Release Notes](https://github.com/ENQT-GmbH/remoc/releases/tag/v0.16.1)
+- [kubewarden/kwctl](https://github.com/kubewarden/kwctl/releases/tag/v1.28.0) – `v1.28.0` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/kubewarden/kwctl/releases/tag/v1.28.0)
+- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v1.250801.0400) – `v1.250801.0400` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v1.250801.0400)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-08-14)  
