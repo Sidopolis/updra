@@ -4,22 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/Scopulipedes) – `Scopulipedes` (📅 2025-08-30)  
-  🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/Scopulipedes)
 - [YounesAlias02/awesome-QAI-Papers-QNN-QRNN](https://github.com/YounesAlias02/awesome-QAI-Papers-QNN-QRNN/releases/tag/v1.3) – `v1.3` (📅 2025-08-29)  
   🔗 [Release Notes](https://github.com/YounesAlias02/awesome-QAI-Papers-QNN-QRNN/releases/tag/v1.3)
+- [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/Scopulipedes) – `Scopulipedes` (📅 2025-08-30)  
+  🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/Scopulipedes)
 
 ## 🔹 Edge-computing
 - [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.0.0) – `v6.0.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.0.0)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
-- [use-ink/ink](https://github.com/use-ink/ink/releases/tag/v5.1.1) – `v5.1.1` (📅 2024-12-04)  
-  🔗 [Release Notes](https://github.com/use-ink/ink/releases/tag/v5.1.1)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v6.1.5) – `v6.1.5` (📅 2025-08-17)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v6.1.5)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [rhaiscript/rhai](https://github.com/rhaiscript/rhai/releases/tag/v1.22.0) – `v1.22.0` (📅 2025-05-30)  
+  🔗 [Release Notes](https://github.com/rhaiscript/rhai/releases/tag/v1.22.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
