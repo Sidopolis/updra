@@ -4,20 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [pyRiemann/pyRiemann-qiskit](https://github.com/pyRiemann/pyRiemann-qiskit/releases/tag/v0.4.1) – `v0.4.1` (📅 2025-03-01)  
-  🔗 [Release Notes](https://github.com/pyRiemann/pyRiemann-qiskit/releases/tag/v0.4.1)
-- [YounesAlias02/awesome-QAI-Papers-QNN-QRNN](https://github.com/YounesAlias02/awesome-QAI-Papers-QNN-QRNN/releases/tag/v3.7-beta.2) – `v3.7-beta.2` (📅 2025-08-30)  
-  🔗 [Release Notes](https://github.com/YounesAlias02/awesome-QAI-Papers-QNN-QRNN/releases/tag/v3.7-beta.2)
-- [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/Scopulipedes) – `Scopulipedes` (📅 2025-08-30)  
-  🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/Scopulipedes)
+- [glassnotes/CPEN-400Q](https://github.com/glassnotes/CPEN-400Q/releases/tag/v4-W2025) – `v4-W2025` (📅 2025-08-30)  
+  🔗 [Release Notes](https://github.com/glassnotes/CPEN-400Q/releases/tag/v4-W2025)
+- [sandialabs/pyGSTi](https://github.com/sandialabs/pyGSTi/releases/tag/v0.9.14.1) – `v0.9.14.1` (📅 2025-08-30)  
+  🔗 [Release Notes](https://github.com/sandialabs/pyGSTi/releases/tag/v0.9.14.1)
 
 ## 🔹 Edge-computing
 - [garyblankenship/gist-blog](https://github.com/garyblankenship/gist-blog/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-08-30)  
   🔗 [Release Notes](https://github.com/garyblankenship/gist-blog/releases/tag/v2.1.0)
 
 ## 🔹 Webassembly
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.6.0) – `v1.6.0` (📅 2025-07-11)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.6.0)
+- [aduros/wasm4](https://github.com/aduros/wasm4/releases/tag/v2.7.1) – `v2.7.1` (📅 2024-12-13)  
+  🔗 [Release Notes](https://github.com/aduros/wasm4/releases/tag/v2.7.1)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
