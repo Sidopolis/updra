@@ -14,8 +14,8 @@
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.4.1) – `0.4.1` (📅 2025-08-06)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.4.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-08-20)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.4)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
