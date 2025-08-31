@@ -10,14 +10,14 @@
   🔗 [Release Notes](https://github.com/YounesAlias02/awesome-QAI-Papers-QNN-QRNN/releases/tag/v3.7-beta.2)
 
 ## 🔹 Edge-computing
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.32.0) – `v0.32.0` (📅 2025-07-10)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.32.0)
+- [bambooww/iot-tree](https://github.com/bambooww/iot-tree/releases/tag/1.7.6) – `1.7.6` (📅 2025-07-19)  
+  🔗 [Release Notes](https://github.com/bambooww/iot-tree/releases/tag/1.7.6)
+- [stefanoamorelli/n8n-pi](https://github.com/stefanoamorelli/n8n-pi/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-08-31)  
+  🔗 [Release Notes](https://github.com/stefanoamorelli/n8n-pi/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.8) – `@liam-hq/cli@0.7.8` (📅 2025-08-28)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.8)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
+- [kubewarden/deprecated-api-versions-policy](https://github.com/kubewarden/deprecated-api-versions-policy/releases/tag/v1.0.4) – `v1.0.4` (📅 2025-08-13)  
+  🔗 [Release Notes](https://github.com/kubewarden/deprecated-api-versions-policy/releases/tag/v1.0.4)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
