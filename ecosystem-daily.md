@@ -14,12 +14,7 @@
   🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.0.0)
 
 ## 🔹 Webassembly
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.7.0) – `v1.7.0` (📅 2025-08-31)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.7.0)
-- [gluesql/gluesql](https://github.com/gluesql/gluesql/releases/tag/v0.17.0) – `v0.17.0` (📅 2025-06-21)  
-  🔗 [Release Notes](https://github.com/gluesql/gluesql/releases/tag/v0.17.0)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
