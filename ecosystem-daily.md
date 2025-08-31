@@ -6,8 +6,8 @@
 ## 🔹 Quantum-computing
 - [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
   🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
-  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
+- [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/Scopulipedes) – `Scopulipedes` (📅 2025-08-30)  
+  🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/Scopulipedes)
 
 ## 🔹 Edge-computing
 - [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.32.0) – `v0.32.0` (📅 2025-07-10)  
@@ -16,10 +16,10 @@
   🔗 [Release Notes](https://github.com/garyblankenship/gist-blog/releases/tag/v2.1.0)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.4.1) – `0.4.1` (📅 2025-08-06)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.4.1)
+- [rhaiscript/rhai](https://github.com/rhaiscript/rhai/releases/tag/v1.22.0) – `v1.22.0` (📅 2025-05-30)  
+  🔗 [Release Notes](https://github.com/rhaiscript/rhai/releases/tag/v1.22.0)
+- [StevenSYS/BlockBreak](https://github.com/StevenSYS/BlockBreak/releases/tag/v1.1) – `v1.1` (📅 2025-04-22)  
+  🔗 [Release Notes](https://github.com/StevenSYS/BlockBreak/releases/tag/v1.1)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
