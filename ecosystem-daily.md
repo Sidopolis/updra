@@ -4,8 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
 - [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/Scopulipedes) – `Scopulipedes` (📅 2025-08-30)  
   🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/Scopulipedes)
 
@@ -16,10 +16,12 @@
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os/releases/tag/v1.10.0) – `v1.10.0` (📅 2025-03-07)  
-  🔗 [Release Notes](https://github.com/plbrault/youre-the-os/releases/tag/v1.10.0)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.131) – `v0.8.131` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.131)
+- [kubewarden/kwctl](https://github.com/kubewarden/kwctl/releases/tag/v1.28.1) – `v1.28.1` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/kubewarden/kwctl/releases/tag/v1.28.1)
+- [kubewarden/volumeMounts-policy](https://github.com/kubewarden/volumeMounts-policy/releases/tag/v1.0.4) – `v1.0.4` (📅 2025-08-15)  
+  🔗 [Release Notes](https://github.com/kubewarden/volumeMounts-policy/releases/tag/v1.0.4)
+- [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.28.0) – `v1.28.0` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.28.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
