@@ -5,22 +5,22 @@
   🔗 [Release Notes](https://github.com/aloth/JudgeGPT/releases/tag/v1.0.2)
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/bench](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.0.1) – `v2.0.1` (📅 2025-07-28)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.0.1)
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v1.26.1) – `v1.26.1` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v1.26.1)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
-- [Arakiss/nexlog](https://github.com/Arakiss/nexlog/releases/tag/v5.1.0) – `v5.1.0` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/Arakiss/nexlog/releases/tag/v5.1.0)
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.0)
+- [Arakiss/nexlog](https://github.com/Arakiss/nexlog/releases/tag/v5.2.1) – `v5.2.1` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/Arakiss/nexlog/releases/tag/v5.2.1)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [Wasted-Audio/hvcc](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.13.4) – `v0.13.4` (📅 2025-04-21)  
-  🔗 [Release Notes](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.13.4)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-08-20)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.4)
+- [havit/Havit.Blazor](https://github.com/havit/Havit.Blazor/releases/tag/v4.13.0) – `v4.13.0` (📅 2025-08-03)  
+  🔗 [Release Notes](https://github.com/havit/Havit.Blazor/releases/tag/v4.13.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
