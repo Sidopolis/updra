@@ -5,8 +5,8 @@
   🔗 [Release Notes](https://github.com/aloth/JudgeGPT/releases/tag/v1.0.2)
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [pyRiemann/pyRiemann-qiskit](https://github.com/pyRiemann/pyRiemann-qiskit/releases/tag/v0.4.1) – `v0.4.1` (📅 2025-03-01)  
+  🔗 [Release Notes](https://github.com/pyRiemann/pyRiemann-qiskit/releases/tag/v0.4.1)
 
 ## 🔹 Edge-computing
 - [Arakiss/nexlog](https://github.com/Arakiss/nexlog/releases/tag/v5.2.1) – `v5.2.1` (📅 2025-09-01)  
@@ -15,12 +15,10 @@
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.4)
-- [havit/Havit.Blazor](https://github.com/havit/Havit.Blazor/releases/tag/v4.13.0) – `v4.13.0` (📅 2025-08-03)  
-  🔗 [Release Notes](https://github.com/havit/Havit.Blazor/releases/tag/v4.13.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
