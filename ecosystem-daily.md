@@ -4,22 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [amachino/qubex](https://github.com/amachino/qubex/releases/tag/v1.4.1) – `v1.4.1` (📅 2025-08-31)  
-  🔗 [Release Notes](https://github.com/amachino/qubex/releases/tag/v1.4.1)
+- [QuantumSavory/QuantumSavory.jl](https://github.com/QuantumSavory/QuantumSavory.jl/releases/tag/v0.5.1) – `v0.5.1` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/QuantumSavory/QuantumSavory.jl/releases/tag/v0.5.1)
+- [qutech/filter_functions](https://github.com/qutech/filter_functions/releases/tag/v1.1.3) – `v1.1.3` (📅 2024-05-14)  
+  🔗 [Release Notes](https://github.com/qutech/filter_functions/releases/tag/v1.1.3)
 
 ## 🔹 Edge-computing
-- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0) – `v1.5.0` (📅 2023-06-15)  
-  🔗 [Release Notes](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0)
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.32.0) – `v0.32.0` (📅 2025-07-10)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.32.0)
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0)
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.0)
 
 ## 🔹 Webassembly
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.10.0) – `v9.10.0` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.10.0)
-- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2) – `v1.8.2` (📅 2025-06-17)  
-  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.8.2)
+- [epam/Indigo](https://github.com/epam/Indigo/releases/tag/indigo-1.34.0) – `indigo-1.34.0` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/epam/Indigo/releases/tag/indigo-1.34.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
