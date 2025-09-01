@@ -4,20 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
+- [munich-quantum-toolkit/qmap](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.3.1) – `v3.3.1` (📅 2025-08-07)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.3.1)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v1.26.0) – `v1.26.0` (📅 2025-08-31)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v1.26.0)
 - [QuantumSavory/QuantumSavory.jl](https://github.com/QuantumSavory/QuantumSavory.jl/releases/tag/v0.5.1) – `v0.5.1` (📅 2025-07-15)  
   🔗 [Release Notes](https://github.com/QuantumSavory/QuantumSavory.jl/releases/tag/v0.5.1)
-- [qutech/filter_functions](https://github.com/qutech/filter_functions/releases/tag/v1.1.3) – `v1.1.3` (📅 2024-05-14)  
-  🔗 [Release Notes](https://github.com/qutech/filter_functions/releases/tag/v1.1.3)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
 - [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
   🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.0)
 
 ## 🔹 Webassembly
-- [epam/Indigo](https://github.com/epam/Indigo/releases/tag/indigo-1.34.0) – `indigo-1.34.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/epam/Indigo/releases/tag/indigo-1.34.0)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
 
