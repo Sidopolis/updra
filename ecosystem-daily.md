@@ -6,8 +6,6 @@
 ## 🔹 Quantum-computing
 - [Nogueira2023/awesome-QAI-Papers-QComputing](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/Scopulipedes) – `Scopulipedes` (📅 2025-08-30)  
   🔗 [Release Notes](https://github.com/Nogueira2023/awesome-QAI-Papers-QComputing/releases/tag/Scopulipedes)
-- [YounesAlias02/awesome-QAI-Papers-QNN-QRNN](https://github.com/YounesAlias02/awesome-QAI-Papers-QNN-QRNN/releases/tag/v3.7-beta.2) – `v3.7-beta.2` (📅 2025-08-30)  
-  🔗 [Release Notes](https://github.com/YounesAlias02/awesome-QAI-Papers-QNN-QRNN/releases/tag/v3.7-beta.2)
 
 ## 🔹 Edge-computing
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.0.0) – `v6.0.0` (📅 2025-08-21)  
@@ -18,10 +16,10 @@
   🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc2)
 
 ## 🔹 Webassembly
-- [danieletorelli/golem-x](https://github.com/danieletorelli/golem-x/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-01-24)  
-  🔗 [Release Notes](https://github.com/danieletorelli/golem-x/releases/tag/v2.1.0)
-- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.4) – `v4.1.4` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.4)
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd/releases/tag/v1.10.4) – `v1.10.4` (📅 2025-05-26)  
+  🔗 [Release Notes](https://github.com/gkd-kit/gkd/releases/tag/v1.10.4)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.8) – `@liam-hq/cli@0.7.8` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.8)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
