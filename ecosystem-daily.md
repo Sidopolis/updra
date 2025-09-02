@@ -5,20 +5,24 @@
   🔗 [Release Notes](https://github.com/BrinkmannB/AIF360/releases/tag/v0.1.0)
 
 ## 🔹 Quantum-computing
-- [quantum-mob/Q3](https://github.com/quantum-mob/Q3/releases/tag/v4.2.6) – `v4.2.6` (📅 2025-07-05)  
-  🔗 [Release Notes](https://github.com/quantum-mob/Q3/releases/tag/v4.2.6)
+- [unitaryfoundation/metriq-gym](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.3.1) – `v0.3.1` (📅 2025-08-15)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.3.1)
 - [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
   🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
 
 ## 🔹 Edge-computing
+- [open-horizon/devops](https://github.com/open-horizon/devops/releases/tag/v2.26.12) – `v2.26.12` (📅 2020-07-04)  
+  🔗 [Release Notes](https://github.com/open-horizon/devops/releases/tag/v2.26.12)
 - [open-horizon/anax](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1727) – `v2.32.0-1727` (📅 2025-08-13)  
   🔗 [Release Notes](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1727)
 
 ## 🔹 Webassembly
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2) – `v36.0.2` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [use-ink/ink](https://github.com/use-ink/ink/releases/tag/v5.1.1) – `v5.1.1` (📅 2024-12-04)  
+  🔗 [Release Notes](https://github.com/use-ink/ink/releases/tag/v5.1.1)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.60.0) – `v0.60.0` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.60.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
