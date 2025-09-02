@@ -8,12 +8,14 @@
   🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.2.0)
 
 ## 🔹 Edge-computing
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
+- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.32.0) – `v0.32.0` (📅 2025-07-10)  
+  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.32.0)
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4) – `v0.8.4` (📅 2025-05-22)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.4)
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.4.1) – `0.4.1` (📅 2025-08-06)  
+  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.4.1)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
