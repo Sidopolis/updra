@@ -5,26 +5,22 @@
   🔗 [Release Notes](https://github.com/BrinkmannB/AIF360/releases/tag/v0.1.0)
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
-- [quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion/releases/tag/v1.7.1) – `v1.7.1` (📅 2025-06-06)  
-  🔗 [Release Notes](https://github.com/quantumlib/OpenFermion/releases/tag/v1.7.1)
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1)
 
 ## 🔹 Edge-computing
+- [Data-to-Insight-Center/cyberinfrastructure-knowledge-network](https://github.com/Data-to-Insight-Center/cyberinfrastructure-knowledge-network/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-06-14)  
+  🔗 [Release Notes](https://github.com/Data-to-Insight-Center/cyberinfrastructure-knowledge-network/releases/tag/v0.2.0)
 - [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
   🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0)
 
 ## 🔹 Webassembly
-- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/cloudflare/workers-rs/releases/tag/v0.6.1)
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.10) – `v1.0.0-beta.10` (📅 2025-08-05)  
-  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.10)
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.7.0) – `v1.7.0` (📅 2025-08-31)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.7.0)
+- [pyodide/micropip](https://github.com/pyodide/micropip/releases/tag/0.10.1) – `0.10.1` (📅 2025-07-05)  
+  🔗 [Release Notes](https://github.com/pyodide/micropip/releases/tag/0.10.1)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.60.0) – `v0.60.0` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.60.0)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2) – `v36.0.2` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
