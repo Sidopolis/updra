@@ -4,20 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [pasqal-io/Pulser](https://github.com/pasqal-io/Pulser/releases/tag/v1.5.6) – `v1.5.6` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/pasqal-io/Pulser/releases/tag/v1.5.6)
+- [LordSaumya/quant-iron](https://github.com/LordSaumya/quant-iron/releases/tag/v1.4.2) – `v1.4.2` (📅 2025-08-13)  
+  🔗 [Release Notes](https://github.com/LordSaumya/quant-iron/releases/tag/v1.4.2)
+- [tencent-quantum-lab/tensorcircuit](https://github.com/tencent-quantum-lab/tensorcircuit/releases/tag/v0.12.0) – `v0.12.0` (📅 2024-03-15)  
+  🔗 [Release Notes](https://github.com/tencent-quantum-lab/tensorcircuit/releases/tag/v0.12.0)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0)
-- [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-02-05)  
-  🔗 [Release Notes](https://github.com/turing-machines/BMC-Firmware/releases/tag/v2.1.0)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [kubewarden/kwctl](https://github.com/kubewarden/kwctl/releases/tag/v1.28.1) – `v1.28.1` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/kubewarden/kwctl/releases/tag/v1.28.1)
-- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.1) – `WAMR-2.4.1` (📅 2025-07-28)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.1)
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql/releases/tag/libsql-server-v0.24.32) – `libsql-server-v0.24.32` (📅 2025-02-14)  
+  🔗 [Release Notes](https://github.com/tursodatabase/libsql/releases/tag/libsql-server-v0.24.32)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-08-20)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.4)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
