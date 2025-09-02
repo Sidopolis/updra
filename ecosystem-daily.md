@@ -5,20 +5,20 @@
   🔗 [Release Notes](https://github.com/BrinkmannB/AIF360/releases/tag/v0.1.0)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [dwavesystems/dwave-system](https://github.com/dwavesystems/dwave-system/releases/tag/1.32.0) – `1.32.0` (📅 2025-06-05)  
+  🔗 [Release Notes](https://github.com/dwavesystems/dwave-system/releases/tag/1.32.0)
+- [Budapest-Quantum-Computing-Group/piquasso](https://github.com/Budapest-Quantum-Computing-Group/piquasso/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-07-02)  
+  🔗 [Release Notes](https://github.com/Budapest-Quantum-Computing-Group/piquasso/releases/tag/v6.1.0)
 
 ## 🔹 Edge-computing
-- [Data-to-Insight-Center/cyberinfrastructure-knowledge-network](https://github.com/Data-to-Insight-Center/cyberinfrastructure-knowledge-network/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-06-14)  
-  🔗 [Release Notes](https://github.com/Data-to-Insight-Center/cyberinfrastructure-knowledge-network/releases/tag/v0.2.0)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1)
 
 ## 🔹 Webassembly
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.2.58) – `6.2.58` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.2.58)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_123) – `version_123` (📅 2025-03-25)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_123)
-- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.27.0) – `v2.27.0` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.27.0)
+- [wasimoff/wasimoff](https://github.com/wasimoff/wasimoff/releases/tag/starless24-artifact-amend-docker) – `starless24-artifact-amend-docker` (📅 2024-02-08)  
+  🔗 [Release Notes](https://github.com/wasimoff/wasimoff/releases/tag/starless24-artifact-amend-docker)
+- [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.238.1) – `v1.238.1` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.238.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
