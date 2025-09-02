@@ -4,21 +4,25 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
 - [LordSaumya/quant-iron](https://github.com/LordSaumya/quant-iron/releases/tag/v1.4.2) – `v1.4.2` (📅 2025-08-13)  
   🔗 [Release Notes](https://github.com/LordSaumya/quant-iron/releases/tag/v1.4.2)
-- [quantumlib/ReCirq](https://github.com/quantumlib/ReCirq/releases/tag/v2020-10) – `v2020-10` (📅 2020-10-15)  
-  🔗 [Release Notes](https://github.com/quantumlib/ReCirq/releases/tag/v2020-10)
 
 ## 🔹 Edge-computing
-- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.1) – `v2.2.1` (📅 2025-07-22)  
-  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.1)
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc3) – `v0.2.25-rc3` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc3)
-- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.0)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
+- [msqr1/Vosklet](https://github.com/msqr1/Vosklet/releases/tag/1.2.1) – `1.2.1` (📅 2024-10-14)  
+  🔗 [Release Notes](https://github.com/msqr1/Vosklet/releases/tag/1.2.1)
 
 ## 🔹 Green-software
-- No recent releases found.
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3)
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
