@@ -4,18 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qcec](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.2.0) – `v3.2.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.2.0)
+- [pasqal-io/Pulser](https://github.com/pasqal-io/Pulser/releases/tag/v1.5.6) – `v1.5.6` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/pasqal-io/Pulser/releases/tag/v1.5.6)
 
 ## 🔹 Edge-computing
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.32.0) – `v0.32.0` (📅 2025-07-10)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.32.0)
-- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4) – `v0.8.4` (📅 2025-05-22)  
-  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4)
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0)
+- [turing-machines/BMC-Firmware](https://github.com/turing-machines/BMC-Firmware/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-02-05)  
+  🔗 [Release Notes](https://github.com/turing-machines/BMC-Firmware/releases/tag/v2.1.0)
 
 ## 🔹 Webassembly
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.4.1) – `0.4.1` (📅 2025-08-06)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.4.1)
+- [kubewarden/kwctl](https://github.com/kubewarden/kwctl/releases/tag/v1.28.1) – `v1.28.1` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/kubewarden/kwctl/releases/tag/v1.28.1)
+- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.1) – `WAMR-2.4.1` (📅 2025-07-28)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.1)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.40.3) – `0.40.3` (📅 2025-08-28)  
