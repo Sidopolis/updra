@@ -4,22 +4,26 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
-  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
+- [GraphQuantum/SDiagonalizability.jl](https://github.com/GraphQuantum/SDiagonalizability.jl/releases/tag/v0.1.2) – `v0.1.2` (📅 2025-08-13)  
+  🔗 [Release Notes](https://github.com/GraphQuantum/SDiagonalizability.jl/releases/tag/v0.1.2)
+- [tensorcircuit/tensorcircuit-ng](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-07-26)  
+  🔗 [Release Notes](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.3.0)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0)
-- [eclipse-zenoh/zenoh-plugin-dds](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.0)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.0)
+- [lfedgeai/SPEAR](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4) – `v0.0.4` (📅 2025-07-08)  
+  🔗 [Release Notes](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4)
 
 ## 🔹 Webassembly
-- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.27.0) – `v2.27.0` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.27.0)
-- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.21) – `v3.3.21` (📅 2025-06-19)  
-  🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.21)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.2.58) – `6.2.58` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.2.58)
 - [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.9) – `@liam-hq/cli@0.7.9` (📅 2025-09-02)  
   🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.9)
+- [goplus/xgolsw](https://github.com/goplus/xgolsw/releases/tag/v0.11.0) – `v0.11.0` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/goplus/xgolsw/releases/tag/v0.11.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
