@@ -4,22 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [dwavesystems/dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.13.6) – `0.13.6` (📅 2025-06-12)  
-  🔗 [Release Notes](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.13.6)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.1.2) – `2.1.2` (📅 2025-08-19)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.1.2)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.0)
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0)
+- [open-horizon/exchange-api](https://github.com/open-horizon/exchange-api/releases/tag/v2.87.0) – `v2.87.0` (📅 2021-09-13)  
+  🔗 [Release Notes](https://github.com/open-horizon/exchange-api/releases/tag/v2.87.0)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.4)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [grafbase/grafbase](https://github.com/grafbase/grafbase/releases/tag/gateway-0.48.1) – `gateway-0.48.1` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/grafbase/grafbase/releases/tag/gateway-0.48.1)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
