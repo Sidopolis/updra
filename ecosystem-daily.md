@@ -4,22 +4,24 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
+- [CQCL/tket](https://github.com/CQCL/tket/releases/tag/v2.9.2) – `v2.9.2` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/CQCL/tket/releases/tag/v2.9.2)
+- [cirKITers/qml-essentials](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.36) – `0.1.36` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.36)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.0)
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.0)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.186) – `v3.0.186` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.186)
-- [grafbase/grafbase](https://github.com/grafbase/grafbase/releases/tag/gateway-0.48.1) – `gateway-0.48.1` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/grafbase/grafbase/releases/tag/gateway-0.48.1)
+- [SWI-Prolog/npm-swipl-wasm](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v5.1.0) – `v5.1.0` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v5.1.0)
+- [topheman/webassembly-component-model-experiments](https://github.com/topheman/webassembly-component-model-experiments/releases/tag/pluginlab%400.5.2) – `pluginlab@0.5.2` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/topheman/webassembly-component-model-experiments/releases/tag/pluginlab%400.5.2)
+- [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/kubewarden/container-resources-policy/releases/tag/v1.1.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
