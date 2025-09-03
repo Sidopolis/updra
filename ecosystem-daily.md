@@ -4,24 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [CQCL/tket](https://github.com/CQCL/tket/releases/tag/v2.9.2) – `v2.9.2` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/CQCL/tket/releases/tag/v2.9.2)
-- [cirKITers/qml-essentials](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.36) – `0.1.36` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.36)
+- [Budapest-Quantum-Computing-Group/piquasso](https://github.com/Budapest-Quantum-Computing-Group/piquasso/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/Budapest-Quantum-Computing-Group/piquasso/releases/tag/v6.2.0)
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
+- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1) – `v0.32.1` (📅 2025-05-07)  
+  🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [SWI-Prolog/npm-swipl-wasm](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v5.1.0) – `v5.1.0` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v5.1.0)
-- [topheman/webassembly-component-model-experiments](https://github.com/topheman/webassembly-component-model-experiments/releases/tag/pluginlab%400.5.2) – `pluginlab@0.5.2` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/topheman/webassembly-component-model-experiments/releases/tag/pluginlab%400.5.2)
-- [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/kubewarden/container-resources-policy/releases/tag/v1.1.0)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.10) – `v1.0.0-beta.10` (📅 2025-08-05)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.10)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.7.1) – `2.7.1` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.7.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
