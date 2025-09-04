@@ -4,17 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning/releases/tag/v0.42.0) – `v0.42.0` (📅 2025-07-14)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane-lightning/releases/tag/v0.42.0)
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.1.2) – `2.1.2` (📅 2025-08-19)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.1.2)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta) – `v0.4.4-beta` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1)
 
 ## 🔹 Webassembly
-- [denoland/deno_graph](https://github.com/denoland/deno_graph/releases/tag/0.100.0) – `0.100.0` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/denoland/deno_graph/releases/tag/0.100.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [xplpc/xplpc](https://github.com/xplpc/xplpc/releases/tag/main-4c09316) – `main-4c09316` (📅 2025-08-30)  
+  🔗 [Release Notes](https://github.com/xplpc/xplpc/releases/tag/main-4c09316)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
