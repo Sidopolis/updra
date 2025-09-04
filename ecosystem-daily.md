@@ -4,8 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qiboteam/qibolab](https://github.com/qiboteam/qibolab/releases/tag/v0.2.9) – `v0.2.9` (📅 2025-08-22)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibolab/releases/tag/v0.2.9)
+- [LordSaumya/quant-iron](https://github.com/LordSaumya/quant-iron/releases/tag/v1.4.2) – `v1.4.2` (📅 2025-08-13)  
+  🔗 [Release Notes](https://github.com/LordSaumya/quant-iron/releases/tag/v1.4.2)
 
 ## 🔹 Edge-computing
 - [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
@@ -14,10 +14,10 @@
   🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [kubewarden/persistentvolumeclaim-storageclass-policy](https://github.com/kubewarden/persistentvolumeclaim-storageclass-policy/releases/tag/v1.0.4) – `v1.0.4` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/kubewarden/persistentvolumeclaim-storageclass-policy/releases/tag/v1.0.4)
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.378) – `v3.0.378` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.378)
+- [grafbase/grafbase](https://github.com/grafbase/grafbase/releases/tag/grafbase-0.102.3) – `grafbase-0.102.3` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/grafbase/grafbase/releases/tag/grafbase-0.102.3)
+- [CosmWasm/wasmd](https://github.com/CosmWasm/wasmd/releases/tag/v0.61.4) – `v0.61.4` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/CosmWasm/wasmd/releases/tag/v0.61.4)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
