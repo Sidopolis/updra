@@ -4,22 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qutech/filter_functions](https://github.com/qutech/filter_functions/releases/tag/v1.1.3) – `v1.1.3` (📅 2024-05-14)  
-  🔗 [Release Notes](https://github.com/qutech/filter_functions/releases/tag/v1.1.3)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
+- [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning/releases/tag/v0.42.0) – `v0.42.0` (📅 2025-07-14)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane-lightning/releases/tag/v0.42.0)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.1.2) – `2.1.2` (📅 2025-08-19)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.1.2)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.0)
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.26) – `v0.2.26` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.26)
-- [groundlight/edge-endpoint](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1) – `0.7.1` (📅 2025-06-11)  
-  🔗 [Release Notes](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.20) – `v0.20` (📅 2024-12-05)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.20)
+- [denoland/deno_graph](https://github.com/denoland/deno_graph/releases/tag/0.100.0) – `0.100.0` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/denoland/deno_graph/releases/tag/0.100.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
