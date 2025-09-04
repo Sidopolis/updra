@@ -6,20 +6,16 @@
 ## 🔹 Quantum-computing
 - [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.1.2) – `2.1.2` (📅 2025-08-19)  
   🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.1.2)
-- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.13.1) – `hugr-py-v0.13.1` (📅 2025-08-18)  
-  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.13.1)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
-- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4) – `v0.8.4` (📅 2025-05-22)  
-  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.1)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
-- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.4) – `v4.1.4` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.4)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.61.0) – `v0.61.0` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.61.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
