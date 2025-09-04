@@ -4,8 +4,10 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit-cpp](https://github.com/Qiskit/qiskit-cpp/releases/tag/Release-0.0.1) – `Release-0.0.1` (📅 2025-06-20)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit-cpp/releases/tag/Release-0.0.1)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.1.2) – `2.1.2` (📅 2025-08-19)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.1.2)
+- [m-labs/artiq](https://github.com/m-labs/artiq/releases/tag/8.0) – `8.0` (📅 2024-06-06)  
+  🔗 [Release Notes](https://github.com/m-labs/artiq/releases/tag/8.0)
 
 ## 🔹 Edge-computing
 - [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc4) – `v0.2.25-rc4` (📅 2025-09-04)  
@@ -16,10 +18,12 @@
   🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.9) – `@liam-hq/cli@0.7.9` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.9)
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.188) – `v3.0.188` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.188)
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-08-13)  
+  🔗 [Release Notes](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0)
+- [wasm-fmt/clang-format](https://github.com/wasm-fmt/clang-format/releases/tag/v20.1.7) – `v20.1.7` (📅 2025-06-18)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/clang-format/releases/tag/v20.1.7)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.0) – `v1.13.0` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
