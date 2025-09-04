@@ -4,22 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [itsubaki/q](https://github.com/itsubaki/q/releases/tag/v0.0.8) – `v0.0.8` (📅 2025-08-10)  
-  🔗 [Release Notes](https://github.com/itsubaki/q/releases/tag/v0.0.8)
-- [microsoft/qsharp](https://github.com/microsoft/qsharp/releases/tag/v1.20.0) – `v1.20.0` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/microsoft/qsharp/releases/tag/v1.20.0)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
+- [QCFD-Lab/qlbm](https://github.com/QCFD-Lab/qlbm/releases/tag/v0.0.6) – `v0.0.6` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/QCFD-Lab/qlbm/releases/tag/v0.0.6)
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1)
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4) – `v0.8.4` (📅 2025-05-22)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.7.1) – `2.7.1` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.7.1)
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.10.0) – `v9.10.0` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.10.0)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
