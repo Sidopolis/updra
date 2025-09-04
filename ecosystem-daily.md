@@ -1,25 +1,21 @@
-# 🌐 Ecosystem Daily Log – 2025-09-03
+# 🌐 Ecosystem Daily Log – 2025-09-04
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [jcmgray/quimb](https://github.com/jcmgray/quimb/releases/tag/v1.11.2) – `v1.11.2` (📅 2025-07-31)  
-  🔗 [Release Notes](https://github.com/jcmgray/quimb/releases/tag/v1.11.2)
+- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
+  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
-- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0) – `v1.5.0` (📅 2023-06-15)  
-  🔗 [Release Notes](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0)
+- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.0)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0)
 
 ## 🔹 Webassembly
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.4)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
