@@ -4,20 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [LordSaumya/quant-iron](https://github.com/LordSaumya/quant-iron/releases/tag/v1.4.2) – `v1.4.2` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/LordSaumya/quant-iron/releases/tag/v1.4.2)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [LordSaumya/quant-iron](https://github.com/LordSaumya/quant-iron/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/LordSaumya/quant-iron/releases/tag/v2.0.0)
+- [qBraid/pyqasm](https://github.com/qBraid/pyqasm/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/qBraid/pyqasm/releases/tag/v0.5.0)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.0)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0) – `1.5.0` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.0)
 
 ## 🔹 Webassembly
-- [grafbase/grafbase](https://github.com/grafbase/grafbase/releases/tag/grafbase-0.102.3) – `grafbase-0.102.3` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/grafbase/grafbase/releases/tag/grafbase-0.102.3)
-- [CosmWasm/wasmd](https://github.com/CosmWasm/wasmd/releases/tag/v0.61.4) – `v0.61.4` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/CosmWasm/wasmd/releases/tag/v0.61.4)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.9) – `@liam-hq/cli@0.7.9` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.9)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
