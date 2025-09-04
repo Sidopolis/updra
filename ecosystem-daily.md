@@ -4,20 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
-- [QCFD-Lab/qlbm](https://github.com/QCFD-Lab/qlbm/releases/tag/v0.0.6) – `v0.0.6` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/QCFD-Lab/qlbm/releases/tag/v0.0.6)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.1.2) – `2.1.2` (📅 2025-08-19)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.1.2)
+- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.13.1) – `hugr-py-v0.13.1` (📅 2025-08-18)  
+  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.13.1)
 
 ## 🔹 Edge-computing
-- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4) – `v0.8.4` (📅 2025-05-22)  
-  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4) – `v0.8.4` (📅 2025-05-22)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4)
 
 ## 🔹 Webassembly
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.4) – `v4.1.4` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.4)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
