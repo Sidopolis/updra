@@ -18,12 +18,12 @@
   🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
-- [hypermodeinc/modus](https://github.com/hypermodeinc/modus/releases/tag/runtime/v0.18.7) – `runtime/v0.18.7` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/hypermodeinc/modus/releases/tag/runtime/v0.18.7)
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.110) – `v3.0.110` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.110)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.375) – `v3.0.375` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.375)
+- [kubewarden/sysctl-psp-policy](https://github.com/kubewarden/sysctl-psp-policy/releases/tag/v1.0.6) – `v1.0.6` (📅 2025-08-15)  
+  🔗 [Release Notes](https://github.com/kubewarden/sysctl-psp-policy/releases/tag/v1.0.6)
+- [kubewarden/volumes-psp-policy](https://github.com/kubewarden/volumes-psp-policy/releases/tag/v1.1.2) – `v1.1.2` (📅 2025-08-15)  
+  🔗 [Release Notes](https://github.com/kubewarden/volumes-psp-policy/releases/tag/v1.1.2)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
