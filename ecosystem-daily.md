@@ -4,10 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
-- [tensorflow/quantum](https://github.com/tensorflow/quantum/releases/tag/v0.7.3) – `v0.7.3` (📅 2024-05-16)  
-  🔗 [Release Notes](https://github.com/tensorflow/quantum/releases/tag/v0.7.3)
+- [Qiskit/qiskit-cpp](https://github.com/Qiskit/qiskit-cpp/releases/tag/Release-0.0.1) – `Release-0.0.1` (📅 2025-06-20)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit-cpp/releases/tag/Release-0.0.1)
 
 ## 🔹 Edge-computing
 - [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.25-rc4) – `v0.2.25-rc4` (📅 2025-09-04)  
@@ -18,12 +16,10 @@
   🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.375) – `v3.0.375` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.375)
-- [kubewarden/sysctl-psp-policy](https://github.com/kubewarden/sysctl-psp-policy/releases/tag/v1.0.6) – `v1.0.6` (📅 2025-08-15)  
-  🔗 [Release Notes](https://github.com/kubewarden/sysctl-psp-policy/releases/tag/v1.0.6)
-- [kubewarden/volumes-psp-policy](https://github.com/kubewarden/volumes-psp-policy/releases/tag/v1.1.2) – `v1.1.2` (📅 2025-08-15)  
-  🔗 [Release Notes](https://github.com/kubewarden/volumes-psp-policy/releases/tag/v1.1.2)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.9) – `@liam-hq/cli@0.7.9` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.9)
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.188) – `v3.0.188` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.188)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
