@@ -1,29 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2025-09-05
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [Life-Experimentalist/EquiLens](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus) – `v1.0.0-corpus` (📅 2025-08-31)  
+  🔗 [Release Notes](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
-- [Qiskit/qiskit-code-assistant-vscode](https://github.com/Qiskit/qiskit-code-assistant-vscode/releases/tag/v0.10.0) – `v0.10.0` (📅 2025-08-28)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit-code-assistant-vscode/releases/tag/v0.10.0)
+- [dwavesystems/dwave-ocean-sdk](https://github.com/dwavesystems/dwave-ocean-sdk/releases/tag/8.4.0) – `8.4.0` (📅 2025-06-12)  
+  🔗 [Release Notes](https://github.com/dwavesystems/dwave-ocean-sdk/releases/tag/8.4.0)
+- [CQCL/guppylang](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.3) – `guppylang-v0.21.3` (📅 2025-08-19)  
+  🔗 [Release Notes](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.3)
 
 ## 🔹 Edge-computing
-- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4) – `v0.8.4` (📅 2025-05-22)  
-  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4)
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.0)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.0) – `v1.13.0` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.0)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [grafbase/grafbase](https://github.com/grafbase/grafbase/releases/tag/gateway-0.49.0) – `gateway-0.49.0` (📅 2025-09-05)  
+  🔗 [Release Notes](https://github.com/grafbase/grafbase/releases/tag/gateway-0.49.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.41.1) – `0.41.1` (📅 2025-09-05)  
