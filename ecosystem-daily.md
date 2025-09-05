@@ -5,24 +5,22 @@
   🔗 [Release Notes](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus)
 
 ## 🔹 Quantum-computing
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
 - [microsoft/qsharp](https://github.com/microsoft/qsharp/releases/tag/v1.20.0) – `v1.20.0` (📅 2025-08-26)  
   🔗 [Release Notes](https://github.com/microsoft/qsharp/releases/tag/v1.20.0)
+- [amazon-braket/amazon-braket-sdk-python](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.101.0.post0) – `v1.101.0.post0` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.101.0.post0)
 
 ## 🔹 Edge-computing
+- [groundlight/edge-endpoint](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1) – `0.7.1` (📅 2025-06-11)  
+  🔗 [Release Notes](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1)
 - [simpleiot/simpleiot](https://github.com/simpleiot/simpleiot/releases/tag/v0.18.4) – `v0.18.4` (📅 2025-08-04)  
   🔗 [Release Notes](https://github.com/simpleiot/simpleiot/releases/tag/v0.18.4)
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.27-rc2) – `v0.2.27-rc2` (📅 2025-09-05)  
-  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.27-rc2)
 
 ## 🔹 Webassembly
-- [pygame-web/pygbag](https://github.com/pygame-web/pygbag/releases/tag/0.9.2) – `0.9.2` (📅 2024-08-18)  
-  🔗 [Release Notes](https://github.com/pygame-web/pygbag/releases/tag/0.9.2)
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.7.1) – `2.7.1` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.7.1)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2) – `v36.0.2` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.41.1) – `0.41.1` (📅 2025-09-05)  
