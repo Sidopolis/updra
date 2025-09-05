@@ -4,10 +4,10 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
-- [pasqal-io/Pulser](https://github.com/pasqal-io/Pulser/releases/tag/v1.5.6) – `v1.5.6` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/pasqal-io/Pulser/releases/tag/v1.5.6)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [Qiskit/qiskit-code-assistant-vscode](https://github.com/Qiskit/qiskit-code-assistant-vscode/releases/tag/v0.10.0) – `v0.10.0` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit-code-assistant-vscode/releases/tag/v0.10.0)
 
 ## 🔹 Edge-computing
 - [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4) – `v0.8.4` (📅 2025-05-22)  
@@ -18,10 +18,12 @@
   🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.0)
 
 ## 🔹 Webassembly
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.11) – `v1.0.0-beta.11` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.11)
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.20) – `v0.20` (📅 2024-12-05)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.20)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.0) – `v1.13.0` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.0)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.41.1) – `0.41.1` (📅 2025-09-05)  
