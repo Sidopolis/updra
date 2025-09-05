@@ -1,29 +1,25 @@
-# 🌐 Ecosystem Daily Log – 2025-09-04
+# 🌐 Ecosystem Daily Log – 2025-09-05
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [munich-quantum-toolkit/qecc](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-03-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0)
+- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
+  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
 
 ## 🔹 Edge-computing
-- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.69.7) – `v1.69.7` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.69.7)
-- [groundlight/edge-endpoint](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1) – `0.7.1` (📅 2025-06-11)  
-  🔗 [Release Notes](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1)
-- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta) – `v0.4.4-beta` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta)
+- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.2) – `v2.2.2` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.2)
+- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.1)
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.26-rc1) – `v0.2.26-rc1` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.26-rc1)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.4)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2) – `v36.0.2` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.2.58) – `6.2.58` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.2.58)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
