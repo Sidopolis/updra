@@ -4,18 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [pasqal-io/quantum-evolution-kernel](https://github.com/pasqal-io/quantum-evolution-kernel/releases/tag/v0.3.4) – `v0.3.4` (📅 2025-09-05)  
-  🔗 [Release Notes](https://github.com/pasqal-io/quantum-evolution-kernel/releases/tag/v0.3.4)
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
 - [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.1)
 
 ## 🔹 Webassembly
-- [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1) – `v4.12.1` (📅 2025-07-16)  
-  🔗 [Release Notes](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1)
 - [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.0) – `v1.13.0` (📅 2025-09-03)  
   🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.0)
 
