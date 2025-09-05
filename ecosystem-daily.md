@@ -4,22 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
-  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
+- No recent releases found.
 
 ## 🔹 Edge-computing
+- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.69.8) – `v1.69.8` (📅 2025-09-05)  
+  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.69.8)
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v0.6.7) – `v0.6.7` (📅 2025-09-05)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v0.6.7)
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.2) – `v2.2.2` (📅 2025-09-03)  
   🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.2)
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.1)
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.26-rc1) – `v0.2.26-rc1` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.26-rc1)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.2.58) – `6.2.58` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.2.58)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.9) – `@liam-hq/cli@0.7.9` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.9)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
