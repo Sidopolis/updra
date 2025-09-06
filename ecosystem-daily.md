@@ -7,20 +7,20 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit-code-assistant-vscode](https://github.com/Qiskit/qiskit-code-assistant-vscode/releases/tag/v0.11.0) – `v0.11.0` (📅 2025-09-06)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit-code-assistant-vscode/releases/tag/v0.11.0)
+- [Sadikur0240/linkedin-queens-solver](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0) – `3.0` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0)
+- [asimakiskydros/QOLE](https://github.com/asimakiskydros/QOLE/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-09-06)  
+  🔗 [Release Notes](https://github.com/asimakiskydros/QOLE/releases/tag/v2.1.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [abbychau/gtsdb](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0) – `v1.5.0` (📅 2025-03-05)  
+  🔗 [Release Notes](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.5.1) – `0.5.1` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.5.1)
-- [ark-us/wasmx](https://github.com/ark-us/wasmx/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/ark-us/wasmx/releases/tag/v0.2.0)
+- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-09-06)  
+  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/v0.1.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
