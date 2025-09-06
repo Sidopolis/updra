@@ -5,20 +5,26 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 - [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- [Life-Experimentalist/EquiLens](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus) – `v1.0.0-corpus` (📅 2025-08-31)  
+  🔗 [Release Notes](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus)
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
+- [munich-quantum-toolkit/.github](https://github.com/munich-quantum-toolkit/.github/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-03-29)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/.github/releases/tag/v1.2.0)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
 
 ## 🔹 Edge-computing
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.132) – `v0.8.132` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.132)
+- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.7.21) – `v1.7.21` (📅 2025-08-31)  
+  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.7.21)
+- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.7.2) – `v1.7.2` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.7.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
