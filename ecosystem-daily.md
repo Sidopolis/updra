@@ -5,10 +5,10 @@
   🔗 [Release Notes](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus)
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1)
-- [munich-quantum-toolkit/qcec](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.2.0) – `v3.2.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.2.0)
+- [munich-quantum-toolkit/qecc](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-03-14)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0)
+- [munich-quantum-toolkit/ddsim](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.0.0)
 
 ## 🔹 Edge-computing
 - [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
@@ -17,8 +17,8 @@
   🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.0)
 
 ## 🔹 Webassembly
-- [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/kubewarden/container-resources-policy/releases/tag/v1.1.0)
+- [ark-us/wasmx](https://github.com/ark-us/wasmx/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/ark-us/wasmx/releases/tag/v0.2.0)
 - [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.35) – `0.0.35` (📅 2025-04-28)  
   🔗 [Release Notes](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.35)
 
