@@ -7,10 +7,8 @@
 ## 🔹 Quantum-computing
 - [munich-quantum-toolkit/ddsim](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-08-04)  
   🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.0.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [munich-quantum-toolkit/qcec](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.2.0) – `v3.2.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.2.0)
+- [munich-quantum-toolkit/qmap](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.3.1) – `v3.3.1` (📅 2025-08-07)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.3.1)
 
 ## 🔹 Edge-computing
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-09-01)  
@@ -23,8 +21,6 @@
 ## 🔹 Webassembly
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.7.2) – `v1.7.2` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.7.2)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.41.1) – `0.41.1` (📅 2025-09-05)  
