@@ -5,10 +5,10 @@
   🔗 [Release Notes](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus)
 
 ## 🔹 Quantum-computing
+- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1)
 - [munich-quantum-toolkit/qcec](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.2.0) – `v3.2.0` (📅 2025-08-01)  
   🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.2.0)
-- [munich-quantum-toolkit/bench](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.0.1) – `v2.0.1` (📅 2025-07-28)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.0.1)
 
 ## 🔹 Edge-computing
 - [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
@@ -17,8 +17,10 @@
   🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.0)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/kubewarden/container-resources-policy/releases/tag/v1.1.0)
+- [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.35) – `0.0.35` (📅 2025-04-28)  
+  🔗 [Release Notes](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.35)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
