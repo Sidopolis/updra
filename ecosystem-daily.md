@@ -10,12 +10,16 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
+- [Data-to-Insight-Center/cyberinfrastructure-knowledge-network](https://github.com/Data-to-Insight-Center/cyberinfrastructure-knowledge-network/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-06-14)  
+  🔗 [Release Notes](https://github.com/Data-to-Insight-Center/cyberinfrastructure-knowledge-network/releases/tag/v0.2.0)
 
 ## 🔹 Webassembly
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.7.21) – `v1.7.21` (📅 2025-08-31)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.7.21)
+- [grafbase/grafbase](https://github.com/grafbase/grafbase/releases/tag/gateway-0.49.1) – `gateway-0.49.1` (📅 2025-09-05)  
+  🔗 [Release Notes](https://github.com/grafbase/grafbase/releases/tag/gateway-0.49.1)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.117) – `v3.0.117` (📅 2025-09-06)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.117)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
