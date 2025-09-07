@@ -13,16 +13,16 @@
   🔗 [Release Notes](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0)
 
 ## 🔹 Edge-computing
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
 - [abbychau/gtsdb](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0) – `v1.5.0` (📅 2025-03-05)  
   🔗 [Release Notes](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [gluesql/gluesql](https://github.com/gluesql/gluesql/releases/tag/v0.17.0) – `v0.17.0` (📅 2025-06-21)  
-  🔗 [Release Notes](https://github.com/gluesql/gluesql/releases/tag/v0.17.0)
-- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.1.6) – `0.1.6` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.1.6)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.4) – `v0.5.4` (📅 2025-08-15)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.4)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
