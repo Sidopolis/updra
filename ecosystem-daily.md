@@ -7,8 +7,8 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
+- [qutech/filter_functions](https://github.com/qutech/filter_functions/releases/tag/v1.1.3) – `v1.1.3` (📅 2024-05-14)  
+  🔗 [Release Notes](https://github.com/qutech/filter_functions/releases/tag/v1.1.3)
 
 ## 🔹 Edge-computing
 - [abbychau/gtsdb](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0) – `v1.5.0` (📅 2025-03-05)  
@@ -19,10 +19,12 @@
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [cloud-shuttle/leptos-forms-rs](https://github.com/cloud-shuttle/leptos-forms-rs/releases/tag/v1.1.1) – `v1.1.1` (📅 2025-09-07)  
-  🔗 [Release Notes](https://github.com/cloud-shuttle/leptos-forms-rs/releases/tag/v1.1.1)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.4) – `v0.5.4` (📅 2025-08-15)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.4)
 - [gluesql/gluesql](https://github.com/gluesql/gluesql/releases/tag/v0.17.0) – `v0.17.0` (📅 2025-06-21)  
   🔗 [Release Notes](https://github.com/gluesql/gluesql/releases/tag/v0.17.0)
+- [cloud-shuttle/leptos-forms-rs](https://github.com/cloud-shuttle/leptos-forms-rs/releases/tag/v1.1.1) – `v1.1.1` (📅 2025-09-07)  
+  🔗 [Release Notes](https://github.com/cloud-shuttle/leptos-forms-rs/releases/tag/v1.1.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
