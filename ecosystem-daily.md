@@ -7,24 +7,22 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [AIComputing101/quantum-computing-101](https://github.com/AIComputing101/quantum-computing-101/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-06)  
-  🔗 [Release Notes](https://github.com/AIComputing101/quantum-computing-101/releases/tag/v1.0.0)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
+- [cevrechaussette/dev2foo](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3) – `v3.7.4-alpha.3` (📅 2025-04-29)  
+  🔗 [Release Notes](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3)
 
 ## 🔹 Edge-computing
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 - [abbychau/gtsdb](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0) – `v1.5.0` (📅 2025-03-05)  
   🔗 [Release Notes](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
 - [ENQT-GmbH/remoc](https://github.com/ENQT-GmbH/remoc/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-09-07)  
   🔗 [Release Notes](https://github.com/ENQT-GmbH/remoc/releases/tag/v0.18.0)
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.4) – `v0.5.4` (📅 2025-08-15)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.4)
-- [gluesql/gluesql](https://github.com/gluesql/gluesql/releases/tag/v0.17.0) – `v0.17.0` (📅 2025-06-21)  
-  🔗 [Release Notes](https://github.com/gluesql/gluesql/releases/tag/v0.17.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
