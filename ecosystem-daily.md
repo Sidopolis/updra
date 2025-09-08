@@ -7,8 +7,8 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
+- [microsoft/qsharp](https://github.com/microsoft/qsharp/releases/tag/v1.20.0) – `v1.20.0` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/microsoft/qsharp/releases/tag/v1.20.0)
 
 ## 🔹 Edge-computing
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-21)  
@@ -17,12 +17,10 @@
   🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.62.0) – `v0.62.0` (📅 2025-09-08)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.62.0)
+- [theo-dep/wasm-dom](https://github.com/theo-dep/wasm-dom/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-08-03)  
+  🔗 [Release Notes](https://github.com/theo-dep/wasm-dom/releases/tag/v0.1.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
