@@ -7,26 +7,22 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
-- [cevrechaussette/dev2foo](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3) – `v3.7.4-alpha.3` (📅 2025-04-29)  
-  🔗 [Release Notes](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
+- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1) – `v0.32.1` (📅 2025-05-07)  
+  🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
 - [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.11) – `@liam-hq/cli@0.7.11` (📅 2025-09-05)  
   🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.11)
-- [danieletorelli/golem-x](https://github.com/danieletorelli/golem-x/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-01-24)  
-  🔗 [Release Notes](https://github.com/danieletorelli/golem-x/releases/tag/v2.1.0)
-- [taubyte/tau](https://github.com/taubyte/tau/releases/tag/v1.1.8) – `v1.1.8` (📅 2025-05-01)  
-  🔗 [Release Notes](https://github.com/taubyte/tau/releases/tag/v1.1.8)
+- [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci/releases/tag/v0.16.8) – `v0.16.8` (📅 2025-07-11)  
+  🔗 [Release Notes](https://github.com/fluentci-io/fluentci/releases/tag/v0.16.8)
+- [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.35) – `0.0.35` (📅 2025-04-28)  
+  🔗 [Release Notes](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.35)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
