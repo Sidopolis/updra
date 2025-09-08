@@ -7,23 +7,29 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [vprusso/toqito](https://github.com/vprusso/toqito/releases/tag/v1.1.2) – `v1.1.2` (📅 2025-05-13)  
-  🔗 [Release Notes](https://github.com/vprusso/toqito/releases/tag/v1.1.2)
-- [CQCL/tket](https://github.com/CQCL/tket/releases/tag/v2.9.3) – `v2.9.3` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/CQCL/tket/releases/tag/v2.9.3)
+- [CQCL/tket2](https://github.com/CQCL/tket2/releases/tag/tket-py-v0.12.6) – `tket-py-v0.12.6` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/CQCL/tket2/releases/tag/tket-py-v0.12.6)
+- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1)
 
 ## 🔹 Edge-computing
-- [rulego/streamsql](https://github.com/rulego/streamsql/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-08-08)  
-  🔗 [Release Notes](https://github.com/rulego/streamsql/releases/tag/v0.10.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [shogimaru/shogimaru](https://github.com/shogimaru/shogimaru/releases/tag/v1.5.4) – `v1.5.4` (📅 2025-03-15)  
-  🔗 [Release Notes](https://github.com/shogimaru/shogimaru/releases/tag/v1.5.4)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [dylibso/chicory](https://github.com/dylibso/chicory/releases/tag/1.5.1) – `1.5.1` (📅 2025-07-07)  
+  🔗 [Release Notes](https://github.com/dylibso/chicory/releases/tag/1.5.1)
+- [toyobayashi/emnapi](https://github.com/toyobayashi/emnapi/releases/tag/v1.5.0) – `v1.5.0` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/toyobayashi/emnapi/releases/tag/v1.5.0)
 
 ## 🔹 Green-software
+- [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
+  🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
   🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
-- [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
-  🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
