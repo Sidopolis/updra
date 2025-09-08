@@ -7,25 +7,25 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
+- [CQCL/tket](https://github.com/CQCL/tket/releases/tag/v2.9.3) – `v2.9.3` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/CQCL/tket/releases/tag/v2.9.3)
+- [cirKITers/qml-essentials](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.36) – `0.1.36` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.36)
 
 ## 🔹 Edge-computing
-- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4) – `v0.8.4` (📅 2025-05-22)  
-  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.8.4)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [kubewarden/priority-class-policy](https://github.com/kubewarden/priority-class-policy/releases/tag/v1.0.4) – `v1.0.4` (📅 2025-07-14)  
-  🔗 [Release Notes](https://github.com/kubewarden/priority-class-policy/releases/tag/v1.0.4)
-- [kubewarden/annotations-policy](https://github.com/kubewarden/annotations-policy/releases/tag/v0.1.1) – `v0.1.1` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/kubewarden/annotations-policy/releases/tag/v0.1.1)
-- [kubewarden/env-variable-secrets-scanner-policy](https://github.com/kubewarden/env-variable-secrets-scanner-policy/releases/tag/v1.0.6) – `v1.0.6` (📅 2025-08-15)  
-  🔗 [Release Notes](https://github.com/kubewarden/env-variable-secrets-scanner-policy/releases/tag/v1.0.6)
+- [CosmWasm/wasmd](https://github.com/CosmWasm/wasmd/releases/tag/v0.61.4) – `v0.61.4` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/CosmWasm/wasmd/releases/tag/v0.61.4)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.0) – `v1.13.0` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.0)
 
 ## 🔹 Green-software
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
