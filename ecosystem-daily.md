@@ -7,24 +7,20 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [alex180500/QuantumReservoirComputing.jl](https://github.com/alex180500/QuantumReservoirComputing.jl/releases/tag/v0.0.34) – `v0.0.34` (📅 2025-09-09)  
-  🔗 [Release Notes](https://github.com/alex180500/QuantumReservoirComputing.jl/releases/tag/v0.0.34)
-- [tensorcircuit/tensorcircuit-ng](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-07-26)  
-  🔗 [Release Notes](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.3.0)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v1.29.0) – `v1.29.0` (📅 2025-09-08)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v1.29.0)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.1.2) – `2.1.2` (📅 2025-08-19)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.1.2)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.8) – `v2.11.8` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.8)
 
 ## 🔹 Webassembly
-- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/11.1.0) – `11.1.0` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/11.1.0)
-- [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1) – `v4.12.1` (📅 2025-07-16)  
-  🔗 [Release Notes](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1)
+- [kubewarden/psa-label-enforcer-policy](https://github.com/kubewarden/psa-label-enforcer-policy/releases/tag/v1.0.5) – `v1.0.5` (📅 2025-08-13)  
+  🔗 [Release Notes](https://github.com/kubewarden/psa-label-enforcer-policy/releases/tag/v1.0.5)
+- [kubewarden/seccomp-psp-policy](https://github.com/kubewarden/seccomp-psp-policy/releases/tag/v1.0.5) – `v1.0.5` (📅 2025-08-15)  
+  🔗 [Release Notes](https://github.com/kubewarden/seccomp-psp-policy/releases/tag/v1.0.5)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
