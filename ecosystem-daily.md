@@ -9,8 +9,10 @@
 ## 🔹 Quantum-computing
 - [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v1.29.0) – `v1.29.0` (📅 2025-09-08)  
   🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v1.29.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [NVIDIA/cuQuantum](https://github.com/NVIDIA/cuQuantum/releases/tag/v25.09.0) – `v25.09.0` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuQuantum/releases/tag/v25.09.0)
 
 ## 🔹 Edge-computing
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.2) – `v0.0.2` (📅 2025-09-08)  
@@ -19,10 +21,8 @@
 ## 🔹 Webassembly
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2) – `v36.0.2` (📅 2025-08-26)  
   🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2)
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.7.1) – `2.7.1` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.7.1)
-- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.4) – `v4.1.4` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.4)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.132) – `v0.8.132` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.132)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
