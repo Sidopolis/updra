@@ -7,24 +7,26 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [aws-cqc/DeviceLayout.jl](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.4.2) – `v1.4.2` (📅 2025-07-17)  
-  🔗 [Release Notes](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.4.2)
-- [munich-quantum-toolkit/workflows](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.16.2) – `v1.16.2` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.16.2)
+- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
+- [Sadikur0240/linkedin-queens-solver](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0) – `3.0` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0)
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.2) – `v0.0.2` (📅 2025-09-08)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.2)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [surban/aggligator](https://github.com/surban/aggligator/releases/tag/v0.9.7) – `v0.9.7` (📅 2025-08-19)  
-  🔗 [Release Notes](https://github.com/surban/aggligator/releases/tag/v0.9.7)
-- [bugra9/gdal3.js](https://github.com/bugra9/gdal3.js/releases/tag/v2.8.1) – `v2.8.1` (📅 2024-02-22)  
-  🔗 [Release Notes](https://github.com/bugra9/gdal3.js/releases/tag/v2.8.1)
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.127) – `v3.0.127` (📅 2025-09-09)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.127)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.132) – `v0.8.132` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.132)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10) – `v2.2.10` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.10)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.11) – `@liam-hq/cli@0.7.11` (📅 2025-09-05)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.11)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
