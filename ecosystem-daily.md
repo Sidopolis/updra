@@ -7,19 +7,22 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
-- [Sadikur0240/linkedin-queens-solver](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0) – `3.0` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
+- [PawseySC/vqpu-hybrid-workflow](https://github.com/PawseySC/vqpu-hybrid-workflow/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-06-03)  
+  🔗 [Release Notes](https://github.com/PawseySC/vqpu-hybrid-workflow/releases/tag/v0.2.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.0)
+- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.69.8) – `v1.69.8` (📅 2025-09-05)  
+  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.69.8)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.11) – `@liam-hq/cli@0.7.11` (📅 2025-09-05)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.11)
-- [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.28.0) – `v1.28.0` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.28.0)
+- [xNasuni/luau-web](https://github.com/xNasuni/luau-web/releases/tag/1.1.0) – `1.1.0` (📅 2025-09-07)  
+  🔗 [Release Notes](https://github.com/xNasuni/luau-web/releases/tag/1.1.0)
+- [kubewarden/deprecated-api-versions-policy](https://github.com/kubewarden/deprecated-api-versions-policy/releases/tag/v1.0.4) – `v1.0.4` (📅 2025-08-13)  
+  🔗 [Release Notes](https://github.com/kubewarden/deprecated-api-versions-policy/releases/tag/v1.0.4)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
