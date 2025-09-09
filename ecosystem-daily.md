@@ -7,8 +7,10 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
+- [aws-cqc/DeviceLayout.jl](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.4.2) – `v1.4.2` (📅 2025-07-17)  
+  🔗 [Release Notes](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.4.2)
+- [munich-quantum-toolkit/workflows](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.16.2) – `v1.16.2` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.16.2)
 
 ## 🔹 Edge-computing
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.2) – `v0.0.2` (📅 2025-09-08)  
@@ -17,10 +19,12 @@
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-09-09)  
-  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.0)
-- [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1) – `v4.12.1` (📅 2025-07-16)  
-  🔗 [Release Notes](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1)
+- [surban/aggligator](https://github.com/surban/aggligator/releases/tag/v0.9.7) – `v0.9.7` (📅 2025-08-19)  
+  🔗 [Release Notes](https://github.com/surban/aggligator/releases/tag/v0.9.7)
+- [bugra9/gdal3.js](https://github.com/bugra9/gdal3.js/releases/tag/v2.8.1) – `v2.8.1` (📅 2024-02-22)  
+  🔗 [Release Notes](https://github.com/bugra9/gdal3.js/releases/tag/v2.8.1)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.127) – `v3.0.127` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.127)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
