@@ -7,18 +7,24 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
-- [PawseySC/vqpu-hybrid-workflow](https://github.com/PawseySC/vqpu-hybrid-workflow/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-06-03)  
-  🔗 [Release Notes](https://github.com/PawseySC/vqpu-hybrid-workflow/releases/tag/v0.2.0)
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.0)
-- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.69.8) – `v1.69.8` (📅 2025-09-05)  
-  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.69.8)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [openyurtio/openyurt](https://github.com/openyurtio/openyurt/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-02-03)  
+  🔗 [Release Notes](https://github.com/openyurtio/openyurt/releases/tag/v1.6.1)
 
 ## 🔹 Webassembly
+- [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.35) – `0.0.35` (📅 2025-04-28)  
+  🔗 [Release Notes](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.35)
 - [xNasuni/luau-web](https://github.com/xNasuni/luau-web/releases/tag/1.1.0) – `1.1.0` (📅 2025-09-07)  
   🔗 [Release Notes](https://github.com/xNasuni/luau-web/releases/tag/1.1.0)
 - [kubewarden/deprecated-api-versions-policy](https://github.com/kubewarden/deprecated-api-versions-policy/releases/tag/v1.0.4) – `v1.0.4` (📅 2025-08-13)  
