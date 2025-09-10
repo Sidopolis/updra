@@ -3,26 +3,28 @@
 ## 🔹 Ai-ethics
 - [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
+- [qiboteam/qibotn](https://github.com/qiboteam/qibotn/releases/tag/v0.0.5) – `v0.0.5` (📅 2025-06-20)  
+  🔗 [Release Notes](https://github.com/qiboteam/qibotn/releases/tag/v0.0.5)
+- [munich-quantum-toolkit/syrec](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v1.2.1) – `v1.2.1` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v1.2.1)
 
 ## 🔹 Edge-computing
-- [draphy/nooxy](https://github.com/draphy/nooxy/releases/tag/nooxy%401.0.0) – `nooxy@1.0.0` (📅 2025-09-09)  
-  🔗 [Release Notes](https://github.com/draphy/nooxy/releases/tag/nooxy%401.0.0)
+- [draphy/nooxy](https://github.com/draphy/nooxy/releases/tag/nooxy%401.2.0) – `nooxy@1.2.0` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/draphy/nooxy/releases/tag/nooxy%401.2.0)
+- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1) – `v0.32.1` (📅 2025-05-07)  
+  🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.32.1)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.9) – `@liam-hq/erd-core@0.6.9` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.9)
-- [hypermodeinc/modus](https://github.com/hypermodeinc/modus/releases/tag/runtime/v0.18.7) – `runtime/v0.18.7` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/hypermodeinc/modus/releases/tag/runtime/v0.18.7)
-- [codeart1st/mapserver-wasm](https://github.com/codeart1st/mapserver-wasm/releases/tag/v2.7.0) – `v2.7.0` (📅 2025-08-23)  
-  🔗 [Release Notes](https://github.com/codeart1st/mapserver-wasm/releases/tag/v2.7.0)
+- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v2.250830.1233) – `v2.250830.1233` (📅 2025-08-30)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v2.250830.1233)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.0) – `v1.13.0` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.0)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.394) – `v3.0.394` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.394)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
