@@ -7,10 +7,12 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.92) – `v0.0.92` (📅 2025-08-30)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.92)
+- [quantumlib/Stim](https://github.com/quantumlib/Stim/releases/tag/v1.15.0) – `v1.15.0` (📅 2025-05-07)  
+  🔗 [Release Notes](https://github.com/quantumlib/Stim/releases/tag/v1.15.0)
 - [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
   🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
-- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
 
 ## 🔹 Edge-computing
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-09-01)  
@@ -21,8 +23,8 @@
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.11) – `@liam-hq/cli@0.7.11` (📅 2025-09-05)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.11)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.0) – `v1.13.0` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
