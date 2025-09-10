@@ -7,22 +7,22 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [CQCL/tket](https://github.com/CQCL/tket/releases/tag/v2.9.3) – `v2.9.3` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/CQCL/tket/releases/tag/v2.9.3)
-- [tensorcircuit/tensorcircuit-ng](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-07-26)  
-  🔗 [Release Notes](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.3.0)
+- [dwavesystems/dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.14.0) – `0.14.0` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.14.0)
+- [munich-quantum-toolkit/workflows](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.16.2) – `v1.16.2` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.16.2)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0) – `v1.5.0` (📅 2023-06-15)  
+  🔗 [Release Notes](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.132) – `v0.8.132` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.132)
+- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v2.250830.1233) – `v2.250830.1233` (📅 2025-08-30)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v2.250830.1233)
 - [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
+- [andrewdavidmackenzie/flow](https://github.com/andrewdavidmackenzie/flow/releases/tag/v0.135.0) – `v0.135.0` (📅 2023-09-19)  
+  🔗 [Release Notes](https://github.com/andrewdavidmackenzie/flow/releases/tag/v0.135.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
