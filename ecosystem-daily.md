@@ -7,29 +7,27 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.92) – `v0.0.92` (📅 2025-08-30)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.92)
-- [quantumlib/Stim](https://github.com/quantumlib/Stim/releases/tag/v1.15.0) – `v1.15.0` (📅 2025-05-07)  
-  🔗 [Release Notes](https://github.com/quantumlib/Stim/releases/tag/v1.15.0)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.0)
+- [draphy/nooxy](https://github.com/draphy/nooxy/releases/tag/nooxy%401.0.0) – `nooxy@1.0.0` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/draphy/nooxy/releases/tag/nooxy%401.0.0)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.0) – `v1.13.0` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.0)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.9) – `@liam-hq/erd-core@0.6.9` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.9)
+- [hypermodeinc/modus](https://github.com/hypermodeinc/modus/releases/tag/runtime/v0.18.7) – `runtime/v0.18.7` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/hypermodeinc/modus/releases/tag/runtime/v0.18.7)
+- [codeart1st/mapserver-wasm](https://github.com/codeart1st/mapserver-wasm/releases/tag/v2.7.0) – `v2.7.0` (📅 2025-08-23)  
+  🔗 [Release Notes](https://github.com/codeart1st/mapserver-wasm/releases/tag/v2.7.0)
 
 ## 🔹 Green-software
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
   🔗 [Release Notes](https://github.com/kube-green/kube-green/releases/tag/v0.7.1)
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
