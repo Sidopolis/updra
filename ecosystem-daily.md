@@ -7,24 +7,16 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [alex180500/QuantumReservoirComputing.jl](https://github.com/alex180500/QuantumReservoirComputing.jl/releases/tag/v0.0.34) – `v0.0.34` (📅 2025-09-09)  
-  🔗 [Release Notes](https://github.com/alex180500/QuantumReservoirComputing.jl/releases/tag/v0.0.34)
-- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1)
+- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
+- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta) – `v0.4.4-beta` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
-- [mohanson/pywasm](https://github.com/mohanson/pywasm/releases/tag/v2.1.6) – `v2.1.6` (📅 2025-08-18)  
-  🔗 [Release Notes](https://github.com/mohanson/pywasm/releases/tag/v2.1.6)
+- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm/releases/tag/v3.0.2) – `v3.0.2` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/CosmWasm/cosmwasm/releases/tag/v3.0.2)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
