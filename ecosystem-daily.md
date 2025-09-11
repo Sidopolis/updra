@@ -7,10 +7,10 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.93) – `v0.0.93` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.93)
 - [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
   🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -21,8 +21,10 @@
 ## 🔹 Webassembly
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2) – `v36.0.2` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.132) – `v0.8.132` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.132)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
