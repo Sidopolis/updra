@@ -7,24 +7,26 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [quantum-mob/Q3](https://github.com/quantum-mob/Q3/releases/tag/v4.2.11) – `v4.2.11` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/quantum-mob/Q3/releases/tag/v4.2.11)
+- [alex180500/QuantumReservoirComputing.jl](https://github.com/alex180500/QuantumReservoirComputing.jl/releases/tag/v0.0.34) – `v0.0.34` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/alex180500/QuantumReservoirComputing.jl/releases/tag/v0.0.34)
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1)
 
 ## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 - [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
   🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
 - [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
   🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
-- [partykit/partykit](https://github.com/partykit/partykit/releases/tag/y-partykit%400.0.33) – `y-partykit@0.0.33` (📅 2025-06-05)  
-  🔗 [Release Notes](https://github.com/partykit/partykit/releases/tag/y-partykit%400.0.33)
 
 ## 🔹 Webassembly
-- [hpcc-systems/hpcc-js-wasm](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.26.1) – `wasm-v2.26.1` (📅 2025-08-30)  
-  🔗 [Release Notes](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.26.1)
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.9) – `@liam-hq/erd-core@0.6.9` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.9)
+- [mohanson/pywasm](https://github.com/mohanson/pywasm/releases/tag/v2.1.6) – `v2.1.6` (📅 2025-08-18)  
+  🔗 [Release Notes](https://github.com/mohanson/pywasm/releases/tag/v2.1.6)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
