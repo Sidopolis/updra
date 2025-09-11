@@ -21,10 +21,12 @@
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.132) – `v3.0.132` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.132)
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.192) – `v3.0.192` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.192)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.9) – `@liam-hq/erd-core@0.6.9` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.9)
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.5.1) – `0.5.1` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.5.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
