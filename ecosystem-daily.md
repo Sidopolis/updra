@@ -7,12 +7,12 @@
 ## 🔹 Quantum-computing
 - [oqtopus-team/oqtopus-cloud](https://github.com/oqtopus-team/oqtopus-cloud/releases/tag/v1.3.1) – `v1.3.1` (📅 2025-07-04)  
   🔗 [Release Notes](https://github.com/oqtopus-team/oqtopus-cloud/releases/tag/v1.3.1)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
   🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.0)
 
 ## 🔹 Webassembly
 - [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
