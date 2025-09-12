@@ -5,26 +5,26 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v2.0.0)
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
+- [Sadikur0240/linkedin-queens-solver](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0) – `3.0` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0)
 
 ## 🔹 Edge-computing
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 - [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [groundlight/edge-endpoint](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1) – `0.7.1` (📅 2025-06-11)  
-  🔗 [Release Notes](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1)
 
 ## 🔹 Webassembly
-- [kubewarden/audit-scanner](https://github.com/kubewarden/audit-scanner/releases/tag/v1.28.0) – `v1.28.0` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/kubewarden/audit-scanner/releases/tag/v1.28.0)
-- [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.239.0) – `v1.239.0` (📅 2025-09-09)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.239.0)
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.63.0) – `v0.63.0` (📅 2025-09-12)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.63.0)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.132) – `v0.8.132` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.132)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
