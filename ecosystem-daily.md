@@ -5,10 +5,10 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
-- [Sadikur0240/linkedin-queens-solver](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0) – `3.0` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [mud-skipper/Simulated-Ark-Loop](https://github.com/mud-skipper/Simulated-Ark-Loop/releases/tag/v1.0) – `v1.0` (📅 2025-09-13)  
+  🔗 [Release Notes](https://github.com/mud-skipper/Simulated-Ark-Loop/releases/tag/v1.0)
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -19,10 +19,12 @@
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.132) – `v0.8.132` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.132)
+- [LuanRoger/vite-plugin-use-wasm](https://github.com/LuanRoger/vite-plugin-use-wasm/releases/tag/v1.0.1) – `v1.0.1` (📅 2025-09-13)  
+  🔗 [Release Notes](https://github.com/LuanRoger/vite-plugin-use-wasm/releases/tag/v1.0.1)
 - [PKopel/curl-gen-web](https://github.com/PKopel/curl-gen-web/releases/tag/v0.2.0) – `v0.2.0` (📅 2024-04-06)  
   🔗 [Release Notes](https://github.com/PKopel/curl-gen-web/releases/tag/v0.2.0)
-- [rfwlab/rfw](https://github.com/rfwlab/rfw/releases/tag/v0.2.0-beta.1) – `v0.2.0-beta.1` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/rfwlab/rfw/releases/tag/v0.2.0-beta.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
