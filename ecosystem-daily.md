@@ -17,12 +17,10 @@
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.132) – `v0.8.132` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.132)
 - [rfwlab/rfw](https://github.com/rfwlab/rfw/releases/tag/v0.2.0-beta.1) – `v0.2.0-beta.1` (📅 2025-09-11)  
   🔗 [Release Notes](https://github.com/rfwlab/rfw/releases/tag/v0.2.0-beta.1)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
+- [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.4.3) – `1.4.3` (📅 2025-07-13)  
+  🔗 [Release Notes](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.4.3)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
