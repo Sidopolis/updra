@@ -7,31 +7,31 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [cevrechaussette/dev2foo](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3) – `v3.7.4-alpha.3` (📅 2025-04-29)  
-  🔗 [Release Notes](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3)
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [QuEraComputing/bloqade](https://github.com/QuEraComputing/bloqade/releases/tag/v0.28.1) – `v0.28.1` (📅 2025-08-27)  
+  🔗 [Release Notes](https://github.com/QuEraComputing/bloqade/releases/tag/v0.28.1)
+- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
 
 ## 🔹 Edge-computing
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-09-05)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.1)
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.28) – `v0.2.28` (📅 2025-09-12)  
+  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.28)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta) – `v0.4.4-beta` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
-- [kubewarden/labels-policy](https://github.com/kubewarden/labels-policy/releases/tag/v0.1.1) – `v0.1.1` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/kubewarden/labels-policy/releases/tag/v0.1.1)
+- [rainbowatcher/toml-edit-js](https://github.com/rainbowatcher/toml-edit-js/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-08-20)  
+  🔗 [Release Notes](https://github.com/rainbowatcher/toml-edit-js/releases/tag/v0.6.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.11) – `v1.0.0-beta.11` (📅 2025-09-03)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.11)
 
 ## 🔹 Green-software
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.41.2) – `0.41.2` (📅 2025-09-15)  
   🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.41.2)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
-- [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
-  🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
