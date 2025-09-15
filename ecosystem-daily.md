@@ -13,14 +13,16 @@
   🔗 [Release Notes](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0)
 
 ## 🔹 Edge-computing
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.0)
 - [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.28) – `v0.2.28` (📅 2025-09-12)  
   🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.28)
 - [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [danieletorelli/golem-x](https://github.com/danieletorelli/golem-x/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-01-24)  
-  🔗 [Release Notes](https://github.com/danieletorelli/golem-x/releases/tag/v2.1.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.132) – `v0.8.132` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.132)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
