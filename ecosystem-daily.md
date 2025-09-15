@@ -7,20 +7,22 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [CQCL/guppylang](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.3) – `guppylang-v0.21.3` (📅 2025-08-19)  
-  🔗 [Release Notes](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.3)
-- [vprusso/toqito](https://github.com/vprusso/toqito/releases/tag/v1.1.2) – `v1.1.2` (📅 2025-05-13)  
-  🔗 [Release Notes](https://github.com/vprusso/toqito/releases/tag/v1.1.2)
+- [Qiskit/qiskit-serverless](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.25.4) – `v0.25.4` (📅 2025-08-06)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.25.4)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.1.2) – `2.1.2` (📅 2025-08-19)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.1.2)
 
 ## 🔹 Edge-computing
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
-- [open-horizon/anax](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1737) – `v2.32.0-1737` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1737)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.9) – `v2.11.9` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.9)
+- [paceval/paceval](https://github.com/paceval/paceval/releases/tag/v4.25-release) – `v4.25-release` (📅 2024-08-06)  
+  🔗 [Release Notes](https://github.com/paceval/paceval/releases/tag/v4.25-release)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.7.1) – `2.7.1` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.7.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
