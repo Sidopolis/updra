@@ -7,26 +7,22 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
+- [CQCL/tket2](https://github.com/CQCL/tket2/releases/tag/tket-py-v0.12.7) – `tket-py-v0.12.7` (📅 2025-09-12)  
+  🔗 [Release Notes](https://github.com/CQCL/tket2/releases/tag/tket-py-v0.12.7)
+- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1)
 - [QuEraComputing/bloqade](https://github.com/QuEraComputing/bloqade/releases/tag/v0.28.1) – `v0.28.1` (📅 2025-08-27)  
   🔗 [Release Notes](https://github.com/QuEraComputing/bloqade/releases/tag/v0.28.1)
-- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-09-05)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.1)
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.28) – `v0.2.28` (📅 2025-09-12)  
-  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.28)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.0) – `v0.9.0` (📅 2025-09-08)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.0)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.9) – `v2.11.9` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.9)
 
 ## 🔹 Webassembly
-- [rainbowatcher/toml-edit-js](https://github.com/rainbowatcher/toml-edit-js/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/rainbowatcher/toml-edit-js/releases/tag/v0.6.1)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.11) – `v1.0.0-beta.11` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.11)
+- [kubewarden/cel-policy](https://github.com/kubewarden/cel-policy/releases/tag/v1.3.6) – `v1.3.6` (📅 2025-09-15)  
+  🔗 [Release Notes](https://github.com/kubewarden/cel-policy/releases/tag/v1.3.6)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
