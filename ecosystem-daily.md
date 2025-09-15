@@ -7,20 +7,18 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
-- [Sadikur0240/linkedin-queens-solver](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0) – `3.0` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0)
+- [CQCL/guppylang](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.3) – `guppylang-v0.21.3` (📅 2025-08-19)  
+  🔗 [Release Notes](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.3)
+- [vprusso/toqito](https://github.com/vprusso/toqito/releases/tag/v1.1.2) – `v1.1.2` (📅 2025-05-13)  
+  🔗 [Release Notes](https://github.com/vprusso/toqito/releases/tag/v1.1.2)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.9) – `v2.11.9` (📅 2025-09-09)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.9)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
+- [open-horizon/anax](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1737) – `v2.32.0-1737` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1737)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 - [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
   🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
 
