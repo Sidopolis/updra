@@ -7,22 +7,26 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [wellclas/Veronica-X-Pro-open-source-code-2.0](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7) – `v2.7` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/wellclas/Veronica-X-Pro-open-source-code-2.0/releases/tag/v2.7)
-- [Sadikur0240/linkedin-queens-solver](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0) – `3.0` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/Sadikur0240/linkedin-queens-solver/releases/tag/3.0)
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
+- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
 
 ## 🔹 Edge-computing
-- [paceval/paceval](https://github.com/paceval/paceval/releases/tag/v4.25-release) – `v4.25-release` (📅 2024-08-06)  
-  🔗 [Release Notes](https://github.com/paceval/paceval/releases/tag/v4.25-release)
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0) – `v1.5.0` (📅 2023-06-15)  
+  🔗 [Release Notes](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.2.0) – `v3.2.0` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.2.0)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.6) – `v0.5.6` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.6)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
