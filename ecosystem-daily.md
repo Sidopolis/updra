@@ -7,22 +7,20 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
-  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
+- [pasqal-io/Pulser](https://github.com/pasqal-io/Pulser/releases/tag/v1.5.6) – `v1.5.6` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/pasqal-io/Pulser/releases/tag/v1.5.6)
+- [softwareQinc/staq](https://github.com/softwareQinc/staq/releases/tag/v3.5) – `v3.5` (📅 2024-03-08)  
+  🔗 [Release Notes](https://github.com/softwareQinc/staq/releases/tag/v3.5)
 
 ## 🔹 Edge-computing
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.11.9) – `v2.11.9` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.11.9)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.5.1) – `0.5.1` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.5.1)
+- [Wasted-Audio/hvcc](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.13.4) – `v0.13.4` (📅 2025-04-21)  
+  🔗 [Release Notes](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.13.4)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
