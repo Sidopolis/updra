@@ -5,18 +5,15 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
-- [paceval/paceval](https://github.com/paceval/paceval/releases/tag/v4.25-release) – `v4.25-release` (📅 2024-08-06)  
-  🔗 [Release Notes](https://github.com/paceval/paceval/releases/tag/v4.25-release)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.403) – `v3.0.403` (📅 2025-09-17)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.403)
-- [GLVis/glvis-js](https://github.com/GLVis/glvis-js/releases/tag/v0.3) – `v0.3` (📅 2024-10-01)  
-  🔗 [Release Notes](https://github.com/GLVis/glvis-js/releases/tag/v0.3)
+- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.7.4) – `v1.7.4` (📅 2025-09-14)  
+  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.7.4)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
