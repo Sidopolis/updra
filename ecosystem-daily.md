@@ -7,24 +7,26 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
 - [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
   🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
 
 ## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.29) – `v0.2.29` (📅 2025-09-16)  
+  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.29)
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.2) – `v2.2.2` (📅 2025-09-03)  
   🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.2)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.0)
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.33.0) – `v0.33.0` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.33.0)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.14) – `@liam-hq/cli@0.7.14` (📅 2025-09-17)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.14)
-- [onecoolx/picasso](https://github.com/onecoolx/picasso/releases/tag/v2.8.0) – `v2.8.0` (📅 2024-07-16)  
-  🔗 [Release Notes](https://github.com/onecoolx/picasso/releases/tag/v2.8.0)
-- [kubewarden/kwctl](https://github.com/kubewarden/kwctl/releases/tag/v1.28.1) – `v1.28.1` (📅 2025-08-29)  
-  🔗 [Release Notes](https://github.com/kubewarden/kwctl/releases/tag/v1.28.1)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.10.0) – `v9.10.0` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.10.0)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.6) – `v0.5.6` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.6)
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs/releases/tag/v0.6.4) – `v0.6.4` (📅 2025-09-18)  
+  🔗 [Release Notes](https://github.com/cloudflare/workers-rs/releases/tag/v0.6.4)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
