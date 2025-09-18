@@ -7,18 +7,16 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.96) – `v0.0.96` (📅 2025-09-16)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.96)
-- [CQCL/qnexus](https://github.com/CQCL/qnexus/releases/tag/v0.32.0) – `v0.32.0` (📅 2025-09-18)  
-  🔗 [Release Notes](https://github.com/CQCL/qnexus/releases/tag/v0.32.0)
+- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-v0.22.3) – `hugr-v0.22.3` (📅 2025-09-15)  
+  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-v0.22.3)
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.97) – `v0.0.97` (📅 2025-09-18)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.97)
+- [kpobrien/JosephsonCircuits.jl](https://github.com/kpobrien/JosephsonCircuits.jl/releases/tag/v0.4.19) – `v0.4.19` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/kpobrien/JosephsonCircuits.jl/releases/tag/v0.4.19)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-09-05)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.1)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
 
 ## 🔹 Webassembly
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
