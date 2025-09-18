@@ -3,31 +3,31 @@
 ## 🔹 Ai-ethics
 - [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit-serverless](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.26.0) – `v0.26.0` (📅 2025-09-17)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.26.0)
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
 
 ## 🔹 Edge-computing
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.30) – `v0.2.30` (📅 2025-09-18)  
-  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.30)
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.3) – `v0.0.3` (📅 2025-09-11)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.3)
-- [groundlight/edge-endpoint](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1) – `0.7.1` (📅 2025-06-11)  
-  🔗 [Release Notes](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.64.0) – `v0.64.0` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.64.0)
-- [petersalomonsen/quickjs-rust-near](https://github.com/petersalomonsen/quickjs-rust-near/releases/tag/v0.0.4) – `v0.0.4` (📅 2025-01-19)  
-  🔗 [Release Notes](https://github.com/petersalomonsen/quickjs-rust-near/releases/tag/v0.0.4)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2) – `v36.0.2` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v36.0.2)
 
 ## 🔹 Green-software
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.42.0) – `0.42.0` (📅 2025-09-18)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.42.0)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
