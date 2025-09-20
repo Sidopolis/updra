@@ -9,18 +9,18 @@
 ## 🔹 Quantum-computing
 - [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-08-01)  
   🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
+- [munich-quantum-toolkit/syrec](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v1.2.1) – `v1.2.1` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v1.2.1)
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.0)
 - [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.31) – `v0.2.31` (📅 2025-09-18)  
   🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.31)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.0)
 
 ## 🔹 Webassembly
-- [kubewarden/deprecated-api-versions-policy](https://github.com/kubewarden/deprecated-api-versions-policy/releases/tag/v1.0.4) – `v1.0.4` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/kubewarden/deprecated-api-versions-policy/releases/tag/v1.0.4)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.144) – `v3.0.144` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.144)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
