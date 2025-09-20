@@ -1,14 +1,13 @@
 # 🌐 Ecosystem Daily Log – 2025-09-20
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v4.2.0) – `v4.2.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v4.2.0)
+- [sarumaj/qiskit-state-evolution-recorder](https://github.com/sarumaj/qiskit-state-evolution-recorder/releases/tag/v1.0.1) – `v1.0.1` (📅 2025-07-21)  
+  🔗 [Release Notes](https://github.com/sarumaj/qiskit-state-evolution-recorder/releases/tag/v1.0.1)
+- [GraphQuantum/SDiagonalizability.jl](https://github.com/GraphQuantum/SDiagonalizability.jl/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/GraphQuantum/SDiagonalizability.jl/releases/tag/v0.1.3)
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -21,8 +20,8 @@
 ## 🔹 Webassembly
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.133) – `v0.8.133` (📅 2025-09-17)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.133)
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.0.1) – `v6.0.1` (📅 2025-05-09)  
-  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.0.1)
+- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v15.1.0) – `v15.1.0` (📅 2025-06-20)  
+  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v15.1.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
