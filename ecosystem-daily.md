@@ -1,13 +1,16 @@
 # 🌐 Ecosystem Daily Log – 2025-09-20
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [sarumaj/qiskit-state-evolution-recorder](https://github.com/sarumaj/qiskit-state-evolution-recorder/releases/tag/v1.0.1) – `v1.0.1` (📅 2025-07-21)  
-  🔗 [Release Notes](https://github.com/sarumaj/qiskit-state-evolution-recorder/releases/tag/v1.0.1)
-- [GraphQuantum/SDiagonalizability.jl](https://github.com/GraphQuantum/SDiagonalizability.jl/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/GraphQuantum/SDiagonalizability.jl/releases/tag/v0.1.3)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
+- [cevrechaussette/dev2foo](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3) – `v3.7.4-alpha.3` (📅 2025-04-29)  
+  🔗 [Release Notes](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3)
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -18,10 +21,10 @@
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
+- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v15.1.0) – `v15.1.0` (📅 2025-06-20)  
+  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v15.1.0)
 - [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.14) – `@liam-hq/cli@0.7.14` (📅 2025-09-17)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.14)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
