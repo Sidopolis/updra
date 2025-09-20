@@ -18,10 +18,10 @@
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.133) – `v0.8.133` (📅 2025-09-17)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.133)
-- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v15.1.0) – `v15.1.0` (📅 2025-06-20)  
-  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v15.1.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.14) – `@liam-hq/cli@0.7.14` (📅 2025-09-17)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.14)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
