@@ -9,16 +9,16 @@
   🔗 [Release Notes](https://github.com/Jayshah25/Quantum-Reinforcement-Learning/releases/tag/v0.1.0)
 
 ## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 - [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.31) – `v0.2.31` (📅 2025-09-18)  
   🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.31)
 - [draphy/nooxy](https://github.com/draphy/nooxy/releases/tag/nooxy%401.5.0) – `nooxy@1.5.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/draphy/nooxy/releases/tag/nooxy%401.5.0)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos/releases/tag/v0.8.9) – `v0.8.9` (📅 2025-09-18)  
+  🔗 [Release Notes](https://github.com/leptos-rs/leptos/releases/tag/v0.8.9)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
