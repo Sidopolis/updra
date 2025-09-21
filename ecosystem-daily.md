@@ -17,10 +17,7 @@
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [SamChou19815/samlang](https://github.com/SamChou19815/samlang/releases/tag/v0.10.1) – `v0.10.1` (📅 2024-02-25)  
-  🔗 [Release Notes](https://github.com/SamChou19815/samlang/releases/tag/v0.10.1)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
