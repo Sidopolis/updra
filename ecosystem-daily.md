@@ -4,24 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v5.0.0) – `v5.0.0` (📅 2025-09-21)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v5.0.0)
-- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v5.0.1) – `v5.0.1` (📅 2025-09-21)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v5.0.1)
 
 ## 🔹 Edge-computing
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-09-05)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.1)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [agda-web/agda-wasm-dist](https://github.com/agda-web/agda-wasm-dist/releases/tag/v2.8.0-ghc9.10.2-r0) – `v2.8.0-ghc9.10.2-r0` (📅 2025-09-21)  
-  🔗 [Release Notes](https://github.com/agda-web/agda-wasm-dist/releases/tag/v2.8.0-ghc9.10.2-r0)
-- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-09-09)  
-  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.0)
-- [gkd-kit/gkd](https://github.com/gkd-kit/gkd/releases/tag/v1.10.4) – `v1.10.4` (📅 2025-05-26)  
-  🔗 [Release Notes](https://github.com/gkd-kit/gkd/releases/tag/v1.10.4)
+- [zhaohappy/libmedia](https://github.com/zhaohappy/libmedia/releases/tag/v0.11.0) – `v0.11.0` (📅 2025-09-15)  
+  🔗 [Release Notes](https://github.com/zhaohappy/libmedia/releases/tag/v0.11.0)
+- [epam/Indigo](https://github.com/epam/Indigo/releases/tag/indigo-1.35.0) – `indigo-1.35.0` (📅 2025-09-18)  
+  🔗 [Release Notes](https://github.com/epam/Indigo/releases/tag/indigo-1.35.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
