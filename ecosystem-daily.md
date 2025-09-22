@@ -5,10 +5,8 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v5.1.0) – `v5.1.0` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v5.1.0)
-- [unitaryfoundation/mitiq](https://github.com/unitaryfoundation/mitiq/releases/tag/v0.47.0) – `v0.47.0` (📅 2025-09-09)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/mitiq/releases/tag/v0.47.0)
+- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.20.0) – `v1.20.0` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.20.0)
 - [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
 
@@ -17,14 +15,12 @@
   🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.4) – `v0.0.4` (📅 2025-09-22)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.4)
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.32) – `v0.2.32` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.32)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
-- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.27.0) – `v2.27.0` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.27.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.133) – `v0.8.133` (📅 2025-09-17)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.133)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.64.0) – `v0.64.0` (📅 2025-09-15)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.64.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
