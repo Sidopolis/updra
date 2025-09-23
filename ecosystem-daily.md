@@ -1,23 +1,24 @@
 # 🌐 Ecosystem Daily Log – 2025-09-23
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
-- [unitaryfoundation/mitiq](https://github.com/unitaryfoundation/mitiq/releases/tag/v0.47.0) – `v0.47.0` (📅 2025-09-09)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/mitiq/releases/tag/v0.47.0)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
 
 ## 🔹 Edge-computing
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.32) – `v0.2.32` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.32)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [yassineAbou/LLMS](https://github.com/yassineAbou/LLMS/releases/tag/Android) – `Android` (📅 2025-04-27)  
-  🔗 [Release Notes](https://github.com/yassineAbou/LLMS/releases/tag/Android)
+- [aous72/OpenJPH](https://github.com/aous72/OpenJPH/releases/tag/0.24.1) – `0.24.1` (📅 2025-09-23)  
+  🔗 [Release Notes](https://github.com/aous72/OpenJPH/releases/tag/0.24.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
