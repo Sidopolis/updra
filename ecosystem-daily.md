@@ -1,23 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2025-09-23
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
 - [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [epam/Indigo](https://github.com/epam/Indigo/releases/tag/indigo-1.35.0) – `indigo-1.35.0` (📅 2025-09-18)  
-  🔗 [Release Notes](https://github.com/epam/Indigo/releases/tag/indigo-1.35.0)
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.0.1) – `v6.0.1` (📅 2025-05-09)  
-  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.0.1)
+- [konsoletyper/teavm](https://github.com/konsoletyper/teavm/releases/tag/0.12.1) – `0.12.1` (📅 2025-05-29)  
+  🔗 [Release Notes](https://github.com/konsoletyper/teavm/releases/tag/0.12.1)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
