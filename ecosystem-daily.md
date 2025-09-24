@@ -5,26 +5,24 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v5.3.3) – `v5.3.3` (📅 2025-09-24)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v5.3.3)
 - [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
-- [jhpc-quantum/RIKEN-braket](https://github.com/jhpc-quantum/RIKEN-braket/releases/tag/v1.8.1) – `v1.8.1` (📅 2025-09-24)  
-  🔗 [Release Notes](https://github.com/jhpc-quantum/RIKEN-braket/releases/tag/v1.8.1)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.32) – `v0.2.32` (📅 2025-09-22)  
+  🔗 [Release Notes](https://github.com/NexaAI/nexa-sdk/releases/tag/v0.2.32)
 - [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.0) – `v0.34.0` (📅 2025-09-11)  
   🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.0)
-- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0) – `v1.5.0` (📅 2023-06-15)  
-  🔗 [Release Notes](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.0) – `v2.12.0` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.0)
 
 ## 🔹 Webassembly
-- [grafbase/grafbase](https://github.com/grafbase/grafbase/releases/tag/grafbase-0.102.5) – `grafbase-0.102.5` (📅 2025-09-24)  
-  🔗 [Release Notes](https://github.com/grafbase/grafbase/releases/tag/grafbase-0.102.5)
-- [mmomtchev/ol-mbtiles](https://github.com/mmomtchev/ol-mbtiles/releases/tag/v3.3.0) – `v3.3.0` (📅 2025-02-03)  
-  🔗 [Release Notes](https://github.com/mmomtchev/ol-mbtiles/releases/tag/v3.3.0)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
+- [yamt/toywasm](https://github.com/yamt/toywasm/releases/tag/v71.0.0) – `v71.0.0` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/yamt/toywasm/releases/tag/v71.0.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
