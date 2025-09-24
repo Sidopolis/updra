@@ -1,29 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2025-09-24
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit-addon-cutting](https://github.com/Qiskit/qiskit-addon-cutting/releases/tag/0.10.0) – `0.10.0` (📅 2025-03-28)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit-addon-cutting/releases/tag/0.10.0)
-- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
-- [Infleqtion/client-superstaq](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.50) – `v0.5.50` (📅 2025-09-18)  
-  🔗 [Release Notes](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.50)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 - [abbychau/gtsdb](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0) – `v1.5.0` (📅 2025-03-05)  
   🔗 [Release Notes](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [layer5io/wasm-filters](https://github.com/layer5io/wasm-filters/releases/tag/v0.2.3) – `v0.2.3` (📅 2023-07-21)  
-  🔗 [Release Notes](https://github.com/layer5io/wasm-filters/releases/tag/v0.2.3)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
