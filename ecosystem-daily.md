@@ -7,10 +7,10 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
 - [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
+- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
+  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -21,8 +21,10 @@
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [dylibso/chicory](https://github.com/dylibso/chicory/releases/tag/1.5.1) – `1.5.1` (📅 2025-07-07)  
-  🔗 [Release Notes](https://github.com/dylibso/chicory/releases/tag/1.5.1)
+- [grafbase/grafbase](https://github.com/grafbase/grafbase/releases/tag/grafbase-0.102.5) – `grafbase-0.102.5` (📅 2025-09-24)  
+  🔗 [Release Notes](https://github.com/grafbase/grafbase/releases/tag/grafbase-0.102.5)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
