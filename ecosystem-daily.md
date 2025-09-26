@@ -9,22 +9,22 @@
   🔗 [Release Notes](https://github.com/aloth/JudgeGPT/releases/tag/v1.0.2)
 
 ## 🔹 Quantum-computing
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
-- [cevrechaussette/dev2foo](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3) – `v3.7.4-alpha.3` (📅 2025-04-29)  
-  🔗 [Release Notes](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v.5.4.6) – `v.5.4.6` (📅 2025-09-26)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v.5.4.6)
+- [unitaryfoundation/qlass](https://github.com/unitaryfoundation/qlass/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-30)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qlass/releases/tag/v0.1.3)
+- [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning/releases/tag/v0.42.0) – `v0.42.0` (📅 2025-07-14)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane-lightning/releases/tag/v0.42.0)
 
 ## 🔹 Edge-computing
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.0) – `v0.9.0` (📅 2025-09-08)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.0)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.0) – `v2.12.0` (📅 2025-09-22)  
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.0)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.413) – `v3.0.413` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.413)
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.5.1) – `0.5.1` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.5.1)
+- [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm/releases/tag/v1.30.0) – `v1.30.0` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/duckdb/duckdb-wasm/releases/tag/v1.30.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
