@@ -8,10 +8,13 @@
   🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.23) – `v1.23` (📅 2025-07-12)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.23)
+- [eyereasoner/eye-js](https://github.com/eyereasoner/eye-js/releases/tag/v18.20.1) – `v18.20.1` (📅 2025-09-27)  
+  🔗 [Release Notes](https://github.com/eyereasoner/eye-js/releases/tag/v18.20.1)
 - [dineshdb/wasic](https://github.com/dineshdb/wasic/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-09-26)  
   🔗 [Release Notes](https://github.com/dineshdb/wasic/releases/tag/v0.1.0)
 
