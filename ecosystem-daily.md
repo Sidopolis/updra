@@ -5,7 +5,8 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.1) – `v6.1.1` (📅 2025-09-25)  
@@ -16,12 +17,12 @@
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
+- [gluesql/gluesql](https://github.com/gluesql/gluesql/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-06-21)  
+  🔗 [Release Notes](https://github.com/gluesql/gluesql/releases/tag/v0.18.0)
 - [yamt/toywasm](https://github.com/yamt/toywasm/releases/tag/v71.0.0) – `v71.0.0` (📅 2025-08-24)  
   🔗 [Release Notes](https://github.com/yamt/toywasm/releases/tag/v71.0.0)
 - [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.10.3) – `v9.10.3` (📅 2025-09-28)  
   🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.10.3)
-- [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm/releases/tag/v0.8.3) – `v0.8.3` (📅 2025-07-28)  
-  🔗 [Release Notes](https://github.com/container2wasm/container2wasm/releases/tag/v0.8.3)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
