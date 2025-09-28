@@ -9,21 +9,25 @@
   🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.33.0) – `v0.33.0` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.33.0)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v2.250830.1233) – `v2.250830.1233` (📅 2025-08-30)  
-  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v2.250830.1233)
+- [orhun/ratzilla](https://github.com/orhun/ratzilla/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-06-13)  
+  🔗 [Release Notes](https://github.com/orhun/ratzilla/releases/tag/v0.1.0)
+- [gluesql/gluesql](https://github.com/gluesql/gluesql/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-06-21)  
+  🔗 [Release Notes](https://github.com/gluesql/gluesql/releases/tag/v0.18.0)
+- [Wasted-Audio/hvcc](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.14.0) – `v0.14.0` (📅 2025-09-19)  
+  🔗 [Release Notes](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.14.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.43.1) – `0.43.1` (📅 2025-09-28)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.43.1)
 - [carbonintensityio/scheduler](https://github.com/carbonintensityio/scheduler/releases/tag/v0.8.0) – `v0.8.0` (📅 2025-09-27)  
   🔗 [Release Notes](https://github.com/carbonintensityio/scheduler/releases/tag/v0.8.0)
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2) – `v2.2` (📅 2025-08-05)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.2)
