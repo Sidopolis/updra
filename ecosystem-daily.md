@@ -5,24 +5,26 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qecc](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-03-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0)
-- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-v0.22.4) – `hugr-v0.22.4` (📅 2025-09-24)  
-  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-v0.22.4)
 - [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v6.1.2) – `v6.1.2` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v6.1.2)
+- [satwiksps/quantum-enhanced-MLOps](https://github.com/satwiksps/quantum-enhanced-MLOps/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/satwiksps/quantum-enhanced-MLOps/releases/tag/v1.1.0)
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1)
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
+- [edgee-cloud/edgee](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.23) – `v1.2.23` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.23)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.133) – `v0.8.133` (📅 2025-09-17)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.133)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.65.0) – `v0.65.0` (📅 2025-09-22)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.65.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
+- [wasm-fmt/clang-format](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.1) – `v21.1.1` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
