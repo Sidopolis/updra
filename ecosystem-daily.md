@@ -5,24 +5,20 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [satwiksps/quantum-enhanced-MLOps](https://github.com/satwiksps/quantum-enhanced-MLOps/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/satwiksps/quantum-enhanced-MLOps/releases/tag/v1.1.0)
 - [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
+- [pasqal-io/Pulser](https://github.com/pasqal-io/Pulser/releases/tag/v1.5.7) – `v1.5.7` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/pasqal-io/Pulser/releases/tag/v1.5.7)
 
 ## 🔹 Edge-computing
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.0) – `v2.12.0` (📅 2025-09-22)  
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.0)
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.8.0) – `2.8.0` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.8.0)
-- [BlackAsLight/setup-wabt](https://github.com/BlackAsLight/setup-wabt/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/BlackAsLight/setup-wabt/releases/tag/v1.2.0)
+- [dylibso/chicory](https://github.com/dylibso/chicory/releases/tag/1.5.1) – `1.5.1` (📅 2025-07-07)  
+  🔗 [Release Notes](https://github.com/dylibso/chicory/releases/tag/1.5.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
