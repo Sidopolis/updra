@@ -5,24 +5,24 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [dwavesystems/dwave-ocean-sdk](https://github.com/dwavesystems/dwave-ocean-sdk/releases/tag/9.0.0) – `9.0.0` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/dwavesystems/dwave-ocean-sdk/releases/tag/9.0.0)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
-- [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning/releases/tag/v0.42.0) – `v0.42.0` (📅 2025-07-14)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane-lightning/releases/tag/v0.42.0)
+- [munich-quantum-toolkit/qecc](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-03-14)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0)
+- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-v0.22.4) – `hugr-v0.22.4` (📅 2025-09-24)  
+  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-v0.22.4)
+- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh-python](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.5.1)
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1)
 
 ## 🔹 Webassembly
-- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm/releases/tag/v3.0.2) – `v3.0.2` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/CosmWasm/cosmwasm/releases/tag/v3.0.2)
-- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.1) – `v3.3.1` (📅 2025-09-19)  
-  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.133) – `v0.8.133` (📅 2025-09-17)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.133)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
