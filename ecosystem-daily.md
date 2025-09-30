@@ -1,35 +1,34 @@
 # 🌐 Ecosystem Daily Log – 2025-09-30
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
-- [unitaryfoundation/metriq-gym](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.3.1) – `v0.3.1` (📅 2025-08-15)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.3.1)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
+- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.4) – `v0.0.4` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.4)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 - [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
   🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
-- [FluidInference/mobius](https://github.com/FluidInference/mobius/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-09-26)  
-  🔗 [Release Notes](https://github.com/FluidInference/mobius/releases/tag/v0.0.1)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.152) – `v3.0.152` (📅 2025-09-30)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.152)
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.417) – `v3.0.417` (📅 2025-09-30)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v3.0.417)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
+- [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.239.0) – `v1.239.0` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.239.0)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
+- [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1) – `v4.12.1` (📅 2025-07-16)  
+  🔗 [Release Notes](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1)
 
 ## 🔹 Green-software
-- [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
-  🔗 [Release Notes](https://github.com/kube-green/kube-green/releases/tag/v0.7.1)
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
-- [genai-impact/ecologits](https://github.com/genai-impact/ecologits/releases/tag/0.8.2) – `0.8.2` (📅 2025-08-16)  
-  🔗 [Release Notes](https://github.com/genai-impact/ecologits/releases/tag/0.8.2)
+- [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
+  🔗 [Release Notes](https://github.com/kube-green/kube-green/releases/tag/v0.7.1)
