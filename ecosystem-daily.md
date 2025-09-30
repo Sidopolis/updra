@@ -1,34 +1,30 @@
 # 🌐 Ecosystem Daily Log – 2025-09-30
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 - [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [CQCL/tierkreis](https://github.com/CQCL/tierkreis/releases/tag/v2.0.3) – `v2.0.3` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/CQCL/tierkreis/releases/tag/v2.0.3)
-- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
-- [CQCL/guppylang](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.5) – `guppylang-v0.21.5` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.5)
+- [CQCL/tket2](https://github.com/CQCL/tket2/releases/tag/tket-qsystem-v0.21.0) – `tket-qsystem-v0.21.0` (📅 2025-09-15)  
+  🔗 [Release Notes](https://github.com/CQCL/tket2/releases/tag/tket-qsystem-v0.21.0)
+- [qua-platform/qualibrate](https://github.com/qua-platform/qualibrate/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-05-16)  
+  🔗 [Release Notes](https://github.com/qua-platform/qualibrate/releases/tag/v0.2.2)
+- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-v0.22.4) – `hugr-v0.22.4` (📅 2025-09-24)  
+  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-v0.22.4)
 
 ## 🔹 Edge-computing
-- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta) – `v0.4.4-beta` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.0) – `v2.12.0` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.0)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
-- [dylibso/chicory](https://github.com/dylibso/chicory/releases/tag/1.5.1) – `1.5.1` (📅 2025-07-07)  
-  🔗 [Release Notes](https://github.com/dylibso/chicory/releases/tag/1.5.1)
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.16) – `@liam-hq/cli@0.7.16` (📅 2025-09-25)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.16)
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone/releases/tag/6.0.0-Alpha5) – `6.0.0-Alpha5` (📅 2025-08-05)  
+  🔗 [Release Notes](https://github.com/capstone-engine/capstone/releases/tag/6.0.0-Alpha5)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0) – `0.36.0` (📅 2025-09-11)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
