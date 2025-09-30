@@ -3,14 +3,9 @@
 ## 🔹 Ai-ethics
 - [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -21,8 +16,8 @@
 ## 🔹 Webassembly
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v37.0.1) – `v37.0.1` (📅 2025-09-23)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v37.0.1)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.8.0) – `2.8.0` (📅 2025-09-15)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.8.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
