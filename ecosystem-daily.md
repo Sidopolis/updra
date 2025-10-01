@@ -1,22 +1,27 @@
 # 🌐 Ecosystem Daily Log – 2025-10-01
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.99) – `v0.0.99` (📅 2025-09-23)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.99)
+- [dwavesystems/dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.14.0) – `0.14.0` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.14.0)
+- [CQCL/tierkreis](https://github.com/CQCL/tierkreis/releases/tag/v2.0.5) – `v2.0.5` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/CQCL/tierkreis/releases/tag/v2.0.5)
+- [TNO-Quantum/problems.portfolio_optimization](https://github.com/TNO-Quantum/problems.portfolio_optimization/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-05-13)  
+  🔗 [Release Notes](https://github.com/TNO-Quantum/problems.portfolio_optimization/releases/tag/v2.0.0)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [theo-dep/wasm-dom](https://github.com/theo-dep/wasm-dom/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-08-03)  
-  🔗 [Release Notes](https://github.com/theo-dep/wasm-dom/releases/tag/v0.1.0)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.12) – `v1.0.0-beta.12` (📅 2025-09-23)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.12)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.1.5)
+- [kubewarden/readonly-root-filesystem-psp-policy](https://github.com/kubewarden/readonly-root-filesystem-psp-policy/releases/tag/v1.0.5) – `v1.0.5` (📅 2025-09-15)  
+  🔗 [Release Notes](https://github.com/kubewarden/readonly-root-filesystem-psp-policy/releases/tag/v1.0.5)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
