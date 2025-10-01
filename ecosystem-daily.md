@@ -5,22 +5,26 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
-  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
+- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
 
 ## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 - [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.1)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.134) – `v0.8.134` (📅 2025-09-30)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.134)
-- [aous72/OpenJPH](https://github.com/aous72/OpenJPH/releases/tag/0.24.1) – `0.24.1` (📅 2025-09-23)  
-  🔗 [Release Notes](https://github.com/aous72/OpenJPH/releases/tag/0.24.1)
+- [wasm-fmt/clang-format](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.1) – `v21.1.1` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.1)
+- [InsightSoftwareConsortium/ITK-Wasm](https://github.com/InsightSoftwareConsortium/ITK-Wasm/releases/tag/v14.1.1) – `v14.1.1` (📅 2021-06-15)  
+  🔗 [Release Notes](https://github.com/InsightSoftwareConsortium/ITK-Wasm/releases/tag/v14.1.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
