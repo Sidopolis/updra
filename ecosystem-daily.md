@@ -1,25 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2025-10-01
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
-- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
-- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1)
 
 ## 🔹 Edge-computing
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.0) – `v2.12.0` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.0)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-09-05)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.1)
 
 ## 🔹 Webassembly
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 - [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.12) – `v1.0.0-beta.12` (📅 2025-09-23)  
   🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.12)
 
