@@ -1,15 +1,16 @@
 # 🌐 Ecosystem Daily Log – 2025-10-01
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [rigetti/qcs-sdk-qir](https://github.com/rigetti/qcs-sdk-qir/releases/tag/v0.3.0-alpha1) – `v0.3.0-alpha1` (📅 2025-09-30)  
-  🔗 [Release Notes](https://github.com/rigetti/qcs-sdk-qir/releases/tag/v0.3.0-alpha1)
-- [EQuS/jaxquantum](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-08-18)  
-  🔗 [Release Notes](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.2)
+- [vprusso/toqito](https://github.com/vprusso/toqito/releases/tag/v1.1.2) – `v1.1.2` (📅 2025-05-13)  
+  🔗 [Release Notes](https://github.com/vprusso/toqito/releases/tag/v1.1.2)
 - [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
+- [rigetti/qcs-sdk-qir](https://github.com/rigetti/qcs-sdk-qir/releases/tag/v0.3.0-alpha1) – `v0.3.0-alpha1` (📅 2025-09-30)  
+  🔗 [Release Notes](https://github.com/rigetti/qcs-sdk-qir/releases/tag/v0.3.0-alpha1)
 
 ## 🔹 Edge-computing
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.5) – `v0.0.5` (📅 2025-09-30)  
@@ -20,10 +21,8 @@
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.7) – `v0.5.7` (📅 2025-09-18)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.7)
-- [mmomtchev/ol-mbtiles](https://github.com/mmomtchev/ol-mbtiles/releases/tag/v3.3.0) – `v3.3.0` (📅 2025-02-03)  
-  🔗 [Release Notes](https://github.com/mmomtchev/ol-mbtiles/releases/tag/v3.3.0)
+- [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.29.0) – `v1.29.0` (📅 2025-09-30)  
+  🔗 [Release Notes](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.29.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
