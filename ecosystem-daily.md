@@ -1,29 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2025-10-01
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.1) – `2.2.1` (📅 2025-09-26)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.1)
 - [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [JuliaQuantumControl/QuantumControl.jl](https://github.com/JuliaQuantumControl/QuantumControl.jl/releases/tag/v0.11.3) – `v0.11.3` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/JuliaQuantumControl/QuantumControl.jl/releases/tag/v0.11.3)
 
 ## 🔹 Edge-computing
 - [groundlight/edge-endpoint](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1) – `0.7.1` (📅 2025-06-11)  
   🔗 [Release Notes](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1)
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-09-05)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.1)
 
 ## 🔹 Webassembly
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.0.1) – `v6.0.1` (📅 2025-05-09)  
-  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.0.1)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v37.0.1) – `v37.0.1` (📅 2025-09-23)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v37.0.1)
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.8.0) – `2.8.0` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.8.0)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
 
 ## 🔹 Green-software
 - [carbonintensityio/scheduler](https://github.com/carbonintensityio/scheduler/releases/tag/v0.8.1) – `v0.8.1` (📅 2025-10-01)  
