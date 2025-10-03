@@ -1,14 +1,13 @@
 # 🌐 Ecosystem Daily Log – 2025-10-03
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qiboteam/qibolab](https://github.com/qiboteam/qibolab/releases/tag/v0.2.9) – `v0.2.9` (📅 2025-08-22)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibolab/releases/tag/v0.2.9)
-- [amazon-braket/amazon-braket-sdk-python](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.102.5) – `v1.102.5` (📅 2025-10-03)  
-  🔗 [Release Notes](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.102.5)
+- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
+- [quantumlib/Qualtran](https://github.com/quantumlib/Qualtran/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-04-01)  
+  🔗 [Release Notes](https://github.com/quantumlib/Qualtran/releases/tag/v0.6.0)
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -17,12 +16,14 @@
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1)
 
 ## 🔹 Webassembly
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.2.58) – `6.2.58` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.2.58)
-- [havit/Havit.Blazor](https://github.com/havit/Havit.Blazor/releases/tag/v4.15.1) – `v4.15.1` (📅 2025-09-19)  
-  🔗 [Release Notes](https://github.com/havit/Havit.Blazor/releases/tag/v4.15.1)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v37.0.1) – `v37.0.1` (📅 2025-09-23)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v37.0.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
 ## 🔹 Green-software
+- [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
+  🔗 [Release Notes](https://github.com/kube-green/kube-green/releases/tag/v0.7.1)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
