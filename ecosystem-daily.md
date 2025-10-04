@@ -1,26 +1,25 @@
-# 🌐 Ecosystem Daily Log – 2025-10-03
+# 🌐 Ecosystem Daily Log – 2025-10-04
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
+  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
+- [munich-quantum-toolkit/ddsim](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.0.0)
 
 ## 🔹 Edge-computing
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.1)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.1)
+- [eclipse-zenoh/zenoh-plugin-dds](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.1)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.134) – `v0.8.134` (📅 2025-09-30)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.134)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
+- [libraries/pywasm](https://github.com/libraries/pywasm/releases/tag/v2.2.1) – `v2.2.1` (📅 2025-09-25)  
+  🔗 [Release Notes](https://github.com/libraries/pywasm/releases/tag/v2.2.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
