@@ -7,20 +7,20 @@
 ## 🔹 Quantum-computing
 - [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 - [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
   🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.134) – `v0.8.134` (📅 2025-09-30)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.134)
-- [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1) – `v4.12.1` (📅 2025-07-16)  
-  🔗 [Release Notes](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1)
-- [konsoletyper/teavm](https://github.com/konsoletyper/teavm/releases/tag/0.12.1) – `0.12.1` (📅 2025-05-29)  
-  🔗 [Release Notes](https://github.com/konsoletyper/teavm/releases/tag/0.12.1)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
