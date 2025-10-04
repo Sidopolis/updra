@@ -1,11 +1,13 @@
 # 🌐 Ecosystem Daily Log – 2025-10-04
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v7.0.2) – `v7.0.2` (📅 2025-10-03)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v7.0.2)
+- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.6) – `v0.0.6` (📅 2025-10-02)  
