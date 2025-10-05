@@ -4,8 +4,6 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v7.4.4) – `v7.4.4` (📅 2025-10-05)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v7.4.4)
 - [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
 
@@ -16,8 +14,8 @@
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.1) – `v0.2.1` (📅 2025-10-04)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.1)
+- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-09-25)  
+  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
