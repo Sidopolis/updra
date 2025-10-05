@@ -6,16 +6,16 @@
 ## 🔹 Quantum-computing
 - [Jayshah25/Quantum-Reinforcement-Learning](https://github.com/Jayshah25/Quantum-Reinforcement-Learning/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-08-31)  
   🔗 [Release Notes](https://github.com/Jayshah25/Quantum-Reinforcement-Learning/releases/tag/v0.1.0)
+- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-10-05)  
-  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.6.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.134) – `v0.8.134` (📅 2025-09-30)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.134)
 - [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.6.0) – `0.6.0` (📅 2025-09-30)  
   🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.6.0)
 
