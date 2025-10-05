@@ -1,7 +1,8 @@
 # 🌐 Ecosystem Daily Log – 2025-10-05
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
 - [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
@@ -12,8 +13,8 @@
   🔗 [Release Notes](https://github.com/paceval/paceval/releases/tag/v4.25-release)
 
 ## 🔹 Webassembly
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-09-25)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.135) – `v0.8.135` (📅 2025-10-05)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.135)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
