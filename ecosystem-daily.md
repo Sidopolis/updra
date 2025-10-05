@@ -4,8 +4,10 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v7.4.3) – `v7.4.3` (📅 2025-10-05)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v7.4.3)
+- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.2) – `v6.1.2` (📅 2025-10-01)  
@@ -16,12 +18,10 @@
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
+- [themattspiral/fast-prng-wasm](https://github.com/themattspiral/fast-prng-wasm/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-10-05)  
+  🔗 [Release Notes](https://github.com/themattspiral/fast-prng-wasm/releases/tag/v0.7.0)
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.134) – `v0.8.134` (📅 2025-09-30)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.134)
-- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.28.3) – `0.28.3` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.28.3)
-- [pyodide/micropip](https://github.com/pyodide/micropip/releases/tag/0.10.1) – `0.10.1` (📅 2025-07-05)  
-  🔗 [Release Notes](https://github.com/pyodide/micropip/releases/tag/0.10.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
