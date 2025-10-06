@@ -1,31 +1,35 @@
 # 🌐 Ecosystem Daily Log – 2025-10-06
 
 ## 🔹 Ai-ethics
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 - [MakaraNZ/hep-sacred-pou-evolutionary-integrity](https://github.com/MakaraNZ/hep-sacred-pou-evolutionary-integrity/releases/tag/v1.1-pou-law-xiii) – `v1.1-pou-law-xiii` (📅 2025-10-06)  
   🔗 [Release Notes](https://github.com/MakaraNZ/hep-sacred-pou-evolutionary-integrity/releases/tag/v1.1-pou-law-xiii)
 
 ## 🔹 Quantum-computing
-- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
-- [SegusFaultise/qcs](https://github.com/SegusFaultise/qcs/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-10-06)  
-  🔗 [Release Notes](https://github.com/SegusFaultise/qcs/releases/tag/v1.0.0)
-- [qiboteam/qibo](https://github.com/qiboteam/qibo/releases/tag/v0.2.21) – `v0.2.21` (📅 2025-09-19)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibo/releases/tag/v0.2.21)
+- [cevrechaussette/dev2foo](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3) – `v3.7.4-alpha.3` (📅 2025-04-29)  
+  🔗 [Release Notes](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3)
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
-- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.0) – `v0.34.0` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.0)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra/releases/tag/V3.2.0) – `V3.2.0` (📅 2025-08-07)  
-  🔗 [Release Notes](https://github.com/SheepChef/Abracadabra/releases/tag/V3.2.0)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.135) – `v0.8.135` (📅 2025-10-05)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.135)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
+- [whatchamacallem/hatchlingplatform](https://github.com/whatchamacallem/hatchlingplatform/releases/tag/v3.8.0) – `v3.8.0` (📅 2025-09-13)  
+  🔗 [Release Notes](https://github.com/whatchamacallem/hatchlingplatform/releases/tag/v3.8.0)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.12) – `@liam-hq/erd-core@0.6.12` (📅 2025-10-02)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.12)
 
 ## 🔹 Green-software
-- [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
-  🔗 [Release Notes](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
+- [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
+  🔗 [Release Notes](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2)
