@@ -1,25 +1,32 @@
 # 🌐 Ecosystem Daily Log – 2025-10-06
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
+- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
+- [unitaryfoundation/metriq-gym](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-09-30)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.4.0)
 
 ## 🔹 Edge-computing
-- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.1) – `v0.9.1` (📅 2025-09-26)  
-  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.1)
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
+- [simpleiot/simpleiot](https://github.com/simpleiot/simpleiot/releases/tag/v0.18.5) – `v0.18.5` (📅 2025-09-05)  
+  🔗 [Release Notes](https://github.com/simpleiot/simpleiot/releases/tag/v0.18.5)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.1.2) – `v6.1.2` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.1.2)
 
 ## 🔹 Webassembly
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.66.0) – `v0.66.0` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.66.0)
+- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs/releases/tag/py-v0.5.3) – `py-v0.5.3` (📅 2025-09-25)  
+  🔗 [Release Notes](https://github.com/geoarrow/geoarrow-rs/releases/tag/py-v0.5.3)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.8.0) – `2.8.0` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.8.0)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
