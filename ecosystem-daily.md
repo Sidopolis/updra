@@ -1,21 +1,27 @@
 # 🌐 Ecosystem Daily Log – 2025-10-07
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [itsubaki/q](https://github.com/itsubaki/q/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/itsubaki/q/releases/tag/v0.0.9)
+- [unitaryfoundation/mitiq](https://github.com/unitaryfoundation/mitiq/releases/tag/v0.47.0) – `v0.47.0` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/mitiq/releases/tag/v0.47.0)
+
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.6) – `v0.0.6` (📅 2025-10-02)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.6)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.7) – `v0.0.7` (📅 2025-10-07)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.7)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
+- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta) – `v0.4.4-beta` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.239.0) – `v1.239.0` (📅 2025-09-09)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.239.0)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.152) – `v3.0.152` (📅 2025-09-30)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.152)
+- [wasimoff/wasimoff](https://github.com/wasimoff/wasimoff/releases/tag/starless24-artifact-amend-docker) – `starless24-artifact-amend-docker` (📅 2024-02-08)  
+  🔗 [Release Notes](https://github.com/wasimoff/wasimoff/releases/tag/starless24-artifact-amend-docker)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
