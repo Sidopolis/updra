@@ -5,18 +5,22 @@
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [4thwaveai-feeds/4thwaveai-feeds](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thwaveai-feeds/4thwaveai-feeds/releases/tag/v1.0.0)
+- [aws-cqc/DeviceLayout.jl](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.4.2) – `v1.4.2` (📅 2025-07-17)  
+  🔗 [Release Notes](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.4.2)
+- [munich-quantum-toolkit/ddsim](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.0.0)
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.7) – `v0.0.7` (📅 2025-10-07)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.7)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [good-lly/s3mini](https://github.com/good-lly/s3mini/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-08-25)  
+  🔗 [Release Notes](https://github.com/good-lly/s3mini/releases/tag/v0.5.0)
 
 ## 🔹 Webassembly
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.0.1) – `v6.0.1` (📅 2025-05-09)  
-  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.0.1)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.153) – `v3.0.153` (📅 2025-10-07)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.153)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.1) – `v0.2.1` (📅 2025-10-04)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
