@@ -1,24 +1,30 @@
 # 🌐 Ecosystem Daily Log – 2025-10-08
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [Infleqtion/client-superstaq](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.51) – `v0.5.51` (📅 2025-09-24)  
-  🔗 [Release Notes](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.51)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.0.2) – `v8.0.2` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.0.2)
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [UCL-CCS/Nbed](https://github.com/UCL-CCS/Nbed/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-07-17)  
+  🔗 [Release Notes](https://github.com/UCL-CCS/Nbed/releases/tag/v0.0.9)
 
 ## 🔹 Edge-computing
+- [brendadeeznuts1111/betting-brain-v3](https://github.com/brendadeeznuts1111/betting-brain-v3/releases/tag/v3.2.0) – `v3.2.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/brendadeeznuts1111/betting-brain-v3/releases/tag/v3.2.0)
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.7) – `v0.0.7` (📅 2025-10-07)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.7)
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-09-05)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.1)
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [pongasoft/emscripten-glfw](https://github.com/pongasoft/emscripten-glfw/releases/tag/v3.4.0.20250927) – `v3.4.0.20250927` (📅 2025-09-27)  
+  🔗 [Release Notes](https://github.com/pongasoft/emscripten-glfw/releases/tag/v3.4.0.20250927)
+- [kubewarden/image-cve-policy](https://github.com/kubewarden/image-cve-policy/releases/tag/v0.2.3) – `v0.2.3` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/kubewarden/image-cve-policy/releases/tag/v0.2.3)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.154) – `v3.0.154` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v3.0.154)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
