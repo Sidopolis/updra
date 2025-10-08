@@ -4,22 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-v0.23.0) – `hugr-v0.23.0` (📅 2025-09-30)  
-  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-v0.23.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [dwavesystems/dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.14.0) – `0.14.0` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.14.0)
 
 ## 🔹 Edge-computing
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.7) – `v0.0.7` (📅 2025-10-07)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.7)
 - [brendadeeznuts1111/betting-brain-v3](https://github.com/brendadeeznuts1111/betting-brain-v3/releases/tag/v3.2.0) – `v3.2.0` (📅 2025-10-08)  
   🔗 [Release Notes](https://github.com/brendadeeznuts1111/betting-brain-v3/releases/tag/v3.2.0)
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1)
 
 ## 🔹 Webassembly
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.2.58) – `6.2.58` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.2.58)
-- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect/releases/tag/v2.16.0) – `v2.16.0` (📅 2025-10-03)  
-  🔗 [Release Notes](https://github.com/huacnlee/autocorrect/releases/tag/v2.16.0)
-- [kubewarden/kwctl](https://github.com/kubewarden/kwctl/releases/tag/v1.29.0) – `v1.29.0` (📅 2025-09-30)  
-  🔗 [Release Notes](https://github.com/kubewarden/kwctl/releases/tag/v1.29.0)
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.7.0) – `0.7.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.7.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
