@@ -1,30 +1,29 @@
 # 🌐 Ecosystem Daily Log – 2025-10-08
 
 ## 🔹 Ai-ethics
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [cevrechaussette/dev2foo](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3) – `v3.7.4-alpha.3` (📅 2025-04-29)  
-  🔗 [Release Notes](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3)
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
-- [Budapest-Quantum-Computing-Group/piquasso](https://github.com/Budapest-Quantum-Computing-Group/piquasso/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-09-03)  
-  🔗 [Release Notes](https://github.com/Budapest-Quantum-Computing-Group/piquasso/releases/tag/v6.2.0)
+- [unitaryfoundation/qlass](https://github.com/unitaryfoundation/qlass/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qlass/releases/tag/v0.1.4)
+- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1)
+- [UCL-CCS/ferrmion](https://github.com/UCL-CCS/ferrmion/releases/tag/0.1.1) – `0.1.1` (📅 2025-09-30)  
+  🔗 [Release Notes](https://github.com/UCL-CCS/ferrmion/releases/tag/0.1.1)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.0) – `v2.12.0` (📅 2025-09-22)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.0)
+- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta) – `v0.4.4-beta` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.4.4-beta)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.12) – `@liam-hq/erd-core@0.6.12` (📅 2025-10-02)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.12)
-- [gkd-kit/gkd](https://github.com/gkd-kit/gkd/releases/tag/v1.10.4) – `v1.10.4` (📅 2025-05-26)  
-  🔗 [Release Notes](https://github.com/gkd-kit/gkd/releases/tag/v1.10.4)
-- [edgee-cloud/edgee](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.24) – `v1.2.24` (📅 2025-10-02)  
-  🔗 [Release Notes](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.24)
+- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.1.6) – `0.1.6` (📅 2025-07-12)  
+  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.1.6)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.8.0) – `2.8.0` (📅 2025-09-15)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.8.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
