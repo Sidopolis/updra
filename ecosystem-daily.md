@@ -1,27 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2025-10-09
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [munich-quantum-toolkit/.github](https://github.com/munich-quantum-toolkit/.github/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-03-29)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/.github/releases/tag/v1.2.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [edgee-cloud/edgee](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.25) – `v1.2.25` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.25)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.2)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/schema%400.6.0) – `@liam-hq/schema@0.6.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/schema%400.6.0)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [edgee-cloud/edgee](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.25) – `v1.2.25` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.25)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
