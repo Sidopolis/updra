@@ -7,16 +7,19 @@
 ## 🔹 Quantum-computing
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.21.0) – `v1.21.0` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.21.0)
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.7) – `v0.0.7` (📅 2025-10-07)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.7)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
+- [wybthon/wybthon](https://github.com/wybthon/wybthon/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/wybthon/wybthon/releases/tag/v0.4.0)
+- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.2) – `v3.3.2` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.2)
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs/releases/tag/v0.6.6) – `v0.6.6` (📅 2025-09-24)  
+  🔗 [Release Notes](https://github.com/cloudflare/workers-rs/releases/tag/v0.6.6)
 
 ## 🔹 Green-software
 - [genai-impact/ecologits](https://github.com/genai-impact/ecologits/releases/tag/0.8.2) – `0.8.2` (📅 2025-08-16)  
