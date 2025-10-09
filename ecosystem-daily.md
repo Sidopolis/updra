@@ -5,20 +5,24 @@
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
-  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [quantumlib/Qualtran](https://github.com/quantumlib/Qualtran/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-04-01)  
+  🔗 [Release Notes](https://github.com/quantumlib/Qualtran/releases/tag/v0.6.0)
+- [Qiskit/qiskit-cpp](https://github.com/Qiskit/qiskit-cpp/releases/tag/Release-0.0.1) – `Release-0.0.1` (📅 2025-06-20)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit-cpp/releases/tag/Release-0.0.1)
 
 ## 🔹 Edge-computing
+- [brendadeeznuts1111/betting-brain-v3](https://github.com/brendadeeznuts1111/betting-brain-v3/releases/tag/v3.2.0) – `v3.2.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/brendadeeznuts1111/betting-brain-v3/releases/tag/v3.2.0)
 - [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.1)
-- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.1)
 
 ## 🔹 Webassembly
 - [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.0) – `v9.11.0` (📅 2025-09-29)  
   🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.0)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.136) – `v0.8.136` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.136)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
