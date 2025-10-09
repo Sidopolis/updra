@@ -1,24 +1,29 @@
 # 🌐 Ecosystem Daily Log – 2025-10-09
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3) – `v0.42.3` (📅 2025-08-20)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.42.3)
+- [qiskit-community/qrmi](https://github.com/qiskit-community/qrmi/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-08-27)  
+  🔗 [Release Notes](https://github.com/qiskit-community/qrmi/releases/tag/v0.1.0)
+- [quantumlib/ReCirq](https://github.com/quantumlib/ReCirq/releases/tag/v2020-10) – `v2020-10` (📅 2020-10-15)  
+  🔗 [Release Notes](https://github.com/quantumlib/ReCirq/releases/tag/v2020-10)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.7) – `v0.0.7` (📅 2025-10-07)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.7)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
+- [eclipse-zenoh/zenoh-python](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.5.1)
 
 ## 🔹 Webassembly
-- [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1) – `v4.12.1` (📅 2025-07-16)  
-  🔗 [Release Notes](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.1) – `v6.2.1` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.1)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.44.0) – `0.44.0` (📅 2025-10-09)  
