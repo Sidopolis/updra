@@ -6,25 +6,19 @@
 ## 🔹 Quantum-computing
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1) – `v4.12.1` (📅 2025-07-16)  
-  🔗 [Release Notes](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v2.250830.1233) – `v2.250830.1233` (📅 2025-08-30)  
-  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v2.250830.1233)
+- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.1.6) – `0.1.6` (📅 2025-07-12)  
+  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.1.6)
+- [gluesql/gluesql](https://github.com/gluesql/gluesql/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-06-21)  
+  🔗 [Release Notes](https://github.com/gluesql/gluesql/releases/tag/v0.18.0)
+- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-09-25)  
+  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0)
 
 ## 🔹 Green-software
-- [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
-  🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
-- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.44.2) – `0.44.2` (📅 2025-10-10)  
-  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.44.2)
-- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
-  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
+- No recent releases found.
