@@ -12,18 +12,16 @@
   🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.3.1)
 
 ## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 - [openyurtio/openyurt](https://github.com/openyurtio/openyurt/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-02-03)  
   🔗 [Release Notes](https://github.com/openyurtio/openyurt/releases/tag/v1.6.1)
-- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.3) – `v2.2.3` (📅 2025-09-23)  
-  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.3)
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
 
 ## 🔹 Webassembly
-- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v2.250830.1233) – `v2.250830.1233` (📅 2025-08-30)  
-  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v2.250830.1233)
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.1) – `v9.11.1` (📅 2025-10-10)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.1)
+- [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.0-alpha) – `1.5.0-alpha` (📅 2025-09-17)  
+  🔗 [Release Notes](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.0-alpha)
+- [OUIsolutions/C2Wasm](https://github.com/OUIsolutions/C2Wasm/releases/tag/0.10.1) – `0.10.1` (📅 2025-10-11)  
+  🔗 [Release Notes](https://github.com/OUIsolutions/C2Wasm/releases/tag/0.10.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
