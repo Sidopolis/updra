@@ -5,20 +5,20 @@
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.9.0) – `v8.9.0` (📅 2025-10-11)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.9.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [dext7r/ollama-api-pool](https://github.com/dext7r/ollama-api-pool/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-11)  
   🔗 [Release Notes](https://github.com/dext7r/ollama-api-pool/releases/tag/v2.0.0)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [zhaohappy/libmedia](https://github.com/zhaohappy/libmedia/releases/tag/v0.11.0) – `v0.11.0` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/zhaohappy/libmedia/releases/tag/v0.11.0)
+- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.8.2) – `v1.8.2` (📅 2025-10-11)  
+  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.8.2)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.5) – `v4.1.5` (📅 2025-10-04)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.5)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
