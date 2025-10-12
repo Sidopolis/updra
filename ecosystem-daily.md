@@ -4,8 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/workflows](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.17.0) – `v1.17.0` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.17.0)
+- [SegusFaultise/qcs](https://github.com/SegusFaultise/qcs/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-10-06)  
+  🔗 [Release Notes](https://github.com/SegusFaultise/qcs/releases/tag/v1.0.0)
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
@@ -18,8 +18,8 @@
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [agda-web/agda-wasm-dist](https://github.com/agda-web/agda-wasm-dist/releases/tag/v2.8.0-ghc9.10.2-r0) – `v2.8.0-ghc9.10.2-r0` (📅 2025-09-21)  
-  🔗 [Release Notes](https://github.com/agda-web/agda-wasm-dist/releases/tag/v2.8.0-ghc9.10.2-r0)
+- [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.0-alpha) – `1.5.0-alpha` (📅 2025-09-17)  
+  🔗 [Release Notes](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.0-alpha)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
