@@ -1,26 +1,26 @@
 # 🌐 Ecosystem Daily Log – 2025-10-12
 
 ## 🔹 Ai-ethics
-- [software-development-course-2025/ai-safari-camps-module-3-final-assignment](https://github.com/software-development-course-2025/ai-safari-camps-module-3-final-assignment/releases/tag/v1.0.2) – `v1.0.2` (📅 2025-08-27)  
-  🔗 [Release Notes](https://github.com/software-development-course-2025/ai-safari-camps-module-3-final-assignment/releases/tag/v1.0.2)
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.9.2) – `v8.9.2` (📅 2025-10-12)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.9.2)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [dext7r/ollama-api-pool](https://github.com/dext7r/ollama-api-pool/releases/tag/v3.1.0) – `v3.1.0` (📅 2025-10-12)  
-  🔗 [Release Notes](https://github.com/dext7r/ollama-api-pool/releases/tag/v3.1.0)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
+- [aduros/wasm4](https://github.com/aduros/wasm4/releases/tag/v2.7.1) – `v2.7.1` (📅 2024-12-13)  
+  🔗 [Release Notes](https://github.com/aduros/wasm4/releases/tag/v2.7.1)
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.138) – `v0.8.138` (📅 2025-10-11)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.138)
 
