@@ -4,10 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.2.1)
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -16,10 +14,10 @@
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [konsoletyper/teavm](https://github.com/konsoletyper/teavm/releases/tag/0.12.1) – `0.12.1` (📅 2025-05-29)  
-  🔗 [Release Notes](https://github.com/konsoletyper/teavm/releases/tag/0.12.1)
-- [rfwlab/rfw](https://github.com/rfwlab/rfw/releases/tag/v0.2.0-beta.2) – `v0.2.0-beta.2` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/rfwlab/rfw/releases/tag/v0.2.0-beta.2)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.138) – `v0.8.138` (📅 2025-10-11)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.138)
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd/releases/tag/v1.10.4) – `v1.10.4` (📅 2025-05-26)  
+  🔗 [Release Notes](https://github.com/gkd-kit/gkd/releases/tag/v1.10.4)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
