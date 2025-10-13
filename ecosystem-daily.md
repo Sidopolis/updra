@@ -10,16 +10,16 @@
 ## 🔹 Edge-computing
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.3) – `v2.2.3` (📅 2025-09-23)  
   🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.3)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
 
 ## 🔹 Webassembly
-- [kubewarden/flexvolume-drivers-psp-policy](https://github.com/kubewarden/flexvolume-drivers-psp-policy/releases/tag/v1.0.6) – `v1.0.6` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/kubewarden/flexvolume-drivers-psp-policy/releases/tag/v1.0.6)
-- [kubewarden/do-not-expose-admission-controller-webhook-services-policy](https://github.com/kubewarden/do-not-expose-admission-controller-webhook-services-policy/releases/tag/v1.1.3) – `v1.1.3` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/kubewarden/do-not-expose-admission-controller-webhook-services-policy/releases/tag/v1.1.3)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
