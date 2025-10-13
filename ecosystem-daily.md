@@ -1,23 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2025-10-13
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [amazon-braket/amazon-braket-sdk-python](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.102.7) – `v1.102.7` (📅 2025-10-13)  
+  🔗 [Release Notes](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.102.7)
+
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.5.1)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.5.1)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.5.1)
+- [eclipse-zenoh/zenoh-plugin-dds](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.1) – `1.5.1` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.5.1)
 
 ## 🔹 Webassembly
-- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.2) – `v3.3.2` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.2)
+- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-09-25)  
+  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0)
+- [cookiengineer/gooey](https://github.com/cookiengineer/gooey/releases/tag/v0.0.5) – `v0.0.5` (📅 2025-10-10)  
+  🔗 [Release Notes](https://github.com/cookiengineer/gooey/releases/tag/v0.0.5)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
