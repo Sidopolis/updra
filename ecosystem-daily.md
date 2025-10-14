@@ -4,24 +4,23 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [hutchpd/QuantumSuperposition](https://github.com/hutchpd/QuantumSuperposition/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-04-07)  
-  🔗 [Release Notes](https://github.com/hutchpd/QuantumSuperposition/releases/tag/v1.3.0)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.12.0)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.10.2) – `v8.10.2` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.10.2)
+- [EQuS/jaxquantum](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-08-18)  
+  🔗 [Release Notes](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.2)
+- [CQCL/qnexus](https://github.com/CQCL/qnexus/releases/tag/v0.34.1) – `v0.34.1` (📅 2025-10-06)  
+  🔗 [Release Notes](https://github.com/CQCL/qnexus/releases/tag/v0.34.1)
 
 ## 🔹 Edge-computing
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.8) – `v0.0.8` (📅 2025-10-13)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.8)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.7) – `v0.5.7` (📅 2025-09-18)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.7)
-- [jupyterlite/xeus](https://github.com/jupyterlite/xeus/releases/tag/v4.2.2) – `v4.2.2` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/jupyterlite/xeus/releases/tag/v4.2.2)
-- [konsoletyper/teavm](https://github.com/konsoletyper/teavm/releases/tag/0.12.1) – `0.12.1` (📅 2025-05-29)  
-  🔗 [Release Notes](https://github.com/konsoletyper/teavm/releases/tag/0.12.1)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
+- [zhaohappy/libmedia](https://github.com/zhaohappy/libmedia/releases/tag/v0.11.0) – `v0.11.0` (📅 2025-09-15)  
+  🔗 [Release Notes](https://github.com/zhaohappy/libmedia/releases/tag/v0.11.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
