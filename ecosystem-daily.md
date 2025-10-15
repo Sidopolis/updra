@@ -4,7 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [m-labs/artiq](https://github.com/m-labs/artiq/releases/tag/8.0) – `8.0` (📅 2024-06-06)  
+  🔗 [Release Notes](https://github.com/m-labs/artiq/releases/tag/8.0)
 
 ## 🔹 Edge-computing
 - [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.1) – `1.6.1` (📅 2025-10-14)  
@@ -15,12 +16,12 @@
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.6.1)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.2) – `v9.11.2` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.2)
-- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/11.1.1) – `11.1.1` (📅 2025-09-17)  
-  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/11.1.1)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.19) – `@liam-hq/cli@0.7.19` (📅 2025-10-10)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.19)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.2)
+- [jameslan/libxml2-wasm](https://github.com/jameslan/libxml2-wasm/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-08-09)  
+  🔗 [Release Notes](https://github.com/jameslan/libxml2-wasm/releases/tag/v0.6.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
