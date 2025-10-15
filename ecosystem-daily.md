@@ -4,21 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [aws-cqc/DeviceLayout.jl](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.5.0) – `v1.5.0` (📅 2025-10-10)  
+  🔗 [Release Notes](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.5.0)
+- [amazon-braket/amazon-braket-sdk-python](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.102.10) – `v1.102.10` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.102.10)
 
 ## 🔹 Edge-computing
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.8) – `v0.0.8` (📅 2025-10-13)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.8)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.68.0) – `v0.68.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.68.0)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v37.0.2) – `v37.0.2` (📅 2025-10-07)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v37.0.2)
-- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs/releases/tag/rust-v0.6.0) – `rust-v0.6.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/geoarrow/geoarrow-rs/releases/tag/rust-v0.6.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.138) – `v0.8.138` (📅 2025-10-11)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.138)
+- [mosra/magnum-integration](https://github.com/mosra/magnum-integration/releases/tag/v2020.06) – `v2020.06` (📅 2020-07-02)  
+  🔗 [Release Notes](https://github.com/mosra/magnum-integration/releases/tag/v2020.06)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
