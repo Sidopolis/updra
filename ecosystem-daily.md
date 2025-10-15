@@ -1,13 +1,18 @@
 # 🌐 Ecosystem Daily Log – 2025-10-15
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [Life-Experimentalist/EquiLens](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus) – `v1.0.0-corpus` (📅 2025-08-31)  
+  🔗 [Release Notes](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus)
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.28.0) – `vm6502q.v9.28.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.28.0)
 - [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.10.4) – `v8.10.4` (📅 2025-10-14)  
   🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.10.4)
+- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.28.0) – `vm6502q.v9.28.0` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.28.0)
+- [PennyLaneAI/pennylane-cirq](https://github.com/PennyLaneAI/pennylane-cirq/releases/tag/v0.42.0) – `v0.42.0` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane-cirq/releases/tag/v0.42.0)
 
 ## 🔹 Edge-computing
 - [Project-Babble/BabbleTrainer](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.0.1) – `1.0.1` (📅 2025-10-15)  
@@ -16,12 +21,10 @@
   🔗 [Release Notes](https://github.com/Data-to-Insight-Center/cyberinfrastructure-knowledge-network/releases/tag/v0.2.0)
 
 ## 🔹 Webassembly
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-09-25)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0)
-- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.2) – `v0.2` (📅 2022-07-13)  
-  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.2)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
+- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs/releases/tag/py-v0.5.3) – `py-v0.5.3` (📅 2025-09-25)  
+  🔗 [Release Notes](https://github.com/geoarrow/geoarrow-rs/releases/tag/py-v0.5.3)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
