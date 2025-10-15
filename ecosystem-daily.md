@@ -1,26 +1,26 @@
 # 🌐 Ecosystem Daily Log – 2025-10-15
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [rigetti/quil-rs](https://github.com/rigetti/quil-rs/releases/tag/quil-cli/v0.9.0) – `quil-cli/v0.9.0` (📅 2025-08-27)  
-  🔗 [Release Notes](https://github.com/rigetti/quil-rs/releases/tag/quil-cli/v0.9.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.1) – `1.6.1` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.1)
 - [eclipse-zenoh/zenoh-plugin-dds](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.6.1) – `1.6.1` (📅 2025-10-14)  
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.6.1)
 - [eclipse-zenoh/zenoh-python](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.6.1) – `1.6.1` (📅 2025-10-14)  
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.6.1)
 
 ## 🔹 Webassembly
-- [Wasted-Audio/hvcc](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.14.0) – `v0.14.0` (📅 2025-09-19)  
-  🔗 [Release Notes](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.14.0)
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.195) – `v3.0.195` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.195)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.2) – `v9.11.2` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.2)
+- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/11.1.1) – `11.1.1` (📅 2025-09-17)  
+  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/11.1.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
