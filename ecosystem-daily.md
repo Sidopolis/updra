@@ -1,20 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2025-10-15
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.28.0) – `vm6502q.v9.28.0` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.28.0)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.10.4) – `v8.10.4` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.10.4)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [Project-Babble/BabbleTrainer](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.0.1) – `1.0.1` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.0.1)
+- [Data-to-Insight-Center/cyberinfrastructure-knowledge-network](https://github.com/Data-to-Insight-Center/cyberinfrastructure-knowledge-network/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-06-14)  
+  🔗 [Release Notes](https://github.com/Data-to-Insight-Center/cyberinfrastructure-knowledge-network/releases/tag/v0.2.0)
 
 ## 🔹 Webassembly
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-09-25)  
+  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0)
+- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.2) – `v0.2` (📅 2022-07-13)  
+  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.2)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
