@@ -7,20 +7,22 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.28.0) – `vm6502q.v9.28.0` (📅 2025-08-21)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.28.0)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.10.4) – `v8.10.4` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.10.4)
 
 ## 🔹 Edge-computing
-- [LoveDoLove/cloudflare-load-balancer](https://github.com/LoveDoLove/cloudflare-load-balancer/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/LoveDoLove/cloudflare-load-balancer/releases/tag/v1.0.0)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [NETSERV-UAH/datadriven-poc](https://github.com/NETSERV-UAH/datadriven-poc/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/NETSERV-UAH/datadriven-poc/releases/tag/v1.0.0)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [html-extract/hext.js](https://github.com/html-extract/hext.js/releases/tag/v1.0.13) – `v1.0.13` (📅 2025-05-09)  
-  🔗 [Release Notes](https://github.com/html-extract/hext.js/releases/tag/v1.0.13)
+- [forderud/QtWasm](https://github.com/forderud/QtWasm/releases/tag/v6.10.0) – `v6.10.0` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/forderud/QtWasm/releases/tag/v6.10.0)
+- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.0) – `v20.0.0` (📅 2025-10-11)  
+  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.0)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
