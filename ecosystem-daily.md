@@ -1,24 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2025-10-16
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning/releases/tag/v0.43.0) – `v0.43.0` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane-lightning/releases/tag/v0.43.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [aws-greengrass/aws-greengrass-nucleus](https://github.com/aws-greengrass/aws-greengrass-nucleus/releases/tag/v2.15.0) – `v2.15.0` (📅 2025-07-04)  
-  🔗 [Release Notes](https://github.com/aws-greengrass/aws-greengrass-nucleus/releases/tag/v2.15.0)
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [tniessen/node-pqclean](https://github.com/tniessen/node-pqclean/releases/tag/v0.8.1) – `v0.8.1` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/tniessen/node-pqclean/releases/tag/v0.8.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.138) – `v0.8.138` (📅 2025-10-11)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.138)
+- [Flamehaven/proofbench](https://github.com/Flamehaven/proofbench/releases/tag/v3.7.2) – `v3.7.2` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/Flamehaven/proofbench/releases/tag/v3.7.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
