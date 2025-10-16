@@ -5,22 +5,20 @@
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [aws-cqc/DeviceLayout.jl](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.6.0) – `v1.6.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.6.0)
+- [munich-quantum-toolkit/.github](https://github.com/munich-quantum-toolkit/.github/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-03-29)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/.github/releases/tag/v1.2.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.8) – `v0.0.8` (📅 2025-10-13)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.8)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
+- [aws-greengrass/aws-greengrass-nucleus](https://github.com/aws-greengrass/aws-greengrass-nucleus/releases/tag/v2.15.0) – `v2.15.0` (📅 2025-07-04)  
+  🔗 [Release Notes](https://github.com/aws-greengrass/aws-greengrass-nucleus/releases/tag/v2.15.0)
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
 
 ## 🔹 Webassembly
-- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs/releases/tag/rust-v0.6.0) – `rust-v0.6.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/geoarrow/geoarrow-rs/releases/tag/rust-v0.6.0)
-- [mosra/magnum-examples](https://github.com/mosra/magnum-examples/releases/tag/v2020.06) – `v2020.06` (📅 2020-07-03)  
-  🔗 [Release Notes](https://github.com/mosra/magnum-examples/releases/tag/v2020.06)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
