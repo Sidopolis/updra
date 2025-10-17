@@ -1,31 +1,28 @@
 # 🌐 Ecosystem Daily Log – 2025-10-17
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [amachino/qubex](https://github.com/amachino/qubex/releases/tag/v1.4.2) – `v1.4.2` (📅 2025-10-09)  
-  🔗 [Release Notes](https://github.com/amachino/qubex/releases/tag/v1.4.2)
-- [rigetti/quil-rs](https://github.com/rigetti/quil-rs/releases/tag/quil-cli/v0.10.0) – `quil-cli/v0.10.0` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/rigetti/quil-rs/releases/tag/quil-cli/v0.10.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
+- [cevrechaussette/dev2foo](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3) – `v3.7.4-alpha.3` (📅 2025-04-29)  
+  🔗 [Release Notes](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3)
 
 ## 🔹 Edge-computing
-- [larsid/netfl](https://github.com/larsid/netfl/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-09-09)  
-  🔗 [Release Notes](https://github.com/larsid/netfl/releases/tag/v1.1.0)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.14) – `@liam-hq/erd-core@0.6.14` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.14)
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.7.0) – `0.7.0` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.7.0)
-- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript/releases/tag/v0.28.8) – `v0.28.8` (📅 2025-09-13)  
-  🔗 [Release Notes](https://github.com/AssemblyScript/assemblyscript/releases/tag/v0.28.8)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
