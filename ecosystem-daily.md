@@ -1,27 +1,30 @@
 # 🌐 Ecosystem Daily Log – 2025-10-17
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [hongping-zh/circular-bias-detection](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-10-13)  
+  🔗 [Release Notes](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
+- [Jayshah25/Quantum-Reinforcement-Learning](https://github.com/Jayshah25/Quantum-Reinforcement-Learning/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-10-07)  
+  🔗 [Release Notes](https://github.com/Jayshah25/Quantum-Reinforcement-Learning/releases/tag/v0.2.0)
 - [qiboteam/qibo](https://github.com/qiboteam/qibo/releases/tag/v0.2.21) – `v0.2.21` (📅 2025-09-19)  
   🔗 [Release Notes](https://github.com/qiboteam/qibo/releases/tag/v0.2.21)
 
 ## 🔹 Edge-computing
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
+- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.33.0) – `v0.33.0` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.33.0)
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.1) – `1.6.1` (📅 2025-10-14)  
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.1)
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [kubewarden/policy-server](https://github.com/kubewarden/policy-server/releases/tag/v1.29.1) – `v1.29.1` (📅 2025-10-13)  
-  🔗 [Release Notes](https://github.com/kubewarden/policy-server/releases/tag/v1.29.1)
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.2) – `v9.11.2` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.2)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.2)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0) – `0.36.0` (📅 2025-09-11)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0)
+- [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1) – `v4.12.1` (📅 2025-07-16)  
+  🔗 [Release Notes](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.12.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
