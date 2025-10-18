@@ -1,12 +1,7 @@
 # 🌐 Ecosystem Daily Log – 2025-10-18
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -20,10 +15,8 @@
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.3.62) – `6.3.62` (📅 2025-10-09)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.3.62)
-- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/cli-v0.4.0) – `cli-v0.4.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/cli-v0.4.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.141) – `v0.8.141` (📅 2025-10-18)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.141)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
