@@ -9,20 +9,18 @@
 ## 🔹 Quantum-computing
 - [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.11.0) – `v8.11.0` (📅 2025-10-16)  
   🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.11.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [whatchamacallem/hatchlingplatform](https://github.com/whatchamacallem/hatchlingplatform/releases/tag/v3.8.0) – `v3.8.0` (📅 2025-09-13)  
-  🔗 [Release Notes](https://github.com/whatchamacallem/hatchlingplatform/releases/tag/v3.8.0)
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-10-18)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.9.0)
+- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.2) – `v3.3.2` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
