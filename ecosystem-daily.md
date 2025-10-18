@@ -5,15 +5,20 @@
   🔗 [Release Notes](https://github.com/tarombone/AIm-Charter/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.141) – `v0.8.141` (📅 2025-10-18)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.141)
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.7.0) – `0.7.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.7.0)
+- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v2.250830.1233) – `v2.250830.1233` (📅 2025-08-30)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v2.250830.1233)
+- [pyodide/micropip](https://github.com/pyodide/micropip/releases/tag/0.11.0) – `0.11.0` (📅 2025-10-18)  
+  🔗 [Release Notes](https://github.com/pyodide/micropip/releases/tag/0.11.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
