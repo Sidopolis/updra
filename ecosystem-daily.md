@@ -5,10 +5,10 @@
   🔗 [Release Notes](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/ddvis](https://github.com/munich-quantum-toolkit/ddvis/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddvis/releases/tag/v1.8.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [munich-quantum-toolkit/qmap](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.4.0) – `v3.4.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.4.0)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
@@ -19,10 +19,8 @@
   🔗 [Release Notes](https://github.com/bambooww/iot-tree/releases/tag/1.7.9)
 
 ## 🔹 Webassembly
-- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.28.3) – `0.28.3` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.28.3)
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.14) – `@liam-hq/erd-core@0.6.14` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.14)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.10) – `v0.5.10` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.10)
 - [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/cli-v0.4.0) – `cli-v0.4.0` (📅 2025-10-16)  
   🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/cli-v0.4.0)
 
