@@ -1,8 +1,8 @@
 # 🌐 Ecosystem Daily Log – 2025-10-19
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [Life-Experimentalist/EquiLens](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus) – `v1.0.0-corpus` (📅 2025-08-31)  
+  🔗 [Release Notes](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -16,12 +16,16 @@
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [konsoletyper/teavm](https://github.com/konsoletyper/teavm/releases/tag/0.12.1) – `0.12.1` (📅 2025-05-29)  
-  🔗 [Release Notes](https://github.com/konsoletyper/teavm/releases/tag/0.12.1)
-- [zhaohappy/libmedia](https://github.com/zhaohappy/libmedia/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/zhaohappy/libmedia/releases/tag/v0.12.0)
+- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.2) – `v3.3.2` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.2)
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd/releases/tag/v1.10.4) – `v1.10.4` (📅 2025-05-26)  
+  🔗 [Release Notes](https://github.com/gkd-kit/gkd/releases/tag/v1.10.4)
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-10-05)  
+  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.6.1)
 
 ## 🔹 Green-software
+- [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
+  🔗 [Release Notes](https://github.com/kube-green/kube-green/releases/tag/v0.7.1)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
