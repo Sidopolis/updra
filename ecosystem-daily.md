@@ -1,26 +1,24 @@
 # 🌐 Ecosystem Daily Log – 2025-10-19
 
 ## 🔹 Ai-ethics
-- [Life-Experimentalist/EquiLens](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus) – `v1.0.0-corpus` (📅 2025-08-31)  
-  🔗 [Release Notes](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus)
+- [tarombone/AIm-Charter](https://github.com/tarombone/AIm-Charter/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-10-18)  
+  🔗 [Release Notes](https://github.com/tarombone/AIm-Charter/releases/tag/v1.0.0)
 - [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [TNO-Quantum/optimization.qubo.components](https://github.com/TNO-Quantum/optimization.qubo.components/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-10-19)  
+  🔗 [Release Notes](https://github.com/TNO-Quantum/optimization.qubo.components/releases/tag/v1.2.0)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
-  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
-- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.1) – `v6.2.1` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.1)
+- [chkuendig/scummvm-demo](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0) – `2.6.0` (📅 2022-08-04)  
+  🔗 [Release Notes](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0)
+- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.0) – `v20.0.0` (📅 2025-10-11)  
+  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
