@@ -1,26 +1,30 @@
 # 🌐 Ecosystem Daily Log – 2025-10-20
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [tarombone/AIm-Charter](https://github.com/tarombone/AIm-Charter/releases/tag/v1.0.1) – `v1.0.1` (📅 2025-10-19)  
+  🔗 [Release Notes](https://github.com/tarombone/AIm-Charter/releases/tag/v1.0.1)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [XanaduAI/thewalrus](https://github.com/XanaduAI/thewalrus/releases/tag/v0.22.0) – `v0.22.0` (📅 2025-05-15)  
+  🔗 [Release Notes](https://github.com/XanaduAI/thewalrus/releases/tag/v0.22.0)
+- [CQCL/guppylang](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.5) – `guppylang-v0.21.5` (📅 2025-09-22)  
+  🔗 [Release Notes](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.5)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.14.4) – `v8.14.4` (📅 2025-10-20)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.14.4)
 
 ## 🔹 Edge-computing
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
 - [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
   🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
 - [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-09-05)  
   🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.1)
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.16.3) – `v1.16.3` (📅 2025-08-22)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
-- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.29.0) – `0.29.0` (📅 2025-10-20)  
-  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.29.0)
-- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28) – `6.3.28` (📅 2025-10-09)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.1) – `v6.2.1` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
