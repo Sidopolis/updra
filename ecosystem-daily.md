@@ -5,6 +5,10 @@
   🔗 [Release Notes](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus)
 
 ## 🔹 Quantum-computing
+- [TNO-Quantum/ml.clustering.bkmeans](https://github.com/TNO-Quantum/ml.clustering.bkmeans/releases/tag/v2.0.3) – `v2.0.3` (📅 2025-10-20)  
+  🔗 [Release Notes](https://github.com/TNO-Quantum/ml.clustering.bkmeans/releases/tag/v2.0.3)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 - [amachino/qubex](https://github.com/amachino/qubex/releases/tag/v1.4.2) – `v1.4.2` (📅 2025-10-09)  
   🔗 [Release Notes](https://github.com/amachino/qubex/releases/tag/v1.4.2)
 
@@ -13,16 +17,14 @@
   🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.0)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [andrewdavidmackenzie/flow](https://github.com/andrewdavidmackenzie/flow/releases/tag/v0.135.0) – `v0.135.0` (📅 2023-09-19)  
-  🔗 [Release Notes](https://github.com/andrewdavidmackenzie/flow/releases/tag/v0.135.0)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
-- [hpcc-systems/hpcc-js-wasm](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.26.3) – `wasm-v2.26.3` (📅 2025-10-07)  
-  🔗 [Release Notes](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.26.3)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.2)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
+- [kubewarden/share-pid-namespace-policy](https://github.com/kubewarden/share-pid-namespace-policy/releases/tag/v1.0.6) – `v1.0.6` (📅 2025-09-15)  
+  🔗 [Release Notes](https://github.com/kubewarden/share-pid-namespace-policy/releases/tag/v1.0.6)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
