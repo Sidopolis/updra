@@ -1,18 +1,10 @@
 # 🌐 Ecosystem Daily Log – 2025-10-20
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
-- [quantumlib/Qualtran](https://github.com/quantumlib/Qualtran/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-04-01)  
-  🔗 [Release Notes](https://github.com/quantumlib/Qualtran/releases/tag/v0.6.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
@@ -23,10 +15,12 @@
   🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.16.3)
 
 ## 🔹 Webassembly
-- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.2) – `v0.2` (📅 2022-07-13)  
-  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.2)
-- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/cli-v0.4.0) – `cli-v0.4.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/cli-v0.4.0)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
+- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.29.0) – `0.29.0` (📅 2025-10-20)  
+  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.29.0)
+- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28) – `6.3.28` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
