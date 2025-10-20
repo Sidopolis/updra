@@ -1,26 +1,29 @@
 # 🌐 Ecosystem Daily Log – 2025-10-20
 
 ## 🔹 Ai-ethics
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 - [Life-Experimentalist/EquiLens](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus) – `v1.0.0-corpus` (📅 2025-08-31)  
   🔗 [Release Notes](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus)
 
 ## 🔹 Quantum-computing
-- [m-labs/artiq](https://github.com/m-labs/artiq/releases/tag/8.0) – `8.0` (📅 2024-06-06)  
-  🔗 [Release Notes](https://github.com/m-labs/artiq/releases/tag/8.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
   🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [insight-platform/Savant](https://github.com/insight-platform/Savant/releases/tag/v0.5.15) – `v0.5.15` (📅 2025-10-09)  
-  🔗 [Release Notes](https://github.com/insight-platform/Savant/releases/tag/v0.5.15)
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-09-05)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.1)
+- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.0) – `v0.34.0` (📅 2025-09-11)  
+  🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.0)
 
 ## 🔹 Webassembly
-- [kubewarden/cel-policy](https://github.com/kubewarden/cel-policy/releases/tag/v1.3.6) – `v1.3.6` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/kubewarden/cel-policy/releases/tag/v1.3.6)
-- [kubewarden/hostpaths-psp-policy](https://github.com/kubewarden/hostpaths-psp-policy/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/kubewarden/hostpaths-psp-policy/releases/tag/v1.1.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
