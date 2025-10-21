@@ -1,12 +1,15 @@
 # 🌐 Ecosystem Daily Log – 2025-10-21
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qiboteam/qibocal](https://github.com/qiboteam/qibocal/releases/tag/v0.2.3) – `v0.2.3` (📅 2025-07-22)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibocal/releases/tag/v0.2.3)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [TuringQ/deepquantum](https://github.com/TuringQ/deepquantum/releases/tag/v4.4.0) – `v4.4.0` (📅 2025-09-30)  
+  🔗 [Release Notes](https://github.com/TuringQ/deepquantum/releases/tag/v4.4.0)
 
 ## 🔹 Edge-computing
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
@@ -17,12 +20,8 @@
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.14) – `@liam-hq/erd-core@0.6.14` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.14)
-- [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm/releases/tag/2.7.2) – `2.7.2` (📅 2025-10-03)  
-  🔗 [Release Notes](https://github.com/ruby/ruby.wasm/releases/tag/2.7.2)
-- [xiangechen/chili3d](https://github.com/xiangechen/chili3d/releases/tag/0.6.0) – `0.6.0` (📅 2025-06-10)  
-  🔗 [Release Notes](https://github.com/xiangechen/chili3d/releases/tag/0.6.0)
+- [codeart1st/mapserver-wasm](https://github.com/codeart1st/mapserver-wasm/releases/tag/v2.8.0) – `v2.8.0` (📅 2025-09-27)  
+  🔗 [Release Notes](https://github.com/codeart1st/mapserver-wasm/releases/tag/v2.8.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
