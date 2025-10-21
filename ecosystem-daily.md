@@ -4,17 +4,24 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [quantumlib/chromobius](https://github.com/quantumlib/chromobius/releases/tag/v1.1.0) – `v1.1.0` (📅 2024-09-24)  
+  🔗 [Release Notes](https://github.com/quantumlib/chromobius/releases/tag/v1.1.0)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-09-05)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.1)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [PAXECT-Interface/paxect-core](https://github.com/PAXECT-Interface/paxect-core/releases/tag/v1.0.0-complete) – `v1.0.0-complete` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/PAXECT-Interface/paxect-core/releases/tag/v1.0.0-complete)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-10-20)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [sourcenetwork/lens](https://github.com/sourcenetwork/lens/releases/tag/v0.9.3) – `v0.9.3` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/sourcenetwork/lens/releases/tag/v0.9.3)
+- [dylibso/chicory](https://github.com/dylibso/chicory/releases/tag/1.5.3) – `1.5.3` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/dylibso/chicory/releases/tag/1.5.3)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.1) – `v38.0.1` (📅 2025-10-20)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.1)
+- [unoplatform/Uno.Themes](https://github.com/unoplatform/Uno.Themes/releases/tag/5.7.3) – `5.7.3` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/unoplatform/Uno.Themes/releases/tag/5.7.3)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
