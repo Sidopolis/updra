@@ -4,6 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 - [hutchpd/QuantumSuperposition](https://github.com/hutchpd/QuantumSuperposition/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-04-07)  
   🔗 [Release Notes](https://github.com/hutchpd/QuantumSuperposition/releases/tag/v1.3.0)
 
@@ -14,10 +16,7 @@
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.2)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
