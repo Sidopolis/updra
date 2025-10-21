@@ -1,23 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2025-10-21
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.15.0) – `v8.15.0` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.15.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.15.1) – `v8.15.1` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.15.1)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.20) – `v0.20` (📅 2024-12-05)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.20)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.1) – `v38.0.1` (📅 2025-10-20)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.1)
+- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/cli-v0.4.0) – `cli-v0.4.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/cli-v0.4.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.141) – `v0.8.141` (📅 2025-10-18)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.141)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
