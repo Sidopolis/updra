@@ -4,22 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [roryschadler/roryschadler](https://github.com/roryschadler/roryschadler/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/roryschadler/roryschadler/releases/tag/v0.5.0)
+- [CQCL/guppylang](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.5) – `guppylang-v0.21.5` (📅 2025-09-22)  
+  🔗 [Release Notes](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.5)
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [open-horizon/anax](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1739) – `v2.32.0-1739` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1739)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
+- [open-horizon/exchange-api](https://github.com/open-horizon/exchange-api/releases/tag/v2.87.0) – `v2.87.0` (📅 2021-09-13)  
+  🔗 [Release Notes](https://github.com/open-horizon/exchange-api/releases/tag/v2.87.0)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.0) – `v1.14.0` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.0)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
+- [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.240.0) – `v1.240.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.240.0)
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-10-05)  
+  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.6.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
