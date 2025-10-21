@@ -1,28 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2025-10-21
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/metriq-gym](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.4.1) – `v0.4.1` (📅 2025-10-10)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.4.1)
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.14.8) – `v8.14.8` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v8.14.8)
+- [Qiskit/qiskit-serverless](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.26.1) – `v0.26.1` (📅 2025-09-19)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.26.1)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-09-05)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.1)
 
 ## 🔹 Webassembly
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-09-25)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0)
-- [denoland/deno_graph](https://github.com/denoland/deno_graph/releases/tag/0.103.1) – `0.103.1` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/denoland/deno_graph/releases/tag/0.103.1)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.1) – `v38.0.1` (📅 2025-10-20)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.1)
+- [kubewarden/kwctl](https://github.com/kubewarden/kwctl/releases/tag/v1.29.1) – `v1.29.1` (📅 2025-10-13)  
+  🔗 [Release Notes](https://github.com/kubewarden/kwctl/releases/tag/v1.29.1)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
