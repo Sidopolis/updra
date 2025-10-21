@@ -4,22 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [UCL-CCS/ferrmion](https://github.com/UCL-CCS/ferrmion/releases/tag/0.2.0) – `0.2.0` (📅 2025-10-10)  
-  🔗 [Release Notes](https://github.com/UCL-CCS/ferrmion/releases/tag/0.2.0)
-- [Qiskit/qiskit-code-assistant-vscode](https://github.com/Qiskit/qiskit-code-assistant-vscode/releases/tag/v0.14.0) – `v0.14.0` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit-code-assistant-vscode/releases/tag/v0.14.0)
+- [roryschadler/roryschadler](https://github.com/roryschadler/roryschadler/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/roryschadler/roryschadler/releases/tag/v0.5.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-10-20)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9)
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-09-05)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.1)
+- [open-horizon/anax](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1739) – `v2.32.0-1739` (📅 2025-09-22)  
+  🔗 [Release Notes](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1739)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.13.1) – `v1.13.1` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.13.1)
-- [wa-lang/wa-lang-cn.github.io](https://github.com/wa-lang/wa-lang-cn.github.io/releases/tag/v1.0.0) – `v1.0.0` (📅 2022-10-30)  
-  🔗 [Release Notes](https://github.com/wa-lang/wa-lang-cn.github.io/releases/tag/v1.0.0)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.0) – `v1.14.0` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.0)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
 
