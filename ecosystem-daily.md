@@ -4,29 +4,31 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
-  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
+- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
 
 ## 🔹 Edge-computing
-- [edgee-cloud/amplitude-component](https://github.com/edgee-cloud/amplitude-component/releases/tag/v1.2.1) – `v1.2.1` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/edgee-cloud/amplitude-component/releases/tag/v1.2.1)
-- [edgee-cloud/piano-analytics-component](https://github.com/edgee-cloud/piano-analytics-component/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/edgee-cloud/piano-analytics-component/releases/tag/v1.3.0)
-- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.3) – `v2.2.3` (📅 2025-09-23)  
-  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.2.3)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [edgee-cloud/edgee](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.27) – `v1.2.27` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.27)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.14) – `@liam-hq/erd-core@0.6.14` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.14)
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.4) – `v9.11.4` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.4)
+- [mercari/grpc-federation](https://github.com/mercari/grpc-federation/releases/tag/v1.21.7) – `v1.21.7` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/mercari/grpc-federation/releases/tag/v1.21.7)
+- [taubyte/tau](https://github.com/taubyte/tau/releases/tag/v1.1.8) – `v1.1.8` (📅 2025-05-01)  
+  🔗 [Release Notes](https://github.com/taubyte/tau/releases/tag/v1.1.8)
 
 ## 🔹 Green-software
-- [green-coding-solutions/eco-ci-energy-estimation](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5) – `v5` (📅 2025-06-21)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
+- [green-coding-solutions/eco-ci-energy-estimation](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5) – `v5` (📅 2025-06-21)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5)
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
   🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
