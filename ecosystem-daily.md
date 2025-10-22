@@ -3,26 +3,24 @@
 ## 🔹 Ai-ethics
 - [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
+- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.14.0) – `hugr-py-v0.14.0` (📅 2025-10-13)  
+  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.14.0)
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.2.44) – `v1.2.44` (📅 2025-10-07)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.2.44)
 
 ## 🔹 Edge-computing
 - [PAXECT-Interface/paxect-core-plugin](https://github.com/PAXECT-Interface/paxect-core-plugin/releases/tag/v1.0.0-complete) – `v1.0.0-complete` (📅 2025-10-21)  
   🔗 [Release Notes](https://github.com/PAXECT-Interface/paxect-core-plugin/releases/tag/v1.0.0-complete)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.0) – `2.9.0` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.0)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20) – `v2.2.20` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.20)
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15) – `@liam-hq/erd-core@0.6.15` (📅 2025-10-22)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15)
+- [surrealdb/surrealql.wasm](https://github.com/surrealdb/surrealql.wasm/releases/tag/v0.3.0) – `v0.3.0` (📅 2025-10-22)  
+  🔗 [Release Notes](https://github.com/surrealdb/surrealql.wasm/releases/tag/v0.3.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.2)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.141) – `v0.8.141` (📅 2025-10-18)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.141)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
