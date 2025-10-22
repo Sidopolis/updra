@@ -5,22 +5,22 @@
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [EQuS/jaxquantum](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-08-18)  
-  🔗 [Release Notes](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.2)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.0.1) – `v9.0.1` (📅 2025-10-22)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.0.1)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.0) – `v0.43.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.0)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-10-20)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9)
 
 ## 🔹 Webassembly
-- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.2) – `v3.3.2` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.2)
-- [tndrle/node-sqlite3-wasm](https://github.com/tndrle/node-sqlite3-wasm/releases/tag/v0.8.50) – `v0.8.50` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/tndrle/node-sqlite3-wasm/releases/tag/v0.8.50)
-- [wazero/wazero](https://github.com/wazero/wazero/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-02-19)  
-  🔗 [Release Notes](https://github.com/wazero/wazero/releases/tag/v1.9.0)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.0) – `2.9.0` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.0)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.69.0) – `v0.69.0` (📅 2025-10-22)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.69.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
