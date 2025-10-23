@@ -1,29 +1,28 @@
 # 🌐 Ecosystem Daily Log – 2025-10-23
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.0) – `v0.43.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.0)
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
+- [aws-greengrass/aws-greengrass-nucleus](https://github.com/aws-greengrass/aws-greengrass-nucleus/releases/tag/v2.15.0) – `v2.15.0` (📅 2025-07-04)  
+  🔗 [Release Notes](https://github.com/aws-greengrass/aws-greengrass-nucleus/releases/tag/v2.15.0)
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-10-20)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9)
 - [FluidInference/mobius](https://github.com/FluidInference/mobius/releases/tag/v0.0.2) – `v0.0.2` (📅 2025-10-23)  
   🔗 [Release Notes](https://github.com/FluidInference/mobius/releases/tag/v0.0.2)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.2) – `v38.0.2` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.2)
-- [spinframework/spin-operator](https://github.com/spinframework/spin-operator/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-07-09)  
-  🔗 [Release Notes](https://github.com/spinframework/spin-operator/releases/tag/v0.6.1)
-- [cdvelop/tinystring](https://github.com/cdvelop/tinystring/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-09-06)  
-  🔗 [Release Notes](https://github.com/cdvelop/tinystring/releases/tag/v0.5.0)
+- [spinframework/spin](https://github.com/spinframework/spin/releases/tag/v3.4.1) – `v3.4.1` (📅 2025-08-28)  
+  🔗 [Release Notes](https://github.com/spinframework/spin/releases/tag/v3.4.1)
+- [MarimerLLC/csla](https://github.com/MarimerLLC/csla/releases/tag/v9.1.0) – `v9.1.0` (📅 2025-06-19)  
+  🔗 [Release Notes](https://github.com/MarimerLLC/csla/releases/tag/v9.1.0)
+- [sourcenetwork/lens](https://github.com/sourcenetwork/lens/releases/tag/v0.9.3) – `v0.9.3` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/sourcenetwork/lens/releases/tag/v0.9.3)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
