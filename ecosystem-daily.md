@@ -4,29 +4,25 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [HQSquantumsimulations/qoqo_calculator](https://github.com/HQSquantumsimulations/qoqo_calculator/releases/tag/v1.7.1) – `v1.7.1` (📅 2025-08-05)  
-  🔗 [Release Notes](https://github.com/HQSquantumsimulations/qoqo_calculator/releases/tag/v1.7.1)
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.1) – `v3.3.1` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.1)
+- [itsubaki/q](https://github.com/itsubaki/q/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/itsubaki/q/releases/tag/v0.0.9)
+- [CQCL/guppylang](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.5) – `guppylang-v0.21.5` (📅 2025-09-22)  
+  🔗 [Release Notes](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.5)
 
 ## 🔹 Edge-computing
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2)
-- [Ryan-Atkinson87/mqtt_aquarium_monitoring](https://github.com/Ryan-Atkinson87/mqtt_aquarium_monitoring/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/Ryan-Atkinson87/mqtt_aquarium_monitoring/releases/tag/v2.0.0)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
+- [tuananh/camaro](https://github.com/tuananh/camaro/releases/tag/v6.2.3) – `v6.2.3` (📅 2024-03-16)  
+  🔗 [Release Notes](https://github.com/tuananh/camaro/releases/tag/v6.2.3)
 
 ## 🔹 Green-software
-- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.44.2) – `0.44.2` (📅 2025-10-10)  
-  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.44.2)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
-- [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0)
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.44.2) – `0.44.2` (📅 2025-10-10)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.44.2)
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3)
