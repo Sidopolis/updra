@@ -1,23 +1,30 @@
 # 🌐 Ecosystem Daily Log – 2025-10-23
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [itsubaki/q](https://github.com/itsubaki/q/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/itsubaki/q/releases/tag/v0.0.9)
-- [CQCL/guppylang](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.5) – `guppylang-v0.21.5` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/CQCL/guppylang/releases/tag/guppylang-v0.21.5)
+- [CQCL/qnexus](https://github.com/CQCL/qnexus/releases/tag/v0.35.0) – `v0.35.0` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/CQCL/qnexus/releases/tag/v0.35.0)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [tuananh/camaro](https://github.com/tuananh/camaro/releases/tag/v6.2.3) – `v6.2.3` (📅 2024-03-16)  
-  🔗 [Release Notes](https://github.com/tuananh/camaro/releases/tag/v6.2.3)
+- [kubewarden/priority-class-policy](https://github.com/kubewarden/priority-class-policy/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/kubewarden/priority-class-policy/releases/tag/v1.1.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.141) – `v0.8.141` (📅 2025-10-18)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.141)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
