@@ -15,13 +15,17 @@
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.4) – `v9.11.4` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.4)
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v0.51.1) – `v0.51.1` (📅 2025-08-25)  
+  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v0.51.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-10-05)  
+  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.6.1)
 
 ## 🔹 Green-software
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.44.2) – `0.44.2` (📅 2025-10-10)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.44.2)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3)
-- [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0)
