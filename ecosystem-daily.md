@@ -5,24 +5,24 @@
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.2) – `2.2.2` (📅 2025-10-22)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.2)
-- [quantumlib/qsim](https://github.com/quantumlib/qsim/releases/tag/v0.22.0) – `v0.22.0` (📅 2025-06-24)  
-  🔗 [Release Notes](https://github.com/quantumlib/qsim/releases/tag/v0.22.0)
+- [SnowflurrySDK/Snowflurry.jl](https://github.com/SnowflurrySDK/Snowflurry.jl/releases/tag/v0.5.1) – `v0.5.1` (📅 2024-11-12)  
+  🔗 [Release Notes](https://github.com/SnowflurrySDK/Snowflurry.jl/releases/tag/v0.5.1)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
 
 ## 🔹 Edge-computing
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-10-20)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9)
-- [paceval/paceval](https://github.com/paceval/paceval/releases/tag/v4.25-release) – `v4.25-release` (📅 2024-08-06)  
-  🔗 [Release Notes](https://github.com/paceval/paceval/releases/tag/v4.25-release)
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10) – `microshift-4.12.10` (📅 2023-04-03)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/microshift-4.12.10)
 
 ## 🔹 Webassembly
-- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.2) – `v3.3.2` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.2)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.69.0) – `v0.69.0` (📅 2025-10-22)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.69.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
