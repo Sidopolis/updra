@@ -5,7 +5,12 @@
   🔗 [Release Notes](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.1.0)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
+- [unitaryfoundation/qlass](https://github.com/unitaryfoundation/qlass/releases/tag/v0.1.4) – `v0.1.4` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qlass/releases/tag/v0.1.4)
+- [qilimanjaro-tech/qilisdk](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.5) – `0.1.5` (📅 2025-10-17)  
+  🔗 [Release Notes](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.5)
 
 ## 🔹 Edge-computing
 - [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-10-24)  
@@ -16,10 +21,10 @@
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.11) – `v0.5.11` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.11)
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0) – `0.36.0` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0)
+- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-09-25)  
+  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.8.0)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
