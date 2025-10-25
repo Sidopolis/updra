@@ -4,7 +4,12 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [munich-quantum-toolkit/qmap](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.4.0) – `v3.4.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.4.0)
+- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.1) – `v3.3.1` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.1)
+- [munich-quantum-toolkit/qusat](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0)
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -15,10 +20,7 @@
   🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15) – `@liam-hq/erd-core@0.6.15` (📅 2025-10-22)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.2)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
