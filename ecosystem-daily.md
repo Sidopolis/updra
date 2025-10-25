@@ -1,28 +1,24 @@
-# 🌐 Ecosystem Daily Log – 2025-10-24
+# 🌐 Ecosystem Daily Log – 2025-10-25
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [quantumlib/chromobius](https://github.com/quantumlib/chromobius/releases/tag/v1.1.0) – `v1.1.0` (📅 2024-09-24)  
-  🔗 [Release Notes](https://github.com/quantumlib/chromobius/releases/tag/v1.1.0)
-- [dwavesystems/dwave-ocean-sdk](https://github.com/dwavesystems/dwave-ocean-sdk/releases/tag/9.0.0) – `9.0.0` (📅 2025-09-10)  
-  🔗 [Release Notes](https://github.com/dwavesystems/dwave-ocean-sdk/releases/tag/9.0.0)
-- [jcmgray/quimb](https://github.com/jcmgray/quimb/releases/tag/v1.11.2) – `v1.11.2` (📅 2025-07-31)  
-  🔗 [Release Notes](https://github.com/jcmgray/quimb/releases/tag/v1.11.2)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
+- [munich-quantum-toolkit/ddsim](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.1.0)
+- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
+  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
 
 ## 🔹 Edge-computing
-- [larsid/netfl](https://github.com/larsid/netfl/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-24)  
-  🔗 [Release Notes](https://github.com/larsid/netfl/releases/tag/v1.4.0)
-- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0) – `v1.5.0` (📅 2023-06-15)  
-  🔗 [Release Notes](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2)
+- [eclipse-zenoh/zenoh-plugin-dds](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.6.2)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.143) – `v0.8.143` (📅 2025-10-24)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.143)
-- [yassineAbou/LLMS](https://github.com/yassineAbou/LLMS/releases/tag/Android) – `Android` (📅 2025-04-27)  
-  🔗 [Release Notes](https://github.com/yassineAbou/LLMS/releases/tag/Android)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
