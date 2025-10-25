@@ -11,14 +11,12 @@
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [bytecodealliance/vscode-wit](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.18) – `wit-idl-v0.3.18` (📅 2025-10-25)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.18)
+- [wa-lang/wa-lang-cn.github.io](https://github.com/wa-lang/wa-lang-cn.github.io/releases/tag/v1.0.0) – `v1.0.0` (📅 2022-10-30)  
+  🔗 [Release Notes](https://github.com/wa-lang/wa-lang-cn.github.io/releases/tag/v1.0.0)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.6) – `v4.1.6` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.6)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
