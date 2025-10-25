@@ -1,11 +1,11 @@
 # 🌐 Ecosystem Daily Log – 2025-10-25
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [itsubaki/q](https://github.com/itsubaki/q/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/itsubaki/q/releases/tag/v0.0.9)
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
