@@ -4,10 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [QuantumSavory/QuantumClifford.jl](https://github.com/QuantumSavory/QuantumClifford.jl/releases/tag/v0.10.0) – `v0.10.0` (📅 2025-07-02)  
-  🔗 [Release Notes](https://github.com/QuantumSavory/QuantumClifford.jl/releases/tag/v0.10.0)
+- [quantumlib/qsim](https://github.com/quantumlib/qsim/releases/tag/v0.22.0) – `v0.22.0` (📅 2025-06-24)  
+  🔗 [Release Notes](https://github.com/quantumlib/qsim/releases/tag/v0.22.0)
 
 ## 🔹 Edge-computing
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
