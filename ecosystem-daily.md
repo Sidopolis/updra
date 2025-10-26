@@ -4,6 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
+- [Jayshah25/Quantum-Reinforcement-Learning](https://github.com/Jayshah25/Quantum-Reinforcement-Learning/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-10-07)  
+  🔗 [Release Notes](https://github.com/Jayshah25/Quantum-Reinforcement-Learning/releases/tag/v0.2.0)
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
@@ -16,10 +18,10 @@
   🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
+- [pulseengine/rules_wasm_component](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-07-24)  
+  🔗 [Release Notes](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0)
 - [gluesql/gluesql](https://github.com/gluesql/gluesql/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-06-21)  
   🔗 [Release Notes](https://github.com/gluesql/gluesql/releases/tag/v0.18.0)
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.4) – `v9.11.4` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.11.4)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
