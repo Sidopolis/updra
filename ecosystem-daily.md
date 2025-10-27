@@ -4,21 +4,26 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [TeamGraphix/graphix](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-08-18)  
+  🔗 [Release Notes](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.2)
 
 ## 🔹 Edge-computing
+- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge/releases/tag/v1.21.0) – `v1.21.0` (📅 2025-06-18)  
+  🔗 [Release Notes](https://github.com/kubeedge/kubeedge/releases/tag/v1.21.0)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [kubewarden/pod-privileged-policy](https://github.com/kubewarden/pod-privileged-policy/releases/tag/v1.0.7) – `v1.0.7` (📅 2025-10-20)  
-  🔗 [Release Notes](https://github.com/kubewarden/pod-privileged-policy/releases/tag/v1.0.7)
-- [kubewarden/annotations-policy](https://github.com/kubewarden/annotations-policy/releases/tag/v0.1.2) – `v0.1.2` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/kubewarden/annotations-policy/releases/tag/v0.1.2)
-- [kubewarden/readonly-root-filesystem-psp-policy](https://github.com/kubewarden/readonly-root-filesystem-psp-policy/releases/tag/v1.0.6) – `v1.0.6` (📅 2025-10-20)  
-  🔗 [Release Notes](https://github.com/kubewarden/readonly-root-filesystem-psp-policy/releases/tag/v1.0.6)
+- [arianrhodsandlot/nostalgist](https://github.com/arianrhodsandlot/nostalgist/releases/tag/v0.17.0) – `v0.17.0` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/nostalgist/releases/tag/v0.17.0)
+- [konsoletyper/teavm](https://github.com/konsoletyper/teavm/releases/tag/0.12.1) – `0.12.1` (📅 2025-05-29)  
+  🔗 [Release Notes](https://github.com/konsoletyper/teavm/releases/tag/0.12.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
