@@ -4,17 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [followthesapper/ATLAS-Q](https://github.com/followthesapper/ATLAS-Q/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-10-27)  
-  🔗 [Release Notes](https://github.com/followthesapper/ATLAS-Q/releases/tag/v0.6.1)
+- [m-labs/artiq](https://github.com/m-labs/artiq/releases/tag/8.0) – `8.0` (📅 2024-06-06)  
+  🔗 [Release Notes](https://github.com/m-labs/artiq/releases/tag/8.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [forderud/QtWasm](https://github.com/forderud/QtWasm/releases/tag/v6.10.0) – `v6.10.0` (📅 2025-10-09)  
-  🔗 [Release Notes](https://github.com/forderud/QtWasm/releases/tag/v6.10.0)
-- [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.240.0) – `v1.240.0` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.240.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v0.51.1) – `v0.51.1` (📅 2025-08-25)  
+  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v0.51.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
