@@ -3,25 +3,27 @@
 ## 🔹 Ai-ethics
 - [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- [Life-Experimentalist/EquiLens](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus) – `v1.0.0-corpus` (📅 2025-08-31)  
+  🔗 [Release Notes](https://github.com/Life-Experimentalist/EquiLens/releases/tag/v1.0.0-corpus)
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit-addon-sqd-hpc](https://github.com/Qiskit/qiskit-addon-sqd-hpc/releases/tag/0.0.0) – `0.0.0` (📅 2025-10-07)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit-addon-sqd-hpc/releases/tag/0.0.0)
-- [followthesapper/ATLAS-Q](https://github.com/followthesapper/ATLAS-Q/releases/tag/v0.50) – `v0.50` (📅 2025-10-27)  
-  🔗 [Release Notes](https://github.com/followthesapper/ATLAS-Q/releases/tag/v0.50)
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
 
 ## 🔹 Edge-computing
-- [rekkles2/Fed_WSVAD](https://github.com/rekkles2/Fed_WSVAD/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-27)  
-  🔗 [Release Notes](https://github.com/rekkles2/Fed_WSVAD/releases/tag/v2.0.0)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
 
 ## 🔹 Webassembly
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.70.0) – `v0.70.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.70.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3)
-- [genai-impact/ecologits](https://github.com/genai-impact/ecologits/releases/tag/0.8.2) – `0.8.2` (📅 2025-08-16)  
-  🔗 [Release Notes](https://github.com/genai-impact/ecologits/releases/tag/0.8.2)
-- [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0)
+- [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
+  🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
