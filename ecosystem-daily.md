@@ -4,24 +4,26 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [R-D-BioTech-Alaska/Qelm](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01) – `Theoretical-Beta-01` (📅 2025-03-19)  
-  🔗 [Release Notes](https://github.com/R-D-BioTech-Alaska/Qelm/releases/tag/Theoretical-Beta-01)
-- [Neureonmindflux-Research-Lab/qml-hcs](https://github.com/Neureonmindflux-Research-Lab/qml-hcs/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-26)  
-  🔗 [Release Notes](https://github.com/Neureonmindflux-Research-Lab/qml-hcs/releases/tag/v0.1.0)
-- [mit-han-lab/torchquantum](https://github.com/mit-han-lab/torchquantum/releases/tag/v0.1.8) – `v0.1.8` (📅 2024-02-21)  
-  🔗 [Release Notes](https://github.com/mit-han-lab/torchquantum/releases/tag/v0.1.8)
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
 
 ## 🔹 Edge-computing
-- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-10-24)  
-  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.0)
-- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.69.15) – `v1.69.15` (📅 2025-10-28)  
-  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.69.15)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [carsonDB/frameflow](https://github.com/carsonDB/frameflow/releases/tag/v0.3.1) – `v0.3.1` (📅 2025-04-07)  
-  🔗 [Release Notes](https://github.com/carsonDB/frameflow/releases/tag/v0.3.1)
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.196) – `v3.0.196` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v3.0.196)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.3.62) – `6.3.62` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.3.62)
+- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript/releases/tag/v0.28.9) – `v0.28.9` (📅 2025-10-18)  
+  🔗 [Release Notes](https://github.com/AssemblyScript/assemblyscript/releases/tag/v0.28.9)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
