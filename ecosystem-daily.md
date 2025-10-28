@@ -4,22 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [CQCL/tierkreis](https://github.com/CQCL/tierkreis/releases/tag/v2.0.6) – `v2.0.6` (📅 2025-10-28)  
-  🔗 [Release Notes](https://github.com/CQCL/tierkreis/releases/tag/v2.0.6)
-- [m-labs/artiq](https://github.com/m-labs/artiq/releases/tag/8.0) – `8.0` (📅 2024-06-06)  
-  🔗 [Release Notes](https://github.com/m-labs/artiq/releases/tag/8.0)
+- [qBraid/pyqasm](https://github.com/qBraid/pyqasm/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-19)  
+  🔗 [Release Notes](https://github.com/qBraid/pyqasm/releases/tag/v1.0.0)
+- [amachino/qubex](https://github.com/amachino/qubex/releases/tag/v1.4.2) – `v1.4.2` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/amachino/qubex/releases/tag/v1.4.2)
+- [straightchlorine/quantum-pipeline](https://github.com/straightchlorine/quantum-pipeline/releases/tag/1.3.2) – `1.3.2` (📅 2025-10-26)  
+  🔗 [Release Notes](https://github.com/straightchlorine/quantum-pipeline/releases/tag/1.3.2)
 
 ## 🔹 Edge-computing
-- [tidbcloud/prisma-adapter](https://github.com/tidbcloud/prisma-adapter/releases/tag/v6.12.0) – `v6.12.0` (📅 2025-07-24)  
-  🔗 [Release Notes](https://github.com/tidbcloud/prisma-adapter/releases/tag/v6.12.0)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [tidbcloud/prisma-adapter](https://github.com/tidbcloud/prisma-adapter/releases/tag/v6.17.0) – `v6.17.0` (📅 2025-10-28)  
+  🔗 [Release Notes](https://github.com/tidbcloud/prisma-adapter/releases/tag/v6.17.0)
 
 ## 🔹 Webassembly
-- [ThatOpen/engine_web-ifc](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.72) – `0.72` (📅 2025-10-02)  
-  🔗 [Release Notes](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.72)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [kubewarden/kwctl](https://github.com/kubewarden/kwctl/releases/tag/v1.29.1) – `v1.29.1` (📅 2025-10-13)  
+  🔗 [Release Notes](https://github.com/kubewarden/kwctl/releases/tag/v1.29.1)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
