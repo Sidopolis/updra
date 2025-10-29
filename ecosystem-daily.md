@@ -1,27 +1,24 @@
 # 🌐 Ecosystem Daily Log – 2025-10-29
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.5.6) – `v9.5.6` (📅 2025-10-29)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.5.6)
-- [followthesapper/ATLAS-Q](https://github.com/followthesapper/ATLAS-Q/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-10-27)  
-  🔗 [Release Notes](https://github.com/followthesapper/ATLAS-Q/releases/tag/v0.6.1)
+- [Neureonmindflux-Research-Lab/qml-hcs](https://github.com/Neureonmindflux-Research-Lab/qml-hcs/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-26)  
+  🔗 [Release Notes](https://github.com/Neureonmindflux-Research-Lab/qml-hcs/releases/tag/v0.1.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-10-20)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0)
-- [kubewarden/kwctl](https://github.com/kubewarden/kwctl/releases/tag/v1.29.1) – `v1.29.1` (📅 2025-10-13)  
-  🔗 [Release Notes](https://github.com/kubewarden/kwctl/releases/tag/v1.29.1)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs/releases/tag/worker-build-v0.1.13) – `worker-build-v0.1.13` (📅 2025-10-28)  
+  🔗 [Release Notes](https://github.com/cloudflare/workers-rs/releases/tag/worker-build-v0.1.13)
+- [grain-lang/grain](https://github.com/grain-lang/grain/releases/tag/grain-v0.7.1) – `grain-v0.7.1` (📅 2025-07-01)  
+  🔗 [Release Notes](https://github.com/grain-lang/grain/releases/tag/grain-v0.7.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
