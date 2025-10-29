@@ -1,7 +1,8 @@
 # 🌐 Ecosystem Daily Log – 2025-10-29
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [hongping-zh/circular-bias-detection](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.1.0)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -15,10 +16,8 @@
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15) – `@liam-hq/erd-core@0.6.15` (📅 2025-10-22)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.2.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
