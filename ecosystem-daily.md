@@ -4,19 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.5.3) – `v9.5.3` (📅 2025-10-29)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.5.3)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.2) – `2.2.2` (📅 2025-10-22)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.2)
 
 ## 🔹 Edge-computing
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.33.0) – `v0.33.0` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.33.0)
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-08-21)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.0)
+- [oakestra/oakestra](https://github.com/oakestra/oakestra/releases/tag/v0.4.401) – `v0.4.401` (📅 2025-01-29)  
+  🔗 [Release Notes](https://github.com/oakestra/oakestra/releases/tag/v0.4.401)
 
 ## 🔹 Webassembly
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
-- [wasimoff/wasimoff](https://github.com/wasimoff/wasimoff/releases/tag/starless24-artifact-amend-docker) – `starless24-artifact-amend-docker` (📅 2024-02-08)  
-  🔗 [Release Notes](https://github.com/wasimoff/wasimoff/releases/tag/starless24-artifact-amend-docker)
+- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.29.0) – `0.29.0` (📅 2025-10-20)  
+  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.29.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
