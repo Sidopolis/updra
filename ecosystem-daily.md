@@ -4,22 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
-- [pyRiemann/pyRiemann-qiskit](https://github.com/pyRiemann/pyRiemann-qiskit/releases/tag/v0.4.2) – `v0.4.2` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/pyRiemann/pyRiemann-qiskit/releases/tag/v0.4.2)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-10-20)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9)
+- [Nickiller04/c2-concierge](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
-- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-10-24)  
-  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.4.0)
-- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/prompts-middleware-v0.1.4) – `prompts-middleware-v0.1.4` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/prompts-middleware-v0.1.4)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.1) – `v6.2.1` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v6.2.1)
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.202) – `v4.0.202` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.202)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.44.2) – `0.44.2` (📅 2025-10-10)  
