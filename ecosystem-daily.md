@@ -4,20 +4,23 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 - [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
   🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
+- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.21.0) – `v1.21.0` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.21.0)
 
 ## 🔹 Edge-computing
-- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.69.15) – `v1.69.15` (📅 2025-10-28)  
-  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.69.15)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [MarimerLLC/csla](https://github.com/MarimerLLC/csla/releases/tag/v9.1.0) – `v9.1.0` (📅 2025-06-19)  
-  🔗 [Release Notes](https://github.com/MarimerLLC/csla/releases/tag/v9.1.0)
+- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28) – `6.3.28` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28)
+- [unoplatform/uno.toolkit.ui](https://github.com/unoplatform/uno.toolkit.ui/releases/tag/8.2.4) – `8.2.4` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.toolkit.ui/releases/tag/8.2.4)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.147) – `v0.8.147` (📅 2025-10-29)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.147)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
