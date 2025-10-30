@@ -4,22 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.0) – `v0.43.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.0)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
+- [pyRiemann/pyRiemann-qiskit](https://github.com/pyRiemann/pyRiemann-qiskit/releases/tag/v0.4.2) – `v0.4.2` (📅 2025-09-04)  
+  🔗 [Release Notes](https://github.com/pyRiemann/pyRiemann-qiskit/releases/tag/v0.4.2)
 
 ## 🔹 Edge-computing
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-10-20)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.9)
-- [aziontech/terraform-provider-azion](https://github.com/aziontech/terraform-provider-azion/releases/tag/v1.38.0) – `v1.38.0` (📅 2025-08-25)  
-  🔗 [Release Notes](https://github.com/aziontech/terraform-provider-azion/releases/tag/v1.38.0)
 
 ## 🔹 Webassembly
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.4.0)
+- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/prompts-middleware-v0.1.4) – `prompts-middleware-v0.1.4` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/prompts-middleware-v0.1.4)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.44.2) – `0.44.2` (📅 2025-10-10)  
