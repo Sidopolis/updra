@@ -4,7 +4,10 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [amachino/qubex](https://github.com/amachino/qubex/releases/tag/v1.4.2) – `v1.4.2` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/amachino/qubex/releases/tag/v1.4.2)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
 
 ## 🔹 Edge-computing
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
@@ -15,8 +18,6 @@
 ## 🔹 Webassembly
 - [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.21) – `v3.3.21` (📅 2025-06-19)  
   🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.21)
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.176) – `v4.0.176` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.176)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
