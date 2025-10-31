@@ -4,18 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11) – `v0.0.11` (📅 2025-10-31)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11)
 
 ## 🔹 Webassembly
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.13) – `v1.0.0-beta.13` (📅 2025-10-07)  
-  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.13)
-- [cdvelop/tinystring](https://github.com/cdvelop/tinystring/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-09-06)  
-  🔗 [Release Notes](https://github.com/cdvelop/tinystring/releases/tag/v0.5.0)
+- [JupyterEverywhere/jupyterlite-extension](https://github.com/JupyterEverywhere/jupyterlite-extension/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-10-31)  
+  🔗 [Release Notes](https://github.com/JupyterEverywhere/jupyterlite-extension/releases/tag/v1.1.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.147) – `v0.8.147` (📅 2025-10-29)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.147)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.3.62) – `6.3.62` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.3.62)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
