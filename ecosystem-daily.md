@@ -1,21 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2025-11-01
 
 ## 🔹 Ai-ethics
-- [hongping-zh/circular-bias-detection](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-10-24)  
-  🔗 [Release Notes](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.1.0)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [CQCL/phir](https://github.com/CQCL/phir/releases/tag/v0.3.3) – `v0.3.3` (📅 2024-05-06)  
+  🔗 [Release Notes](https://github.com/CQCL/phir/releases/tag/v0.3.3)
+- [CQCL/pytket-phir](https://github.com/CQCL/pytket-phir/releases/tag/v0.10.0) – `v0.10.0` (📅 2025-02-28)  
+  🔗 [Release Notes](https://github.com/CQCL/pytket-phir/releases/tag/v0.10.0)
 
 ## 🔹 Edge-computing
 - [shadmanadman/kflite](https://github.com/shadmanadman/kflite/releases/tag/1.1.35) – `1.1.35` (📅 2025-11-01)  
   🔗 [Release Notes](https://github.com/shadmanadman/kflite/releases/tag/1.1.35)
-- [Ratio1/r1setup](https://github.com/Ratio1/r1setup/releases/tag/v1.3.5) – `v1.3.5` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/Ratio1/r1setup/releases/tag/v1.3.5)
 
 ## 🔹 Webassembly
-- [eyereasoner/eye-js](https://github.com/eyereasoner/eye-js/releases/tag/v18.21.2) – `v18.21.2` (📅 2025-10-11)  
-  🔗 [Release Notes](https://github.com/eyereasoner/eye-js/releases/tag/v18.21.2)
+- [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.36) – `0.0.36` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.36)
+- [SWI-Prolog/npm-swipl-wasm](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v5.2.2) – `v5.2.2` (📅 2025-10-25)  
+  🔗 [Release Notes](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v5.2.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
