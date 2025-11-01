@@ -5,8 +5,6 @@
   🔗 [Release Notes](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.1.0)
 
 ## 🔹 Quantum-computing
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.2.44) – `v1.2.44` (📅 2025-10-07)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.2.44)
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
@@ -15,8 +13,12 @@
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.12.0) – `v9.12.0` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.12.0)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15) – `@liam-hq/erd-core@0.6.15` (📅 2025-10-22)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15)
+- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.3) – `v3.3.3` (📅 2025-10-25)  
+  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.3)
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-10-05)  
+  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.6.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
