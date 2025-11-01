@@ -4,17 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [GT-Quantum-Computing-Association/LogicalQ](https://github.com/GT-Quantum-Computing-Association/LogicalQ/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-26)  
+  🔗 [Release Notes](https://github.com/GT-Quantum-Computing-Association/LogicalQ/releases/tag/v0.1.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [togunchan/SecureEdgePlatform](https://github.com/togunchan/SecureEdgePlatform/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-01)  
-  🔗 [Release Notes](https://github.com/togunchan/SecureEdgePlatform/releases/tag/v1.0.0)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [spinframework/containerd-shim-spin](https://github.com/spinframework/containerd-shim-spin/releases/tag/v0.21.0) – `v0.21.0` (📅 2025-08-27)  
-  🔗 [Release Notes](https://github.com/spinframework/containerd-shim-spin/releases/tag/v0.21.0)
+- [tniessen/node-pqclean](https://github.com/tniessen/node-pqclean/releases/tag/v0.8.1) – `v0.8.1` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/tniessen/node-pqclean/releases/tag/v0.8.1)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15) – `@liam-hq/erd-core@0.6.15` (📅 2025-10-22)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15)
 - [chkuendig/scummvm-demo](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0) – `2.6.0` (📅 2022-08-04)  
   🔗 [Release Notes](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0)
 
