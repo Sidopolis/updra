@@ -4,17 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [EpifaniosK/votranh-omniverse-loeh-omega](https://github.com/EpifaniosK/votranh-omniverse-loeh-omega/releases/tag/2.6.3-beta.2) – `2.6.3-beta.2` (📅 2025-04-04)  
+  🔗 [Release Notes](https://github.com/EpifaniosK/votranh-omniverse-loeh-omega/releases/tag/2.6.3-beta.2)
+- [m-labs/artiq](https://github.com/m-labs/artiq/releases/tag/8.0) – `8.0` (📅 2024-06-06)  
+  🔗 [Release Notes](https://github.com/m-labs/artiq/releases/tag/8.0)
 
 ## 🔹 Edge-computing
-- [shadmanadman/kflite](https://github.com/shadmanadman/kflite/releases/tag/1.1.35) – `1.1.35` (📅 2025-11-01)  
-  🔗 [Release Notes](https://github.com/shadmanadman/kflite/releases/tag/1.1.35)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [wa-lang/wa-lang-cn.github.io](https://github.com/wa-lang/wa-lang-cn.github.io/releases/tag/v1.0.0) – `v1.0.0` (📅 2022-10-30)  
-  🔗 [Release Notes](https://github.com/wa-lang/wa-lang-cn.github.io/releases/tag/v1.0.0)
 - [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.36) – `0.0.36` (📅 2025-09-09)  
   🔗 [Release Notes](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.36)
+- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.3) – `v3.3.3` (📅 2025-10-25)  
+  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.3.3)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.12.0) – `v9.12.0` (📅 2025-10-31)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.12.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
