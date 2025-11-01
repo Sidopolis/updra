@@ -1,8 +1,7 @@
 # 🌐 Ecosystem Daily Log – 2025-11-01
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -14,10 +13,10 @@
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [grain-lang/binaryen.ml](https://github.com/grain-lang/binaryen.ml/releases/tag/v0.29.0) – `v0.29.0` (📅 2025-11-01)  
-  🔗 [Release Notes](https://github.com/grain-lang/binaryen.ml/releases/tag/v0.29.0)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [spinframework/containerd-shim-spin](https://github.com/spinframework/containerd-shim-spin/releases/tag/v0.21.0) – `v0.21.0` (📅 2025-08-27)  
+  🔗 [Release Notes](https://github.com/spinframework/containerd-shim-spin/releases/tag/v0.21.0)
+- [chkuendig/scummvm-demo](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0) – `2.6.0` (📅 2022-08-04)  
+  🔗 [Release Notes](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
