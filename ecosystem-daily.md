@@ -4,8 +4,6 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
@@ -13,10 +11,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/cli-v0.4.10) – `cli-v0.4.10` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/cli-v0.4.10)
-- [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.37) – `0.0.37` (📅 2025-11-01)  
-  🔗 [Release Notes](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.37)
+- [grain-lang/binaryen.ml](https://github.com/grain-lang/binaryen.ml/releases/tag/v0.28.0) – `v0.28.0` (📅 2025-11-01)  
+  🔗 [Release Notes](https://github.com/grain-lang/binaryen.ml/releases/tag/v0.28.0)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.3) – `v38.0.3` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.3)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
