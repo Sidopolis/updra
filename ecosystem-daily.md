@@ -16,8 +16,8 @@
 ## 🔹 Webassembly
 - [grain-lang/binaryen.ml](https://github.com/grain-lang/binaryen.ml/releases/tag/v0.30.0) – `v0.30.0` (📅 2025-11-02)  
   🔗 [Release Notes](https://github.com/grain-lang/binaryen.ml/releases/tag/v0.30.0)
-- [grain-lang/grain](https://github.com/grain-lang/grain/releases/tag/grain-v0.7.1) – `grain-v0.7.1` (📅 2025-07-01)  
-  🔗 [Release Notes](https://github.com/grain-lang/grain/releases/tag/grain-v0.7.1)
+- [s0l0ist/node-seal](https://github.com/s0l0ist/node-seal/releases/tag/6.0.2) – `6.0.2` (📅 2025-10-29)  
+  🔗 [Release Notes](https://github.com/s0l0ist/node-seal/releases/tag/6.0.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
