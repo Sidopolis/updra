@@ -4,22 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.14.1) – `hugr-py-v0.14.1` (📅 2025-10-27)  
-  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.14.1)
+- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-v0.24.1) – `hugr-v0.24.1` (📅 2025-11-03)  
+  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-v0.24.1)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2)
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.2) – `v0.18.2` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [kubewarden/annotations-policy](https://github.com/kubewarden/annotations-policy/releases/tag/v0.1.2) – `v0.1.2` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/kubewarden/annotations-policy/releases/tag/v0.1.2)
-- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/11.3.0) – `11.3.0` (📅 2025-10-22)  
-  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/11.3.0)
-- [kubewarden/pod-ndots-policy](https://github.com/kubewarden/pod-ndots-policy/releases/tag/v1.0.5) – `v1.0.5` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/kubewarden/pod-ndots-policy/releases/tag/v1.0.5)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.13) – `v1.0.0-beta.13` (📅 2025-10-07)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.13)
+- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.1.6) – `0.1.6` (📅 2025-07-12)  
+  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.1.6)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.44.4) – `0.44.4` (📅 2025-11-03)  
