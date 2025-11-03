@@ -4,23 +4,26 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qboson/kaiwu-pytorch-plugin](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.1)
+- [QuEraComputing/bloqade](https://github.com/QuEraComputing/bloqade/releases/tag/v0.29.0) – `v0.29.0` (📅 2025-11-03)  
+  🔗 [Release Notes](https://github.com/QuEraComputing/bloqade/releases/tag/v0.29.0)
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1)
+- [TeamGraphix/graphix](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-08-18)  
+  🔗 [Release Notes](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.2)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.2) – `v0.18.2` (📅 2025-11-03)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.2)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [kubewarden/allow-privilege-escalation-psp-policy](https://github.com/kubewarden/allow-privilege-escalation-psp-policy/releases/tag/v1.0.4) – `v1.0.4` (📅 2025-10-20)  
-  🔗 [Release Notes](https://github.com/kubewarden/allow-privilege-escalation-psp-policy/releases/tag/v1.0.4)
-- [vertigo-web/vertigo](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3) – `v0.8.3` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3)
-- [kubewarden/context-aware-demo](https://github.com/kubewarden/context-aware-demo/releases/tag/v0.1.7) – `v0.1.7` (📅 2025-09-15)  
-  🔗 [Release Notes](https://github.com/kubewarden/context-aware-demo/releases/tag/v0.1.7)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.12.0) – `v9.12.0` (📅 2025-10-31)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.12.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
