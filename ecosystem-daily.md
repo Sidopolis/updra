@@ -4,24 +4,28 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/syrec](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0)
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.2.44) – `v1.2.44` (📅 2025-10-07)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.2.44)
-- [munich-quantum-toolkit/qmap](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.4.0) – `v3.4.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.4.0)
+- [harmoniqs/Piccolo.jl](https://github.com/harmoniqs/Piccolo.jl/releases/tag/v0.7.2) – `v0.7.2` (📅 2025-05-13)  
+  🔗 [Release Notes](https://github.com/harmoniqs/Piccolo.jl/releases/tag/v0.7.2)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
+- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [Nickiller04/c2-concierge](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0)
 
 ## 🔹 Webassembly
+- [Teddy-van-Jerry/shapdf](https://github.com/Teddy-van-Jerry/shapdf/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-11-03)  
+  🔗 [Release Notes](https://github.com/Teddy-van-Jerry/shapdf/releases/tag/v0.2.0)
+- [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.0) – `1.5.0` (📅 2025-11-03)  
+  🔗 [Release Notes](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.0)
 - [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.443) – `v4.0.443` (📅 2025-10-30)  
   🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.443)
-- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/cli-v0.4.10) – `cli-v0.4.10` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/cli-v0.4.10)
-- [gluesql/gluesql](https://github.com/gluesql/gluesql/releases/tag/v0.18.0) – `v0.18.0` (📅 2025-06-21)  
-  🔗 [Release Notes](https://github.com/gluesql/gluesql/releases/tag/v0.18.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
