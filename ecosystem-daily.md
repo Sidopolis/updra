@@ -1,29 +1,30 @@
 # 🌐 Ecosystem Daily Log – 2025-11-03
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [QuEraComputing/bloqade](https://github.com/QuEraComputing/bloqade/releases/tag/v0.29.0) – `v0.29.0` (📅 2025-11-03)  
-  🔗 [Release Notes](https://github.com/QuEraComputing/bloqade/releases/tag/v0.29.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [TeamGraphix/graphix](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-08-18)  
-  🔗 [Release Notes](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.2)
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.1) – `v1.3.1` (📅 2025-11-03)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.1)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
 
 ## 🔹 Edge-computing
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.2) – `v0.18.2` (📅 2025-11-03)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.2)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2)
+- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.0)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.12.0) – `v9.12.0` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.12.0)
+- [kubewarden/audit-scanner](https://github.com/kubewarden/audit-scanner/releases/tag/v1.30.0) – `v1.30.0` (📅 2025-10-29)  
+  🔗 [Release Notes](https://github.com/kubewarden/audit-scanner/releases/tag/v1.30.0)
+- [kubewarden/policy-server](https://github.com/kubewarden/policy-server/releases/tag/v1.30.0) – `v1.30.0` (📅 2025-10-29)  
+  🔗 [Release Notes](https://github.com/kubewarden/policy-server/releases/tag/v1.30.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
