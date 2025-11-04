@@ -1,22 +1,28 @@
 # 🌐 Ecosystem Daily Log – 2025-11-04
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [hongping-zh/circular-bias-detection](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.1.0)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [qiboteam/qibocal](https://github.com/qiboteam/qibocal/releases/tag/v0.2.3) – `v0.2.3` (📅 2025-07-22)  
+  🔗 [Release Notes](https://github.com/qiboteam/qibocal/releases/tag/v0.2.3)
+- [qiboteam/qibolab](https://github.com/qiboteam/qibolab/releases/tag/v0.2.9) – `v0.2.9` (📅 2025-08-22)  
+  🔗 [Release Notes](https://github.com/qiboteam/qibolab/releases/tag/v0.2.9)
 
 ## 🔹 Edge-computing
-- [Nickiller04/c2-concierge](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0)
-- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.69.19) – `v1.69.19` (📅 2025-11-04)  
-  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.69.19)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
+- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.69.20) – `v1.69.20` (📅 2025-11-04)  
+  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.69.20)
+- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.0)
 
 ## 🔹 Webassembly
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.3.62) – `6.3.62` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.3.62)
 - [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15) – `@liam-hq/erd-core@0.6.15` (📅 2025-10-22)  
   🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15)
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.445) – `v4.0.445` (📅 2025-11-04)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.445)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
