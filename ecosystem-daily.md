@@ -4,20 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit-addon-cutting](https://github.com/Qiskit/qiskit-addon-cutting/releases/tag/0.10.0) – `0.10.0` (📅 2025-03-28)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit-addon-cutting/releases/tag/0.10.0)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
 
 ## 🔹 Edge-computing
-- [Nickiller04/c2-concierge](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0)
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11) – `v0.0.11` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0) – `4.20.0-202510201126.p0` (📅 2025-10-27)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0)
 
 ## 🔹 Webassembly
-- [havit/Havit.Blazor](https://github.com/havit/Havit.Blazor/releases/tag/v4.16.0) – `v4.16.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/havit/Havit.Blazor/releases/tag/v4.16.0)
-- [InsightSoftwareConsortium/ITK-Wasm](https://github.com/InsightSoftwareConsortium/ITK-Wasm/releases/tag/v14.1.1) – `v14.1.1` (📅 2021-06-15)  
-  🔗 [Release Notes](https://github.com/InsightSoftwareConsortium/ITK-Wasm/releases/tag/v14.1.1)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.150) – `v0.8.150` (📅 2025-11-04)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.150)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.3) – `v38.0.3` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.3)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
