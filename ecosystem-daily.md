@@ -5,17 +5,14 @@
   🔗 [Release Notes](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.29.0) – `vm6502q.v9.29.0` (📅 2025-11-05)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.29.0)
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.0) – `v0.43.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.0) – `2.9.0` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
