@@ -4,17 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
+- [terrordayvg/Authentication-of-QKD](https://github.com/terrordayvg/Authentication-of-QKD/releases/tag/Authentication) – `Authentication` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/terrordayvg/Authentication-of-QKD/releases/tag/Authentication)
+- [CQCL/qnexus](https://github.com/CQCL/qnexus/releases/tag/v0.36.0) – `v0.36.0` (📅 2025-11-04)  
+  🔗 [Release Notes](https://github.com/CQCL/qnexus/releases/tag/v0.36.0)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.2) – `v0.18.2` (📅 2025-11-03)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.2)
 
 ## 🔹 Webassembly
-- [iProov/web](https://github.com/iProov/web/releases/tag/v6.0.0) – `v6.0.0` (📅 2025-11-05)  
-  🔗 [Release Notes](https://github.com/iProov/web/releases/tag/v6.0.0)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.152) – `v0.8.152` (📅 2025-11-05)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.152)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/11.3.0) – `11.3.0` (📅 2025-10-22)  
+  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/11.3.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
