@@ -1,22 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2025-11-05
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit-code-assistant-vscode](https://github.com/Qiskit/qiskit-code-assistant-vscode/releases/tag/v0.14.0) – `v0.14.0` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit-code-assistant-vscode/releases/tag/v0.14.0)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [CosmWasm/wasmd](https://github.com/CosmWasm/wasmd/releases/tag/v0.61.5) – `v0.61.5` (📅 2025-11-04)  
-  🔗 [Release Notes](https://github.com/CosmWasm/wasmd/releases/tag/v0.61.5)
-- [havit/Havit.Blazor](https://github.com/havit/Havit.Blazor/releases/tag/v4.17.0) – `v4.17.0` (📅 2025-11-05)  
-  🔗 [Release Notes](https://github.com/havit/Havit.Blazor/releases/tag/v4.17.0)
+- [iProov/web](https://github.com/iProov/web/releases/tag/v6.0.0) – `v6.0.0` (📅 2025-11-05)  
+  🔗 [Release Notes](https://github.com/iProov/web/releases/tag/v6.0.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.152) – `v0.8.152` (📅 2025-11-05)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.152)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
