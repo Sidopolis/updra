@@ -4,17 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [CQCL/qnexus](https://github.com/CQCL/qnexus/releases/tag/v0.36.0) – `v0.36.0` (📅 2025-11-04)  
+  🔗 [Release Notes](https://github.com/CQCL/qnexus/releases/tag/v0.36.0)
+- [CQCL/tket2](https://github.com/CQCL/tket2/releases/tag/qis-compiler-v0.2.9) – `qis-compiler-v0.2.9` (📅 2025-10-22)  
+  🔗 [Release Notes](https://github.com/CQCL/tket2/releases/tag/qis-compiler-v0.2.9)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [Nickiller04/c2-concierge](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-30)  
   🔗 [Release Notes](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0)
 
 ## 🔹 Webassembly
-- [InsightSoftwareConsortium/ITK-Wasm](https://github.com/InsightSoftwareConsortium/ITK-Wasm/releases/tag/v14.1.1) – `v14.1.1` (📅 2021-06-15)  
-  🔗 [Release Notes](https://github.com/InsightSoftwareConsortium/ITK-Wasm/releases/tag/v14.1.1)
-- [forderud/QtWasm](https://github.com/forderud/QtWasm/releases/tag/v6.10.0.1) – `v6.10.0.1` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/forderud/QtWasm/releases/tag/v6.10.0.1)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.3.62) – `6.3.62` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.3.62)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
