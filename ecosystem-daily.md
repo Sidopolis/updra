@@ -4,20 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [Nickiller04/c2-concierge](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-30)  
   🔗 [Release Notes](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0)
 
 ## 🔹 Webassembly
-- [wanwu/cheetah-capture](https://github.com/wanwu/cheetah-capture/releases/tag/v0.4.2) – `v0.4.2` (📅 2025-11-05)  
-  🔗 [Release Notes](https://github.com/wanwu/cheetah-capture/releases/tag/v0.4.2)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
-- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
-  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
+- [InsightSoftwareConsortium/ITK-Wasm](https://github.com/InsightSoftwareConsortium/ITK-Wasm/releases/tag/v14.1.1) – `v14.1.1` (📅 2021-06-15)  
+  🔗 [Release Notes](https://github.com/InsightSoftwareConsortium/ITK-Wasm/releases/tag/v14.1.1)
+- [forderud/QtWasm](https://github.com/forderud/QtWasm/releases/tag/v6.10.0.1) – `v6.10.0.1` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/forderud/QtWasm/releases/tag/v6.10.0.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
