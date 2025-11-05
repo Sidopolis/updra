@@ -1,27 +1,18 @@
-# 🌐 Ecosystem Daily Log – 2025-11-04
+# 🌐 Ecosystem Daily Log – 2025-11-05
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [Nickiller04/c2-concierge](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0)
-- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.69.20) – `v1.69.20` (📅 2025-11-04)  
-  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.69.20)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.70.0) – `v0.70.0` (📅 2025-10-24)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.70.0)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
-- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.3) – `WAMR-2.4.3` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.3)
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective/releases/tag/v4.0.0) – `v4.0.0` (📅 2025-10-28)  
+  🔗 [Release Notes](https://github.com/perspective-dev/perspective/releases/tag/v4.0.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
