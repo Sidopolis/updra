@@ -4,20 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.69.1) – `v1.69.1` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.69.1)
+- [EQuS/jaxquantum](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-08-18)  
+  🔗 [Release Notes](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.2)
 
 ## 🔹 Edge-computing
-- [Nickiller04/c2-concierge](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0)
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11) – `v0.0.11` (📅 2025-10-31)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11)
 
 ## 🔹 Webassembly
-- [fineshopdesign/cf-wasm](https://github.com/fineshopdesign/cf-wasm/releases/tag/%40cf-wasm/photon%400.1.31) – `@cf-wasm/photon@0.1.31` (📅 2025-06-14)  
-  🔗 [Release Notes](https://github.com/fineshopdesign/cf-wasm/releases/tag/%40cf-wasm/photon%400.1.31)
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.70.0) – `v0.70.0` (📅 2025-10-24)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.70.0)
+- [illarionov/wasi-emscripten-host](https://github.com/illarionov/wasi-emscripten-host/releases/tag/0.6.0) – `0.6.0` (📅 2025-08-13)  
+  🔗 [Release Notes](https://github.com/illarionov/wasi-emscripten-host/releases/tag/0.6.0)
+- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
+  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
