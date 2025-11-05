@@ -7,14 +7,12 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.69.21) – `v1.69.21` (📅 2025-11-04)  
-  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.69.21)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2)
 
 ## 🔹 Webassembly
-- [goplus/xgolsw](https://github.com/goplus/xgolsw/releases/tag/v0.14.0) – `v0.14.0` (📅 2025-10-24)  
-  🔗 [Release Notes](https://github.com/goplus/xgolsw/releases/tag/v0.14.0)
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.12.1) – `v9.12.1` (📅 2025-11-04)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.12.1)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
