@@ -4,12 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.1) – `v1.3.1` (📅 2025-11-03)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.1)
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [dwavesystems/dwave-cloud-client](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.14.3) – `0.14.3` (📅 2025-11-05)  
+  🔗 [Release Notes](https://github.com/dwavesystems/dwave-cloud-client/releases/tag/0.14.3)
 
 ## 🔹 Edge-computing
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.0) – `v1.22.0` (📅 2025-11-05)  
@@ -18,12 +14,12 @@
   🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
 
 ## 🔹 Webassembly
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.11) – `v0.5.11` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.11)
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.151) – `v0.8.151` (📅 2025-11-05)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.151)
-- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/session-store-v0.1.0) – `session-store-v0.1.0` (📅 2025-11-03)  
-  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/session-store-v0.1.0)
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15) – `@liam-hq/erd-core@0.6.15` (📅 2025-10-22)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/erd-core%400.6.15)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
