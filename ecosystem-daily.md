@@ -4,19 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [EQuS/jaxquantum](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-08-18)  
+  🔗 [Release Notes](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.2)
 
 ## 🔹 Edge-computing
 - [Nickiller04/c2-concierge](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-30)  
   🔗 [Release Notes](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0)
-- [Ratio1/r1setup](https://github.com/Ratio1/r1setup/releases/tag/v1.3.5) – `v1.3.5` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/Ratio1/r1setup/releases/tag/v1.3.5)
+- [larsid/netfl](https://github.com/larsid/netfl/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/larsid/netfl/releases/tag/v1.4.0)
 
 ## 🔹 Webassembly
-- [ThatOpen/engine_web-ifc](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.72) – `0.72` (📅 2025-10-02)  
-  🔗 [Release Notes](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.72)
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.206) – `v4.0.206` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.206)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.152) – `v0.8.152` (📅 2025-11-05)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.152)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.3) – `v38.0.3` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.3)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
