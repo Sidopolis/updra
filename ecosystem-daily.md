@@ -4,24 +4,26 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit-serverless](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.27.1) – `v0.27.1` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.27.1)
-- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.22.0) – `v1.22.0` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.22.0)
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.0) – `v0.43.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.0)
+- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 - [Nickiller04/c2-concierge](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-30)  
   🔗 [Release Notes](https://github.com/Nickiller04/c2-concierge/releases/tag/v0.1.0)
 
 ## 🔹 Webassembly
-- [StevenSYS/BlockBreak](https://github.com/StevenSYS/BlockBreak/releases/tag/v1.1) – `v1.1` (📅 2025-04-22)  
-  🔗 [Release Notes](https://github.com/StevenSYS/BlockBreak/releases/tag/v1.1)
-- [unoplatform/uno.extensions](https://github.com/unoplatform/uno.extensions/releases/tag/6.2.3) – `6.2.3` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.extensions/releases/tag/6.2.3)
+- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.4.0)
+- [tractordev/wanix](https://github.com/tractordev/wanix/releases/tag/v0.3) – `v0.3` (📅 2025-08-11)  
+  🔗 [Release Notes](https://github.com/tractordev/wanix/releases/tag/v0.3)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
