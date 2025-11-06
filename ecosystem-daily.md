@@ -1,33 +1,30 @@
 # 🌐 Ecosystem Daily Log – 2025-11-06
 
 ## 🔹 Ai-ethics
-- [hollowhouseofmirrors/soul-mirror-mode](https://github.com/hollowhouseofmirrors/soul-mirror-mode/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/hollowhouseofmirrors/soul-mirror-mode/releases/tag/v1.0.0)
+- [alexrodic/Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-05)  
+  🔗 [Release Notes](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
-- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.1) – `v0.9.1` (📅 2025-09-26)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.1)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0) – `4.20.0-202510201126.p0` (📅 2025-10-27)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.9.2) – `v1.9.2` (📅 2025-10-29)  
+  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.9.2)
 
 ## 🔹 Green-software
-- [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
-  🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
-- [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
-  🔗 [Release Notes](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2)
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-08-14)  
   🔗 [Release Notes](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0)
+- [genai-impact/ecologits](https://github.com/genai-impact/ecologits/releases/tag/0.8.2) – `0.8.2` (📅 2025-08-16)  
+  🔗 [Release Notes](https://github.com/genai-impact/ecologits/releases/tag/0.8.2)
+- [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
+  🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
