@@ -4,17 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qilimanjaro-tech/qilisdk](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.6) – `0.1.6` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.6)
+- [PennyLaneAI/pennylane-cirq](https://github.com/PennyLaneAI/pennylane-cirq/releases/tag/v0.43.0) – `v0.43.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane-cirq/releases/tag/v0.43.0)
+- [CQCL/tierkreis](https://github.com/CQCL/tierkreis/releases/tag/v2.0.9) – `v2.0.9` (📅 2025-11-05)  
+  🔗 [Release Notes](https://github.com/CQCL/tierkreis/releases/tag/v2.0.9)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [vertigo-web/vertigo](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3) – `v0.8.3` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3)
-- [fineshopdesign/cf-wasm](https://github.com/fineshopdesign/cf-wasm/releases/tag/%40cf-wasm/plugins%400.1.1) – `@cf-wasm/plugins@0.1.1` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/fineshopdesign/cf-wasm/releases/tag/%40cf-wasm/plugins%400.1.1)
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-10-05)  
+  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.6.1)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-08-14)  
