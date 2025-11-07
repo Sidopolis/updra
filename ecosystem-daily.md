@@ -1,27 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2025-11-07
 
 ## 🔹 Ai-ethics
-- [hongping-zh/circular-bias-detection](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-10-24)  
-  🔗 [Release Notes](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.1.0)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [qiboteam/qibo](https://github.com/qiboteam/qibo/releases/tag/v0.2.21) – `v0.2.21` (📅 2025-09-19)  
+  🔗 [Release Notes](https://github.com/qiboteam/qibo/releases/tag/v0.2.21)
+- [oqtopus-team/oqtopus-cloud](https://github.com/oqtopus-team/oqtopus-cloud/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-09-12)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/oqtopus-cloud/releases/tag/v1.4.0)
+
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0) – `4.20.0-202510201126.p0` (📅 2025-10-27)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
 
 ## 🔹 Webassembly
-- [6over3/hako](https://github.com/6over3/hako/releases/tag/v1.0.4) – `v1.0.4` (📅 2025-11-07)  
-  🔗 [Release Notes](https://github.com/6over3/hako/releases/tag/v1.0.4)
-- [scribeocr/scribe.js](https://github.com/scribeocr/scribe.js/releases/tag/v0.9.1) – `v0.9.1` (📅 2025-11-07)  
-  🔗 [Release Notes](https://github.com/scribeocr/scribe.js/releases/tag/v0.9.1)
-- [vertigo-web/vertigo](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3) – `v0.8.3` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3)
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql/releases/tag/libsql-server-v0.24.32) – `libsql-server-v0.24.32` (📅 2025-02-14)  
+  🔗 [Release Notes](https://github.com/tursodatabase/libsql/releases/tag/libsql-server-v0.24.32)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.152) – `v0.8.152` (📅 2025-11-05)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.152)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
