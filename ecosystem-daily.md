@@ -4,19 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1) – `v0.43.1` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [quantumlib/chromobius](https://github.com/quantumlib/chromobius/releases/tag/v1.1.0) – `v1.1.0` (📅 2024-09-24)  
+  🔗 [Release Notes](https://github.com/quantumlib/chromobius/releases/tag/v1.1.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11) – `v0.0.11` (📅 2025-10-31)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11)
 
 ## 🔹 Webassembly
+- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28) – `6.3.28` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective/releases/tag/v4.0.0) – `v4.0.0` (📅 2025-10-28)  
-  🔗 [Release Notes](https://github.com/perspective-dev/perspective/releases/tag/v4.0.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
