@@ -4,6 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
@@ -11,10 +13,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
+- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
+  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
-- [Sec-ant/zxing-wasm](https://github.com/Sec-ant/zxing-wasm/releases/tag/v2.2.3) – `v2.2.3` (📅 2025-11-08)  
-  🔗 [Release Notes](https://github.com/Sec-ant/zxing-wasm/releases/tag/v2.2.3)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
