@@ -4,16 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.154) – `v0.8.154` (📅 2025-11-08)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.154)
-- [tractordev/wanix](https://github.com/tractordev/wanix/releases/tag/v0.3) – `v0.3` (📅 2025-08-11)  
-  🔗 [Release Notes](https://github.com/tractordev/wanix/releases/tag/v0.3)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [Sec-ant/zxing-wasm](https://github.com/Sec-ant/zxing-wasm/releases/tag/v2.2.3) – `v2.2.3` (📅 2025-11-08)  
+  🔗 [Release Notes](https://github.com/Sec-ant/zxing-wasm/releases/tag/v2.2.3)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
