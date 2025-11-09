@@ -4,14 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.3.62) – `6.3.62` (📅 2025-10-09)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.3.62)
+- [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.33.0) – `rust-v0.33.0` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.33.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
