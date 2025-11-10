@@ -4,22 +4,24 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [quantumlib/qsim](https://github.com/quantumlib/qsim/releases/tag/v0.22.0) – `v0.22.0` (📅 2025-06-24)  
-  🔗 [Release Notes](https://github.com/quantumlib/qsim/releases/tag/v0.22.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [roryschadler/roryschadler](https://github.com/roryschadler/roryschadler/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-11-10)  
+  🔗 [Release Notes](https://github.com/roryschadler/roryschadler/releases/tag/v0.6.0)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
 
 ## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0) – `4.20.0-202510201126.p0` (📅 2025-10-27)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0)
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2)
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.2) – `v0.18.2` (📅 2025-11-03)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.2)
-- [acoupi/acoupi](https://github.com/acoupi/acoupi/releases/tag/v0.3.0) – `v0.3.0` (📅 2024-12-03)  
-  🔗 [Release Notes](https://github.com/acoupi/acoupi/releases/tag/v0.3.0)
 
 ## 🔹 Webassembly
-- [SWI-Prolog/npm-swipl-wasm](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v5.2.4) – `v5.2.4` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v5.2.4)
+- [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.13.1) – `v4.13.1` (📅 2025-10-29)  
+  🔗 [Release Notes](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.13.1)
+- [wazero/wazero](https://github.com/wazero/wazero/releases/tag/v1.10.0) – `v1.10.0` (📅 2025-11-09)  
+  🔗 [Release Notes](https://github.com/wazero/wazero/releases/tag/v1.10.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
