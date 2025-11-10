@@ -4,22 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1) – `v0.43.1` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1)
-- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.22.0) – `v1.22.0` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.22.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.71.0) – `v0.71.0` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.71.0)
-- [unoplatform/uno.toolkit.ui](https://github.com/unoplatform/uno.toolkit.ui/releases/tag/8.2.4) – `8.2.4` (📅 2025-10-09)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.toolkit.ui/releases/tag/8.2.4)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
+- [chkuendig/scummvm-demo](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0) – `2.6.0` (📅 2022-08-04)  
+  🔗 [Release Notes](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
