@@ -4,20 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [softwareQinc/qpp](https://github.com/softwareQinc/qpp/releases/tag/v6.0) – `v6.0` (📅 2025-04-14)  
+  🔗 [Release Notes](https://github.com/softwareQinc/qpp/releases/tag/v6.0)
 
 ## 🔹 Edge-computing
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11) – `v0.0.11` (📅 2025-10-31)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.1) – `v2.12.1` (📅 2025-10-14)  
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.1)
 
 ## 🔹 Webassembly
-- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28) – `6.3.28` (📅 2025-10-09)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
-- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/11.3.0) – `11.3.0` (📅 2025-10-22)  
-  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/11.3.0)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.191) – `v4.0.191` (📅 2025-11-10)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.191)
+- [rfwlab/rfw](https://github.com/rfwlab/rfw/releases/tag/v0.2.0-beta.2) – `v0.2.0-beta.2` (📅 2025-09-15)  
+  🔗 [Release Notes](https://github.com/rfwlab/rfw/releases/tag/v0.2.0-beta.2)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-11-06)  
