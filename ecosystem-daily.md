@@ -4,20 +4,26 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [qiboteam/qibotn](https://github.com/qiboteam/qibotn/releases/tag/v0.0.5) – `v0.0.5` (📅 2025-06-20)  
+  🔗 [Release Notes](https://github.com/qiboteam/qibotn/releases/tag/v0.0.5)
+- [qboson/kaiwu-pytorch-plugin](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.2) – `v0.0.2` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.2)
+- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.22.0) – `v1.22.0` (📅 2025-10-31)  
+  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.22.0)
 
 ## 🔹 Edge-computing
+- [bambooww/iot-tree](https://github.com/bambooww/iot-tree/releases/tag/1.8.0) – `1.8.0` (📅 2025-10-31)  
+  🔗 [Release Notes](https://github.com/bambooww/iot-tree/releases/tag/1.8.0)
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
   🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11) – `v0.0.11` (📅 2025-10-31)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11)
 
 ## 🔹 Webassembly
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.3.62) – `6.3.62` (📅 2025-10-09)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.3.62)
-- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28) – `6.3.28` (📅 2025-10-09)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.0) – `2.9.0` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.0)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.12.1) – `v9.12.1` (📅 2025-11-04)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v9.12.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
