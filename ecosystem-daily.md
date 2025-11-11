@@ -3,12 +3,12 @@
 ## 🔹 Ai-ethics
 - [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1) – `v0.43.1` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [GainSec/anti-crime-ecosystem-research](https://github.com/GainSec/anti-crime-ecosystem-research/releases/tag/v1.0-PR) – `v1.0-PR` (📅 2025-11-05)  
@@ -19,12 +19,10 @@
   🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.2)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.208) – `v4.0.208` (📅 2025-11-11)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.208)
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.471) – `v4.0.471` (📅 2025-11-11)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.471)
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.3.62) – `6.3.62` (📅 2025-10-09)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.3.62)
+- [havit/Havit.Blazor](https://github.com/havit/Havit.Blazor/releases/tag/v4.17.0) – `v4.17.0` (📅 2025-11-05)  
+  🔗 [Release Notes](https://github.com/havit/Havit.Blazor/releases/tag/v4.17.0)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.71.0) – `v0.71.0` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.71.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
