@@ -6,15 +6,20 @@
 ## 🔹 Quantum-computing
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [amachino/qubex](https://github.com/amachino/qubex/releases/tag/v1.4.3) – `v1.4.3` (📅 2025-11-11)  
-  🔗 [Release Notes](https://github.com/amachino/qubex/releases/tag/v1.4.3)
+- [CQCL/tket](https://github.com/CQCL/tket/releases/tag/v2.10.2) – `v2.10.2` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/CQCL/tket/releases/tag/v2.10.2)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0) – `4.20.0-202510201126.p0` (📅 2025-10-27)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
+- [vemonet/nanopub-rs](https://github.com/vemonet/nanopub-rs/releases/tag/v0.1.4) – `v0.1.4` (📅 2024-05-30)  
+  🔗 [Release Notes](https://github.com/vemonet/nanopub-rs/releases/tag/v0.1.4)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
