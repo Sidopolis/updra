@@ -1,27 +1,21 @@
-# 🌐 Ecosystem Daily Log – 2025-11-10
+# 🌐 Ecosystem Daily Log – 2025-11-11
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [quantumlib/Qualtran](https://github.com/quantumlib/Qualtran/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-04-01)  
-  🔗 [Release Notes](https://github.com/quantumlib/Qualtran/releases/tag/v0.6.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
 
 ## 🔹 Edge-computing
-- [Project-Babble/BabbleTrainer](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.0.1) – `1.0.1` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.0.1)
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11) – `v0.0.11` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11)
+- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2)
 
 ## 🔹 Webassembly
-- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
-  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
-- [bytecodealliance/wac](https://github.com/bytecodealliance/wac/releases/tag/v0.8.0) – `v0.8.0` (📅 2025-08-20)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wac/releases/tag/v0.8.0)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.3.62) – `6.3.62` (📅 2025-10-09)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.3.62)
+- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.22) – `@liam-hq/cli@0.7.22` (📅 2025-11-05)  
+  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.22)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
