@@ -4,15 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11) – `v0.0.11` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.11)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs/releases/tag/worker-build-v0.1.14) – `worker-build-v0.1.14` (📅 2025-11-11)  
-  🔗 [Release Notes](https://github.com/cloudflare/workers-rs/releases/tag/worker-build-v0.1.14)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [RoyalIcing/Orb](https://github.com/RoyalIcing/Orb/releases/tag/v0.2.1) – `v0.2.1` (📅 2025-03-25)  
+  🔗 [Release Notes](https://github.com/RoyalIcing/Orb/releases/tag/v0.2.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
