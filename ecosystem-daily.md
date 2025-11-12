@@ -7,16 +7,15 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28) – `6.3.28` (📅 2025-10-09)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.3.28)
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.0.0) – `v10.0.0` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.0.0)
-- [masastack/MASA.Blazor](https://github.com/masastack/MASA.Blazor/releases/tag/1.11.1) – `1.11.1` (📅 2025-11-04)  
-  🔗 [Release Notes](https://github.com/masastack/MASA.Blazor/releases/tag/1.11.1)
+- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.9.3) – `v1.9.3` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.9.3)
+- [ThatOpen/engine_web-ifc](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.73) – `0.73` (📅 2025-11-12)  
+  🔗 [Release Notes](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.73)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
