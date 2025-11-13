@@ -7,14 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.34.1) – `v0.34.1` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.34.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
 - [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/v0.89.1) – `v0.89.1` (📅 2025-09-10)  
   🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/v0.89.1)
-- [RadiatedExodus/LuauCeption](https://github.com/RadiatedExodus/LuauCeption/releases/tag/0.654) – `0.654` (📅 2024-12-11)  
-  🔗 [Release Notes](https://github.com/RadiatedExodus/LuauCeption/releases/tag/0.654)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
