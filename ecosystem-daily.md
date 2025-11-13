@@ -1,24 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2025-11-13
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.34.1) – `v0.34.1` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.34.1)
 
 ## 🔹 Webassembly
-- [Teddy-van-Jerry/shapdf](https://github.com/Teddy-van-Jerry/shapdf/releases/tag/v0.2.1) – `v0.2.1` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/Teddy-van-Jerry/shapdf/releases/tag/v0.2.1)
+- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/v0.89.1) – `v0.89.1` (📅 2025-09-10)  
+  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/v0.89.1)
+- [RadiatedExodus/LuauCeption](https://github.com/RadiatedExodus/LuauCeption/releases/tag/0.654) – `0.654` (📅 2024-12-11)  
+  🔗 [Release Notes](https://github.com/RadiatedExodus/LuauCeption/releases/tag/0.654)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
