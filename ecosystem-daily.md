@@ -8,11 +8,16 @@
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2)
+- [eclipse-zenoh/zenoh-python](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.6.2)
 
 ## 🔹 Webassembly
-- [fineshopdesign/cf-wasm](https://github.com/fineshopdesign/cf-wasm/releases/tag/%40cf-wasm/og%400.2.2) – `@cf-wasm/og@0.2.2` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/fineshopdesign/cf-wasm/releases/tag/%40cf-wasm/og%400.2.2)
+- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/v0.90.0) – `v0.90.0` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/v0.90.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.160) – `v0.8.160` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.160)
 
 ## 🔹 Green-software
 - [genai-impact/ecologits](https://github.com/genai-impact/ecologits/releases/tag/0.9.1) – `0.9.1` (📅 2025-11-13)  
