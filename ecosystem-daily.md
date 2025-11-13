@@ -1,23 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2025-11-13
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
 - [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.71.1) – `v1.71.1` (📅 2025-11-13)  
   🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.71.1)
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.30.1) – `vm6502q.v9.30.1` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.30.1)
 
 ## 🔹 Edge-computing
 - [Project-Babble/BabbleTrainer](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.1.0) – `1.1.0` (📅 2025-11-11)  
   🔗 [Release Notes](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.1.0)
 
 ## 🔹 Webassembly
-- [chkuendig/scummvm-demo](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0) – `2.6.0` (📅 2022-08-04)  
-  🔗 [Release Notes](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
