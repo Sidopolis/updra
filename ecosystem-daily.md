@@ -6,16 +6,22 @@
 ## 🔹 Quantum-computing
 - [Neureonmindflux-Research-Lab/qml-hcs](https://github.com/Neureonmindflux-Research-Lab/qml-hcs/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-11-09)  
   🔗 [Release Notes](https://github.com/Neureonmindflux-Research-Lab/qml-hcs/releases/tag/v0.2.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.71.2) – `v1.71.2` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.71.2)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2)
-- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
+- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.0)
+- [rulego/streamsql](https://github.com/rulego/streamsql/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-08-08)  
+  🔗 [Release Notes](https://github.com/rulego/streamsql/releases/tag/v0.10.2)
 
 ## 🔹 Webassembly
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
+- [toyobayashi/emnapi](https://github.com/toyobayashi/emnapi/releases/tag/v1.7.0) – `v1.7.0` (📅 2025-11-03)  
+  🔗 [Release Notes](https://github.com/toyobayashi/emnapi/releases/tag/v1.7.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
