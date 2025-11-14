@@ -4,10 +4,10 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Neureonmindflux-Research-Lab/qml-hcs](https://github.com/Neureonmindflux-Research-Lab/qml-hcs/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-11-09)  
-  🔗 [Release Notes](https://github.com/Neureonmindflux-Research-Lab/qml-hcs/releases/tag/v0.2.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [qboson/kaiwu-pytorch-plugin](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.2) – `v0.0.2` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.2)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
 - [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.71.2) – `v1.71.2` (📅 2025-11-13)  
   🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.71.2)
 
