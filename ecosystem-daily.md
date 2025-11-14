@@ -1,30 +1,21 @@
-# 🌐 Ecosystem Daily Log – 2025-11-13
+# 🌐 Ecosystem Daily Log – 2025-11-14
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [Neureonmindflux-Research-Lab/qml-hcs](https://github.com/Neureonmindflux-Research-Lab/qml-hcs/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-11-09)  
+  🔗 [Release Notes](https://github.com/Neureonmindflux-Research-Lab/qml-hcs/releases/tag/v0.2.0)
 
 ## 🔹 Edge-computing
-- [boonzy00/zigedge](https://github.com/boonzy00/zigedge/releases/tag/v0.1.0-alpha) – `v0.1.0-alpha` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/boonzy00/zigedge/releases/tag/v0.1.0-alpha)
-- [Project-Babble/BabbleTrainer](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.1.0) – `1.1.0` (📅 2025-11-11)  
-  🔗 [Release Notes](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.1.0)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
-- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.29.0) – `0.29.0` (📅 2025-10-20)  
-  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.29.0)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
