@@ -4,19 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qecc](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-03-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0)
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.3) – `v3.3.3` (📅 2025-11-10)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.3)
-- [munich-quantum-toolkit/syrec](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0)
+- [munich-quantum-toolkit/ddsim](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.1.0)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.7.5) – `v9.7.5` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.7.5)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rulego/streamsql](https://github.com/rulego/streamsql/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-08-08)  
+  🔗 [Release Notes](https://github.com/rulego/streamsql/releases/tag/v0.10.2)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- [madonoharu/fleethub](https://github.com/madonoharu/fleethub/releases/tag/1.10.13) – `1.10.13` (📅 2022-10-23)  
+  🔗 [Release Notes](https://github.com/madonoharu/fleethub/releases/tag/1.10.13)
+- [LostBeard/SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.17.0) – `v2.17.0` (📅 2025-07-06)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.17.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
