@@ -4,19 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [RA-CONSULTING/AUREON-QUANTUM-TRADING-SYSTEM-AQTS-](https://github.com/RA-CONSULTING/AUREON-QUANTUM-TRADING-SYSTEM-AQTS-/releases/tag/v1.0-artifacts) – `v1.0-artifacts` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/RA-CONSULTING/AUREON-QUANTUM-TRADING-SYSTEM-AQTS-/releases/tag/v1.0-artifacts)
 
 ## 🔹 Edge-computing
-- [rainyl/mnn.dart](https://github.com/rainyl/mnn.dart/releases/tag/v0.0.3) – `v0.0.3` (📅 2025-07-10)  
-  🔗 [Release Notes](https://github.com/rainyl/mnn.dart/releases/tag/v0.0.3)
-- [GainSec/anti-crime-ecosystem-research](https://github.com/GainSec/anti-crime-ecosystem-research/releases/tag/v1.2-PR) – `v1.2-PR` (📅 2025-11-11)  
-  🔗 [Release Notes](https://github.com/GainSec/anti-crime-ecosystem-research/releases/tag/v1.2-PR)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [vertigo-web/vertigo](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3) – `v0.8.3` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3)
-- [RibirX/Ribir](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0) – `ribir-v0.3.0` (📅 2024-08-26)  
-  🔗 [Release Notes](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0)
+- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.90.2) – `@stlite/desktop@0.90.2` (📅 2025-11-16)  
+  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.90.2)
+- [fineshopdesign/cf-wasm](https://github.com/fineshopdesign/cf-wasm/releases/tag/%40cf-wasm/minify-html%400.0.1) – `@cf-wasm/minify-html@0.0.1` (📅 2025-11-16)  
+  🔗 [Release Notes](https://github.com/fineshopdesign/cf-wasm/releases/tag/%40cf-wasm/minify-html%400.0.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
