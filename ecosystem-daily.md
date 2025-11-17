@@ -1,22 +1,24 @@
 # 🌐 Ecosystem Daily Log – 2025-11-17
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [hongping-zh/circular-bias-detection](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/hongping-zh/circular-bias-detection/releases/tag/v1.1.0)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [koraydns/quantum-attack-simulator](https://github.com/koraydns/quantum-attack-simulator/releases/tag/v1.0.1.post1) – `v1.0.1.post1` (📅 2025-11-17)  
+  🔗 [Release Notes](https://github.com/koraydns/quantum-attack-simulator/releases/tag/v1.0.1.post1)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.3) – `v1.17.3` (📅 2025-11-17)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.3)
+- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.0)
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.1) – `2.9.1` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.1)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
-- [liam-hq/liam](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.23) – `@liam-hq/cli@0.7.23` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/liam-hq/liam/releases/tag/%40liam-hq/cli%400.7.23)
+- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm/releases/tag/v3.0.2) – `v3.0.2` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/CosmWasm/cosmwasm/releases/tag/v3.0.2)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
