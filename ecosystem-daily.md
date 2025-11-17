@@ -1,19 +1,24 @@
 # 🌐 Ecosystem Daily Log – 2025-11-17
 
 ## 🔹 Ai-ethics
-- [alexrodic/Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.1) – `v1.0.1` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.1)
+- [alexrodic/Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.2) – `v1.0.2` (📅 2025-11-17)  
+  🔗 [Release Notes](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.2)
 
 ## 🔹 Quantum-computing
-- [quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion/releases/tag/v1.7.1) – `v1.7.1` (📅 2025-06-06)  
-  🔗 [Release Notes](https://github.com/quantumlib/OpenFermion/releases/tag/v1.7.1)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.7.8) – `v9.7.8` (📅 2025-11-16)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.7.8)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.3) – `v1.17.3` (📅 2025-11-17)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.3)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0) – `4.20.0-202510201126.p0` (📅 2025-10-27)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [LostBeard/SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.17.0) – `v2.17.0` (📅 2025-07-06)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.17.0)
+- [chkuendig/scummvm-demo](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0) – `2.6.0` (📅 2022-08-04)  
+  🔗 [Release Notes](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
