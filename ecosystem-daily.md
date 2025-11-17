@@ -1,23 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2025-11-17
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- [alexrodic/Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.1) – `v1.0.1` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.1)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [quantumlib/OpenFermion](https://github.com/quantumlib/OpenFermion/releases/tag/v1.7.1) – `v1.7.1` (📅 2025-06-06)  
+  🔗 [Release Notes](https://github.com/quantumlib/OpenFermion/releases/tag/v1.7.1)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.3) – `v1.17.3` (📅 2025-11-17)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.3)
 
 ## 🔹 Webassembly
-- [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.13.1) – `v4.13.1` (📅 2025-10-29)  
-  🔗 [Release Notes](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.13.1)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.4) – `v38.0.4` (📅 2025-11-11)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v38.0.4)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.3) – `v2.3` (📅 2025-09-29)  
