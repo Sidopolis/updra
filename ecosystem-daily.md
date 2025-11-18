@@ -4,26 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [m-labs/artiq](https://github.com/m-labs/artiq/releases/tag/8.0) – `8.0` (📅 2024-06-06)  
-  🔗 [Release Notes](https://github.com/m-labs/artiq/releases/tag/8.0)
-- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.14.2) – `hugr-py-v0.14.2` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.14.2)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [good-lly/s3mini](https://github.com/good-lly/s3mini/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-10-13)  
-  🔗 [Release Notes](https://github.com/good-lly/s3mini/releases/tag/v0.6.0)
-- [eclipse-zenoh/zenoh-python](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.6.2)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
+- [edgee-cloud/edgee](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.27) – `v1.2.27` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.27)
+- [good-lly/s3mini](https://github.com/good-lly/s3mini/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/good-lly/s3mini/releases/tag/v0.7.0)
 
 ## 🔹 Webassembly
-- [6over3/hako](https://github.com/6over3/hako/releases/tag/v1.0.11) – `v1.0.11` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/6over3/hako/releases/tag/v1.0.11)
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.1) – `2.9.1` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.1)
+- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v3.251018.1334) – `v3.251018.1334` (📅 2025-10-18)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v3.251018.1334)
+- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-08-13)  
+  🔗 [Release Notes](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
