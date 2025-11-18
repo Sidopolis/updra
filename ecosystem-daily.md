@@ -7,18 +7,16 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0) – `4.20.0-202510201126.p0` (📅 2025-10-27)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.20.0-202510201126.p0)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
-- [edgee-cloud/edgee](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.27) – `v1.2.27` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/edgee-cloud/edgee/releases/tag/v1.2.27)
-- [good-lly/s3mini](https://github.com/good-lly/s3mini/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/good-lly/s3mini/releases/tag/v0.7.0)
 
 ## 🔹 Webassembly
-- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v3.251018.1334) – `v3.251018.1334` (📅 2025-10-18)  
-  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v3.251018.1334)
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
