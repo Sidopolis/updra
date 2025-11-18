@@ -5,22 +5,26 @@
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [m-labs/artiq](https://github.com/m-labs/artiq/releases/tag/8.0) – `8.0` (📅 2024-06-06)  
-  🔗 [Release Notes](https://github.com/m-labs/artiq/releases/tag/8.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [Puzzaks/geminilocal](https://github.com/Puzzaks/geminilocal/releases/tag/1.0.1) – `1.0.1` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/Puzzaks/geminilocal/releases/tag/1.0.1)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.167) – `v0.8.167` (📅 2025-11-17)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.167)
-- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/mcp-v2025-06-18-v0.1.7) – `mcp-v2025-06-18-v0.1.7` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/mcp-v2025-06-18-v0.1.7)
-- [Sec-ant/zxing-wasm](https://github.com/Sec-ant/zxing-wasm/releases/tag/v2.2.4) – `v2.2.4` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/Sec-ant/zxing-wasm/releases/tag/v2.2.4)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.168) – `v0.8.168` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.168)
+- [6over3/hako](https://github.com/6over3/hako/releases/tag/v1.0.8) – `v1.0.8` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/6over3/hako/releases/tag/v1.0.8)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
