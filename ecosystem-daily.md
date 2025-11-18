@@ -4,20 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [oqtopus-team/oqtopus-cloud](https://github.com/oqtopus-team/oqtopus-cloud/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-09-12)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/oqtopus-cloud/releases/tag/v1.4.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.2.0)
-- [tidbcloud/serverless-js](https://github.com/tidbcloud/serverless-js/releases/tag/v0.2.0) – `v0.2.0` (📅 2024-07-09)  
-  🔗 [Release Notes](https://github.com/tidbcloud/serverless-js/releases/tag/v0.2.0)
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.34.1) – `v0.34.1` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.34.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [andrewdavidmackenzie/flow](https://github.com/andrewdavidmackenzie/flow/releases/tag/v0.135.0) – `v0.135.0` (📅 2023-09-19)  
-  🔗 [Release Notes](https://github.com/andrewdavidmackenzie/flow/releases/tag/v0.135.0)
+- [Daoting/dt](https://github.com/Daoting/dt/releases/tag/5.0.0) – `5.0.0` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/Daoting/dt/releases/tag/5.0.0)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.6) – `v4.1.6` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.6)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
