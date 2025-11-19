@@ -1,26 +1,32 @@
 # 🌐 Ecosystem Daily Log – 2025-11-19
 
 ## 🔹 Ai-ethics
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 - [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [dwavesystems/dwave-gate](https://github.com/dwavesystems/dwave-gate/releases/tag/0.3.5) – `0.3.5` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/dwavesystems/dwave-gate/releases/tag/0.3.5)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [For-Sunny/nova-mcp-research](https://github.com/For-Sunny/nova-mcp-research/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-15)  
-  🔗 [Release Notes](https://github.com/For-Sunny/nova-mcp-research/releases/tag/v1.0.0)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.8.1) – `v9.8.1` (📅 2025-11-17)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.8.1)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
-- [Puzzaks/geminilocal](https://github.com/Puzzaks/geminilocal/releases/tag/1.0.1) – `1.0.1` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/Puzzaks/geminilocal/releases/tag/1.0.1)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
 - [telophasehq/tangent](https://github.com/telophasehq/tangent/releases/tag/v0.1.9) – `v0.1.9` (📅 2025-11-19)  
   🔗 [Release Notes](https://github.com/telophasehq/tangent/releases/tag/v0.1.9)
+- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/mcp-v2025-06-18-v0.1.7) – `mcp-v2025-06-18-v0.1.7` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/mcp-v2025-06-18-v0.1.7)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
