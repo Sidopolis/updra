@@ -5,16 +5,22 @@
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [Infleqtion/client-superstaq](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.55) – `v0.5.55` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.55)
+- [dwavesystems/dwave-gate](https://github.com/dwavesystems/dwave-gate/releases/tag/0.3.5) – `0.3.5` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/dwavesystems/dwave-gate/releases/tag/0.3.5)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [For-Sunny/nova-mcp-research](https://github.com/For-Sunny/nova-mcp-research/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-15)  
+  🔗 [Release Notes](https://github.com/For-Sunny/nova-mcp-research/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.14) – `v0.0.14` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.14)
+- [Puzzaks/geminilocal](https://github.com/Puzzaks/geminilocal/releases/tag/1.0.1) – `1.0.1` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/Puzzaks/geminilocal/releases/tag/1.0.1)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.472) – `v4.0.472` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.472)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
+- [telophasehq/tangent](https://github.com/telophasehq/tangent/releases/tag/v0.1.9) – `v0.1.9` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/telophasehq/tangent/releases/tag/v0.1.9)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
