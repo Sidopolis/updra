@@ -1,21 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2025-11-19
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [Qiskit/Qiskit.jl](https://github.com/Qiskit/Qiskit.jl/releases/tag/v0.3.0) – `v0.3.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/Qiskit/Qiskit.jl/releases/tag/v0.3.0)
+- [Infleqtion/client-superstaq](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.55) – `v0.5.55` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.55)
 
 ## 🔹 Edge-computing
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.14) – `v0.0.14` (📅 2025-11-13)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.14)
 
 ## 🔹 Webassembly
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
-- [iroumec/RouVel-Compiler](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0) – `1.0` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.472) – `v4.0.472` (📅 2025-11-12)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.472)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
