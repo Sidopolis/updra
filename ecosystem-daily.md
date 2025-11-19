@@ -1,23 +1,28 @@
 # 🌐 Ecosystem Daily Log – 2025-11-19
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0) – `0.12.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.12.0)
+- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.14.2) – `hugr-py-v0.14.2` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.14.2)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.2) – `v0.18.2` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.2)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.2) – `v0.18.2` (📅 2025-11-03)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.2)
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
 
 ## 🔹 Webassembly
-- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/12.0.0) – `12.0.0` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/12.0.0)
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.1) – `2.9.1` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.1)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.12) – `v0.5.12` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.12)
+- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v3.251018.1334) – `v3.251018.1334` (📅 2025-10-18)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v3.251018.1334)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
