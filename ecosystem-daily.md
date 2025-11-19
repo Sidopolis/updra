@@ -4,17 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [For-Sunny/nova-mcp-research](https://github.com/For-Sunny/nova-mcp-research/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-15)  
-  🔗 [Release Notes](https://github.com/For-Sunny/nova-mcp-research/releases/tag/v1.0.0)
+- [Qiskit/Qiskit.jl](https://github.com/Qiskit/Qiskit.jl/releases/tag/v0.3.0) – `v0.3.0` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/Qiskit/Qiskit.jl/releases/tag/v0.3.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.14) – `v0.0.14` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.14)
 
 ## 🔹 Webassembly
-- [coatless/quarto-webr](https://github.com/coatless/quarto-webr/releases/tag/0.4.3) – `0.4.3` (📅 2025-06-24)  
-  🔗 [Release Notes](https://github.com/coatless/quarto-webr/releases/tag/0.4.3)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.170) – `v0.8.170` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.170)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_124) – `version_124` (📅 2025-09-02)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_124)
+- [iroumec/RouVel-Compiler](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0) – `1.0` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
