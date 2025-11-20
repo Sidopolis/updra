@@ -4,17 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [ENKI-420/aura-cli](https://github.com/ENKI-420/aura-cli/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/ENKI-420/aura-cli/releases/tag/v1.0.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.2) – `v0.18.2` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [zhaohappy/libmedia](https://github.com/zhaohappy/libmedia/releases/tag/v1.0.1) – `v1.0.1` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/zhaohappy/libmedia/releases/tag/v1.0.1)
-- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/transport-v0.1.3) – `transport-v0.1.3` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/transport-v0.1.3)
+- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite/releases/tag/v0.6.4) – `v0.6.4` (📅 2025-08-08)  
+  🔗 [Release Notes](https://github.com/jupyterlite/jupyterlite/releases/tag/v0.6.4)
+- [jupyterlite/xeus](https://github.com/jupyterlite/xeus/releases/tag/v4.2.2) – `v4.2.2` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/jupyterlite/xeus/releases/tag/v4.2.2)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
