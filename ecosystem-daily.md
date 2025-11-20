@@ -4,25 +4,26 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qubernetes-dev/q8s-kernel](https://github.com/qubernetes-dev/q8s-kernel/releases/tag/v0.10.1) – `v0.10.1` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/qubernetes-dev/q8s-kernel/releases/tag/v0.10.1)
-- [CQCL/qnexus](https://github.com/CQCL/qnexus/releases/tag/v0.38.0) – `v0.38.0` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/CQCL/qnexus/releases/tag/v0.38.0)
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.8.1) – `v9.8.1` (📅 2025-11-17)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.8.1)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1) – `v0.43.1` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1)
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.3) – `WAMR-2.4.3` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.3)
+- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.9.3) – `v1.9.3` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.9.3)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.9.1) – `v1.9.1` (📅 2025-11-17)  
+  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.9.1)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-11-17)  
   🔗 [Release Notes](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.6.0)
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.45.0) – `0.45.0` (📅 2025-11-20)  
   🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.45.0)
-- [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
-  🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
