@@ -3,22 +3,21 @@
 ## 🔹 Ai-ethics
 - [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/metriq-gym](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.4.2) – `v0.4.2` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.4.2)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [open-horizon/anax](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1739) – `v2.32.0-1739` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1739)
+- [Project-Babble/BabbleTrainer](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.2.9) – `1.2.9` (📅 2025-11-15)  
+  🔗 [Release Notes](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.2.9)
 
 ## 🔹 Webassembly
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.211) – `v4.0.211` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.211)
+- [iroumec/RouVel-Compiler](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0) – `1.0` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
