@@ -4,22 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.22.0) – `v1.22.0` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.22.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [quantum4j/quantum4j](https://github.com/quantum4j/quantum4j/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/quantum4j/quantum4j/releases/tag/v1.0.0)
+- [Infleqtion/client-superstaq](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.55) – `v0.5.55` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.55)
 
 ## 🔹 Edge-computing
-- [Project-Babble/BabbleTrainer](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.3.1) – `1.3.1` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/Project-Babble/BabbleTrainer/releases/tag/1.3.1)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.2) – `v0.18.2` (📅 2025-10-31)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.2)
 
 ## 🔹 Webassembly
-- [havit/Havit.Blazor](https://github.com/havit/Havit.Blazor/releases/tag/4.20.1) – `4.20.1` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/havit/Havit.Blazor/releases/tag/4.20.1)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
-- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-11-07)  
-  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.5.0)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.0) – `v39.0.0` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.171) – `v0.8.171` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.171)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
