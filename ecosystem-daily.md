@@ -4,17 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [qubernetes-dev/q8s-kernel](https://github.com/qubernetes-dev/q8s-kernel/releases/tag/v0.10.1) – `v0.10.1` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/qubernetes-dev/q8s-kernel/releases/tag/v0.10.1)
+- [CQCL/qnexus](https://github.com/CQCL/qnexus/releases/tag/v0.38.0) – `v0.38.0` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/CQCL/qnexus/releases/tag/v0.38.0)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
-- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-16)  
-  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.0.0)
-- [lightninglabs/lnc-web](https://github.com/lightninglabs/lnc-web/releases/tag/v0.3.4-alpha) – `v0.3.4-alpha` (📅 2025-07-08)  
-  🔗 [Release Notes](https://github.com/lightninglabs/lnc-web/releases/tag/v0.3.4-alpha)
+- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.3) – `WAMR-2.4.3` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.3)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 
