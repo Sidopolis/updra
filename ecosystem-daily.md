@@ -4,18 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [itsubaki/qasm](https://github.com/itsubaki/qasm/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/itsubaki/qasm/releases/tag/v0.1.3)
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
   🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [vertigo-web/vertigo](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3) – `v0.8.3` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3)
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-16)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.0.0)
+- [lightninglabs/lnc-web](https://github.com/lightninglabs/lnc-web/releases/tag/v0.3.4-alpha) – `v0.3.4-alpha` (📅 2025-07-08)  
+  🔗 [Release Notes](https://github.com/lightninglabs/lnc-web/releases/tag/v0.3.4-alpha)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 
