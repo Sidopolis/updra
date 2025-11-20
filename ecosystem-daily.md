@@ -1,27 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2025-11-20
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.2) – `v0.18.2` (📅 2025-10-31)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.2)
 
 ## 🔹 Webassembly
-- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/12.0.0) – `12.0.0` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/12.0.0)
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.472) – `v4.0.472` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.472)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [zhaohappy/libmedia](https://github.com/zhaohappy/libmedia/releases/tag/v1.0.1) – `v1.0.1` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/zhaohappy/libmedia/releases/tag/v1.0.1)
+- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/transport-v0.1.3) – `transport-v0.1.3` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/transport-v0.1.3)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
