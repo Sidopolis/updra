@@ -4,19 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.6.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0)
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.1) – `2.9.1` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.1)
-- [Wasted-Audio/hvcc](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.14.0) – `v0.14.0` (📅 2025-09-19)  
-  🔗 [Release Notes](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.14.0)
+- [zhaohappy/libmedia](https://github.com/zhaohappy/libmedia/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/zhaohappy/libmedia/releases/tag/v1.1.0)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-11-17)  
