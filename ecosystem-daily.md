@@ -4,15 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
+  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
+- [alex180500/QuantumReservoirComputing.jl](https://github.com/alex180500/QuantumReservoirComputing.jl/releases/tag/v0.0.34) – `v0.0.34` (📅 2025-09-09)  
+  🔗 [Release Notes](https://github.com/alex180500/QuantumReservoirComputing.jl/releases/tag/v0.0.34)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2)
+- [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.211) – `v4.0.211` (📅 2025-11-21)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.211)
+- [kubewarden/audit-scanner](https://github.com/kubewarden/audit-scanner/releases/tag/v1.30.0) – `v1.30.0` (📅 2025-10-29)  
+  🔗 [Release Notes](https://github.com/kubewarden/audit-scanner/releases/tag/v1.30.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
