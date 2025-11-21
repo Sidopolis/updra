@@ -1,16 +1,10 @@
 # 🌐 Ecosystem Daily Log – 2025-11-21
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
-- [cevrechaussette/dev2foo](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3) – `v3.7.4-alpha.3` (📅 2025-04-29)  
-  🔗 [Release Notes](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -21,8 +15,12 @@
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [bug-ops/mcp-execution](https://github.com/bug-ops/mcp-execution/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-11-21)  
-  🔗 [Release Notes](https://github.com/bug-ops/mcp-execution/releases/tag/v0.1.0)
+- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
+- [bug-ops/mcp-execution](https://github.com/bug-ops/mcp-execution/releases/tag/v0.1.2) – `v0.1.2` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/bug-ops/mcp-execution/releases/tag/v0.1.2)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.172) – `v0.8.172` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.172)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
