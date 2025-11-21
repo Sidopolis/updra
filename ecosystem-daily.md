@@ -4,19 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1) – `v0.43.1` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
 
 ## 🔹 Edge-computing
-- [cmusatyalab/steeleagle](https://github.com/cmusatyalab/steeleagle/releases/tag/v2.2.1) – `v2.2.1` (📅 2025-11-05)  
-  🔗 [Release Notes](https://github.com/cmusatyalab/steeleagle/releases/tag/v2.2.1)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.0) – `v39.0.0` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.0)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
-- [bug-ops/mcp-execution](https://github.com/bug-ops/mcp-execution/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-11-21)  
-  🔗 [Release Notes](https://github.com/bug-ops/mcp-execution/releases/tag/v0.1.0)
+- [bigale/rustixml](https://github.com/bigale/rustixml/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/bigale/rustixml/releases/tag/v0.2.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
