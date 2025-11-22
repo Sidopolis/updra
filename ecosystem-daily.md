@@ -1,14 +1,11 @@
 # 🌐 Ecosystem Daily Log – 2025-11-22
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qusat](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
 
 ## 🔹 Edge-computing
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
