@@ -4,12 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/ddvis](https://github.com/munich-quantum-toolkit/ddvis/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddvis/releases/tag/v1.8.0)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [Qiskit/Qiskit.jl](https://github.com/Qiskit/Qiskit.jl/releases/tag/v0.3.0) – `v0.3.0` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/Qiskit/Qiskit.jl/releases/tag/v0.3.0)
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.15) – `v0.0.15` (📅 2025-11-22)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.15)
 
 ## 🔹 Webassembly
 - No recent releases found.
