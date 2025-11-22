@@ -4,17 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [vprusso/toqito](https://github.com/vprusso/toqito/releases/tag/v1.1.3) – `v1.1.3` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/vprusso/toqito/releases/tag/v1.1.3)
+- [munich-quantum-toolkit/debugger](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+- [cloupeer/cloupeer](https://github.com/cloupeer/cloupeer/releases/tag/v0.1.0-alpha) – `v0.1.0-alpha` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/cloupeer/cloupeer/releases/tag/v0.1.0-alpha)
 
 ## 🔹 Webassembly
-- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.90.13) – `@stlite/desktop@0.90.13` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.90.13)
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.9.2) – `v1.9.2` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.9.2)
+- [CharlieTap/chasm](https://github.com/CharlieTap/chasm/releases/tag/1.2.0) – `1.2.0` (📅 2025-10-11)  
+  🔗 [Release Notes](https://github.com/CharlieTap/chasm/releases/tag/1.2.0)
+- [vertigo-web/vertigo](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3) – `v0.8.3` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
