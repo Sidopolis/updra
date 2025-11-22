@@ -4,17 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [cdvelop/tinystring](https://github.com/cdvelop/tinystring/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-09-06)  
-  🔗 [Release Notes](https://github.com/cdvelop/tinystring/releases/tag/v0.5.0)
-- [iroumec/RouVel-Compiler](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0) – `1.0` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0)
+- [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.13.1) – `v4.13.1` (📅 2025-10-29)  
+  🔗 [Release Notes](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.13.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
