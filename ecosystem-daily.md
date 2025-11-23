@@ -4,17 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [munich-quantum-toolkit/debugger](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0)
+- [MiyuruAmarasiri/Qsafe](https://github.com/MiyuruAmarasiri/Qsafe/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-10-28)  
+  🔗 [Release Notes](https://github.com/MiyuruAmarasiri/Qsafe/releases/tag/v0.1.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [855princekumar/edgepulse](https://github.com/855princekumar/edgepulse/releases/tag/v1.0) – `v1.0` (📅 2025-11-23)  
+  🔗 [Release Notes](https://github.com/855princekumar/edgepulse/releases/tag/v1.0)
 
 ## 🔹 Webassembly
 - [bigale/rustixml](https://github.com/bigale/rustixml/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-11-21)  
   🔗 [Release Notes](https://github.com/bigale/rustixml/releases/tag/v0.2.0)
-- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/transport-v0.1.4) – `transport-v0.1.4` (📅 2025-11-23)  
-  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/transport-v0.1.4)
 
 ## 🔹 Green-software
 - [Aryash2003/Green-cart](https://github.com/Aryash2003/Green-cart/releases/tag/interfering) – `interfering` (📅 2025-07-09)  
