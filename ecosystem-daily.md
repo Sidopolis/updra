@@ -4,17 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [hutchpd/QuantumSuperposition](https://github.com/hutchpd/QuantumSuperposition/releases/tag/v1.7.4) – `v1.7.4` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/hutchpd/QuantumSuperposition/releases/tag/v1.7.4)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.2) – `v0.18.2` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.2)
-- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.2.1) – `v0.2.1` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.2.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [wasmCloud/wasmCloud](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/wasmCloud/wasmCloud/releases/tag/v1.9.0)
+- [iroumec/RouVel-Compiler](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0) – `1.0` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0)
 - [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
   🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
