@@ -4,18 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/qlass](https://github.com/unitaryfoundation/qlass/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qlass/releases/tag/v0.2.0)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
+- [CQCL/tket](https://github.com/CQCL/tket/releases/tag/v2.11.0) – `v2.11.0` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/CQCL/tket/releases/tag/v2.11.0)
 
 ## 🔹 Edge-computing
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2)
 
 ## 🔹 Webassembly
-- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.91.1) – `@stlite/browser@0.91.1` (📅 2025-11-23)  
-  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.91.1)
-- [iroumec/RouVel-Compiler](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0) – `1.0` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0)
+- [manusoft/blazor-toast](https://github.com/manusoft/blazor-toast/releases/tag/v3.0.0) – `v3.0.0` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/manusoft/blazor-toast/releases/tag/v3.0.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
