@@ -1,27 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2025-11-24
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
-- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.16) – `v0.0.16` (📅 2025-11-23)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.16)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.9.3) – `v1.9.3` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.9.3)
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.73.0) – `v0.73.0` (📅 2025-11-24)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.73.0)
+- [spinframework/spin](https://github.com/spinframework/spin/releases/tag/v3.5.1) – `v3.5.1` (📅 2025-11-12)  
+  🔗 [Release Notes](https://github.com/spinframework/spin/releases/tag/v3.5.1)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
