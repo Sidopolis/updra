@@ -4,19 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [lfedgeai/SPEAR](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4) – `v0.0.4` (📅 2025-07-08)  
-  🔗 [Release Notes](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.6) – `v4.1.6` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.6)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [bigale/rustixml](https://github.com/bigale/rustixml/releases/tag/v0.3.0) – `v0.3.0` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/bigale/rustixml/releases/tag/v0.3.0)
 
 ## 🔹 Green-software
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
