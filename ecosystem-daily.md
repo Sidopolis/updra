@@ -1,26 +1,32 @@
 # 🌐 Ecosystem Daily Log – 2025-11-25
 
 ## 🔹 Ai-ethics
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 - [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.3) – `v3.3.3` (📅 2025-11-10)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.3)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [aws-cqc/DeviceLayout.jl](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.6.0) – `v1.6.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.6.0)
+- [Infleqtion/client-superstaq](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.56) – `v0.5.56` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.56)
 
 ## 🔹 Edge-computing
-- [cmusatyalab/steeleagle](https://github.com/cmusatyalab/steeleagle/releases/tag/v2.2.1) – `v2.2.1` (📅 2025-11-05)  
-  🔗 [Release Notes](https://github.com/cmusatyalab/steeleagle/releases/tag/v2.2.1)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.18) – `v0.0.18` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.18)
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.1) – `2.9.1` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.1)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.1) – `v39.0.1` (📅 2025-11-24)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.1)
-- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.37.0) – `v2.37.0` (📅 2025-10-26)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.37.0)
+- [iroumec/RouVel-Compiler](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0) – `1.0` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0)
+- [use-ink/ink](https://github.com/use-ink/ink/releases/tag/v5.1.1) – `v5.1.1` (📅 2024-12-04)  
+  🔗 [Release Notes](https://github.com/use-ink/ink/releases/tag/v5.1.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
