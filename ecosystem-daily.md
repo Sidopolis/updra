@@ -4,12 +4,10 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
-- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.71.2) – `v1.71.2` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.71.2)
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.30.2) – `vm6502q.v9.30.2` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.30.2)
+- [Neureonmindflux-Research-Lab/qml-hcs](https://github.com/Neureonmindflux-Research-Lab/qml-hcs/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-11-09)  
+  🔗 [Release Notes](https://github.com/Neureonmindflux-Research-Lab/qml-hcs/releases/tag/v0.2.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
@@ -20,6 +18,8 @@
   🔗 [Release Notes](https://github.com/Puzzaks/geminilocal/releases/tag/1.0.1)
 
 ## 🔹 Webassembly
+- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.91.1) – `@stlite/browser@0.91.1` (📅 2025-11-23)  
+  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.91.1)
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-11-25)  
   🔗 [Release Notes](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.0)
 
