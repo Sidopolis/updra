@@ -1,14 +1,18 @@
 # 🌐 Ecosystem Daily Log – 2025-11-25
 
 ## 🔹 Ai-ethics
-- [alexrodic/Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.2) – `v1.0.2` (📅 2025-11-17)  
-  🔗 [Release Notes](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.2)
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- [Tamplier/llm_safety_guardian](https://github.com/Tamplier/llm_safety_guardian/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/Tamplier/llm_safety_guardian/releases/tag/v0.1.3)
 
 ## 🔹 Quantum-computing
-- [hutchpd/QuantumSuperposition](https://github.com/hutchpd/QuantumSuperposition/releases/tag/v1.7.4) – `v1.7.4` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/hutchpd/QuantumSuperposition/releases/tag/v1.7.4)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [EQuS/jaxquantum](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-08-18)  
+  🔗 [Release Notes](https://github.com/EQuS/jaxquantum/releases/tag/v0.2.2)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
+- [qir-alliance/pyqir](https://github.com/qir-alliance/pyqir/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/qir-alliance/pyqir/releases/tag/v0.12.0)
 
 ## 🔹 Edge-computing
 - [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
@@ -17,8 +21,12 @@
   🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
-- [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen/releases/tag/v0.48.1) – `v0.48.1` (📅 2025-11-22)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wit-bindgen/releases/tag/v0.48.1)
+- [fineshopdesign/cf-wasm](https://github.com/fineshopdesign/cf-wasm/releases/tag/%40cf-wasm/quickjs%400.2.0) – `@cf-wasm/quickjs@0.2.0` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/fineshopdesign/cf-wasm/releases/tag/%40cf-wasm/quickjs%400.2.0)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.1) – `2.9.1` (📅 2025-11-12)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.1)
+- [iroumec/RouVel-Compiler](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0) – `1.0` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
