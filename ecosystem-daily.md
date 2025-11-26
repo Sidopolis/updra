@@ -4,22 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
-- [eclipse-zenoh/zenoh-python](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.6.2)
+- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/llmkubev0.4.1) – `llmkubev0.4.1` (📅 2025-11-26)  
+  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/llmkubev0.4.1)
 
 ## 🔹 Webassembly
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.73.0) – `v0.73.0` (📅 2025-11-24)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.73.0)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [iroumec/RouVel-Compiler](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0) – `1.0` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-11-17)  
