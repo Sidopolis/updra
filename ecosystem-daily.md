@@ -1,31 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2025-11-26
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
-- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
+- [Qiskit/qiskit-code-assistant-vscode](https://github.com/Qiskit/qiskit-code-assistant-vscode/releases/tag/v0.15.1) – `v0.15.1` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit-code-assistant-vscode/releases/tag/v0.15.1)
 
 ## 🔹 Edge-computing
-- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.6) – `v0.4.6` (📅 2025-11-26)  
-  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.6)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [lfedgeai/SPEAR](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4) – `v0.0.4` (📅 2025-07-08)  
+  🔗 [Release Notes](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.176) – `v0.8.176` (📅 2025-11-26)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.176)
-- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.6) – `v4.1.6` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.6)
-- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.29.0) – `0.29.0` (📅 2025-10-20)  
-  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.29.0)
+- [WebAssembly/WASI](https://github.com/WebAssembly/WASI/releases/tag/v0.2.8) – `v0.2.8` (📅 2025-10-07)  
+  🔗 [Release Notes](https://github.com/WebAssembly/WASI/releases/tag/v0.2.8)
+- [iroumec/RouVel-Compiler](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0) – `1.0` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/iroumec/RouVel-Compiler/releases/tag/1.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
