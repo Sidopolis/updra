@@ -5,25 +5,25 @@
   🔗 [Release Notes](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.2)
 
 ## 🔹 Quantum-computing
-- [Intrico-Labs/intrico](https://github.com/Intrico-Labs/intrico/releases/tag/v2.5.0) – `v2.5.0` (📅 2025-11-24)  
-  🔗 [Release Notes](https://github.com/Intrico-Labs/intrico/releases/tag/v2.5.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [qiboteam/qibojit](https://github.com/qiboteam/qibojit/releases/tag/v0.1.12) – `v0.1.12` (📅 2025-09-19)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibojit/releases/tag/v0.1.12)
+- [EpifaniosK/votranh-omniverse-loeh-omega](https://github.com/EpifaniosK/votranh-omniverse-loeh-omega/releases/tag/2.6.3-beta.2) – `2.6.3-beta.2` (📅 2025-04-04)  
+  🔗 [Release Notes](https://github.com/EpifaniosK/votranh-omniverse-loeh-omega/releases/tag/2.6.3-beta.2)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 - [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
   🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
-- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v0.51.2) – `v0.51.2` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v0.51.2)
-- [nberlette/comrak-wasm](https://github.com/nberlette/comrak-wasm/releases/tag/0.4.4) – `0.4.4` (📅 2025-03-25)  
-  🔗 [Release Notes](https://github.com/nberlette/comrak-wasm/releases/tag/0.4.4)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.1) – `2.9.1` (📅 2025-11-12)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.1)
 
 ## 🔹 Green-software
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
-- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.46.0) – `0.46.0` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.46.0)
