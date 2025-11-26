@@ -1,20 +1,26 @@
 # 🌐 Ecosystem Daily Log – 2025-11-26
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [alexrodic/Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.2) – `v1.0.2` (📅 2025-11-17)  
+  🔗 [Release Notes](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.2)
 
 ## 🔹 Quantum-computing
+- [Intrico-Labs/intrico](https://github.com/Intrico-Labs/intrico/releases/tag/v2.5.0) – `v2.5.0` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/Intrico-Labs/intrico/releases/tag/v2.5.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 - [qiboteam/qibojit](https://github.com/qiboteam/qibojit/releases/tag/v0.1.12) – `v0.1.12` (📅 2025-09-19)  
   🔗 [Release Notes](https://github.com/qiboteam/qibojit/releases/tag/v0.1.12)
-- [tensorcircuit/tensorcircuit-ng](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.4.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
-- [bug-ops/mcp-execution](https://github.com/bug-ops/mcp-execution/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-11-26)  
-  🔗 [Release Notes](https://github.com/bug-ops/mcp-execution/releases/tag/v0.5.0)
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v0.51.2) – `v0.51.2` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v0.51.2)
+- [nberlette/comrak-wasm](https://github.com/nberlette/comrak-wasm/releases/tag/0.4.4) – `0.4.4` (📅 2025-03-25)  
+  🔗 [Release Notes](https://github.com/nberlette/comrak-wasm/releases/tag/0.4.4)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
