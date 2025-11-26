@@ -12,10 +12,8 @@
   🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/llmkube-0.4.4)
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.1) – `2.9.1` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.1)
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.1) – `v39.0.1` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.1)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-11-17)  
