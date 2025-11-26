@@ -1,16 +1,11 @@
 # 🌐 Ecosystem Daily Log – 2025-11-26
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
-- [cevrechaussette/dev2foo](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3) – `v3.7.4-alpha.3` (📅 2025-04-29)  
-  🔗 [Release Notes](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3)
+- [Qiskit/qiskit-serverless](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.27.1) – `v0.27.1` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.27.1)
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -21,10 +16,12 @@
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [chkuendig/scummvm-demo](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0) – `2.6.0` (📅 2022-08-04)  
-  🔗 [Release Notes](https://github.com/chkuendig/scummvm-demo/releases/tag/2.6.0)
-- [binji/binjgb](https://github.com/binji/binjgb/releases/tag/v0.1.11) – `v0.1.11` (📅 2021-08-21)  
-  🔗 [Release Notes](https://github.com/binji/binjgb/releases/tag/v0.1.11)
+- [Sec-ant/barcode-detector](https://github.com/Sec-ant/barcode-detector/releases/tag/v3.0.8) – `v3.0.8` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/Sec-ant/barcode-detector/releases/tag/v3.0.8)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.176) – `v0.8.176` (📅 2025-11-26)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.176)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.0.1) – `v10.0.1` (📅 2025-11-17)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.0.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
