@@ -4,17 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [grafbase/grafbase](https://github.com/grafbase/grafbase/releases/tag/gateway-0.51.0) – `gateway-0.51.0` (📅 2025-11-04)  
-  🔗 [Release Notes](https://github.com/grafbase/grafbase/releases/tag/gateway-0.51.0)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [epam/Indigo](https://github.com/epam/Indigo/releases/tag/indigo-1.36.0) – `indigo-1.36.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/epam/Indigo/releases/tag/indigo-1.36.0)
+- [jupyterlite/xeus](https://github.com/jupyterlite/xeus/releases/tag/v4.3.0) – `v4.3.0` (📅 2025-11-26)  
+  🔗 [Release Notes](https://github.com/jupyterlite/xeus/releases/tag/v4.3.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
