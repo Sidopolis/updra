@@ -4,20 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Intrico-Labs/intrico](https://github.com/Intrico-Labs/intrico/releases/tag/v2.5.0) – `v2.5.0` (📅 2025-11-24)  
-  🔗 [Release Notes](https://github.com/Intrico-Labs/intrico/releases/tag/v2.5.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2)
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.2) – `v0.18.2` (📅 2025-10-31)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.1) – `2.9.1` (📅 2025-11-12)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.1)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.6) – `v4.1.6` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.6)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
