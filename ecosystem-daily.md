@@ -4,22 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qboson/kaiwu-pytorch-plugin](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.2) – `v0.0.2` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.2)
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.2) – `v1.3.2` (📅 2025-11-10)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.2)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.34.1) – `v0.34.1` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.34.1)
-- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.0) – `v1.22.0` (📅 2025-11-05)  
-  🔗 [Release Notes](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0) – `0.36.0` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0)
+- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.90.15) – `@stlite/desktop@0.90.15` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.90.15)
 - [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.0.1) – `v10.0.1` (📅 2025-11-17)  
   🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.0.1)
 
