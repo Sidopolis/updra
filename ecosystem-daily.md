@@ -1,28 +1,30 @@
 # 🌐 Ecosystem Daily Log – 2025-11-27
 
 ## 🔹 Ai-ethics
-- [alexrodic/Conscience-by-Design](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.2) – `v1.0.2` (📅 2025-11-17)  
-  🔗 [Release Notes](https://github.com/alexrodic/Conscience-by-Design/releases/tag/v1.0.2)
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1) – `v0.43.1` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1)
 
 ## 🔹 Edge-computing
 - [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.3) – `v1.17.3` (📅 2025-11-17)  
   🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.3)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
 
 ## 🔹 Webassembly
-- [MendelsResearchGroup/lammps.js](https://github.com/MendelsResearchGroup/lammps.js/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-10-28)  
-  🔗 [Release Notes](https://github.com/MendelsResearchGroup/lammps.js/releases/tag/v1.1.0)
+- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346) – `v4.251121.1346` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346)
 
 ## 🔹 Green-software
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.47.0) – `0.47.0` (📅 2025-11-27)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.47.0)
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-11-17)  
