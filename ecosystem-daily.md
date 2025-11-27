@@ -4,6 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
+- [qboson/kaiwu-pytorch-plugin](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.2) – `v0.0.2` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.2)
 - [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.2) – `v1.3.2` (📅 2025-11-10)  
   🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.2)
 
@@ -16,10 +18,10 @@
   🔗 [Release Notes](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.0)
 
 ## 🔹 Webassembly
-- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-11-27)  
-  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1)
-- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.22) – `v3.3.22` (📅 2025-11-07)  
-  🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.22)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0) – `0.36.0` (📅 2025-09-11)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.0.1) – `v10.0.1` (📅 2025-11-17)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.0.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
