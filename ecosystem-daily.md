@@ -4,20 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.2) – `v1.3.2` (📅 2025-11-10)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.2)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2)
-- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
+- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.34.1) – `v0.34.1` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.34.1)
+- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.0) – `v1.22.0` (📅 2025-11-05)  
+  🔗 [Release Notes](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.0)
 
 ## 🔹 Webassembly
-- [iroumec/RouVel-Compiler](https://github.com/iroumec/RouVel-Compiler/releases/tag/2.0) – `2.0` (📅 2025-11-27)  
-  🔗 [Release Notes](https://github.com/iroumec/RouVel-Compiler/releases/tag/2.0)
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-11-27)  
+  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1)
+- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.22) – `v3.3.22` (📅 2025-11-07)  
+  🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.22)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
