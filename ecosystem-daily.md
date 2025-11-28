@@ -1,24 +1,26 @@
 # 🌐 Ecosystem Daily Log – 2025-11-28
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [singhmuskan552-ux/AI-Governance-Starter-Pack](https://github.com/singhmuskan552-ux/AI-Governance-Starter-Pack/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/singhmuskan552-ux/AI-Governance-Starter-Pack/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1) – `v0.43.1` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [CQCL/hugr](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.14.4) – `hugr-py-v0.14.4` (📅 2025-11-26)  
+  🔗 [Release Notes](https://github.com/CQCL/hugr/releases/tag/hugr-py-v0.14.4)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v0.73.0) – `v0.73.0` (📅 2025-11-24)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v0.73.0)
-- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.4) – `v20.0.4` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.4)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
