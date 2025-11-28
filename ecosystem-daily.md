@@ -1,21 +1,17 @@
 # 🌐 Ecosystem Daily Log – 2025-11-28
 
 ## 🔹 Ai-ethics
-- [mankaj-aigov/People-Policy-Technology](https://github.com/mankaj-aigov/People-Policy-Technology/releases/tag/v1.0) – `v1.0` (📅 2025-11-28)  
-  🔗 [Release Notes](https://github.com/mankaj-aigov/People-Policy-Technology/releases/tag/v1.0)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [Ryan-Atkinson87/mqtt_aquarium_monitoring](https://github.com/Ryan-Atkinson87/mqtt_aquarium_monitoring/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/Ryan-Atkinson87/mqtt_aquarium_monitoring/releases/tag/v2.0.0)
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [kanaverse/scran.js](https://github.com/kanaverse/scran.js/releases/tag/blacklists) – `blacklists` (📅 2022-01-04)  
-  🔗 [Release Notes](https://github.com/kanaverse/scran.js/releases/tag/blacklists)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 - [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0) – `0.36.0` (📅 2025-09-11)  
   🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0)
 
