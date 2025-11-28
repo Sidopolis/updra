@@ -4,18 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qiboteam/qibo](https://github.com/qiboteam/qibo/releases/tag/v0.2.22) – `v0.2.22` (📅 2025-11-07)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibo/releases/tag/v0.2.22)
-- [qiboteam/qibolab](https://github.com/qiboteam/qibolab/releases/tag/v0.2.10) – `v0.2.10` (📅 2025-11-07)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibolab/releases/tag/v0.2.10)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.69.27) – `v1.69.27` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.69.27)
 
 ## 🔹 Webassembly
-- [kanaverse/scran.js](https://github.com/kanaverse/scran.js/releases/tag/blacklists) – `blacklists` (📅 2022-01-04)  
-  🔗 [Release Notes](https://github.com/kanaverse/scran.js/releases/tag/blacklists)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0) – `0.36.0` (📅 2025-09-11)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.36.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 - [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.90.15) – `@stlite/desktop@0.90.15` (📅 2025-11-25)  
   🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.90.15)
 
