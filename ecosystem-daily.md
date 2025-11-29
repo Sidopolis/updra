@@ -1,13 +1,18 @@
 # 🌐 Ecosystem Daily Log – 2025-11-29
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [cloudpedagogy/ai-capability-framework](https://github.com/cloudpedagogy/ai-capability-framework/releases/tag/v1.0) – `v1.0` (📅 2025-11-29)  
+  🔗 [Release Notes](https://github.com/cloudpedagogy/ai-capability-framework/releases/tag/v1.0)
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/syrec](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0)
-- [vprusso/toqito](https://github.com/vprusso/toqito/releases/tag/v1.1.3) – `v1.1.3` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/vprusso/toqito/releases/tag/v1.1.3)
+- [QuantumSavory/Quantikz.jl](https://github.com/QuantumSavory/Quantikz.jl/releases/tag/v1.3.1) – `v1.3.1` (📅 2023-08-31)  
+  🔗 [Release Notes](https://github.com/QuantumSavory/Quantikz.jl/releases/tag/v1.3.1)
+- [QuantumSavory/QuantumClifford.jl](https://github.com/QuantumSavory/QuantumClifford.jl/releases/tag/v0.10.0) – `v0.10.0` (📅 2025-07-02)  
+  🔗 [Release Notes](https://github.com/QuantumSavory/QuantumClifford.jl/releases/tag/v0.10.0)
+- [QuantumSavory/QuantumSavory.jl](https://github.com/QuantumSavory/QuantumSavory.jl/releases/tag/v0.5.1) – `v0.5.1` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/QuantumSavory/QuantumSavory.jl/releases/tag/v0.5.1)
 
 ## 🔹 Edge-computing
 - No recent releases found.
@@ -15,8 +20,8 @@
 ## 🔹 Webassembly
 - [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.4) – `v20.0.4` (📅 2025-11-25)  
   🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.4)
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v1.9.2) – `v1.9.2` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v1.9.2)
+- [yassineAbou/LLMS](https://github.com/yassineAbou/LLMS/releases/tag/Android) – `Android` (📅 2025-04-27)  
+  🔗 [Release Notes](https://github.com/yassineAbou/LLMS/releases/tag/Android)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
