@@ -4,15 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/syrec](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0)
+- [munich-quantum-toolkit/.github](https://github.com/munich-quantum-toolkit/.github/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-03-29)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/.github/releases/tag/v1.2.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.2.1) – `v1.2.1` (📅 2025-11-29)  
-  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.2.1)
+- [fornwall/advent-of-code](https://github.com/fornwall/advent-of-code/releases/tag/2024.25.0) – `2024.25.0` (📅 2025-11-22)  
+  🔗 [Release Notes](https://github.com/fornwall/advent-of-code/releases/tag/2024.25.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
