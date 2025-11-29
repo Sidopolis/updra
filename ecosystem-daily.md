@@ -4,23 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [tqec/tqec](https://github.com/tqec/tqec/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-11-12)  
+  🔗 [Release Notes](https://github.com/tqec/tqec/releases/tag/v0.1.0)
+- [SyntheticBrains/nematode](https://github.com/SyntheticBrains/nematode/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-11-09)  
+  🔗 [Release Notes](https://github.com/SyntheticBrains/nematode/releases/tag/v1.3.0)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.3)
-- [cloupeer/cloupeer](https://github.com/cloupeer/cloupeer/releases/tag/v0.1.0-alpha) – `v0.1.0-alpha` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/cloupeer/cloupeer/releases/tag/v0.1.0-alpha)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.3)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.489) – `v4.0.489` (📅 2025-11-21)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.489)
-- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.6) – `v4.1.6` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.6)
-- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v0.51.2) – `v0.51.2` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v0.51.2)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.212) – `v4.0.212` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.212)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
