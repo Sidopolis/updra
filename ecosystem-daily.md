@@ -4,20 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [MassonNN/orca_descriptors](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-11-30)  
-  🔗 [Release Notes](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.1.0)
-- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
-  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [abbychau/gtsdb](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0) – `v1.5.0` (📅 2025-03-05)  
   🔗 [Release Notes](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0)
 
 ## 🔹 Webassembly
-- [fornwall/advent-of-code](https://github.com/fornwall/advent-of-code/releases/tag/2024.25.0) – `2024.25.0` (📅 2025-11-22)  
-  🔗 [Release Notes](https://github.com/fornwall/advent-of-code/releases/tag/2024.25.0)
+- [wasm-fmt/ruff_fmt](https://github.com/wasm-fmt/ruff_fmt/releases/tag/v0.10.0) – `v0.10.0` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/ruff_fmt/releases/tag/v0.10.0)
+- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.90.17) – `@stlite/desktop@0.90.17` (📅 2025-11-30)  
+  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.90.17)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
