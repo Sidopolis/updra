@@ -4,17 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/metriq-web](https://github.com/unitaryfoundation/metriq-web/releases/tag/v0.8.0) – `v0.8.0` (📅 2023-07-24)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/metriq-web/releases/tag/v0.8.0)
+- [MassonNN/orca_descriptors](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-11-30)  
+  🔗 [Release Notes](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.1.0)
+- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
+  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [abbychau/gtsdb](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0) – `v1.5.0` (📅 2025-03-05)  
+  🔗 [Release Notes](https://github.com/abbychau/gtsdb/releases/tag/v1.5.0)
 
 ## 🔹 Webassembly
-- [vertigo-web/vertigo](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3) – `v0.8.3` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3)
-- [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.0) – `1.5.0` (📅 2025-11-03)  
-  🔗 [Release Notes](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.0)
+- [fornwall/advent-of-code](https://github.com/fornwall/advent-of-code/releases/tag/2024.25.0) – `2024.25.0` (📅 2025-11-22)  
+  🔗 [Release Notes](https://github.com/fornwall/advent-of-code/releases/tag/2024.25.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
