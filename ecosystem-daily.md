@@ -1,22 +1,28 @@
 # 🌐 Ecosystem Daily Log – 2025-11-30
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qusat](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [MassonNN/orca_descriptors](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-11-30)  
+  🔗 [Release Notes](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.1.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
+  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [bytecodealliance/vscode-wit](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.18) – `wit-idl-v0.3.18` (📅 2025-10-25)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.18)
-- [unum-cloud/USearch](https://github.com/unum-cloud/USearch/releases/tag/v2.21.4) – `v2.21.4` (📅 2025-11-30)  
-  🔗 [Release Notes](https://github.com/unum-cloud/USearch/releases/tag/v2.21.4)
+- [CompileRider/ferrox-rs](https://github.com/CompileRider/ferrox-rs/releases/tag/mc-1.21.5) – `mc-1.21.5` (📅 2025-11-29)  
+  🔗 [Release Notes](https://github.com/CompileRider/ferrox-rs/releases/tag/mc-1.21.5)
+- [vertigo-web/vertigo](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3) – `v0.8.3` (📅 2025-09-29)  
+  🔗 [Release Notes](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3)
+- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-11-30)  
+  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v2.0.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
