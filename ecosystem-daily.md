@@ -1,7 +1,8 @@
 # 🌐 Ecosystem Daily Log – 2025-11-30
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -10,12 +11,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.13) – `v0.5.13` (📅 2025-11-21)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.13)
-- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.4) – `v20.0.4` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.4)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [fornwall/advent-of-code](https://github.com/fornwall/advent-of-code/releases/tag/2024.26.0) – `2024.26.0` (📅 2025-11-30)  
+  🔗 [Release Notes](https://github.com/fornwall/advent-of-code/releases/tag/2024.26.0)
+- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.9.3) – `v1.9.3` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.9.3)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
