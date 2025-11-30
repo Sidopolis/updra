@@ -1,12 +1,10 @@
 # 🌐 Ecosystem Daily Log – 2025-11-30
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [MassonNN/orca_descriptors](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-11-30)  
-  🔗 [Release Notes](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.1.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
@@ -19,10 +17,6 @@
 ## 🔹 Webassembly
 - [CompileRider/ferrox-rs](https://github.com/CompileRider/ferrox-rs/releases/tag/mc-1.21.5) – `mc-1.21.5` (📅 2025-11-29)  
   🔗 [Release Notes](https://github.com/CompileRider/ferrox-rs/releases/tag/mc-1.21.5)
-- [vertigo-web/vertigo](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3) – `v0.8.3` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/vertigo-web/vertigo/releases/tag/v0.8.3)
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-11-30)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v2.0.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
