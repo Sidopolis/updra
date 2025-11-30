@@ -4,18 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [munich-quantum-toolkit/bench](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-10-18)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.1.0)
+- [munich-quantum-toolkit/qusat](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0)
 - [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
   🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.3) – `v1.17.3` (📅 2025-11-17)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.3)
+- No recent releases found.
 
 ## 🔹 Webassembly
+- [bytecodealliance/vscode-wit](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.18) – `wit-idl-v0.3.18` (📅 2025-10-25)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.18)
 - [unum-cloud/USearch](https://github.com/unum-cloud/USearch/releases/tag/v2.21.4) – `v2.21.4` (📅 2025-11-30)  
   🔗 [Release Notes](https://github.com/unum-cloud/USearch/releases/tag/v2.21.4)
 
