@@ -4,20 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [MassonNN/orca_descriptors](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.3.1) – `v0.3.1` (📅 2025-12-01)  
-  🔗 [Release Notes](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.3.1)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [cloupeer/cloupeer](https://github.com/cloupeer/cloupeer/releases/tag/v0.1.0-alpha) – `v0.1.0-alpha` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/cloupeer/cloupeer/releases/tag/v0.1.0-alpha)
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.3)
 
 ## 🔹 Webassembly
-- [kubewarden/image-cve-policy](https://github.com/kubewarden/image-cve-policy/releases/tag/v0.5.3) – `v0.5.3` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/kubewarden/image-cve-policy/releases/tag/v0.5.3)
-- [kubewarden/context-aware-demo](https://github.com/kubewarden/context-aware-demo/releases/tag/v0.1.8) – `v0.1.8` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/kubewarden/context-aware-demo/releases/tag/v0.1.8)
+- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
+  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
+- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
+- [jupyterlite/xeus](https://github.com/jupyterlite/xeus/releases/tag/v4.3.1) – `v4.3.1` (📅 2025-11-27)  
+  🔗 [Release Notes](https://github.com/jupyterlite/xeus/releases/tag/v4.3.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
