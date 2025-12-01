@@ -1,21 +1,23 @@
-# 🌐 Ecosystem Daily Log – 2025-11-30
+# 🌐 Ecosystem Daily Log – 2025-12-01
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [munich-quantum-toolkit/ddsim](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.1.0)
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.3) – `v1.3.3` (📅 2025-12-01)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.3)
+- [quantum4j/quantum4j](https://github.com/quantum4j/quantum4j/releases/tag/v1.3.1) – `v1.3.1` (📅 2025-12-01)  
+  🔗 [Release Notes](https://github.com/quantum4j/quantum4j/releases/tag/v1.3.1)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [use-ink/ink](https://github.com/use-ink/ink/releases/tag/v5.1.1) – `v5.1.1` (📅 2024-12-04)  
-  🔗 [Release Notes](https://github.com/use-ink/ink/releases/tag/v5.1.1)
-- [hlorenzi/customasm](https://github.com/hlorenzi/customasm/releases/tag/v0.13.12) – `v0.13.12` (📅 2025-10-05)  
-  🔗 [Release Notes](https://github.com/hlorenzi/customasm/releases/tag/v0.13.12)
+- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.4) – `WAMR-2.4.4` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.4)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
