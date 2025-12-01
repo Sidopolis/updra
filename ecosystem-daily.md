@@ -4,16 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1) – `v0.43.1` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1)
+- [CQCL/pytket-phir](https://github.com/CQCL/pytket-phir/releases/tag/v0.10.0) – `v0.10.0` (📅 2025-02-28)  
+  🔗 [Release Notes](https://github.com/CQCL/pytket-phir/releases/tag/v0.10.0)
 
 ## 🔹 Edge-computing
-- [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
+- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.90.18) – `@stlite/desktop@0.90.18` (📅 2025-12-01)  
+  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.90.18)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 
