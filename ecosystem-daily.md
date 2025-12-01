@@ -4,19 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.3)
+- [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
 
 ## 🔹 Webassembly
-- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
-  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
-- [jupyterlite/xeus](https://github.com/jupyterlite/xeus/releases/tag/v4.3.1) – `v4.3.1` (📅 2025-11-27)  
-  🔗 [Release Notes](https://github.com/jupyterlite/xeus/releases/tag/v4.3.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
