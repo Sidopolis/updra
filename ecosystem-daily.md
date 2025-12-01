@@ -1,26 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2025-12-01
 
 ## 🔹 Ai-ethics
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [cevrechaussette/dev2foo](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3) – `v3.7.4-alpha.3` (📅 2025-04-29)  
-  🔗 [Release Notes](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3)
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
-- [amazon-braket/amazon-braket-sdk-python](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.106.1) – `v1.106.1` (📅 2025-11-26)  
-  🔗 [Release Notes](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.106.1)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
+- [cmusatyalab/steeleagle](https://github.com/cmusatyalab/steeleagle/releases/tag/v2.2.1) – `v2.2.1` (📅 2025-11-05)  
+  🔗 [Release Notes](https://github.com/cmusatyalab/steeleagle/releases/tag/v2.2.1)
 
 ## 🔹 Webassembly
-- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.0) – `v10.0.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.0)
+- [unoplatform/uno.extensions](https://github.com/unoplatform/uno.extensions/releases/tag/7.0.4) – `7.0.4` (📅 2025-11-12)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.extensions/releases/tag/7.0.4)
+- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-11-07)  
+  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.5.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
