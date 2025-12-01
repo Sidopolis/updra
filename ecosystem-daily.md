@@ -4,15 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [amachino/qubex](https://github.com/amachino/qubex/releases/tag/v1.4.3) – `v1.4.3` (📅 2025-11-11)  
+  🔗 [Release Notes](https://github.com/amachino/qubex/releases/tag/v1.4.3)
 
 ## 🔹 Edge-computing
-- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.9) – `v0.4.9` (📅 2025-12-01)  
-  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.9)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.0)
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-12-01)  
+  🔗 [Release Notes](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
