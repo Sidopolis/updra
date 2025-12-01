@@ -4,24 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
-- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
-- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
+- [MassonNN/orca_descriptors](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.3.1) – `v0.3.1` (📅 2025-12-01)  
+  🔗 [Release Notes](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.3.1)
 
 ## 🔹 Edge-computing
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [cloupeer/cloupeer](https://github.com/cloupeer/cloupeer/releases/tag/v0.1.0-alpha) – `v0.1.0-alpha` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/cloupeer/cloupeer/releases/tag/v0.1.0-alpha)
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.9.1) – `2.9.1` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.9.1)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [kubewarden/image-cve-policy](https://github.com/kubewarden/image-cve-policy/releases/tag/v0.5.3) – `v0.5.3` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/kubewarden/image-cve-policy/releases/tag/v0.5.3)
+- [kubewarden/context-aware-demo](https://github.com/kubewarden/context-aware-demo/releases/tag/v0.1.8) – `v0.1.8` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/kubewarden/context-aware-demo/releases/tag/v0.1.8)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
