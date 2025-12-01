@@ -4,24 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.3) – `v3.3.3` (📅 2025-11-10)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.3)
-- [munich-quantum-toolkit/debugger](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
-- [bambooww/iot-tree](https://github.com/bambooww/iot-tree/releases/tag/1.8.2) – `1.8.2` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/bambooww/iot-tree/releases/tag/1.8.2)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
+- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.9) – `v0.4.9` (📅 2025-12-01)  
+  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.9)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
-- [kuasar-io/kuasar](https://github.com/kuasar-io/kuasar/releases/tag/v1.0.1) – `v1.0.1` (📅 2025-03-21)  
-  🔗 [Release Notes](https://github.com/kuasar-io/kuasar/releases/tag/v1.0.1)
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
