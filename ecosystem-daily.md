@@ -4,17 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.9.0) – `v9.9.0` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.9.0)
+- [quantumlib/Qualtran](https://github.com/quantumlib/Qualtran/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-04-01)  
+  🔗 [Release Notes](https://github.com/quantumlib/Qualtran/releases/tag/v0.6.0)
+- [MassonNN/orca_descriptors](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.3.3b) – `v0.3.3b` (📅 2025-12-01)  
+  🔗 [Release Notes](https://github.com/MassonNN/orca_descriptors/releases/tag/v0.3.3b)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [jupyterlite/jupyterlite-sphinx](https://github.com/jupyterlite/jupyterlite-sphinx/releases/tag/v0.22.0) – `v0.22.0` (📅 2025-09-19)  
-  🔗 [Release Notes](https://github.com/jupyterlite/jupyterlite-sphinx/releases/tag/v0.22.0)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
+- [unoplatform/uno.extensions](https://github.com/unoplatform/uno.extensions/releases/tag/7.0.4) – `7.0.4` (📅 2025-11-12)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.extensions/releases/tag/7.0.4)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.49.0) – `0.49.0` (📅 2025-12-01)  
