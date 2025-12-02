@@ -1,20 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2025-12-02
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.18) – `v0.0.18` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.18)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [WebAssembly/WASI](https://github.com/WebAssembly/WASI/releases/tag/v0.2.9) – `v0.2.9` (📅 2025-12-02)  
-  🔗 [Release Notes](https://github.com/WebAssembly/WASI/releases/tag/v0.2.9)
+- [onyx-lang/onyx](https://github.com/onyx-lang/onyx/releases/tag/v0.1.13-beta) – `v0.1.13-beta` (📅 2024-11-09)  
+  🔗 [Release Notes](https://github.com/onyx-lang/onyx/releases/tag/v0.1.13-beta)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
