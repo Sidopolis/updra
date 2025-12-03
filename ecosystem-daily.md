@@ -1,8 +1,7 @@
 # 🌐 Ecosystem Daily Log – 2025-12-03
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -10,10 +9,14 @@
 ## 🔹 Edge-computing
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2)
+- [Ryan-Atkinson87/mqtt_aquarium_monitoring](https://github.com/Ryan-Atkinson87/mqtt_aquarium_monitoring/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/Ryan-Atkinson87/mqtt_aquarium_monitoring/releases/tag/v2.0.0)
 
 ## 🔹 Webassembly
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-28)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.0.0)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.176) – `v0.8.176` (📅 2025-11-26)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.176)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
