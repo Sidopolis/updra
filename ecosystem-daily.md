@@ -4,21 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
 - [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.5) – `v1.3.5` (📅 2025-12-02)  
   🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.5)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
 
 ## 🔹 Webassembly
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0) – `v10.1.0` (📅 2025-12-02)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0)
-- [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.243.0) – `v1.243.0` (📅 2025-12-03)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.243.0)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.2.1) – `v1.2.1` (📅 2025-11-29)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.2.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
