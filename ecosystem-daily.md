@@ -4,24 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.5) – `v1.3.5` (📅 2025-12-02)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.5)
+- [jcmgray/quimb](https://github.com/jcmgray/quimb/releases/tag/v1.11.2) – `v1.11.2` (📅 2025-07-31)  
+  🔗 [Release Notes](https://github.com/jcmgray/quimb/releases/tag/v1.11.2)
 
 ## 🔹 Edge-computing
 - [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
   🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.19) – `v0.0.19` (📅 2025-12-03)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.19)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.15) – `v1.0.0-beta.15` (📅 2025-11-11)  
-  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.15)
-- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-11-07)  
-  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.5.0)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
+- [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen/releases/tag/v0.48.1) – `v0.48.1` (📅 2025-11-22)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wit-bindgen/releases/tag/v0.48.1)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-03)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.1.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
