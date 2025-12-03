@@ -1,28 +1,24 @@
-# 🌐 Ecosystem Daily Log – 2025-12-02
+# 🌐 Ecosystem Daily Log – 2025-12-03
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [quantum4j/quantum4j](https://github.com/quantum4j/quantum4j/releases/tag/v1.3.1) – `v1.3.1` (📅 2025-12-01)  
-  🔗 [Release Notes](https://github.com/quantum4j/quantum4j/releases/tag/v1.3.1)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.5) – `v1.3.5` (📅 2025-12-02)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.3.5)
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.18) – `v0.0.18` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.18)
-- [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0) – `v10.1.0` (📅 2025-12-02)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0)
+- [bytecodealliance/wasm-tools](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.243.0) – `v1.243.0` (📅 2025-12-03)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-tools/releases/tag/v1.243.0)
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
