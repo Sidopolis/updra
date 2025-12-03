@@ -4,15 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [chakravala/Grassmann.jl](https://github.com/chakravala/Grassmann.jl/releases/tag/v0.8.42) – `v0.8.42` (📅 2025-08-29)  
+  🔗 [Release Notes](https://github.com/chakravala/Grassmann.jl/releases/tag/v0.8.42)
+- [CQCL/tket2](https://github.com/CQCL/tket2/releases/tag/tket-py-v0.12.12) – `tket-py-v0.12.12` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/CQCL/tket2/releases/tag/tket-py-v0.12.12)
 
 ## 🔹 Edge-computing
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.5) – `v1.17.5` (📅 2025-12-02)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.5)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.176) – `v0.8.176` (📅 2025-11-26)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.176)
 
