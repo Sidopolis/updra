@@ -4,19 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Budapest-Quantum-Computing-Group/piquasso](https://github.com/Budapest-Quantum-Computing-Group/piquasso/releases/tag/v7.0.0) – `v7.0.0` (📅 2025-11-09)  
-  🔗 [Release Notes](https://github.com/Budapest-Quantum-Computing-Group/piquasso/releases/tag/v7.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
-- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.0) – `v0.34.0` (📅 2025-09-11)  
-  🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.0)
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2)
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2) – `1.6.2` (📅 2025-10-17)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.6.2)
+- [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.2.1) – `v1.2.1` (📅 2025-11-29)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.2.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
