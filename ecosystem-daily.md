@@ -7,16 +7,15 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
-- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0) – `v10.1.0` (📅 2025-12-02)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0)
-- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.2.1) – `v1.2.1` (📅 2025-11-29)  
-  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.2.1)
+- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.4) – `WAMR-2.4.4` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.4)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- [toyobayashi/emnapi](https://github.com/toyobayashi/emnapi/releases/tag/v1.7.1) – `v1.7.1` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/toyobayashi/emnapi/releases/tag/v1.7.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
