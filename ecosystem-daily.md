@@ -1,25 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2025-12-04
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
+- [qiboteam/qibo](https://github.com/qiboteam/qibo/releases/tag/v0.2.22) – `v0.2.22` (📅 2025-11-07)  
+  🔗 [Release Notes](https://github.com/qiboteam/qibo/releases/tag/v0.2.22)
 
 ## 🔹 Edge-computing
-- [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
-- [open-horizon/anax](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1739) – `v2.32.0-1739` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1739)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.1) – `2.10.1` (📅 2025-12-03)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.1)
-- [geoarrow/geoarrow-rs](https://github.com/geoarrow/geoarrow-rs/releases/tag/rust-v0.6.2) – `rust-v0.6.2` (📅 2025-10-27)  
-  🔗 [Release Notes](https://github.com/geoarrow/geoarrow-rs/releases/tag/rust-v0.6.2)
-- [TOPLLab/WARDuino](https://github.com/TOPLLab/WARDuino/releases/tag/v0.7.2) – `v0.7.2` (📅 2025-12-03)  
-  🔗 [Release Notes](https://github.com/TOPLLab/WARDuino/releases/tag/v0.7.2)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.176) – `v0.8.176` (📅 2025-11-26)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.176)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
