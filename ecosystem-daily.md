@@ -1,14 +1,13 @@
 # 🌐 Ecosystem Daily Log – 2025-12-04
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
-- [qiboteam/qibo](https://github.com/qiboteam/qibo/releases/tag/v0.2.22) – `v0.2.22` (📅 2025-11-07)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibo/releases/tag/v0.2.22)
+- [qiboteam/qibo](https://github.com/qiboteam/qibo/releases/tag/v0.2.23) – `v0.2.23` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/qiboteam/qibo/releases/tag/v0.2.23)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
@@ -16,8 +15,10 @@
 ## 🔹 Webassembly
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.176) – `v0.8.176` (📅 2025-11-26)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.176)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
+  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
