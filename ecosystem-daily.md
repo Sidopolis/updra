@@ -4,8 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
+- [Budapest-Quantum-Computing-Group/piquasso](https://github.com/Budapest-Quantum-Computing-Group/piquasso/releases/tag/v7.0.0) – `v7.0.0` (📅 2025-11-09)  
+  🔗 [Release Notes](https://github.com/Budapest-Quantum-Computing-Group/piquasso/releases/tag/v7.0.0)
 
 ## 🔹 Edge-computing
 - [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
@@ -16,10 +16,7 @@
   🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.6.2)
 
 ## 🔹 Webassembly
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-11-30)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v2.0.0)
-- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/12.0.0) – `12.0.0` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/12.0.0)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
