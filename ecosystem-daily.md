@@ -1,21 +1,26 @@
 # 🌐 Ecosystem Daily Log – 2025-12-05
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [cloudpedagogy/ai-capability-framework](https://github.com/cloudpedagogy/ai-capability-framework/releases/tag/v1.1) – `v1.1` (📅 2025-12-05)  
+  🔗 [Release Notes](https://github.com/cloudpedagogy/ai-capability-framework/releases/tag/v1.1)
 
 ## 🔹 Quantum-computing
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
+- [qiskit-community/qiskit-braket-provider](https://github.com/qiskit-community/qiskit-braket-provider/releases/tag/v0.8.1) – `v0.8.1` (📅 2025-11-17)  
+  🔗 [Release Notes](https://github.com/qiskit-community/qiskit-braket-provider/releases/tag/v0.8.1)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+- [nicoladebbia/CredLink](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/nicoladebbia/CredLink/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.14) – `v0.5.14` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.14)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-11-07)  
+  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.5.0)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.1) – `v39.0.1` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.1)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
