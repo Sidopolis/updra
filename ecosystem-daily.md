@@ -4,10 +4,12 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qmap](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.4.0) – `v3.4.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.4.0)
-- [QuantumSavory/QuantumClifford.jl](https://github.com/QuantumSavory/QuantumClifford.jl/releases/tag/v0.10.0) – `v0.10.0` (📅 2025-07-02)  
-  🔗 [Release Notes](https://github.com/QuantumSavory/QuantumClifford.jl/releases/tag/v0.10.0)
+- [munich-quantum-toolkit/qcec](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.3.0) – `v3.3.0` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.3.0)
+- [munich-quantum-toolkit/ddsim](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.1.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.0) – `v1.22.0` (📅 2025-11-05)  
@@ -18,12 +20,10 @@
   🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0) – `v10.1.0` (📅 2025-12-02)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0)
+- [proxy-wasm/proxy-wasm-rust-sdk](https://github.com/proxy-wasm/proxy-wasm-rust-sdk/releases/tag/v0.2.4) – `v0.2.4` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/proxy-wasm/proxy-wasm-rust-sdk/releases/tag/v0.2.4)
 - [pulseengine/rules_wasm_component](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-07-24)  
   🔗 [Release Notes](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
