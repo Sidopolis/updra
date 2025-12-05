@@ -4,15 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [quantum4j/quantum4j](https://github.com/quantum4j/quantum4j/releases/tag/v1.3.2) – `v1.3.2` (📅 2025-12-03)  
-  🔗 [Release Notes](https://github.com/quantum4j/quantum4j/releases/tag/v1.3.2)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.0) – `v6.2.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.0)
+- [Puzzaks/geminilocal](https://github.com/Puzzaks/geminilocal/releases/tag/v1.1.1) – `v1.1.1` (📅 2025-12-05)  
+  🔗 [Release Notes](https://github.com/Puzzaks/geminilocal/releases/tag/v1.1.1)
+
 ## 🔹 Webassembly
-- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.6) – `v4.1.6` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.6)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.176) – `v0.8.176` (📅 2025-11-26)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.176)
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
