@@ -1,24 +1,18 @@
 # 🌐 Ecosystem Daily Log – 2025-12-06
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Budapest-Quantum-Computing-Group/piquasso](https://github.com/Budapest-Quantum-Computing-Group/piquasso/releases/tag/v7.0.0) – `v7.0.0` (📅 2025-11-09)  
-  🔗 [Release Notes](https://github.com/Budapest-Quantum-Computing-Group/piquasso/releases/tag/v7.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [larsid/netfl](https://github.com/larsid/netfl/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-24)  
   🔗 [Release Notes](https://github.com/larsid/netfl/releases/tag/v1.4.0)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.178) – `v0.8.178` (📅 2025-12-05)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.178)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
