@@ -10,12 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0) – `v10.1.0` (📅 2025-12-02)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0)
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.14) – `v0.5.14` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.14)
-- [r-wasm/webr](https://github.com/r-wasm/webr/releases/tag/v0.5.7) – `v0.5.7` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/r-wasm/webr/releases/tag/v0.5.7)
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.2) – `v1.0.2` (📅 2025-12-06)  
+  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
