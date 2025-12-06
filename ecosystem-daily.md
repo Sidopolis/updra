@@ -5,24 +5,24 @@
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [SECQUOIA/TenSolver.jl](https://github.com/SECQUOIA/TenSolver.jl/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-08-30)  
-  🔗 [Release Notes](https://github.com/SECQUOIA/TenSolver.jl/releases/tag/v0.1.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.32.0) – `vm6502q.v9.32.0` (📅 2025-11-27)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.32.0)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
+- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
 
 ## 🔹 Edge-computing
-- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.9) – `v0.4.9` (📅 2025-12-01)  
-  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.9)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [AppSolves/LanePilot](https://github.com/AppSolves/LanePilot/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-24)  
+  🔗 [Release Notes](https://github.com/AppSolves/LanePilot/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 - [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/mcp-v2025-06-18-v0.1.8) – `mcp-v2025-06-18-v0.1.8` (📅 2025-12-06)  
   🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/mcp-v2025-06-18-v0.1.8)
-- [wasm-fmt/ruff_fmt](https://github.com/wasm-fmt/ruff_fmt/releases/tag/v0.12.9) – `v0.12.9` (📅 2025-12-06)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/ruff_fmt/releases/tag/v0.12.9)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
