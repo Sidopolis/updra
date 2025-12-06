@@ -1,27 +1,28 @@
 # 🌐 Ecosystem Daily Log – 2025-12-06
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/workflows](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.17.4) – `v1.17.4` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.17.4)
-- [munich-quantum-toolkit/ddvis](https://github.com/munich-quantum-toolkit/ddvis/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddvis/releases/tag/v1.8.0)
-- [munich-quantum-toolkit/qcec](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.3.0) – `v3.3.0` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.3.0)
+- [SECQUOIA/TenSolver.jl](https://github.com/SECQUOIA/TenSolver.jl/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-08-30)  
+  🔗 [Release Notes](https://github.com/SECQUOIA/TenSolver.jl/releases/tag/v0.1.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.32.0) – `vm6502q.v9.32.0` (📅 2025-11-27)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.32.0)
 
 ## 🔹 Edge-computing
-- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
+- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.9) – `v0.4.9` (📅 2025-12-01)  
+  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.9)
 
 ## 🔹 Webassembly
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.9.5) – `v1.9.5` (📅 2025-12-06)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.9.5)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
-- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
-  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- [wasmcp/wasmcp](https://github.com/wasmcp/wasmcp/releases/tag/mcp-v2025-06-18-v0.1.8) – `mcp-v2025-06-18-v0.1.8` (📅 2025-12-06)  
+  🔗 [Release Notes](https://github.com/wasmcp/wasmcp/releases/tag/mcp-v2025-06-18-v0.1.8)
+- [wasm-fmt/ruff_fmt](https://github.com/wasm-fmt/ruff_fmt/releases/tag/v0.12.9) – `v0.12.9` (📅 2025-12-06)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/ruff_fmt/releases/tag/v0.12.9)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
