@@ -4,16 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qecc](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-03-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0)
-- [munich-quantum-toolkit/workflows](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.17.4) – `v1.17.4` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.17.4)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [amazon-braket/amazon-braket-sdk-python](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.106.3) – `v1.106.3` (📅 2025-12-03)  
+  🔗 [Release Notes](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.106.3)
 
 ## 🔹 Edge-computing
 - [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v5.3.1) – `v5.3.1` (📅 2025-12-05)  
   🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v5.3.1)
 
 ## 🔹 Webassembly
+- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.4) – `v20.0.4` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.4)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0) – `v10.1.0` (📅 2025-12-02)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0)
 - [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-12-06)  
   🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.6.0)
 
