@@ -4,22 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
-- [amazon-braket/amazon-braket-sdk-python](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.106.3) – `v1.106.3` (📅 2025-12-03)  
-  🔗 [Release Notes](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.106.3)
+- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
+  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v5.3.1) – `v5.3.1` (📅 2025-12-05)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v5.3.1)
+- [Puzzaks/geminilocal](https://github.com/Puzzaks/geminilocal/releases/tag/v1.1.1) – `v1.1.1` (📅 2025-12-05)  
+  🔗 [Release Notes](https://github.com/Puzzaks/geminilocal/releases/tag/v1.1.1)
+- [balaji-balu/intelligent-edge-orchestrator](https://github.com/balaji-balu/intelligent-edge-orchestrator/releases/tag/v0.1.15) – `v0.1.15` (📅 2025-12-06)  
+  🔗 [Release Notes](https://github.com/balaji-balu/intelligent-edge-orchestrator/releases/tag/v0.1.15)
 
 ## 🔹 Webassembly
-- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.4) – `v20.0.4` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.4)
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0) – `v10.1.0` (📅 2025-12-02)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0)
-- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-12-06)  
-  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.6.0)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
