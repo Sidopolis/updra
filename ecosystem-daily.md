@@ -1,18 +1,23 @@
-# 🌐 Ecosystem Daily Log – 2025-12-06
+# 🌐 Ecosystem Daily Log – 2025-12-07
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [munich-quantum-toolkit/ddsim](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddsim/releases/tag/v2.1.0)
 
 ## 🔹 Edge-computing
-- [larsid/netfl](https://github.com/larsid/netfl/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-24)  
-  🔗 [Release Notes](https://github.com/larsid/netfl/releases/tag/v1.4.0)
+- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
+- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.10) – `v0.4.10` (📅 2025-12-07)  
+  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.10)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.178) – `v0.8.178` (📅 2025-12-05)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.178)
+- [scribeocr/scribe.js](https://github.com/scribeocr/scribe.js/releases/tag/v0.9.3) – `v0.9.3` (📅 2025-11-15)  
+  🔗 [Release Notes](https://github.com/scribeocr/scribe.js/releases/tag/v0.9.3)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
