@@ -3,20 +3,25 @@
 ## 🔹 Ai-ethics
 - [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [sarumaj/qiskit-state-evolution-recorder](https://github.com/sarumaj/qiskit-state-evolution-recorder/releases/tag/v1.0.1) – `v1.0.1` (📅 2025-07-21)  
-  🔗 [Release Notes](https://github.com/sarumaj/qiskit-state-evolution-recorder/releases/tag/v1.0.1)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [qiskit-community/qiskit-metal](https://github.com/qiskit-community/qiskit-metal/releases/tag/0.5.0) – `0.5.0` (📅 2025-12-07)  
+  🔗 [Release Notes](https://github.com/qiskit-community/qiskit-metal/releases/tag/0.5.0)
+- [kpobrien/JosephsonCircuits.jl](https://github.com/kpobrien/JosephsonCircuits.jl/releases/tag/v0.4.19) – `v0.4.19` (📅 2025-09-01)  
+  🔗 [Release Notes](https://github.com/kpobrien/JosephsonCircuits.jl/releases/tag/v0.4.19)
 
 ## 🔹 Edge-computing
-- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v0.6.11) – `v0.6.11` (📅 2025-12-07)  
-  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v0.6.11)
+- [Puzzaks/geminilocal](https://github.com/Puzzaks/geminilocal/releases/tag/v1.1.1) – `v1.1.1` (📅 2025-12-05)  
+  🔗 [Release Notes](https://github.com/Puzzaks/geminilocal/releases/tag/v1.1.1)
+- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
 
 ## 🔹 Webassembly
-- [muhammedaksam/opentui-doom](https://github.com/muhammedaksam/opentui-doom/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-12-07)  
-  🔗 [Release Notes](https://github.com/muhammedaksam/opentui-doom/releases/tag/v0.2.0)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
