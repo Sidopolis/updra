@@ -4,16 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.32.0) – `vm6502q.v9.32.0` (📅 2025-11-27)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.32.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
   🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [wasm-fmt/mago_fmt](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-12-07)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.2.0)
+- [SamChou19815/samlang](https://github.com/SamChou19815/samlang/releases/tag/v0.10.1) – `v0.10.1` (📅 2024-02-25)  
+  🔗 [Release Notes](https://github.com/SamChou19815/samlang/releases/tag/v0.10.1)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
