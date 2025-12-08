@@ -4,16 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qiskit-community/qiskit-braket-provider](https://github.com/qiskit-community/qiskit-braket-provider/releases/tag/v0.9.0) – `v0.9.0` (📅 2025-12-08)  
-  🔗 [Release Notes](https://github.com/qiskit-community/qiskit-braket-provider/releases/tag/v0.9.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.19) – `v0.0.19` (📅 2025-12-03)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.19)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-03)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.1.0)
+- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
+  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
+- [klippa-app/go-libtiff](https://github.com/klippa-app/go-libtiff/releases/tag/v0.0.5) – `v0.0.5` (📅 2025-12-08)  
+  🔗 [Release Notes](https://github.com/klippa-app/go-libtiff/releases/tag/v0.0.5)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
