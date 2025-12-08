@@ -7,16 +7,11 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.19) – `v0.0.19` (📅 2025-12-03)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.19)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
-  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
-- [klippa-app/go-libtiff](https://github.com/klippa-app/go-libtiff/releases/tag/v0.0.5) – `v0.0.5` (📅 2025-12-08)  
-  🔗 [Release Notes](https://github.com/klippa-app/go-libtiff/releases/tag/v0.0.5)
+- [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen/releases/tag/v0.49.0) – `v0.49.0` (📅 2025-12-03)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wit-bindgen/releases/tag/v0.49.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
