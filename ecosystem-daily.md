@@ -1,19 +1,29 @@
-# 🌐 Ecosystem Daily Log – 2025-12-07
+# 🌐 Ecosystem Daily Log – 2025-12-08
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.4.2) – `v1.4.2` (📅 2025-12-08)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.4.2)
+- [munich-quantum-toolkit/qusat](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.7.0) – `1.7.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.7.0)
+- [eclipse-zenoh/zenoh-python](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.7.0) – `1.7.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.7.0)
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.0) – `1.7.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.0)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.178) – `v0.8.178` (📅 2025-12-05)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.178)
-- [a1ecbr0wn/id](https://github.com/a1ecbr0wn/id/releases/tag/v0.1.17) – `v0.1.17` (📅 2025-12-07)  
-  🔗 [Release Notes](https://github.com/a1ecbr0wn/id/releases/tag/v0.1.17)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.14) – `v0.5.14` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.14)
+- [danieletorelli/golem-x](https://github.com/danieletorelli/golem-x/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-01-24)  
+  🔗 [Release Notes](https://github.com/danieletorelli/golem-x/releases/tag/v2.1.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
