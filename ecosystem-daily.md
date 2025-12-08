@@ -4,17 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1) – `v0.43.1` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.2.3) – `2.2.3` (📅 2025-10-30)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.2.3)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.3)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
-- [orhun/ratzilla](https://github.com/orhun/ratzilla/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-09-28)  
-  🔗 [Release Notes](https://github.com/orhun/ratzilla/releases/tag/v0.2.0)
+- [CharlieTap/chasm](https://github.com/CharlieTap/chasm/releases/tag/1.2.0) – `1.2.0` (📅 2025-10-11)  
+  🔗 [Release Notes](https://github.com/CharlieTap/chasm/releases/tag/1.2.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
