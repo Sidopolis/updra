@@ -1,35 +1,35 @@
 # 🌐 Ecosystem Daily Log – 2025-12-09
 
 ## 🔹 Ai-ethics
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 - [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
-- [cevrechaussette/dev2foo](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3) – `v3.7.4-alpha.3` (📅 2025-04-29)  
-  🔗 [Release Notes](https://github.com/cevrechaussette/dev2foo/releases/tag/v3.7.4-alpha.3)
+- [unitaryfoundation/qlass](https://github.com/unitaryfoundation/qlass/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qlass/releases/tag/v0.2.0)
+- [EpifaniosK/votranh-omniverse-loeh-omega](https://github.com/EpifaniosK/votranh-omniverse-loeh-omega/releases/tag/2.6.3-beta.2) – `2.6.3-beta.2` (📅 2025-04-04)  
+  🔗 [Release Notes](https://github.com/EpifaniosK/votranh-omniverse-loeh-omega/releases/tag/2.6.3-beta.2)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.0) – `1.7.0` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.0)
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.3)
 
 ## 🔹 Webassembly
-- [JupyterEverywhere/jupyterlite-extension](https://github.com/JupyterEverywhere/jupyterlite-extension/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-11-17)  
-  🔗 [Release Notes](https://github.com/JupyterEverywhere/jupyterlite-extension/releases/tag/v1.1.5)
-- [bilibili/web-demuxer](https://github.com/bilibili/web-demuxer/releases/tag/3.0.3) – `3.0.3` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/bilibili/web-demuxer/releases/tag/3.0.3)
-- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.3) – `v1.0.3` (📅 2025-12-06)  
-  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.3)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
   🔗 [Release Notes](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0)
-- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
-  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
-- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.54.0) – `0.54.0` (📅 2025-12-08)  
-  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.54.0)
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4)
+- [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.6.1)
