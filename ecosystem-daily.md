@@ -4,19 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [hutchpd/QuantumSuperposition](https://github.com/hutchpd/QuantumSuperposition/releases/tag/v1.7.4) – `v1.7.4` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/hutchpd/QuantumSuperposition/releases/tag/v1.7.4)
+- [qboson/kaiwu-pytorch-plugin](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.2) – `v0.0.2` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.2)
 
 ## 🔹 Edge-computing
-- [LoveDoLove/cloudflare-load-balancer](https://github.com/LoveDoLove/cloudflare-load-balancer/releases/tag/v2.0.1) – `v2.0.1` (📅 2025-12-09)  
-  🔗 [Release Notes](https://github.com/LoveDoLove/cloudflare-load-balancer/releases/tag/v2.0.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [bytecodealliance/vscode-wit](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.18) – `wit-idl-v0.3.18` (📅 2025-10-25)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.18)
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
