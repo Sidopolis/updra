@@ -7,22 +7,22 @@
   🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [Quantinuum/guppylang](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-v0.21.6) – `guppylang-v0.21.6` (📅 2025-10-30)  
-  🔗 [Release Notes](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-v0.21.6)
-- [Sats2/NoisyCircuits](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-09)  
-  🔗 [Release Notes](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.1.0)
+- [qir-alliance/pyqir](https://github.com/qir-alliance/pyqir/releases/tag/v0.12.1) – `v0.12.1` (📅 2025-12-05)  
+  🔗 [Release Notes](https://github.com/qir-alliance/pyqir/releases/tag/v0.12.1)
 
 ## 🔹 Edge-computing
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.0) – `1.7.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.0)
 - [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
   🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.178) – `v0.8.178` (📅 2025-12-05)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.178)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
 - [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
   🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
-- [fornwall/advent-of-code](https://github.com/fornwall/advent-of-code/releases/tag/2025.1.0) – `2025.1.0` (📅 2025-12-07)  
-  🔗 [Release Notes](https://github.com/fornwall/advent-of-code/releases/tag/2025.1.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
