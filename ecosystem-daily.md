@@ -1,22 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2025-12-09
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [cloudpedagogy/ai-capability-framework](https://github.com/cloudpedagogy/ai-capability-framework/releases/tag/v1.1) – `v1.1` (📅 2025-12-05)  
+  🔗 [Release Notes](https://github.com/cloudpedagogy/ai-capability-framework/releases/tag/v1.1)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [Puzzaks/geminilocal](https://github.com/Puzzaks/geminilocal/releases/tag/v1.1.1) – `v1.1.1` (📅 2025-12-05)  
+  🔗 [Release Notes](https://github.com/Puzzaks/geminilocal/releases/tag/v1.1.1)
+
 ## 🔹 Webassembly
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
-- [hpcc-systems/hpcc-js-wasm](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.29.0) – `wasm-v2.29.0` (📅 2025-11-23)  
-  🔗 [Release Notes](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.29.0)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.178) – `v0.8.178` (📅 2025-12-05)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.178)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
