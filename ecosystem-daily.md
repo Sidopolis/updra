@@ -7,26 +7,22 @@
   🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [Sats2/NoisyCircuits](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-09)  
-  🔗 [Release Notes](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.1.0)
 - [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
   🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [Quantinuum/hugr](https://github.com/Quantinuum/hugr/releases/tag/hugr-py-v0.14.4) – `hugr-py-v0.14.4` (📅 2025-11-26)  
+  🔗 [Release Notes](https://github.com/Quantinuum/hugr/releases/tag/hugr-py-v0.14.4)
 
 ## 🔹 Edge-computing
-- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.19) – `v0.0.19` (📅 2025-12-03)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.19)
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.0) – `1.7.0` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.0)
+- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.490) – `v4.0.490` (📅 2025-12-08)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.490)
-- [unoplatform/uno.extensions](https://github.com/unoplatform/uno.extensions/releases/tag/7.0.4) – `7.0.4` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.extensions/releases/tag/7.0.4)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.1) – `v39.0.1` (📅 2025-11-24)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
