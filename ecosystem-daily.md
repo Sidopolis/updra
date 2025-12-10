@@ -4,18 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Sats2/NoisyCircuits](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-09)  
-  🔗 [Release Notes](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.1.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [good-lly/s3mini](https://github.com/good-lly/s3mini/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-11-29)  
-  🔗 [Release Notes](https://github.com/good-lly/s3mini/releases/tag/v0.7.1)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.7.1) – `1.7.1` (📅 2025-12-10)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.7.1)
+- [eclipse-zenoh/zenoh-plugin-dds](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.7.1) – `1.7.1` (📅 2025-12-10)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-dds/releases/tag/1.7.1)
 
 ## 🔹 Webassembly
-- [pulseengine/rules_wasm_component](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-07-24)  
-  🔗 [Release Notes](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0)
-- [unoplatform/uno.toolkit.ui](https://github.com/unoplatform/uno.toolkit.ui/releases/tag/8.3.2) – `8.3.2` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.toolkit.ui/releases/tag/8.3.2)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
