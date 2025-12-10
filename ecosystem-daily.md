@@ -4,20 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.4.6) – `v1.4.6` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.4.6)
 - [Sats2/NoisyCircuits](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-09)  
   🔗 [Release Notes](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.1.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.34.1) – `v0.34.1` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.34.1)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.7.0) – `1.7.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.7.0)
 
 ## 🔹 Webassembly
-- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.3) – `v1.0.3` (📅 2025-12-06)  
-  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.3)
-- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.8) – `v4.1.8` (📅 2025-12-09)  
-  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.8)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
