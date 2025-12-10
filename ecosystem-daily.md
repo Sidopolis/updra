@@ -4,16 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1) – `v0.43.1` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1)
+- [Sats2/NoisyCircuits](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-09)  
+  🔗 [Release Notes](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.1.0)
 
 ## 🔹 Edge-computing
 - [good-lly/s3mini](https://github.com/good-lly/s3mini/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-11-29)  
   🔗 [Release Notes](https://github.com/good-lly/s3mini/releases/tag/v0.7.1)
 
 ## 🔹 Webassembly
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [pulseengine/rules_wasm_component](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-07-24)  
+  🔗 [Release Notes](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0)
+- [unoplatform/uno.toolkit.ui](https://github.com/unoplatform/uno.toolkit.ui/releases/tag/8.3.2) – `8.3.2` (📅 2025-11-12)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.toolkit.ui/releases/tag/8.3.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
