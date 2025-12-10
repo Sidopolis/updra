@@ -4,17 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Sats2/NoisyCircuits](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-09)  
-  🔗 [Release Notes](https://github.com/Sats2/NoisyCircuits/releases/tag/v1.1.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.34.1) – `v0.34.1` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.34.1)
-- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.7.0) – `1.7.0` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.7.0)
+- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.5.0-beta) – `v0.5.0-beta` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.5.0-beta)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.1) – `2.10.1` (📅 2025-12-03)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.1)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
+- [Wasted-Audio/hvcc](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.14.0) – `v0.14.0` (📅 2025-09-19)  
+  🔗 [Release Notes](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.14.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
