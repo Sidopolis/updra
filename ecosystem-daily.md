@@ -4,18 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [badbugsarts-hue/UIDT-Framework-V3.2-Canonical](https://github.com/badbugsarts-hue/UIDT-Framework-V3.2-Canonical/releases/tag/3.5.6) – `3.5.6` (📅 2025-12-09)  
-  🔗 [Release Notes](https://github.com/badbugsarts-hue/UIDT-Framework-V3.2-Canonical/releases/tag/3.5.6)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1) – `v0.43.1` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1)
 
 ## 🔹 Edge-computing
-- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.1) – `v0.34.1` (📅 2025-12-08)  
-  🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.8) – `v4.1.8` (📅 2025-12-09)  
-  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.8)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.179) – `v0.8.179` (📅 2025-12-11)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.179)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
