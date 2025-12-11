@@ -7,11 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v5.3.1) – `v5.3.1` (📅 2025-12-05)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v5.3.1)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.178) – `v0.8.178` (📅 2025-12-05)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.178)
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
