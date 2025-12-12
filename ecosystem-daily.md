@@ -4,19 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QoroQuantum/divi](https://github.com/QoroQuantum/divi/releases/tag/v0.4.2) – `v0.4.2` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/QoroQuantum/divi/releases/tag/v0.4.2)
+- [JooNiv/QCut](https://github.com/JooNiv/QCut/releases/tag/v0.8.0) – `v0.8.0` (📅 2025-12-12)  
+  🔗 [Release Notes](https://github.com/JooNiv/QCut/releases/tag/v0.8.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.2) – `2.10.2` (📅 2025-12-11)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.2)
-- [leaningtech/webvm](https://github.com/leaningtech/webvm/releases/tag/ext2_image) – `ext2_image` (📅 2023-05-16)  
-  🔗 [Release Notes](https://github.com/leaningtech/webvm/releases/tag/ext2_image)
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21) – `v2.2.21` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.2.21)
+- [epam/Indigo](https://github.com/epam/Indigo/releases/tag/indigo-1.36.0) – `indigo-1.36.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/epam/Indigo/releases/tag/indigo-1.36.0)
+- [JupyterEverywhere/jupyterlite-extension](https://github.com/JupyterEverywhere/jupyterlite-extension/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-11-17)  
+  🔗 [Release Notes](https://github.com/JupyterEverywhere/jupyterlite-extension/releases/tag/v1.1.5)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
