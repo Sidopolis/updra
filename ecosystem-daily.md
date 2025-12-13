@@ -4,15 +4,13 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.4.12) – `v1.4.12` (📅 2025-12-13)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.4.12)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [epam/Indigo](https://github.com/epam/Indigo/releases/tag/indigo-1.36.0) – `indigo-1.36.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/epam/Indigo/releases/tag/indigo-1.36.0)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
