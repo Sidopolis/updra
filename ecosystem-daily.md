@@ -4,18 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.4.11) – `v1.4.11` (📅 2025-12-13)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.4.11)
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.4.12) – `v1.4.12` (📅 2025-12-13)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.4.12)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
-- [mushr00ma/cloud-simulations](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2) – `v2.4.0-alpha.2` (📅 2025-04-06)  
-  🔗 [Release Notes](https://github.com/mushr00ma/cloud-simulations/releases/tag/v2.4.0-alpha.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [jetli/yew-hooks](https://github.com/jetli/yew-hooks/releases/tag/v0.3.4) – `v0.3.4` (📅 2025-08-02)  
-  🔗 [Release Notes](https://github.com/jetli/yew-hooks/releases/tag/v0.3.4)
+- [epam/Indigo](https://github.com/epam/Indigo/releases/tag/indigo-1.36.0) – `indigo-1.36.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/epam/Indigo/releases/tag/indigo-1.36.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
