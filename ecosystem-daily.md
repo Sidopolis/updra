@@ -10,7 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [pulseengine/rules_wasm_component](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-07-24)  
+  🔗 [Release Notes](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
