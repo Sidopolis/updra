@@ -4,15 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [AdrianLipa90/CIEL-Omega-General-Quantum-Consciousness](https://github.com/AdrianLipa90/CIEL-Omega-General-Quantum-Consciousness/releases/tag/shyCLI) – `shyCLI` (📅 2025-12-13)  
+  🔗 [Release Notes](https://github.com/AdrianLipa90/CIEL-Omega-General-Quantum-Consciousness/releases/tag/shyCLI)
 
 ## 🔹 Edge-computing
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.217) – `v4.0.217` (📅 2025-12-12)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.217)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
