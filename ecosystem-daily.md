@@ -4,15 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QuantumSavory/QuantumSavory.jl](https://github.com/QuantumSavory/QuantumSavory.jl/releases/tag/v0.5.1) – `v0.5.1` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/QuantumSavory/QuantumSavory.jl/releases/tag/v0.5.1)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.179) – `v0.8.179` (📅 2025-12-11)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.179)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
