@@ -10,10 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.8.0) – `0.8.0` (📅 2025-11-08)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.8.0)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.14) – `v0.5.14` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.14)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
