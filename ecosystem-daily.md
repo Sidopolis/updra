@@ -4,22 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [EpifaniosK/votranh-omniverse-loeh-omega](https://github.com/EpifaniosK/votranh-omniverse-loeh-omega/releases/tag/2.6.3-beta.2) – `2.6.3-beta.2` (📅 2025-04-04)  
-  🔗 [Release Notes](https://github.com/EpifaniosK/votranh-omniverse-loeh-omega/releases/tag/2.6.3-beta.2)
-- [qBraid/pyqasm](https://github.com/qBraid/pyqasm/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-19)  
-  🔗 [Release Notes](https://github.com/qBraid/pyqasm/releases/tag/v1.0.0)
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.102) – `v0.0.102` (📅 2025-12-14)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.102)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-11-30)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v2.0.0)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
