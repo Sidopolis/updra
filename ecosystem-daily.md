@@ -1,25 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2025-12-15
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [EpifaniosK/votranh-omniverse-loeh-omega](https://github.com/EpifaniosK/votranh-omniverse-loeh-omega/releases/tag/2.6.3-beta.2) – `2.6.3-beta.2` (📅 2025-04-04)  
+  🔗 [Release Notes](https://github.com/EpifaniosK/votranh-omniverse-loeh-omega/releases/tag/2.6.3-beta.2)
+- [qBraid/pyqasm](https://github.com/qBraid/pyqasm/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-19)  
+  🔗 [Release Notes](https://github.com/qBraid/pyqasm/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
-- [kashabe/Azeerc-AI](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2) – `v1.0.4-beta.2` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/kashabe/Azeerc-AI/releases/tag/v1.0.4-beta.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [RibirX/Ribir](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0) – `ribir-v0.3.0` (📅 2024-08-26)  
-  🔗 [Release Notes](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0)
-- [kubewarden/kwctl](https://github.com/kubewarden/kwctl/releases/tag/v1.31.0) – `v1.31.0` (📅 2025-11-24)  
-  🔗 [Release Notes](https://github.com/kubewarden/kwctl/releases/tag/v1.31.0)
+- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-11-30)  
+  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v2.0.0)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
