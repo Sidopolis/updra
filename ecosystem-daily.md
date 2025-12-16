@@ -4,15 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Quantinuum/hugr](https://github.com/Quantinuum/hugr/releases/tag/hugr-py-v0.14.4) – `hugr-py-v0.14.4` (📅 2025-11-26)  
-  🔗 [Release Notes](https://github.com/Quantinuum/hugr/releases/tag/hugr-py-v0.14.4)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [rulego/streamsql](https://github.com/rulego/streamsql/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-08-08)  
+  🔗 [Release Notes](https://github.com/rulego/streamsql/releases/tag/v0.10.2)
+
 ## 🔹 Webassembly
-- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.4.1) – `v3.4.1` (📅 2025-11-08)  
-  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.4.1)
+- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.22) – `v3.3.22` (📅 2025-11-07)  
+  🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.22)
+- [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm/releases/tag/v1.31.0) – `v1.31.0` (📅 2025-09-26)  
+  🔗 [Release Notes](https://github.com/duckdb/duckdb-wasm/releases/tag/v1.31.0)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
