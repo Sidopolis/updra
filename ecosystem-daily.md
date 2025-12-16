@@ -4,17 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [munich-quantum-toolkit/qmap](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.4.0) – `v3.4.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.4.0)
 
 ## 🔹 Edge-computing
-- [rulego/streamsql](https://github.com/rulego/streamsql/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-08-08)  
-  🔗 [Release Notes](https://github.com/rulego/streamsql/releases/tag/v0.10.2)
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.1) – `v0.9.1` (📅 2025-09-26)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.1)
 
 ## 🔹 Webassembly
-- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.22) – `v3.3.22` (📅 2025-11-07)  
-  🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.22)
-- [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm/releases/tag/v1.31.0) – `v1.31.0` (📅 2025-09-26)  
-  🔗 [Release Notes](https://github.com/duckdb/duckdb-wasm/releases/tag/v1.31.0)
+- [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm/releases/tag/v1.32.0) – `v1.32.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/duckdb/duckdb-wasm/releases/tag/v1.32.0)
+- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346) – `v4.251121.1346` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346)
+- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.9.3) – `v1.9.3` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.9.3)
 
 ## 🔹 Green-software
 - [Sgtbermido1/Green-AI-Resources](https://github.com/Sgtbermido1/Green-AI-Resources/releases/tag/v2.0) – `v2.0` (📅 2025-02-12)  
