@@ -4,17 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1) – `v0.43.1` (📅 2025-11-06)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.1)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [richarc/qx](https://github.com/richarc/qx/releases/tag/v0.2.3) – `v0.2.3` (📅 2025-12-14)  
+  🔗 [Release Notes](https://github.com/richarc/qx/releases/tag/v0.2.3)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [larsid/netfl](https://github.com/larsid/netfl/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/larsid/netfl/releases/tag/v1.4.0)
 
 ## 🔹 Webassembly
-- [unoplatform/Uno.Wasm.Bootstrap](https://github.com/unoplatform/Uno.Wasm.Bootstrap/releases/tag/9.0.3) – `9.0.3` (📅 2024-10-31)  
-  🔗 [Release Notes](https://github.com/unoplatform/Uno.Wasm.Bootstrap/releases/tag/9.0.3)
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.3) – `2.10.3` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.3)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.1) – `0.57.1` (📅 2025-12-16)  
