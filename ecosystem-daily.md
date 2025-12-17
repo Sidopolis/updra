@@ -1,8 +1,7 @@
 # 🌐 Ecosystem Daily Log – 2025-12-17
 
 ## 🔹 Ai-ethics
-- [KvFxKaido/Sovwren](https://github.com/KvFxKaido/Sovwren/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/KvFxKaido/Sovwren/releases/tag/v0.1.0)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -10,14 +9,16 @@
 ## 🔹 Edge-computing
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.1) – `v2.3.1` (📅 2025-11-21)  
-  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.1)
+- [implyinfer/jetson-orin-nano-field-kit](https://github.com/implyinfer/jetson-orin-nano-field-kit/releases/tag/release-v1) – `release-v1` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/implyinfer/jetson-orin-nano-field-kit/releases/tag/release-v1)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
-- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-11-27)  
-  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1)
-- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/jupyterlite/jupyterlite/releases/tag/v0.7.1)
+- [bytecodealliance/vscode-wit](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.21) – `wit-idl-v0.3.21` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.21)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.1) – `0.57.1` (📅 2025-12-16)  
