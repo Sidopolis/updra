@@ -1,28 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2025-12-17
 
 ## 🔹 Ai-ethics
-- [KvFxKaido/Sovwren](https://github.com/KvFxKaido/Sovwren/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/KvFxKaido/Sovwren/releases/tag/v1.1.0)
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
-- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- No recent releases found.
 
 ## 🔹 Edge-computing
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22) – `1.47.22` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22)
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [make87/make87](https://github.com/make87/make87/releases/tag/v0.0.36) – `v0.0.36` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/make87/make87/releases/tag/v0.0.36)
 
 ## 🔹 Webassembly
-- [onecoolx/picasso](https://github.com/onecoolx/picasso/releases/tag/v2.8.0) – `v2.8.0` (📅 2024-07-16)  
-  🔗 [Release Notes](https://github.com/onecoolx/picasso/releases/tag/v2.8.0)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [TOPLLab/WARDuino](https://github.com/TOPLLab/WARDuino/releases/tag/v0.7.2) – `v0.7.2` (📅 2025-12-03)  
+  🔗 [Release Notes](https://github.com/TOPLLab/WARDuino/releases/tag/v0.7.2)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.1) – `0.57.1` (📅 2025-12-16)  
