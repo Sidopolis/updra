@@ -1,22 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2025-12-17
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.104) – `v0.0.104` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.104)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [AppSolves/LanePilot](https://github.com/AppSolves/LanePilot/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-24)  
-  🔗 [Release Notes](https://github.com/AppSolves/LanePilot/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
-- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.47.0) – `v2.47.0` (📅 2025-12-02)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.47.0)
+- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-12-06)  
+  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.6.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
