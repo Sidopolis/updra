@@ -1,26 +1,27 @@
 # 🌐 Ecosystem Daily Log – 2025-12-17
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [cloudpedagogy/ai-capability-framework](https://github.com/cloudpedagogy/ai-capability-framework/releases/tag/v1.2) – `v1.2` (📅 2025-12-10)  
+  🔗 [Release Notes](https://github.com/cloudpedagogy/ai-capability-framework/releases/tag/v1.2)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.3) – `v2.12.3` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.3)
+- [make87/make87](https://github.com/make87/make87/releases/tag/v0.0.38) – `v0.0.38` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/make87/make87/releases/tag/v0.0.38)
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.8) – `v1.17.8` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.8)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
-- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.4.42) – `6.4.42` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.4.42)
-- [klippa-app/go-libtiff](https://github.com/klippa-app/go-libtiff/releases/tag/v0.0.10) – `v0.0.10` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/klippa-app/go-libtiff/releases/tag/v0.0.10)
+- No recent releases found.
 
 ## 🔹 Green-software
+- [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.6.1)
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.1) – `0.57.1` (📅 2025-12-16)  
   🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.1)
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
   🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4)
