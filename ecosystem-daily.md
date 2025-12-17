@@ -1,30 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2025-12-17
 
 ## 🔹 Ai-ethics
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- [KvFxKaido/Myth-Engine](https://github.com/KvFxKaido/Myth-Engine/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/KvFxKaido/Myth-Engine/releases/tag/v0.1.0)
 
 ## 🔹 Quantum-computing
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
-- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.2) – `v6.2.2` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [arianrhodsandlot/nostalgist](https://github.com/arianrhodsandlot/nostalgist/releases/tag/v0.19.0) – `v0.19.0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/arianrhodsandlot/nostalgist/releases/tag/v0.19.0)
-- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-11-27)  
-  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1)
-- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.180) – `v0.8.180` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.180)
+- [wasm-fmt/wasm-fmt-vscode](https://github.com/wasm-fmt/wasm-fmt-vscode/releases/tag/v0.5.2) – `v0.5.2` (📅 2024-12-10)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/wasm-fmt-vscode/releases/tag/v0.5.2)
+- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
+  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.1) – `0.57.1` (📅 2025-12-16)  
