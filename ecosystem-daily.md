@@ -1,23 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2025-12-17
 
 ## 🔹 Ai-ethics
-- [KvFxKaido/Myth-Engine](https://github.com/KvFxKaido/Myth-Engine/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/KvFxKaido/Myth-Engine/releases/tag/v0.1.0)
-
-## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- No recent releases found.
+
+## 🔹 Edge-computing
+- [implyinfer/jetson-orin-nano-field-kit](https://github.com/implyinfer/jetson-orin-nano-field-kit/releases/tag/release-v1) – `release-v1` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/implyinfer/jetson-orin-nano-field-kit/releases/tag/release-v1)
+
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.180) – `v0.8.180` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.180)
-- [wasm-fmt/wasm-fmt-vscode](https://github.com/wasm-fmt/wasm-fmt-vscode/releases/tag/v0.5.2) – `v0.5.2` (📅 2024-12-10)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/wasm-fmt-vscode/releases/tag/v0.5.2)
-- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
-  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
+- [ifilex/Freedows8Bit](https://github.com/ifilex/Freedows8Bit/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-08-26)  
+  🔗 [Release Notes](https://github.com/ifilex/Freedows8Bit/releases/tag/v1.2.0)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.14) – `v0.5.14` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.14)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.1) – `0.57.1` (📅 2025-12-16)  
