@@ -1,23 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2025-12-17
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22) – `1.47.22` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [TOPLLab/WARDuino](https://github.com/TOPLLab/WARDuino/releases/tag/v0.7.2) – `v0.7.2` (📅 2025-12-03)  
-  🔗 [Release Notes](https://github.com/TOPLLab/WARDuino/releases/tag/v0.7.2)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.4.42) – `6.4.42` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.4.42)
+- [klippa-app/go-libtiff](https://github.com/klippa-app/go-libtiff/releases/tag/v0.0.10) – `v0.0.10` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/klippa-app/go-libtiff/releases/tag/v0.0.10)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.1) – `0.57.1` (📅 2025-12-16)  
