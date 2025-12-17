@@ -1,22 +1,28 @@
 # 🌐 Ecosystem Daily Log – 2025-12-17
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [KvFxKaido/Sovwren](https://github.com/KvFxKaido/Sovwren/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/KvFxKaido/Sovwren/releases/tag/v1.1.0)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
+- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.2) – `v2.12.2` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [make87/make87](https://github.com/make87/make87/releases/tag/v0.0.36) – `v0.0.36` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/make87/make87/releases/tag/v0.0.36)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
-- [use-ink/ink](https://github.com/use-ink/ink/releases/tag/v5.1.1) – `v5.1.1` (📅 2024-12-04)  
-  🔗 [Release Notes](https://github.com/use-ink/ink/releases/tag/v5.1.1)
+- [onecoolx/picasso](https://github.com/onecoolx/picasso/releases/tag/v2.8.0) – `v2.8.0` (📅 2024-07-16)  
+  🔗 [Release Notes](https://github.com/onecoolx/picasso/releases/tag/v2.8.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.1) – `0.57.1` (📅 2025-12-16)  
