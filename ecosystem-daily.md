@@ -1,22 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2025-12-18
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
-- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.94.0) – `@stlite/browser@0.94.0` (📅 2025-12-03)  
-  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.94.0)
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-11-27)  
+  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.2) – `0.57.2` (📅 2025-12-17)  
