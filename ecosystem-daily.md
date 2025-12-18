@@ -1,22 +1,31 @@
-# 🌐 Ecosystem Daily Log – 2025-12-17
+# 🌐 Ecosystem Daily Log – 2025-12-18
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
-- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
-- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
+- [QuantumSavory/QuantumClifford.jl](https://github.com/QuantumSavory/QuantumClifford.jl/releases/tag/v0.10.1) – `v0.10.1` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/QuantumSavory/QuantumClifford.jl/releases/tag/v0.10.1)
 
 ## 🔹 Edge-computing
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.7.1) – `1.7.1` (📅 2025-12-10)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.7.1)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0) – `v10.1.0` (📅 2025-12-02)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.0)
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-11-27)  
+  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1)
 
 ## 🔹 Green-software
-- No recent releases found.
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.2) – `0.57.2` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.2)
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
+- [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0)
