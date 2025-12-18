@@ -4,22 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [dwavesystems/dwave-ocean-sdk](https://github.com/dwavesystems/dwave-ocean-sdk/releases/tag/9.2.0) – `9.2.0` (📅 2025-12-11)  
-  🔗 [Release Notes](https://github.com/dwavesystems/dwave-ocean-sdk/releases/tag/9.2.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [eclipse-leda/leda-distro](https://github.com/eclipse-leda/leda-distro/releases/tag/v0.1.0-M3) – `v0.1.0-M3` (📅 2023-11-20)  
-  🔗 [Release Notes](https://github.com/eclipse-leda/leda-distro/releases/tag/v0.1.0-M3)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
+- [muditbhargava66/Advanced-Image-Sensor-Interface](https://github.com/muditbhargava66/Advanced-Image-Sensor-Interface/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-08-10)  
+  🔗 [Release Notes](https://github.com/muditbhargava66/Advanced-Image-Sensor-Interface/releases/tag/v2.0.0)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.182) – `v0.8.182` (📅 2025-12-18)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.182)
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.3) – `2.10.3` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.3)
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.183) – `v0.8.183` (📅 2025-12-18)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.183)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
+- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.47.0) – `v2.47.0` (📅 2025-12-02)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.47.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.2) – `0.57.2` (📅 2025-12-17)  
