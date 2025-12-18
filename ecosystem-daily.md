@@ -10,12 +10,7 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
-- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-11-27)  
-  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.2) – `0.57.2` (📅 2025-12-17)  
