@@ -4,22 +4,23 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.1) – `1.7.1` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.1)
+- [make87/make87](https://github.com/make87/make87/releases/tag/v0.0.39) – `v0.0.39` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/make87/make87/releases/tag/v0.0.39)
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.1) – `v0.9.1` (📅 2025-09-26)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.1)
 
 ## 🔹 Webassembly
-- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.94.0) – `@stlite/browser@0.94.0` (📅 2025-12-03)  
-  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.94.0)
-- [hpcc-systems/hpcc-js-wasm](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.30.0) – `wasm-v2.30.0` (📅 2025-12-11)  
-  🔗 [Release Notes](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.30.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
+- [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
+  🔗 [Release Notes](https://github.com/kube-green/kube-green/releases/tag/v0.7.1)
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.2) – `0.57.2` (📅 2025-12-17)  
   🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.57.2)
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
   🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
-- [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0)
