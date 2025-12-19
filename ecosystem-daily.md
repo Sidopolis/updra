@@ -4,17 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qilimanjaro-tech/qilisdk](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.7) – `0.1.7` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.7)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.20) – `v0.0.20` (📅 2025-12-10)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.20)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22) – `1.47.22` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22)
+
 ## 🔹 Webassembly
-- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/12.2.0) – `12.2.0` (📅 2025-12-18)  
-  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/12.2.0)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.8) – `v4.1.8` (📅 2025-12-09)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.8)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
