@@ -4,24 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
-- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
+- [TuringQ/deepquantum](https://github.com/TuringQ/deepquantum/releases/tag/v4.4.0) – `v4.4.0` (📅 2025-09-30)  
+  🔗 [Release Notes](https://github.com/TuringQ/deepquantum/releases/tag/v4.4.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.2) – `v6.2.2` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.2)
+- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.1) – `v1.22.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.1)
 
 ## 🔹 Webassembly
-- [Sec-ant/zxing-wasm](https://github.com/Sec-ant/zxing-wasm/releases/tag/v2.2.4) – `v2.2.4` (📅 2025-11-18)  
-  🔗 [Release Notes](https://github.com/Sec-ant/zxing-wasm/releases/tag/v2.2.4)
-- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-11-27)  
-  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1)
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.4) – `v10.1.4` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.4)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.190) – `v0.8.190` (📅 2025-12-18)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.190)
+- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/mvg1) – `mvg1` (📅 2025-12-18)  
+  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/mvg1)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
