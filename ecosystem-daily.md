@@ -7,14 +7,15 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [make87/make87](https://github.com/make87/make87/releases/tag/v0.0.40) – `v0.0.40` (📅 2025-12-18)  
-  🔗 [Release Notes](https://github.com/make87/make87/releases/tag/v0.0.40)
+- No recent releases found.
 
 ## 🔹 Webassembly
 - [doublegate/RustyNES](https://github.com/doublegate/RustyNES/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-12-19)  
   🔗 [Release Notes](https://github.com/doublegate/RustyNES/releases/tag/v0.4.0)
-- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.4.42) – `6.4.42` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.4.42)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.1) – `v39.0.1` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v39.0.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
