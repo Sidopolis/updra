@@ -4,20 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [TuringQ/deepquantum](https://github.com/TuringQ/deepquantum/releases/tag/v4.4.0) – `v4.4.0` (📅 2025-09-30)  
-  🔗 [Release Notes](https://github.com/TuringQ/deepquantum/releases/tag/v4.4.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.2) – `v6.2.2` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.2)
-- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.1) – `v1.22.1` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.190) – `v0.8.190` (📅 2025-12-18)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.190)
-- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/mvg1) – `mvg1` (📅 2025-12-18)  
-  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/mvg1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
+- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
