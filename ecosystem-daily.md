@@ -4,18 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.21) – `v0.0.21` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.21)
+- [make87/make87](https://github.com/make87/make87/releases/tag/v0.0.40) – `v0.0.40` (📅 2025-12-18)  
+  🔗 [Release Notes](https://github.com/make87/make87/releases/tag/v0.0.40)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
-- [gioui-plugins/gio-plugins](https://github.com/gioui-plugins/gio-plugins/releases/tag/v0.9.1) – `v0.9.1` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/gioui-plugins/gio-plugins/releases/tag/v0.9.1)
+- [doublegate/RustyNES](https://github.com/doublegate/RustyNES/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/doublegate/RustyNES/releases/tag/v0.4.0)
+- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.4.42) – `6.4.42` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.4.42)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
