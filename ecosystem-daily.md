@@ -4,21 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.20) – `v0.0.20` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.20)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
-- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.94.0) – `@stlite/browser@0.94.0` (📅 2025-12-03)  
-  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.94.0)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.3) – `2.10.3` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.3)
+- [onecoolx/picasso](https://github.com/onecoolx/picasso/releases/tag/v2.8.0) – `v2.8.0` (📅 2024-07-16)  
+  🔗 [Release Notes](https://github.com/onecoolx/picasso/releases/tag/v2.8.0)
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-11-27)  
+  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.7.1)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
