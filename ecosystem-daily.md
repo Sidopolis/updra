@@ -4,14 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [qilimanjaro-tech/qilisdk](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.7) – `0.1.7` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.7)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/12.2.0) – `12.2.0` (📅 2025-12-18)  
+  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/12.2.0)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
