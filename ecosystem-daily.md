@@ -7,13 +7,12 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
+- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346) – `v4.251121.1346` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
