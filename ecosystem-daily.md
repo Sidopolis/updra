@@ -1,8 +1,7 @@
 # 🌐 Ecosystem Daily Log – 2025-12-20
 
 ## 🔹 Ai-ethics
-- [Tamplier/llm_safety_guardian](https://github.com/Tamplier/llm_safety_guardian/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/Tamplier/llm_safety_guardian/releases/tag/v0.1.3)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -11,10 +10,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.9.6) – `v1.9.6` (📅 2025-12-14)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.9.6)
-- [pannous/wasp](https://github.com/pannous/wasp/releases/tag/release-2025-07-10) – `release-2025-07-10` (📅 2025-07-10)  
-  🔗 [Release Notes](https://github.com/pannous/wasp/releases/tag/release-2025-07-10)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.8) – `v4.1.8` (📅 2025-12-09)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.8)
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-12-01)  
+  🔗 [Release Notes](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.1)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
