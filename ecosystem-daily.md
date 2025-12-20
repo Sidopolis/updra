@@ -1,19 +1,18 @@
 # 🌐 Ecosystem Daily Log – 2025-12-20
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.4.21) – `v1.4.21` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.4.21)
+
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.4) – `v10.1.4` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.4)
 - [wasm-fmt/clang-format](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.6) – `v21.1.6` (📅 2025-11-24)  
   🔗 [Release Notes](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.6)
 
