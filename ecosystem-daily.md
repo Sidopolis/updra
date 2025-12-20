@@ -7,13 +7,12 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.1.8) – `v4.1.8` (📅 2025-12-09)  
-  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.1.8)
-- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-12-01)  
-  🔗 [Release Notes](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
