@@ -4,17 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/debugger](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+
 ## 🔹 Webassembly
-- [bilibili/web-demuxer](https://github.com/bilibili/web-demuxer/releases/tag/4.0.0) – `4.0.0` (📅 2025-12-20)  
-  🔗 [Release Notes](https://github.com/bilibili/web-demuxer/releases/tag/4.0.0)
-- [doublegate/RustyNES](https://github.com/doublegate/RustyNES/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/doublegate/RustyNES/releases/tag/v0.4.0)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- [doublegate/RustyNES](https://github.com/doublegate/RustyNES/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-12-20)  
+  🔗 [Release Notes](https://github.com/doublegate/RustyNES/releases/tag/v0.5.0)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.37.0) – `0.37.0` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.37.0)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
