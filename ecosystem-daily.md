@@ -10,10 +10,12 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
+- [CharlieTap/chasm](https://github.com/CharlieTap/chasm/releases/tag/1.2.0) – `1.2.0` (📅 2025-10-11)  
+  🔗 [Release Notes](https://github.com/CharlieTap/chasm/releases/tag/1.2.0)
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
-- [pannous/wasp](https://github.com/pannous/wasp/releases/tag/release-2025-07-10) – `release-2025-07-10` (📅 2025-07-10)  
-  🔗 [Release Notes](https://github.com/pannous/wasp/releases/tag/release-2025-07-10)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
