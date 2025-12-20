@@ -4,16 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [badbugsarts-hue/UIDT-Framework-V3.2-Canonical](https://github.com/badbugsarts-hue/UIDT-Framework-V3.2-Canonical/releases/tag/3.6) – `3.6` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/badbugsarts-hue/UIDT-Framework-V3.2-Canonical/releases/tag/3.6)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rulego/streamsql](https://github.com/rulego/streamsql/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-08-08)  
+  🔗 [Release Notes](https://github.com/rulego/streamsql/releases/tag/v0.10.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.511) – `v4.0.511` (📅 2025-12-20)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.511)
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.234) – `v4.0.234` (📅 2025-12-20)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.234)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
