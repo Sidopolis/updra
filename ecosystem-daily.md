@@ -7,16 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [letoille/AxonMQ](https://github.com/letoille/AxonMQ/releases/tag/0.2.2) – `0.2.2` (📅 2025-11-23)  
-  🔗 [Release Notes](https://github.com/letoille/AxonMQ/releases/tag/0.2.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [letoille/AxonMQ](https://github.com/letoille/AxonMQ/releases/tag/0.2.2) – `0.2.2` (📅 2025-11-23)  
-  🔗 [Release Notes](https://github.com/letoille/AxonMQ/releases/tag/0.2.2)
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.237) – `v4.0.237` (📅 2025-12-21)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.237)
-- [pannous/wasp](https://github.com/pannous/wasp/releases/tag/release-2025-07-10) – `release-2025-07-10` (📅 2025-07-10)  
-  🔗 [Release Notes](https://github.com/pannous/wasp/releases/tag/release-2025-07-10)
+- [ThanhNguyxn/vietflux-ime](https://github.com/ThanhNguyxn/vietflux-ime/releases/tag/v1.0.3) – `v1.0.3` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/ThanhNguyxn/vietflux-ime/releases/tag/v1.0.3)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.238) – `v4.0.238` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.238)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.58.1) – `0.58.1` (📅 2025-12-20)  
