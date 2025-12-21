@@ -4,14 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [munich-quantum-toolkit/ddvis](https://github.com/munich-quantum-toolkit/ddvis/releases/tag/v1.8.0) – `v1.8.0` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/ddvis/releases/tag/v1.8.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.221) – `v4.0.221` (📅 2025-12-21)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.221)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
