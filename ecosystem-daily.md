@@ -10,8 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [pannous/wasp](https://github.com/pannous/wasp/releases/tag/release-2025-07-10) – `release-2025-07-10` (📅 2025-07-10)  
-  🔗 [Release Notes](https://github.com/pannous/wasp/releases/tag/release-2025-07-10)
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.221) – `v4.0.221` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.221)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
