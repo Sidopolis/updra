@@ -4,16 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.34.0) – `vm6502q.v9.34.0` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.34.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.8) – `v1.17.8` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.8)
 
 ## 🔹 Webassembly
-- [ThanhNguyxn/vietflux-ime](https://github.com/ThanhNguyxn/vietflux-ime/releases/tag/v1.0.3) – `v1.0.3` (📅 2025-12-21)  
-  🔗 [Release Notes](https://github.com/ThanhNguyxn/vietflux-ime/releases/tag/v1.0.3)
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.238) – `v4.0.238` (📅 2025-12-21)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.238)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.58.1) – `0.58.1` (📅 2025-12-20)  
