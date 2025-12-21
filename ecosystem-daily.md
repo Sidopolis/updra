@@ -1,19 +1,17 @@
-# 🌐 Ecosystem Daily Log – 2025-12-20
+# 🌐 Ecosystem Daily Log – 2025-12-21
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.58.1) – `0.58.1` (📅 2025-12-20)  
