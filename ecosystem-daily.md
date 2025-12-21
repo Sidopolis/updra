@@ -4,7 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.5.2) – `v1.5.2` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.5.2)
 
 ## 🔹 Edge-computing
 - No recent releases found.
