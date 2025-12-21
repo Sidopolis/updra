@@ -4,17 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qiskit-community/qiskit-metal](https://github.com/qiskit-community/qiskit-metal/releases/tag/v0.5.2.post4) – `v0.5.2.post4` (📅 2025-12-12)  
-  🔗 [Release Notes](https://github.com/qiskit-community/qiskit-metal/releases/tag/v0.5.2.post4)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.8) – `v1.17.8` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.8)
 
 ## 🔹 Webassembly
 - [pannous/wasp](https://github.com/pannous/wasp/releases/tag/release-2025-07-10) – `release-2025-07-10` (📅 2025-07-10)  
   🔗 [Release Notes](https://github.com/pannous/wasp/releases/tag/release-2025-07-10)
+- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.9.6) – `v1.9.6` (📅 2025-12-14)  
+  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.9.6)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
