@@ -1,24 +1,24 @@
 # 🌐 Ecosystem Daily Log – 2025-12-21
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.33.0) – `vm6502q.v9.33.0` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.33.0)
-- [munich-quantum-toolkit/qcec](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.3.0) – `v3.3.0` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.3.0)
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.106) – `v0.0.106` (📅 2025-12-18)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.106)
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.5.1) – `v1.5.1` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.5.1)
 
 ## 🔹 Edge-computing
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.2) – `v6.2.2` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.2)
-- [rulego/streamsql](https://github.com/rulego/streamsql/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-08-08)  
-  🔗 [Release Notes](https://github.com/rulego/streamsql/releases/tag/v0.10.2)
+- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.35.0) – `v0.35.0` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.35.0)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.221) – `v4.0.221` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.221)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.58.1) – `0.58.1` (📅 2025-12-20)  
