@@ -1,24 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2025-12-21
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.106) – `v0.0.106` (📅 2025-12-18)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.106)
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.5.1) – `v1.5.1` (📅 2025-12-21)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.5.1)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.35.0) – `v0.35.0` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.35.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.221) – `v4.0.221` (📅 2025-12-21)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.221)
+- [paulocoutinhox/pdfium-lib](https://github.com/paulocoutinhox/pdfium-lib/releases/tag/7442c) – `7442c` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/paulocoutinhox/pdfium-lib/releases/tag/7442c)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.235) – `v4.0.235` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.235)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.58.1) – `0.58.1` (📅 2025-12-20)  
