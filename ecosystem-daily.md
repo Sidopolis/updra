@@ -4,18 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Quantinuum/tket2](https://github.com/Quantinuum/tket2/releases/tag/tket-py-v0.12.13) – `tket-py-v0.12.13` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/Quantinuum/tket2/releases/tag/tket-py-v0.12.13)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence/releases/tag/%40evidence-dev/component-utilities%404.0.11) – `@evidence-dev/component-utilities@4.0.11` (📅 2025-11-15)  
+  🔗 [Release Notes](https://github.com/evidence-dev/evidence/releases/tag/%40evidence-dev/component-utilities%404.0.11)
 - [usnistgov/h5wasm](https://github.com/usnistgov/h5wasm/releases/tag/v0.8.8) – `v0.8.8` (📅 2025-11-13)  
   🔗 [Release Notes](https://github.com/usnistgov/h5wasm/releases/tag/v0.8.8)
-- [RibirX/Ribir](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0) – `ribir-v0.3.0` (📅 2024-08-26)  
-  🔗 [Release Notes](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
