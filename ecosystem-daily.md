@@ -10,7 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
