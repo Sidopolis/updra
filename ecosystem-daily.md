@@ -1,4 +1,4 @@
-# 🌐 Ecosystem Daily Log – 2025-12-21
+# 🌐 Ecosystem Daily Log – 2025-12-22
 
 ## 🔹 Ai-ethics
 - No recent releases found.
@@ -10,8 +10,12 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
+- [Arbath/xtuml-compiler](https://github.com/Arbath/xtuml-compiler/releases/tag/v0.1.1) – `v0.1.1` (📅 2025-12-22)  
+  🔗 [Release Notes](https://github.com/Arbath/xtuml-compiler/releases/tag/v0.1.1)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.239) – `v4.0.239` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.239)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
