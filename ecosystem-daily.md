@@ -10,12 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [Arbath/xtuml-compiler](https://github.com/Arbath/xtuml-compiler/releases/tag/v0.1.1) – `v0.1.1` (📅 2025-12-22)  
-  🔗 [Release Notes](https://github.com/Arbath/xtuml-compiler/releases/tag/v0.1.1)
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.239) – `v4.0.239` (📅 2025-12-21)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.239)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
