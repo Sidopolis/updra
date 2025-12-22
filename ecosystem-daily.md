@@ -7,11 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
+- [wasm-fmt/clang-format](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.7) – `v21.1.7` (📅 2025-12-20)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.7)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.4) – `v10.1.4` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.4)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
