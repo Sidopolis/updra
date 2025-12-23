@@ -1,8 +1,7 @@
 # 🌐 Ecosystem Daily Log – 2025-12-23
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -11,8 +10,6 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.2.0) – `v4.2.0` (📅 2025-12-23)  
-  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.2.0)
 - [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
   🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
 
