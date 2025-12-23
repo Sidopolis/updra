@@ -4,16 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/workflows](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.17.7) – `v1.17.7` (📅 2025-12-23)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.17.7)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
+- [elias-utf8/qcaml](https://github.com/elias-utf8/qcaml/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-12-13)  
+  🔗 [Release Notes](https://github.com/elias-utf8/qcaml/releases/tag/v0.1.5)
 
 ## 🔹 Edge-computing
-- [unieojs/unieo](https://github.com/unieojs/unieo/releases/tag/v1.7.2) – `v1.7.2` (📅 2025-12-23)  
-  🔗 [Release Notes](https://github.com/unieojs/unieo/releases/tag/v1.7.2)
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.3)
 
 ## 🔹 Webassembly
-- [ThanhNguyxn/vietflux-ime](https://github.com/ThanhNguyxn/vietflux-ime/releases/tag/v1.0.19) – `v1.0.19` (📅 2025-12-22)  
-  🔗 [Release Notes](https://github.com/ThanhNguyxn/vietflux-ime/releases/tag/v1.0.19)
+- [Wasted-Audio/hvcc](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.15.0) – `v0.15.0` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/Wasted-Audio/hvcc/releases/tag/v0.15.0)
+- [SamChou19815/samlang](https://github.com/SamChou19815/samlang/releases/tag/v0.10.1) – `v0.10.1` (📅 2024-02-25)  
+  🔗 [Release Notes](https://github.com/SamChou19815/samlang/releases/tag/v0.10.1)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
