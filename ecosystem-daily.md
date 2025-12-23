@@ -1,23 +1,18 @@
 # 🌐 Ecosystem Daily Log – 2025-12-23
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.3)
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.3)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [TheBestTvarynka/crypto-helper](https://github.com/TheBestTvarynka/crypto-helper/releases/tag/v.0.16.0) – `v.0.16.0` (📅 2025-12-11)  
-  🔗 [Release Notes](https://github.com/TheBestTvarynka/crypto-helper/releases/tag/v.0.16.0)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.2.0) – `v4.2.0` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.2.0)
 - [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
   🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
 
