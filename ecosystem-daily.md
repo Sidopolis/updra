@@ -4,20 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [badbugsarts-hue/UIDT-Framework-V3.2-Canonical](https://github.com/badbugsarts-hue/UIDT-Framework-V3.2-Canonical/releases/tag/3.6.1) – `3.6.1` (📅 2025-12-22)  
-  🔗 [Release Notes](https://github.com/badbugsarts-hue/UIDT-Framework-V3.2-Canonical/releases/tag/3.6.1)
+- [UCL-CCS/ferrmion](https://github.com/UCL-CCS/ferrmion/releases/tag/0.5.0) – `0.5.0` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/UCL-CCS/ferrmion/releases/tag/0.5.0)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
 
 ## 🔹 Edge-computing
-- [aws-greengrass/aws-greengrass-nucleus](https://github.com/aws-greengrass/aws-greengrass-nucleus/releases/tag/v2.16.0) – `v2.16.0` (📅 2025-11-07)  
-  🔗 [Release Notes](https://github.com/aws-greengrass/aws-greengrass-nucleus/releases/tag/v2.16.0)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [wazero/wazero](https://github.com/wazero/wazero/releases/tag/v1.11.0) – `v1.11.0` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/wazero/wazero/releases/tag/v1.11.0)
-- [ThanhNguyxn/vietflux-ime](https://github.com/ThanhNguyxn/vietflux-ime/releases/tag/v1.0.19) – `v1.0.19` (📅 2025-12-22)  
-  🔗 [Release Notes](https://github.com/ThanhNguyxn/vietflux-ime/releases/tag/v1.0.19)
+- [SamChou19815/samlang](https://github.com/SamChou19815/samlang/releases/tag/v0.10.1) – `v0.10.1` (📅 2024-02-25)  
+  🔗 [Release Notes](https://github.com/SamChou19815/samlang/releases/tag/v0.10.1)
+- [hyperpolymath/wagasm-ssg](https://github.com/hyperpolymath/wagasm-ssg/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/hyperpolymath/wagasm-ssg/releases/tag/v1.0.0)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
