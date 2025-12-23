@@ -4,17 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [zxcalc/pyzx](https://github.com/zxcalc/pyzx/releases/tag/v0.9.0) – `v0.9.0` (📅 2025-01-30)  
-  🔗 [Release Notes](https://github.com/zxcalc/pyzx/releases/tag/v0.9.0)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.2) – `v0.43.2` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.2)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.9.6) – `v1.9.6` (📅 2025-12-14)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.9.6)
-- [pannous/wasp](https://github.com/pannous/wasp/releases/tag/release-2025-07-10) – `release-2025-07-10` (📅 2025-07-10)  
-  🔗 [Release Notes](https://github.com/pannous/wasp/releases/tag/release-2025-07-10)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.0) – `v40.0.0` (📅 2025-12-22)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.0)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
