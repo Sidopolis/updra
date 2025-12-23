@@ -4,18 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [munich-quantum-toolkit/workflows](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.17.7) – `v1.17.7` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.17.7)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [unieojs/unieo](https://github.com/unieojs/unieo/releases/tag/v1.7.2) – `v1.7.2` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/unieojs/unieo/releases/tag/v1.7.2)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
-- [onecoolx/picasso](https://github.com/onecoolx/picasso/releases/tag/v2.8.0) – `v2.8.0` (📅 2024-07-16)  
-  🔗 [Release Notes](https://github.com/onecoolx/picasso/releases/tag/v2.8.0)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [ThanhNguyxn/vietflux-ime](https://github.com/ThanhNguyxn/vietflux-ime/releases/tag/v1.0.19) – `v1.0.19` (📅 2025-12-22)  
+  🔗 [Release Notes](https://github.com/ThanhNguyxn/vietflux-ime/releases/tag/v1.0.19)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
