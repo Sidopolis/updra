@@ -1,26 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2025-12-23
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
+- [zxcalc/pyzx](https://github.com/zxcalc/pyzx/releases/tag/v0.9.0) – `v0.9.0` (📅 2025-01-30)  
+  🔗 [Release Notes](https://github.com/zxcalc/pyzx/releases/tag/v0.9.0)
 
 ## 🔹 Edge-computing
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.8) – `v1.17.8` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.8)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.9.6) – `v1.9.6` (📅 2025-12-14)  
+  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.9.6)
+- [pannous/wasp](https://github.com/pannous/wasp/releases/tag/release-2025-07-10) – `release-2025-07-10` (📅 2025-07-10)  
+  🔗 [Release Notes](https://github.com/pannous/wasp/releases/tag/release-2025-07-10)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
