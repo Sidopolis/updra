@@ -1,4 +1,4 @@
-# 🌐 Ecosystem Daily Log – 2025-12-22
+# 🌐 Ecosystem Daily Log – 2025-12-23
 
 ## 🔹 Ai-ethics
 - No recent releases found.
@@ -7,11 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [good-lly/s3mini](https://github.com/good-lly/s3mini/releases/tag/v0.8.1) – `v0.8.1` (📅 2025-12-20)  
+  🔗 [Release Notes](https://github.com/good-lly/s3mini/releases/tag/v0.8.1)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
+- [goplus/xgolsw](https://github.com/goplus/xgolsw/releases/tag/v0.15.1) – `v0.15.1` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/goplus/xgolsw/releases/tag/v0.15.1)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
