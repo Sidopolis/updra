@@ -1,23 +1,17 @@
 # 🌐 Ecosystem Daily Log – 2025-12-24
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.5.7) – `v1.5.7` (📅 2025-12-24)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.5.7)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [qboson/kaiwu-pytorch-plugin](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.2) – `v0.0.2` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/qboson/kaiwu-pytorch-plugin/releases/tag/v0.0.2)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [aous72/OpenJPH](https://github.com/aous72/OpenJPH/releases/tag/0.26.0) – `0.26.0` (📅 2025-12-24)  
-  🔗 [Release Notes](https://github.com/aous72/OpenJPH/releases/tag/0.26.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
