@@ -7,16 +7,20 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [autopeer-io/autopeer](https://github.com/autopeer-io/autopeer/releases/tag/v0.1.0-alpha) – `v0.1.0-alpha` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/autopeer-io/autopeer/releases/tag/v0.1.0-alpha)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.2) – `v6.2.2` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.2)
+- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.1) – `v1.22.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.1)
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.7.1) – `1.7.1` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.7.1)
 
 ## 🔹 Webassembly
-- [wasm-fmt/ruff_fmt](https://github.com/wasm-fmt/ruff_fmt/releases/tag/v0.14.8) – `v0.14.8` (📅 2025-12-08)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/ruff_fmt/releases/tag/v0.14.8)
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.4) – `v10.1.4` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.4)
+- [arianrhodsandlot/nostalgist](https://github.com/arianrhodsandlot/nostalgist/releases/tag/v0.19.1) – `v0.19.1` (📅 2025-12-18)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/nostalgist/releases/tag/v0.19.1)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
