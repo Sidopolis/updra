@@ -4,15 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [sarumaj/qiskit-state-evolution-recorder](https://github.com/sarumaj/qiskit-state-evolution-recorder/releases/tag/v1.0.2) – `v1.0.2` (📅 2025-12-24)  
-  🔗 [Release Notes](https://github.com/sarumaj/qiskit-state-evolution-recorder/releases/tag/v1.0.2)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+
 ## 🔹 Webassembly
-- [konnektoren/konnektoren-rs](https://github.com/konnektoren/konnektoren-rs/releases/tag/v0.4.0) – `v0.4.0` (📅 2024-10-26)  
-  🔗 [Release Notes](https://github.com/konnektoren/konnektoren-rs/releases/tag/v0.4.0)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.2.1) – `v4.2.1` (📅 2025-12-24)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.2.1)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
