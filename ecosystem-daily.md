@@ -7,9 +7,16 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
+- [implyinfer/jetson-orin-nano-field-kit](https://github.com/implyinfer/jetson-orin-nano-field-kit/releases/tag/release-v2.1) – `release-v2.1` (📅 2025-12-24)  
+  🔗 [Release Notes](https://github.com/implyinfer/jetson-orin-nano-field-kit/releases/tag/release-v2.1)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
 
