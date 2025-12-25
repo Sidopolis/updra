@@ -4,14 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.108) – `v0.0.108` (📅 2025-12-23)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.108)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [jhpc-quantum/RIKEN-braket](https://github.com/jhpc-quantum/RIKEN-braket/releases/tag/v1.8.1) – `v1.8.1` (📅 2025-09-24)  
+  🔗 [Release Notes](https://github.com/jhpc-quantum/RIKEN-braket/releases/tag/v1.8.1)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
