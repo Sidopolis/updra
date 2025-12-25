@@ -7,9 +7,12 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
+- [tndrle/node-sqlite3-wasm](https://github.com/tndrle/node-sqlite3-wasm/releases/tag/v0.8.52) – `v0.8.52` (📅 2025-12-03)  
+  🔗 [Release Notes](https://github.com/tndrle/node-sqlite3-wasm/releases/tag/v0.8.52)
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
