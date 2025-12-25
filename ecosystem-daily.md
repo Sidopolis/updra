@@ -4,7 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.108) – `v0.0.108` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.108)
 
 ## 🔹 Edge-computing
 - No recent releases found.
