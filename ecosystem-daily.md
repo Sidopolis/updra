@@ -4,18 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [kn0sys/onq](https://github.com/kn0sys/onq/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-05-07)  
-  🔗 [Release Notes](https://github.com/kn0sys/onq/releases/tag/v0.4.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [Alpha-Legents/Q-SSP](https://github.com/Alpha-Legents/Q-SSP/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-12-25)  
+  🔗 [Release Notes](https://github.com/Alpha-Legents/Q-SSP/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [Aid-On/unillm](https://github.com/Aid-On/unillm/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-12-26)  
-  🔗 [Release Notes](https://github.com/Aid-On/unillm/releases/tag/v0.4.0)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 - [onecoolx/picasso](https://github.com/onecoolx/picasso/releases/tag/v2.8.0) – `v2.8.0` (📅 2024-07-16)  
   🔗 [Release Notes](https://github.com/onecoolx/picasso/releases/tag/v2.8.0)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.4) – `v10.1.4` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.4)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
