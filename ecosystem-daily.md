@@ -10,7 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
