@@ -10,7 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [doublegate/RustyNES](https://github.com/doublegate/RustyNES/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-12-25)  
+  🔗 [Release Notes](https://github.com/doublegate/RustyNES/releases/tag/v0.7.1)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
