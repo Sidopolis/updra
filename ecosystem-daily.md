@@ -10,8 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [jedisct1/wasm-crypto](https://github.com/jedisct1/wasm-crypto/releases/tag/0.0.15) – `0.0.15` (📅 2025-12-27)  
-  🔗 [Release Notes](https://github.com/jedisct1/wasm-crypto/releases/tag/0.0.15)
+- [yeicor/OCP.wasm](https://github.com/yeicor/OCP.wasm/releases/tag/v7.8.1.2) – `v7.8.1.2` (📅 2025-12-27)  
+  🔗 [Release Notes](https://github.com/yeicor/OCP.wasm/releases/tag/v7.8.1.2)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
