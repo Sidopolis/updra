@@ -7,11 +7,11 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [thomasvincent/terraform-cloudflare-maintenance](https://github.com/thomasvincent/terraform-cloudflare-maintenance/releases/tag/v3.0.0) – `v3.0.0` (📅 2025-10-04)  
+  🔗 [Release Notes](https://github.com/thomasvincent/terraform-cloudflare-maintenance/releases/tag/v3.0.0)
 
 ## 🔹 Webassembly
-- [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript/releases/tag/v0.28.9) – `v0.28.9` (📅 2025-10-18)  
-  🔗 [Release Notes](https://github.com/AssemblyScript/assemblyscript/releases/tag/v0.28.9)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
