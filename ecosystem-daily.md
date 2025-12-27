@@ -4,17 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [SyntheticBrains/nematode](https://github.com/SyntheticBrains/nematode/releases/tag/v1.5.0) – `v1.5.0` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/SyntheticBrains/nematode/releases/tag/v1.5.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
+- [wasm-fmt/web_fmt](https://github.com/wasm-fmt/web_fmt/releases/tag/v0.1.14) – `v0.1.14` (📅 2025-07-05)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/web_fmt/releases/tag/v0.1.14)
 - [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
   🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
