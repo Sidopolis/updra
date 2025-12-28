@@ -7,12 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [Premity/process-scheduling](https://github.com/Premity/process-scheduling/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-12-28)  
-  🔗 [Release Notes](https://github.com/Premity/process-scheduling/releases/tag/v1.0.0)
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.6) – `v1.0.6` (📅 2025-12-25)  
+  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.6)
+- [bates64/mamar](https://github.com/bates64/mamar/releases/tag/v1.0.0) – `v1.0.0` (📅 2022-10-17)  
+  🔗 [Release Notes](https://github.com/bates64/mamar/releases/tag/v1.0.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
