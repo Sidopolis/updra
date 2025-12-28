@@ -10,10 +10,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.6) – `v1.0.6` (📅 2025-12-25)  
-  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.6)
-- [bates64/mamar](https://github.com/bates64/mamar/releases/tag/v1.0.0) – `v1.0.0` (📅 2022-10-17)  
-  🔗 [Release Notes](https://github.com/bates64/mamar/releases/tag/v1.0.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
