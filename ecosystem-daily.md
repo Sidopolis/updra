@@ -1,7 +1,8 @@
 # 🌐 Ecosystem Daily Log – 2025-12-28
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [Tamplier/llm_safety_guardian](https://github.com/Tamplier/llm_safety_guardian/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/Tamplier/llm_safety_guardian/releases/tag/v0.1.3)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
