@@ -12,8 +12,6 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [bates64/mamar](https://github.com/bates64/mamar/releases/tag/v1.0.0) – `v1.0.0` (📅 2022-10-17)  
-  🔗 [Release Notes](https://github.com/bates64/mamar/releases/tag/v1.0.0)
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
