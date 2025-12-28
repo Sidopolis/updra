@@ -4,16 +4,10 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [jfreed-dev/turing-rk1-cluster](https://github.com/jfreed-dev/turing-rk1-cluster/releases/tag/v1.1.1) – `v1.1.1` (📅 2025-12-22)  
-  🔗 [Release Notes](https://github.com/jfreed-dev/turing-rk1-cluster/releases/tag/v1.1.1)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.2) – `v6.2.2` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
 - [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.1.4) – `v10.1.4` (📅 2025-12-19)  
