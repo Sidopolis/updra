@@ -7,11 +7,12 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.10) – `v0.4.10` (📅 2025-12-07)  
+  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.10)
 
 ## 🔹 Webassembly
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
