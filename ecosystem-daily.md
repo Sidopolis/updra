@@ -1,17 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2025-12-28
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [Tamplier/llm_safety_guardian](https://github.com/Tamplier/llm_safety_guardian/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/Tamplier/llm_safety_guardian/releases/tag/v0.1.3)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.191) – `v0.8.191` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.191)
+- [bates64/mamar](https://github.com/bates64/mamar/releases/tag/v1.0.0) – `v1.0.0` (📅 2022-10-17)  
+  🔗 [Release Notes](https://github.com/bates64/mamar/releases/tag/v1.0.0)
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
