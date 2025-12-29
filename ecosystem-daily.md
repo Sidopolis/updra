@@ -4,17 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.76.0) – `v1.76.0` (📅 2025-12-28)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.76.0)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+
 ## 🔹 Webassembly
-- [pannous/wasp](https://github.com/pannous/wasp/releases/tag/release-2025-07-10) – `release-2025-07-10` (📅 2025-07-10)  
-  🔗 [Release Notes](https://github.com/pannous/wasp/releases/tag/release-2025-07-10)
-- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.3) – `v10.0.3` (📅 2025-12-25)  
-  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.3)
+- [hpcc-systems/hpcc-js-wasm](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.30.0) – `wasm-v2.30.0` (📅 2025-12-11)  
+  🔗 [Release Notes](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.30.0)
+- [wasm-signatures/wasmsign2](https://github.com/wasm-signatures/wasmsign2/releases/tag/0.2.6) – `0.2.6` (📅 2024-11-22)  
+  🔗 [Release Notes](https://github.com/wasm-signatures/wasmsign2/releases/tag/0.2.6)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
