@@ -1,23 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2025-12-29
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [dakk/qlasskit](https://github.com/dakk/qlasskit/releases/tag/v0.1.37) – `v0.1.37` (📅 2025-12-12)  
+  🔗 [Release Notes](https://github.com/dakk/qlasskit/releases/tag/v0.1.37)
+
 ## 🔹 Edge-computing
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.3)
 - [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
   🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.3)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.3)
 
 ## 🔹 Webassembly
-- [onecoolx/picasso](https://github.com/onecoolx/picasso/releases/tag/v2.8.0) – `v2.8.0` (📅 2024-07-16)  
-  🔗 [Release Notes](https://github.com/onecoolx/picasso/releases/tag/v2.8.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
 - [bates64/mamar](https://github.com/bates64/mamar/releases/tag/v1.0.0) – `v1.0.0` (📅 2022-10-17)  
   🔗 [Release Notes](https://github.com/bates64/mamar/releases/tag/v1.0.0)
 
