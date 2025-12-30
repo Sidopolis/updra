@@ -4,11 +4,12 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [kpobrien/JosephsonCircuits.jl](https://github.com/kpobrien/JosephsonCircuits.jl/releases/tag/v0.4.20) – `v0.4.20` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/kpobrien/JosephsonCircuits.jl/releases/tag/v0.4.20)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.1) – `v0.34.1` (📅 2025-12-08)  
+  🔗 [Release Notes](https://github.com/intel/intel-device-plugins-for-kubernetes/releases/tag/v0.34.1)
 
 ## 🔹 Webassembly
 - [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.0) – `v10.2.0` (📅 2025-12-29)  
