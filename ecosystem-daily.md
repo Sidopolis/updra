@@ -4,22 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.77.0) – `v1.77.0` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.77.0)
+- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.3) – `v3.3.3` (📅 2025-11-10)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.3)
 
 ## 🔹 Edge-computing
-- [lfedgeai/SPEAR](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4) – `v0.0.4` (📅 2025-07-08)  
-  🔗 [Release Notes](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-30)  
+  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.7.0)
+- [jfreed-dev/turing-rk1-cluster](https://github.com/jfreed-dev/turing-rk1-cluster/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-12-30)  
+  🔗 [Release Notes](https://github.com/jfreed-dev/turing-rk1-cluster/releases/tag/v1.0.0)
+- [implyinfer/jetson-orin-nano-field-kit](https://github.com/implyinfer/jetson-orin-nano-field-kit/releases/tag/release-v2.1) – `release-v2.1` (📅 2025-12-24)  
+  🔗 [Release Notes](https://github.com/implyinfer/jetson-orin-nano-field-kit/releases/tag/release-v2.1)
 
 ## 🔹 Webassembly
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
-- [theQRL/qrl-wallet](https://github.com/theQRL/qrl-wallet/releases/tag/v1.8.1) – `v1.8.1` (📅 2022-01-20)  
-  🔗 [Release Notes](https://github.com/theQRL/qrl-wallet/releases/tag/v1.8.1)
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.9.8) – `v1.9.8` (📅 2025-12-30)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.9.8)
+- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-30)  
+  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.7.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.58.5) – `0.58.5` (📅 2025-12-30)  
