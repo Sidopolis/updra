@@ -8,11 +8,14 @@
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0) – `0.15.0` (📅 2025-08-04)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.15.0)
 
 ## 🔹 Webassembly
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15) – `v0.8.15` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.3) – `v10.0.3` (📅 2025-12-25)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.3)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
