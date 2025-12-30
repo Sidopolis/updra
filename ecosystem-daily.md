@@ -4,15 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [kpobrien/JosephsonCircuits.jl](https://github.com/kpobrien/JosephsonCircuits.jl/releases/tag/v0.4.20) – `v0.4.20` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/kpobrien/JosephsonCircuits.jl/releases/tag/v0.4.20)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.0) – `v10.2.0` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.0)
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.192) – `v0.8.192` (📅 2025-12-29)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.192)
+- [doublegate/RustyNES](https://github.com/doublegate/RustyNES/releases/tag/v0.8.6) – `v0.8.6` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/doublegate/RustyNES/releases/tag/v0.8.6)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.58.1) – `0.58.1` (📅 2025-12-20)  
