@@ -4,18 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Quantinuum/tket2](https://github.com/Quantinuum/tket2/releases/tag/tket-py-v0.12.13) – `tket-py-v0.12.13` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/Quantinuum/tket2/releases/tag/tket-py-v0.12.13)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0) – `v0.13.0` (📅 2025-10-15)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.13.0)
 
 ## 🔹 Edge-computing
 - [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
   🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.9.7) – `v1.9.7` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.9.7)
-- [Neurone01/MorsEmulatores](https://github.com/Neurone01/MorsEmulatores/releases/tag/apk) – `apk` (📅 2025-11-07)  
-  🔗 [Release Notes](https://github.com/Neurone01/MorsEmulatores/releases/tag/apk)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.193) – `v0.8.193` (📅 2025-12-30)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.193)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.58.5) – `0.58.5` (📅 2025-12-30)  
