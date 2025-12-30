@@ -4,20 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.3) – `v3.3.3` (📅 2025-11-10)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.3)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-30)  
-  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.7.0)
-- [jfreed-dev/turing-rk1-cluster](https://github.com/jfreed-dev/turing-rk1-cluster/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-12-30)  
-  🔗 [Release Notes](https://github.com/jfreed-dev/turing-rk1-cluster/releases/tag/v1.0.0)
-- [implyinfer/jetson-orin-nano-field-kit](https://github.com/implyinfer/jetson-orin-nano-field-kit/releases/tag/release-v2.1) – `release-v2.1` (📅 2025-12-24)  
-  🔗 [Release Notes](https://github.com/implyinfer/jetson-orin-nano-field-kit/releases/tag/release-v2.1)
+- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-30)  
-  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.7.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.193) – `v0.8.193` (📅 2025-12-30)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.193)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.58.5) – `0.58.5` (📅 2025-12-30)  
