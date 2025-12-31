@@ -12,8 +12,6 @@
 ## 🔹 Webassembly
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.193) – `v0.8.193` (📅 2025-12-30)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.193)
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.517) – `v4.0.517` (📅 2025-12-31)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.517)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
