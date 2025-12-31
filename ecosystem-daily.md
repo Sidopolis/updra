@@ -4,7 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
@@ -12,6 +13,8 @@
 ## 🔹 Webassembly
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.193) – `v0.8.193` (📅 2025-12-30)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.193)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.0) – `0.16.0` (📅 2025-12-30)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
