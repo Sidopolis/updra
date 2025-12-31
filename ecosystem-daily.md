@@ -1,26 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2025-12-31
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- [cloudpedagogy/cloudpedagogy-ai-capability-framework](https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework/releases/tag/v1.2) – `v1.2` (📅 2025-12-10)  
+  🔗 [Release Notes](https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework/releases/tag/v1.2)
 
 ## 🔹 Quantum-computing
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [jfreed-dev/turing-rk1-cluster](https://github.com/jfreed-dev/turing-rk1-cluster/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-12-30)  
+  🔗 [Release Notes](https://github.com/jfreed-dev/turing-rk1-cluster/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [LostBeard/SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.17.0) – `v2.17.0` (📅 2025-07-06)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.17.0)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.9.8) – `v1.9.8` (📅 2025-12-30)  
+  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.9.8)
+- [woodser/monero-ts](https://github.com/woodser/monero-ts/releases/tag/v0.11.7) – `v0.11.7` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/woodser/monero-ts/releases/tag/v0.11.7)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
