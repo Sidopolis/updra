@@ -4,14 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [dakk/qlasskit](https://github.com/dakk/qlasskit/releases/tag/v0.1.38) – `v0.1.38` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/dakk/qlasskit/releases/tag/v0.1.38)
+- [mr-mohitrawat/quantum-reversible-alu](https://github.com/mr-mohitrawat/quantum-reversible-alu/releases/tag/v1.0) – `v1.0` (📅 2025-12-31)  
+  🔗 [Release Notes](https://github.com/mr-mohitrawat/quantum-reversible-alu/releases/tag/v1.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.193) – `v0.8.193` (📅 2025-12-30)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.193)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.520) – `v4.0.520` (📅 2025-12-31)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.520)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
