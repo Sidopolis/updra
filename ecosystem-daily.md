@@ -1,8 +1,7 @@
 # 🌐 Ecosystem Daily Log – 2025-12-31
 
 ## 🔹 Ai-ethics
-- [cloudpedagogy/cloudpedagogy-ai-capability-framework](https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework/releases/tag/v1.2) – `v1.2` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -12,12 +11,8 @@
   🔗 [Release Notes](https://github.com/jfreed-dev/turing-rk1-cluster/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v1.9.8) – `v1.9.8` (📅 2025-12-30)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v1.9.8)
-- [woodser/monero-ts](https://github.com/woodser/monero-ts/releases/tag/v0.11.7) – `v0.11.7` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/woodser/monero-ts/releases/tag/v0.11.7)
+- [pannous/wasp](https://github.com/pannous/wasp/releases/tag/release-2025-07-10) – `release-2025-07-10` (📅 2025-07-10)  
+  🔗 [Release Notes](https://github.com/pannous/wasp/releases/tag/release-2025-07-10)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
