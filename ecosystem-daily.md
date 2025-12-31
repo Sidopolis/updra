@@ -7,13 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.3)
 
 ## 🔹 Webassembly
-- [andrewdavidmackenzie/flow](https://github.com/andrewdavidmackenzie/flow/releases/tag/v0.135.0) – `v0.135.0` (📅 2023-09-19)  
-  🔗 [Release Notes](https://github.com/andrewdavidmackenzie/flow/releases/tag/v0.135.0)
-- [onecoolx/picasso](https://github.com/onecoolx/picasso/releases/tag/v2.8.0) – `v2.8.0` (📅 2024-07-16)  
-  🔗 [Release Notes](https://github.com/onecoolx/picasso/releases/tag/v2.8.0)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [RibirX/Ribir](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0) – `ribir-v0.3.0` (📅 2024-08-26)  
+  🔗 [Release Notes](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.4) – `v2.4` (📅 2025-11-19)  
