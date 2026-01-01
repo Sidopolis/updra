@@ -4,14 +4,11 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.110) – `v0.0.110` (📅 2026-01-01)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.110)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [danielfcollier/py-umik-base-app](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.3.0-alpha) – `v0.3.0-alpha` (📅 2025-12-31)  
-  🔗 [Release Notes](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.3.0-alpha)
 
 ## 🔹 Webassembly
 - No recent releases found.
