@@ -1,24 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2026-01-01
 
 ## 🔹 Ai-ethics
-- [OstensibleParadox/recursive-lines](https://github.com/OstensibleParadox/recursive-lines/releases/tag/1.1.0) – `1.1.0` (📅 2025-12-31)  
-  🔗 [Release Notes](https://github.com/OstensibleParadox/recursive-lines/releases/tag/1.1.0)
+- [cloudpedagogy/cloudpedagogy-ai-capability-framework](https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework/releases/tag/v1.2) – `v1.2` (📅 2025-12-10)  
+  🔗 [Release Notes](https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework/releases/tag/v1.2)
 
 ## 🔹 Quantum-computing
-- [QuantumSavory/QuantumClifford.jl](https://github.com/QuantumSavory/QuantumClifford.jl/releases/tag/v0.11.0) – `v0.11.0` (📅 2026-01-01)  
-  🔗 [Release Notes](https://github.com/QuantumSavory/QuantumClifford.jl/releases/tag/v0.11.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [corviont/monaco-demo](https://github.com/corviont/monaco-demo/releases/tag/1.0.3) – `1.0.3` (📅 2026-01-01)  
-  🔗 [Release Notes](https://github.com/corviont/monaco-demo/releases/tag/1.0.3)
-- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.38.1) – `rust-v0.38.1` (📅 2025-12-24)  
-  🔗 [Release Notes](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.38.1)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.15) – `v0.5.15` (📅 2025-12-26)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.15)
+- [WebAssembly/WASI](https://github.com/WebAssembly/WASI/releases/tag/v0.2.9) – `v0.2.9` (📅 2025-12-02)  
+  🔗 [Release Notes](https://github.com/WebAssembly/WASI/releases/tag/v0.2.9)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
