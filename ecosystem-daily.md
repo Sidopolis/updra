@@ -4,14 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [csnp/qramm-tls-analyzer](https://github.com/csnp/qramm-tls-analyzer/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-12-26)  
-  🔗 [Release Notes](https://github.com/csnp/qramm-tls-analyzer/releases/tag/v0.2.2)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [wasm-fmt/zig_fmt](https://github.com/wasm-fmt/zig_fmt/releases/tag/v0.15.0) – `v0.15.0` (📅 2025-12-06)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/zig_fmt/releases/tag/v0.15.0)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
