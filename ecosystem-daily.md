@@ -4,16 +4,11 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [nicolasloizeau/PauliStrings.jl](https://github.com/nicolasloizeau/PauliStrings.jl/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-12-22)  
-  🔗 [Release Notes](https://github.com/nicolasloizeau/PauliStrings.jl/releases/tag/v1.9.0)
-- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.109) – `v0.0.109` (📅 2025-12-25)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.109)
 
 ## 🔹 Edge-computing
-- [danielfcollier/py-umik-base-app](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.3.0-alpha) – `v0.3.0-alpha` (📅 2025-12-31)  
-  🔗 [Release Notes](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.3.0-alpha)
+- No recent releases found.
 
 ## 🔹 Webassembly
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
