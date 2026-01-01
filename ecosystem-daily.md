@@ -7,9 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
+- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.95.1) – `@stlite/browser@0.95.1` (📅 2026-01-01)  
+  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.95.1)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.0) – `v10.2.0` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.0)
 - [wasm-fmt/zig_fmt](https://github.com/wasm-fmt/zig_fmt/releases/tag/v0.15.2) – `v0.15.2` (📅 2026-01-01)  
   🔗 [Release Notes](https://github.com/wasm-fmt/zig_fmt/releases/tag/v0.15.2)
 
