@@ -4,15 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.109) – `v0.0.109` (📅 2025-12-25)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.109)
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.110) – `v0.0.110` (📅 2026-01-01)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.110)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [danielfcollier/py-umik-base-app](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.3.0-alpha) – `v0.3.0-alpha` (📅 2025-12-31)  
+  🔗 [Release Notes](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.3.0-alpha)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
