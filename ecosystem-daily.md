@@ -4,19 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- [Alpha-Legents/Q-SSP](https://github.com/Alpha-Legents/Q-SSP/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-12-25)  
+  🔗 [Release Notes](https://github.com/Alpha-Legents/Q-SSP/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm/releases/tag/2.8.1) – `2.8.1` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/ruby/ruby.wasm/releases/tag/2.8.1)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- [hi2ma-bu4/SnowFall2](https://github.com/hi2ma-bu4/SnowFall2/releases/tag/v0.0.2) – `v0.0.2` (📅 2026-01-01)  
+  🔗 [Release Notes](https://github.com/hi2ma-bu4/SnowFall2/releases/tag/v0.0.2)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
