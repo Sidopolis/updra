@@ -1,20 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2026-01-01
 
 ## 🔹 Ai-ethics
-- [cloudpedagogy/cloudpedagogy-ai-capability-framework](https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework/releases/tag/v1.2) – `v1.2` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.15) – `v0.5.15` (📅 2025-12-26)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.15)
-- [WebAssembly/WASI](https://github.com/WebAssembly/WASI/releases/tag/v0.2.9) – `v0.2.9` (📅 2025-12-02)  
-  🔗 [Release Notes](https://github.com/WebAssembly/WASI/releases/tag/v0.2.9)
+- [mosra/magnum](https://github.com/mosra/magnum/releases/tag/v2020.06) – `v2020.06` (📅 2020-07-02)  
+  🔗 [Release Notes](https://github.com/mosra/magnum/releases/tag/v2020.06)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-22)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.3.0)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
