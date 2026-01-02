@@ -7,16 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [lfedgeai/SPEAR](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4) – `v0.0.4` (📅 2025-07-08)  
-  🔗 [Release Notes](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [jameslan/libxml2-wasm](https://github.com/jameslan/libxml2-wasm/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-08-09)  
-  🔗 [Release Notes](https://github.com/jameslan/libxml2-wasm/releases/tag/v0.6.0)
-- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.29.0) – `0.29.0` (📅 2025-10-20)  
-  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.29.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
+- [Teddy-van-Jerry/shapdf](https://github.com/Teddy-van-Jerry/shapdf/releases/tag/v0.2.1) – `v0.2.1` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/Teddy-van-Jerry/shapdf/releases/tag/v0.2.1)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
