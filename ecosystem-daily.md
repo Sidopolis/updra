@@ -1,27 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-01-02
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.110) – `v0.0.110` (📅 2026-01-01)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.110)
+
 ## 🔹 Edge-computing
-- [edgee-cloud/edgee](https://github.com/edgee-cloud/edgee/releases/tag/v1.3.0) – `v1.3.0` (📅 2026-01-02)  
-  🔗 [Release Notes](https://github.com/edgee-cloud/edgee/releases/tag/v1.3.0)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [rainyl/mnn.dart](https://github.com/rainyl/mnn.dart/releases/tag/v0.0.3) – `v0.0.3` (📅 2025-07-10)  
-  🔗 [Release Notes](https://github.com/rainyl/mnn.dart/releases/tag/v0.0.3)
+- No recent releases found.
 
 ## 🔹 Webassembly
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
-- [edgee-cloud/edgee](https://github.com/edgee-cloud/edgee/releases/tag/v1.3.0) – `v1.3.0` (📅 2026-01-02)  
-  🔗 [Release Notes](https://github.com/edgee-cloud/edgee/releases/tag/v1.3.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.194) – `v0.8.194` (📅 2025-12-31)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.194)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
