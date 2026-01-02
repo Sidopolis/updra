@@ -12,8 +12,8 @@
 ## 🔹 Webassembly
 - [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
   🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
-- [Teddy-van-Jerry/shapdf](https://github.com/Teddy-van-Jerry/shapdf/releases/tag/v0.2.1) – `v0.2.1` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/Teddy-van-Jerry/shapdf/releases/tag/v0.2.1)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.0) – `v10.2.0` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.0)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
