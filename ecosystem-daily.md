@@ -1,20 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-01-02
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/v9.34.6) – `v9.34.6` (📅 2026-01-02)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/v9.34.6)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [kosuke14/vLuau](https://github.com/kosuke14/vLuau/releases/tag/0.654) – `0.654` (📅 2025-02-11)  
-  🔗 [Release Notes](https://github.com/kosuke14/vLuau/releases/tag/0.654)
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15) – `v0.8.15` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15)
+- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v2.0.3) – `v2.0.3` (📅 2026-01-02)  
+  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v2.0.3)
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.224) – `v4.0.224` (📅 2026-01-02)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.224)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
