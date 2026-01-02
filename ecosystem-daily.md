@@ -4,15 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [zhaorui-bi/Hybrid-Quantum-Classical-Computing](https://github.com/zhaorui-bi/Hybrid-Quantum-Classical-Computing/releases/tag/V1.0.0) – `V1.0.0` (📅 2026-01-02)  
+  🔗 [Release Notes](https://github.com/zhaorui-bi/Hybrid-Quantum-Classical-Computing/releases/tag/V1.0.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [pyodide/micropip](https://github.com/pyodide/micropip/releases/tag/0.11.0) – `0.11.0` (📅 2025-10-18)  
-  🔗 [Release Notes](https://github.com/pyodide/micropip/releases/tag/0.11.0)
+- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.29.0) – `0.29.0` (📅 2025-10-20)  
+  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.29.0)
+- [Sec-ant/barcode-detector](https://github.com/Sec-ant/barcode-detector/releases/tag/v3.0.8) – `v3.0.8` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/Sec-ant/barcode-detector/releases/tag/v3.0.8)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
