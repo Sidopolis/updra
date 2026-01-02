@@ -4,13 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [badbugsarts-hue/UIDT-Framework-V3.2-Canonical](https://github.com/badbugsarts-hue/UIDT-Framework-V3.2-Canonical/releases/tag/3.7.1) – `3.7.1` (📅 2025-12-27)  
+  🔗 [Release Notes](https://github.com/badbugsarts-hue/UIDT-Framework-V3.2-Canonical/releases/tag/3.7.1)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [yamt/toywasm](https://github.com/yamt/toywasm/releases/tag/v71.0.0) – `v71.0.0` (📅 2025-08-24)  
+  🔗 [Release Notes](https://github.com/yamt/toywasm/releases/tag/v71.0.0)
 
 ## 🔹 Green-software
-- No recent releases found.
+- [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
+  🔗 [Release Notes](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta)
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.58.6) – `0.58.6` (📅 2025-12-31)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.58.6)
