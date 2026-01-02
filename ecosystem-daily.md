@@ -4,18 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/v9.34.6) – `v9.34.6` (📅 2026-01-02)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/v9.34.6)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v2.0.3) – `v2.0.3` (📅 2026-01-02)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v2.0.3)
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.224) – `v4.0.224` (📅 2026-01-02)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.224)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-22)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.3.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
