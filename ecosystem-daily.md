@@ -4,19 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.110) – `v0.0.110` (📅 2026-01-01)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.110)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.194) – `v0.8.194` (📅 2025-12-31)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.194)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v2.0.3) – `v2.0.3` (📅 2026-01-02)  
+  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v2.0.3)
+- [kosuke14/vLuau](https://github.com/kosuke14/vLuau/releases/tag/0.654) – `0.654` (📅 2025-02-11)  
+  🔗 [Release Notes](https://github.com/kosuke14/vLuau/releases/tag/0.654)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
