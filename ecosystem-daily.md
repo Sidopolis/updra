@@ -1,17 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-01-02
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [Tamplier/llm_safety_guardian](https://github.com/Tamplier/llm_safety_guardian/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/Tamplier/llm_safety_guardian/releases/tag/v0.1.3)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [ankitkpandey1/aetherless](https://github.com/ankitkpandey1/aetherless/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-12-26)  
+  🔗 [Release Notes](https://github.com/ankitkpandey1/aetherless/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm/releases/tag/v3.0.2) – `v3.0.2` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/CosmWasm/cosmwasm/releases/tag/v3.0.2)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.194) – `v0.8.194` (📅 2025-12-31)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.194)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
