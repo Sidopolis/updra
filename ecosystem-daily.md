@@ -1,7 +1,8 @@
 # 🌐 Ecosystem Daily Log – 2026-01-02
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -10,10 +11,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v2.0.3) – `v2.0.3` (📅 2026-01-02)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v2.0.3)
 - [kosuke14/vLuau](https://github.com/kosuke14/vLuau/releases/tag/0.654) – `0.654` (📅 2025-02-11)  
   🔗 [Release Notes](https://github.com/kosuke14/vLuau/releases/tag/0.654)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15) – `v0.8.15` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
