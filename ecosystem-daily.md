@@ -7,13 +7,12 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [hlorenzi/customasm](https://github.com/hlorenzi/customasm/releases/tag/v0.13.12) – `v0.13.12` (📅 2025-10-05)  
-  🔗 [Release Notes](https://github.com/hlorenzi/customasm/releases/tag/v0.13.12)
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v2.0.3) – `v2.0.3` (📅 2026-01-02)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v2.0.3)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
