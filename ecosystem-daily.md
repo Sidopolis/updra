@@ -7,14 +7,15 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.540) – `v4.0.540` (📅 2026-01-03)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.540)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.194) – `v0.8.194` (📅 2025-12-31)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.194)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.258) – `v4.0.258` (📅 2026-01-03)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.258)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.541) – `v4.0.541` (📅 2026-01-03)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.541)
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.229) – `v4.0.229` (📅 2026-01-03)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.229)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
