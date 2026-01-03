@@ -4,20 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.111) – `v0.0.111` (📅 2026-01-02)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.111)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 - [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
   🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [bates64/mamar](https://github.com/bates64/mamar/releases/tag/v1.0.0) – `v1.0.0` (📅 2022-10-17)  
-  🔗 [Release Notes](https://github.com/bates64/mamar/releases/tag/v1.0.0)
-- [konsoletyper/teavm](https://github.com/konsoletyper/teavm/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-03)  
-  🔗 [Release Notes](https://github.com/konsoletyper/teavm/releases/tag/0.13.0)
+- [LostBeard/SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.17.0) – `v2.17.0` (📅 2025-07-06)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.17.0)
+- [ThatOpen/engine_web-ifc](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.74) – `0.74` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.74)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
