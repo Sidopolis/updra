@@ -4,17 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qecc](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-03-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.3.2) – `v0.3.2` (📅 2025-11-02)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.3.2)
-- [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use/releases/tag/v0.17.0) – `v0.17.0` (📅 2025-12-18)  
-  🔗 [Release Notes](https://github.com/Synphonyte/leptos-use/releases/tag/v0.17.0)
+- [vertigo-web/vertigo](https://github.com/vertigo-web/vertigo/releases/tag/v0.9.1) – `v0.9.1` (📅 2025-12-18)  
+  🔗 [Release Notes](https://github.com/vertigo-web/vertigo/releases/tag/v0.9.1)
+- [toyobayashi/emnapi](https://github.com/toyobayashi/emnapi/releases/tag/v1.8.0) – `v1.8.0` (📅 2026-01-03)  
+  🔗 [Release Notes](https://github.com/toyobayashi/emnapi/releases/tag/v1.8.0)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
