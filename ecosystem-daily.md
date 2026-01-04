@@ -7,8 +7,7 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.1) – `v1.22.1` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
 - No recent releases found.
