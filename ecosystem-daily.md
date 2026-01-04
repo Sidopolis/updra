@@ -1,14 +1,15 @@
 # 🌐 Ecosystem Daily Log – 2026-01-04
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [OstensibleParadox/recursive-lines](https://github.com/OstensibleParadox/recursive-lines/releases/tag/1.1.0) – `1.1.0` (📅 2025-12-31)  
+  🔗 [Release Notes](https://github.com/OstensibleParadox/recursive-lines/releases/tag/1.1.0)
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
 - No recent releases found.
