@@ -4,14 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.79.0) – `v1.79.0` (📅 2026-01-03)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.79.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [LostBeard/SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.17.0) – `v2.17.0` (📅 2025-07-06)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.17.0)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
