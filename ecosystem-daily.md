@@ -10,7 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [rhaiscript/rhai](https://github.com/rhaiscript/rhai/releases/tag/v1.23.0) – `v1.23.0` (📅 2025-09-14)  
+  🔗 [Release Notes](https://github.com/rhaiscript/rhai/releases/tag/v1.23.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
