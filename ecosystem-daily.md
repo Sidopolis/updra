@@ -4,17 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.79.0) – `v1.79.0` (📅 2026-01-03)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.79.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-30)  
+  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.7.0)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
