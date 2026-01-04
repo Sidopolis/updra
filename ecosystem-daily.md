@@ -4,17 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4) – `2.4.4` (📅 2025-08-24)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.4)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [ruby/ruby.wasm](https://github.com/ruby/ruby.wasm/releases/tag/2.8.1) – `2.8.1` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/ruby/ruby.wasm/releases/tag/2.8.1)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
+- [hi2ma-bu4/SnowFall2](https://github.com/hi2ma-bu4/SnowFall2/releases/tag/v0.0.5) – `v0.0.5` (📅 2026-01-04)  
+  🔗 [Release Notes](https://github.com/hi2ma-bu4/SnowFall2/releases/tag/v0.0.5)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
