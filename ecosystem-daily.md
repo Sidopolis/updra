@@ -10,7 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [SamChou19815/samlang](https://github.com/SamChou19815/samlang/releases/tag/v0.10.1) – `v0.10.1` (📅 2024-02-25)  
+  🔗 [Release Notes](https://github.com/SamChou19815/samlang/releases/tag/v0.10.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
