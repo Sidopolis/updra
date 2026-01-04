@@ -4,14 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [hi2ma-bu4/SnowFall2](https://github.com/hi2ma-bu4/SnowFall2/releases/tag/v0.0.5) – `v0.0.5` (📅 2026-01-04)  
-  🔗 [Release Notes](https://github.com/hi2ma-bu4/SnowFall2/releases/tag/v0.0.5)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
