@@ -8,11 +8,11 @@
   🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.79.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [jedisct1/libsodium.js](https://github.com/jedisct1/libsodium.js/releases/tag/0.7.16) – `0.7.16` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/jedisct1/libsodium.js/releases/tag/0.7.16)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [hyperpolymath/oikos](https://github.com/hyperpolymath/oikos/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
