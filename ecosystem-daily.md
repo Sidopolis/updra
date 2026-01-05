@@ -7,16 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh-plugin-ros2dds](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.7.1) – `1.7.1` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds/releases/tag/1.7.1)
+- [AppSolves/LanePilot](https://github.com/AppSolves/LanePilot/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-24)  
+  🔗 [Release Notes](https://github.com/AppSolves/LanePilot/releases/tag/v1.0.0)
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22) – `1.47.22` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22)
 
 ## 🔹 Webassembly
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
-- [firefly-zero/firefly-zig](https://github.com/firefly-zero/firefly-zig/releases/tag/0.2.1) – `0.2.1` (📅 2026-01-03)  
-  🔗 [Release Notes](https://github.com/firefly-zero/firefly-zig/releases/tag/0.2.1)
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-22)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.3.0)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
