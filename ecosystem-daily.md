@@ -4,15 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [dwavesystems/dwave-pytorch-plugin](https://github.com/dwavesystems/dwave-pytorch-plugin/releases/tag/0.2.0) – `0.2.0` (📅 2025-08-01)  
-  🔗 [Release Notes](https://github.com/dwavesystems/dwave-pytorch-plugin/releases/tag/0.2.0)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [make87/make87](https://github.com/make87/make87/releases/tag/v0.0.42) – `v0.0.42` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/make87/make87/releases/tag/v0.0.42)
+
 ## 🔹 Webassembly
-- [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-07-04)  
-  🔗 [Release Notes](https://github.com/fluvio-community/fluvio/releases/tag/v0.18.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.195) – `v0.8.195` (📅 2026-01-05)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.195)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.24) – `v1.24` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
