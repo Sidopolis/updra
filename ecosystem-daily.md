@@ -1,23 +1,17 @@
 # 🌐 Ecosystem Daily Log – 2026-01-06
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.3) – `v2.12.3` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.3)
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.35.0) – `v0.35.0` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.35.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
+- [unoplatform/uno.extensions](https://github.com/unoplatform/uno.extensions/releases/tag/7.0.17) – `7.0.17` (📅 2025-12-25)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.extensions/releases/tag/7.0.17)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
