@@ -4,8 +4,12 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [kpobrien/JosephsonCircuits.jl](https://github.com/kpobrien/JosephsonCircuits.jl/releases/tag/v0.4.20) – `v0.4.20` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/kpobrien/JosephsonCircuits.jl/releases/tag/v0.4.20)
+- [Quantinuum/hugr](https://github.com/Quantinuum/hugr/releases/tag/hugr-py-v0.15.0) – `hugr-py-v0.15.0` (📅 2026-01-05)  
+  🔗 [Release Notes](https://github.com/Quantinuum/hugr/releases/tag/hugr-py-v0.15.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [Qiskit/qiskit-cpp](https://github.com/Qiskit/qiskit-cpp/releases/tag/Release-0.0.1) – `Release-0.0.1` (📅 2025-06-20)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit-cpp/releases/tag/Release-0.0.1)
 
 ## 🔹 Edge-computing
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.1) – `1.7.1` (📅 2025-12-10)  
@@ -14,12 +18,10 @@
   🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
-- [onecoolx/picasso](https://github.com/onecoolx/picasso/releases/tag/v2.8.0) – `v2.8.0` (📅 2024-07-16)  
-  🔗 [Release Notes](https://github.com/onecoolx/picasso/releases/tag/v2.8.0)
-- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
+- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.95.1) – `@stlite/browser@0.95.1` (📅 2026-01-01)  
+  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.95.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
