@@ -1,24 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2026-01-06
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
+- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.35.0) – `vm6502q.v9.35.0` (📅 2026-01-05)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v9.35.0)
 
 ## 🔹 Edge-computing
-- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
-- [dy/watr](https://github.com/dy/watr/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/dy/watr/releases/tag/v3.2.1)
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.3) – `2.10.3` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.3)
+- [STREGAsGate/GateEngine](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1) – `0.2.1` (📅 2024-07-01)  
+  🔗 [Release Notes](https://github.com/STREGAsGate/GateEngine/releases/tag/0.2.1)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
