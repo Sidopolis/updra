@@ -6,15 +6,24 @@
 ## 🔹 Quantum-computing
 - [vm6502q/vm6502q.github.io](https://github.com/vm6502q/vm6502q.github.io/releases/tag/vm6502q.v7.0.0) – `vm6502q.v7.0.0` (📅 2022-01-01)  
   🔗 [Release Notes](https://github.com/vm6502q/vm6502q.github.io/releases/tag/vm6502q.v7.0.0)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.2) – `v0.43.2` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.2)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-30)  
+  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.7.0)
 
 ## 🔹 Webassembly
-- [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm/releases/tag/v1.33.0) – `v1.33.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/duckdb/duckdb-wasm/releases/tag/v1.33.0)
-- [ThatOpen/engine_web-ifc](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.74) – `0.74` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.74)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.4.0) – `v1.4.0` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.4.0)
+- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-30)  
+  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.7.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
