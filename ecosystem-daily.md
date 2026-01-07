@@ -10,12 +10,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
-- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346) – `v4.251121.1346` (📅 2025-11-21)  
-  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346)
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.16) – `v1.0.0-beta.16` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.16)
+- [ImL1s/xmrig-android](https://github.com/ImL1s/xmrig-android/releases/tag/v2.0.0) – `v2.0.0` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/ImL1s/xmrig-android/releases/tag/v2.0.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.1) – `v0.4.1` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
