@@ -7,13 +7,16 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [eclipse-zenoh/zenoh-python](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.7.1) – `1.7.1` (📅 2025-12-10)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.7.1)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
+- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.29.0) – `0.29.0` (📅 2025-10-20)  
+  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.29.0)
 - [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.3) – `2.10.3` (📅 2025-12-16)  
   🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.3)
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
