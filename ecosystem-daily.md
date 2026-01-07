@@ -4,15 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PECOS-packages/PECOS](https://github.com/PECOS-packages/PECOS/releases/tag/rs-0.1.1) – `rs-0.1.1` (📅 2024-12-14)  
-  🔗 [Release Notes](https://github.com/PECOS-packages/PECOS/releases/tag/rs-0.1.1)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [branc116/brplot](https://github.com/branc116/brplot/releases/tag/v0.0.13) – `v0.0.13` (📅 2025-12-23)  
-  🔗 [Release Notes](https://github.com/branc116/brplot/releases/tag/v0.0.13)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.1) – `v0.4.1` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.1)
 - [dy/watr](https://github.com/dy/watr/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/dy/watr/releases/tag/v3.2.1)
 
