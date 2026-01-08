@@ -4,19 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.3) – `v3.3.3` (📅 2025-11-10)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.3.3)
 
 ## 🔹 Edge-computing
 - [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22) – `1.47.22` (📅 2025-12-16)  
   🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22)
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.24) – `v0.0.24` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.24)
-- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.8.0)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.196) – `v0.8.196` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.196)
+- [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-07-04)  
+  🔗 [Release Notes](https://github.com/fluvio-community/fluvio/releases/tag/v0.18.1)
+- [LostBeard/SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.31.0) – `v2.31.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.31.0)
+- [svenstaro/genact](https://github.com/svenstaro/genact/releases/tag/v1.5.0) – `v1.5.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/svenstaro/genact/releases/tag/v1.5.0)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
