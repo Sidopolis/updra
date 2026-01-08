@@ -4,17 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.0) – `v3.4.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.0)
+- [munich-quantum-toolkit/syrec](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.1) – `v40.0.1` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.1)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [onyx-lang/onyx](https://github.com/onyx-lang/onyx/releases/tag/v0.1.13-beta) – `v0.1.13-beta` (📅 2024-11-09)  
+  🔗 [Release Notes](https://github.com/onyx-lang/onyx/releases/tag/v0.1.13-beta)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.2.1) – `v4.2.1` (📅 2025-12-24)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.2.1)
+- [andyl-technologies/wasm-component-trampoline](https://github.com/andyl-technologies/wasm-component-trampoline/releases/tag/v37.0.0) – `v37.0.0` (📅 2025-09-30)  
+  🔗 [Release Notes](https://github.com/andyl-technologies/wasm-component-trampoline/releases/tag/v37.0.0)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
