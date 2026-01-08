@@ -1,25 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2026-01-08
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
-  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
-- [openqasm/openqasm](https://github.com/openqasm/openqasm/releases/tag/spec/v3.1.0) – `spec/v3.1.0` (📅 2024-05-15)  
-  🔗 [Release Notes](https://github.com/openqasm/openqasm/releases/tag/spec/v3.1.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.2) – `v0.4.2` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.2)
-- [LostBeard/SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.31.0) – `v2.31.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.31.0)
-- [dy/watr](https://github.com/dy/watr/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/dy/watr/releases/tag/v3.2.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
