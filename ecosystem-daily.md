@@ -4,18 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.0) – `v3.4.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.268) – `v4.0.268` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.268)
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.15) – `v0.5.15` (📅 2025-12-26)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.15)
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.4.0) – `v1.4.0` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.4.0)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.1) – `v40.0.1` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
