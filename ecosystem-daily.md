@@ -4,20 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [mermaidnicheboutique-code/Luxbin-light-language](https://github.com/mermaidnicheboutique-code/Luxbin-light-language/releases/tag/v2) – `v2` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/mermaidnicheboutique-code/Luxbin-light-language/releases/tag/v2)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22) – `1.47.22` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.24) – `v0.0.24` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.24)
+- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.8.0)
+
 ## 🔹 Webassembly
-- [paulocoutinhox/pdfium-lib](https://github.com/paulocoutinhox/pdfium-lib/releases/tag/7442c) – `7442c` (📅 2025-12-21)  
-  🔗 [Release Notes](https://github.com/paulocoutinhox/pdfium-lib/releases/tag/7442c)
-- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0) – `0.2.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.196) – `v0.8.196` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.196)
 
 ## 🔹 Green-software
+- [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0)
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
   🔗 [Release Notes](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2)
-- [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
-  🔗 [Release Notes](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta)
