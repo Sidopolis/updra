@@ -4,22 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit-serverless](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.28.0) – `v0.28.0` (📅 2025-12-05)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.28.0)
-- [MrigankJaiswal-hub/nisq-noise-fidelity-analysis](https://github.com/MrigankJaiswal-hub/nisq-noise-fidelity-analysis/releases/tag/v1.0) – `v1.0` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/MrigankJaiswal-hub/nisq-noise-fidelity-analysis/releases/tag/v1.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22) – `1.47.22` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.24) – `v0.0.24` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.24)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.1) – `v40.0.1` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.1)
-- [dy/watr](https://github.com/dy/watr/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/dy/watr/releases/tag/v3.2.1)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [andyl-technologies/wasm-component-trampoline](https://github.com/andyl-technologies/wasm-component-trampoline/releases/tag/v40.0.0) – `v40.0.0` (📅 2026-01-09)  
+  🔗 [Release Notes](https://github.com/andyl-technologies/wasm-component-trampoline/releases/tag/v40.0.0)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
