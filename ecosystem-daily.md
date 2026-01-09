@@ -10,12 +10,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.4.53) – `6.4.53` (📅 2025-12-25)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.4.53)
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.4.1) – `v1.4.1` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.4.1)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [van-sprundel/check-buddy](https://github.com/van-sprundel/check-buddy/releases/tag/v0.2.6) – `v0.2.6` (📅 2026-01-09)  
+  🔗 [Release Notes](https://github.com/van-sprundel/check-buddy/releases/tag/v0.2.6)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.196) – `v0.8.196` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.196)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
