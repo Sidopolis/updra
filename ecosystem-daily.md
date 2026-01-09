@@ -4,19 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [LFL-Lab/SQuADDS](https://github.com/LFL-Lab/SQuADDS/releases/tag/v0.3.7) – `v0.3.7` (📅 2025-05-11)  
-  🔗 [Release Notes](https://github.com/LFL-Lab/SQuADDS/releases/tag/v0.3.7)
+- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.23.0) – `v1.23.0` (📅 2025-12-09)  
+  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.23.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.53.0) – `v2.53.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.53.0)
-- [andyl-technologies/wasm-component-trampoline](https://github.com/andyl-technologies/wasm-component-trampoline/releases/tag/v40.0.0) – `v40.0.0` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/andyl-technologies/wasm-component-trampoline/releases/tag/v40.0.0)
-- [dy/watr](https://github.com/dy/watr/releases/tag/v3.2.1) – `v3.2.1` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/dy/watr/releases/tag/v3.2.1)
+- [MarimerLLC/csla](https://github.com/MarimerLLC/csla/releases/tag/v9.1.0) – `v9.1.0` (📅 2025-06-19)  
+  🔗 [Release Notes](https://github.com/MarimerLLC/csla/releases/tag/v9.1.0)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.1) – `v40.0.1` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.1)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
