@@ -4,17 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.23.0) – `v1.23.0` (📅 2025-12-09)  
-  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.23.0)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.8.0)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [danielfcollier/py-umik-base-app](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.4.1-alpha) – `v0.4.1-alpha` (📅 2026-01-09)  
+  🔗 [Release Notes](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.4.1-alpha)
+
 ## 🔹 Webassembly
-- [MarimerLLC/csla](https://github.com/MarimerLLC/csla/releases/tag/v9.1.0) – `v9.1.0` (📅 2025-06-19)  
-  🔗 [Release Notes](https://github.com/MarimerLLC/csla/releases/tag/v9.1.0)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.1) – `v40.0.1` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.1)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.3) – `2.10.3` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.3)
+- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.8.0)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
