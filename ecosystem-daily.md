@@ -1,24 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-01-09
 
 ## 🔹 Ai-ethics
-- [Steel-SecAdv-LLC/Mercury-Agent](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.2) – `v0.43.2` (📅 2025-12-23)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.43.2)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.196) – `v0.8.196` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.196)
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.273) – `v4.0.273` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.273)
+- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.4.53) – `6.4.53` (📅 2025-12-25)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.4.53)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.4.1) – `v1.4.1` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.4.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
