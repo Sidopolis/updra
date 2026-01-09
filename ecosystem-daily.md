@@ -4,22 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [beefy/quantum-simulator](https://github.com/beefy/quantum-simulator/releases/tag/v0.1.6) – `v0.1.6` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/beefy/quantum-simulator/releases/tag/v0.1.6)
+- No recent releases found.
 
 ## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 - [danielfcollier/py-umik-base-app](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.4.3-alpha) – `v0.4.3-alpha` (📅 2026-01-09)  
   🔗 [Release Notes](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.4.3-alpha)
-- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22) – `1.47.22` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.559) – `v4.0.559` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.559)
-- [wasm-fmt/clang-format](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.8) – `v21.1.8` (📅 2025-12-22)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.8)
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.276) – `v4.0.276` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.276)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.196) – `v0.8.196` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.196)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.7) – `v1.0.7` (📅 2026-01-09)  
+  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.7)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
