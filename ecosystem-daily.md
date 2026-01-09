@@ -4,21 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [beefy/quantum-simulator](https://github.com/beefy/quantum-simulator/releases/tag/v0.1.6) – `v0.1.6` (📅 2026-01-09)  
+  🔗 [Release Notes](https://github.com/beefy/quantum-simulator/releases/tag/v0.1.6)
 
 ## 🔹 Edge-computing
-- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.8.0)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [danielfcollier/py-umik-base-app](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.4.1-alpha) – `v0.4.1-alpha` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.4.1-alpha)
+- [danielfcollier/py-umik-base-app](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.4.3-alpha) – `v0.4.3-alpha` (📅 2026-01-09)  
+  🔗 [Release Notes](https://github.com/danielfcollier/py-umik-base-app/releases/tag/v0.4.3-alpha)
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22) – `1.47.22` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.47.22)
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.3) – `2.10.3` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.3)
-- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.8.0)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.559) – `v4.0.559` (📅 2026-01-09)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.559)
+- [wasm-fmt/clang-format](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.8) – `v21.1.8` (📅 2025-12-22)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.8)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.276) – `v4.0.276` (📅 2026-01-09)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.276)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
