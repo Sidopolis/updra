@@ -4,20 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
-- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [f-y/peng-sheets](https://github.com/f-y/peng-sheets/releases/tag/v1.0.4) – `v1.0.4` (📅 2026-01-10)  
-  🔗 [Release Notes](https://github.com/f-y/peng-sheets/releases/tag/v1.0.4)
+- [firefly-zero/firefly-c](https://github.com/firefly-zero/firefly-c/releases/tag/0.5.0) – `0.5.0` (📅 2026-01-10)  
+  🔗 [Release Notes](https://github.com/firefly-zero/firefly-c/releases/tag/0.5.0)
+- [firefly-zero/firefly-zig](https://github.com/firefly-zero/firefly-zig/releases/tag/0.3.0) – `0.3.0` (📅 2026-01-10)  
+  🔗 [Release Notes](https://github.com/firefly-zero/firefly-zig/releases/tag/0.3.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
