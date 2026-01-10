@@ -4,13 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.115) – `v0.0.115` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.115)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+
 ## 🔹 Webassembly
+- [RibirX/Ribir](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0) – `ribir-v0.3.0` (📅 2024-08-26)  
+  🔗 [Release Notes](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0)
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.196) – `v0.8.196` (📅 2026-01-07)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.196)
 
