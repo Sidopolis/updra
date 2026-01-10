@@ -7,15 +7,12 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0) – `0.2.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0)
-- [hyperpolymath/wagasm-ssg](https://github.com/hyperpolymath/wagasm-ssg/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/hyperpolymath/wagasm-ssg/releases/tag/v1.0.0)
-- [branc116/brplot](https://github.com/branc116/brplot/releases/tag/v0.0.13) – `v0.0.13` (📅 2025-12-23)  
-  🔗 [Release Notes](https://github.com/branc116/brplot/releases/tag/v0.0.13)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
