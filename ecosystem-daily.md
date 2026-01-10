@@ -4,17 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.115) – `v0.0.115` (📅 2026-01-09)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.115)
 
 ## 🔹 Edge-computing
-- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v0.6.12) – `v0.6.12` (📅 2025-12-24)  
-  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v0.6.12)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v6.2.2) – `v6.2.2` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v6.2.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.1) – `v10.2.1` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.196) – `v0.8.196` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.196)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
