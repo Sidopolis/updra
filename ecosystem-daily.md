@@ -10,6 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
+- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0) – `0.2.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0)
 - [hyperpolymath/wagasm-ssg](https://github.com/hyperpolymath/wagasm-ssg/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-12-17)  
   🔗 [Release Notes](https://github.com/hyperpolymath/wagasm-ssg/releases/tag/v1.0.0)
 - [branc116/brplot](https://github.com/branc116/brplot/releases/tag/v0.0.13) – `v0.0.13` (📅 2025-12-23)  
