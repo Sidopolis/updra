@@ -4,16 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.80.5) – `v1.80.5` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.80.5)
+- [elias-utf8/qcaml](https://github.com/elias-utf8/qcaml/releases/tag/v0.1.5) – `v0.1.5` (📅 2025-12-13)  
+  🔗 [Release Notes](https://github.com/elias-utf8/qcaml/releases/tag/v0.1.5)
 
 ## 🔹 Edge-computing
-- [Vanderhell/ironcfg](https://github.com/Vanderhell/ironcfg/releases/tag/v1.0.1) – `v1.0.1` (📅 2026-01-10)  
-  🔗 [Release Notes](https://github.com/Vanderhell/ironcfg/releases/tag/v1.0.1)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use/releases/tag/v0.17.0) – `v0.17.0` (📅 2025-12-18)  
+  🔗 [Release Notes](https://github.com/Synphonyte/leptos-use/releases/tag/v0.17.0)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.0) – `0.60.0` (📅 2026-01-11)  
