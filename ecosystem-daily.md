@@ -7,11 +7,11 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [lfedgeai/SPEAR](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4) – `v0.0.4` (📅 2025-07-08)  
-  🔗 [Release Notes](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [mrubyedge/mrubyedge](https://github.com/mrubyedge/mrubyedge/releases/tag/v1.0.17) – `v1.0.17` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/mrubyedge/mrubyedge/releases/tag/v1.0.17)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
