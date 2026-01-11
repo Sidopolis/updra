@@ -4,15 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [MrigankJaiswal-hub/vqa-hardware-benchmark](https://github.com/MrigankJaiswal-hub/vqa-hardware-benchmark/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
-  🔗 [Release Notes](https://github.com/MrigankJaiswal-hub/vqa-hardware-benchmark/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [f-y/peng-sheets](https://github.com/f-y/peng-sheets/releases/tag/v1.0.5) – `v1.0.5` (📅 2026-01-11)  
-  🔗 [Release Notes](https://github.com/f-y/peng-sheets/releases/tag/v1.0.5)
+- [wasm-fmt/mago_fmt](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.4.0) – `v0.4.0` (📅 2026-01-10)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.4.0)
+- [seliumlabs/selium](https://github.com/seliumlabs/selium/releases/tag/server-0.5.0) – `server-0.5.0` (📅 2024-05-06)  
+  🔗 [Release Notes](https://github.com/seliumlabs/selium/releases/tag/server-0.5.0)
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
