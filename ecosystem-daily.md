@@ -9,10 +9,11 @@
 ## 🔹 Edge-computing
 - [Vanderhell/ironcfg](https://github.com/Vanderhell/ironcfg/releases/tag/v1.0.1) – `v1.0.1` (📅 2026-01-10)  
   🔗 [Release Notes](https://github.com/Vanderhell/ironcfg/releases/tag/v1.0.1)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v2.0.4) – `v2.0.4` (📅 2026-01-03)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v2.0.4)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.0) – `0.60.0` (📅 2026-01-11)  
