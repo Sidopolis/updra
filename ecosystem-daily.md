@@ -4,20 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qiboteam/qibotn](https://github.com/qiboteam/qibotn/releases/tag/v0.0.5) – `v0.0.5` (📅 2025-06-20)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibotn/releases/tag/v0.0.5)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [Aid-On/unillm](https://github.com/Aid-On/unillm/releases/tag/v0.5.1) – `v0.5.1` (📅 2025-12-31)  
-  🔗 [Release Notes](https://github.com/Aid-On/unillm/releases/tag/v0.5.1)
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.4) – `v0.18.4` (📅 2025-12-31)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.4)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.276) – `v4.0.276` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.276)
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.232) – `v4.0.232` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.232)
-- [kubewarden/verify-image-signatures](https://github.com/kubewarden/verify-image-signatures/releases/tag/v1.0.4) – `v1.0.4` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/kubewarden/verify-image-signatures/releases/tag/v1.0.4)
+- [seliumlabs/selium](https://github.com/seliumlabs/selium/releases/tag/server-0.5.0) – `server-0.5.0` (📅 2024-05-06)  
+  🔗 [Release Notes](https://github.com/seliumlabs/selium/releases/tag/server-0.5.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui/releases/tag/0.1.1) – `0.1.1` (📅 2026-01-03)  
+  🔗 [Release Notes](https://github.com/elementary-swift/elementary-ui/releases/tag/0.1.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
