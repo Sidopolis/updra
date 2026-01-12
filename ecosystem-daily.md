@@ -10,8 +10,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [LiveSplit/LiveSplitOne](https://github.com/LiveSplit/LiveSplitOne/releases/tag/latest) – `latest` (📅 2024-07-21)  
-  🔗 [Release Notes](https://github.com/LiveSplit/LiveSplitOne/releases/tag/latest)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.4.1) – `v1.4.1` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.4.1)
+- [GhevondW/cortex](https://github.com/GhevondW/cortex/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-01-04)  
+  🔗 [Release Notes](https://github.com/GhevondW/cortex/releases/tag/v0.1.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
