@@ -7,11 +7,16 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [edgee-cloud/rust-sdk](https://github.com/edgee-cloud/rust-sdk/releases/tag/v2.0.0) – `v2.0.0` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/edgee-cloud/rust-sdk/releases/tag/v2.0.0)
 
 ## 🔹 Webassembly
-- [hi2ma-bu4/SnowFall2](https://github.com/hi2ma-bu4/SnowFall2/releases/tag/v0.4.1) – `v0.4.1` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/hi2ma-bu4/SnowFall2/releases/tag/v0.4.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.3) – `v0.4.3` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.3)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.3) – `2.10.3` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.3)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
