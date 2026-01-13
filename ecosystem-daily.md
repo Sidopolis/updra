@@ -10,10 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346) – `v4.251121.1346` (📅 2025-11-21)  
-  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346)
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.283) – `v4.0.283` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.283)
+- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.96.0) – `@stlite/browser@0.96.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.96.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
