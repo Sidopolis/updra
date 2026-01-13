@@ -4,18 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Quantinuum/hugr](https://github.com/Quantinuum/hugr/releases/tag/hugr-v0.25.3) – `hugr-v0.25.3` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/Quantinuum/hugr/releases/tag/hugr-v0.25.3)
-- [quantumlib/Stim](https://github.com/quantumlib/Stim/releases/tag/v1.15.0) – `v1.15.0` (📅 2025-05-07)  
-  🔗 [Release Notes](https://github.com/quantumlib/Stim/releases/tag/v1.15.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.3) – `v2.12.3` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.3)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [spinframework/spin](https://github.com/spinframework/spin/releases/tag/v3.5.1) – `v3.5.1` (📅 2025-11-12)  
+  🔗 [Release Notes](https://github.com/spinframework/spin/releases/tag/v3.5.1)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.16) – `v1.0.0-beta.16` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.16)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
