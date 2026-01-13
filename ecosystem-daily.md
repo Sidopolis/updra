@@ -1,4 +1,4 @@
-# 🌐 Ecosystem Daily Log – 2026-01-12
+# 🌐 Ecosystem Daily Log – 2026-01-13
 
 ## 🔹 Ai-ethics
 - No recent releases found.
@@ -7,13 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [ifilex/Freedows8Bit](https://github.com/ifilex/Freedows8Bit/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/ifilex/Freedows8Bit/releases/tag/v1.2.0)
+- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346) – `v4.251121.1346` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.283) – `v4.0.283` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.283)
 
 ## 🔹 Green-software
-- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
-  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5)
