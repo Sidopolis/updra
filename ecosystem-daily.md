@@ -4,19 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [amachino/qubex](https://github.com/amachino/qubex/releases/tag/v1.4.3) – `v1.4.3` (📅 2025-11-11)  
-  🔗 [Release Notes](https://github.com/amachino/qubex/releases/tag/v1.4.3)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [thomasvincent/terraform-cloudflare-maintenance](https://github.com/thomasvincent/terraform-cloudflare-maintenance/releases/tag/v3.0.0) – `v3.0.0` (📅 2025-10-04)  
+  🔗 [Release Notes](https://github.com/thomasvincent/terraform-cloudflare-maintenance/releases/tag/v3.0.0)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.235) – `v4.0.235` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.235)
-- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.96.0) – `@stlite/browser@0.96.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/browser%400.96.0)
-- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.4.1) – `v3.4.1` (📅 2025-11-08)  
-  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.4.1)
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.15) – `v0.5.15` (📅 2025-12-26)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.15)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.1) – `v10.2.1` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
