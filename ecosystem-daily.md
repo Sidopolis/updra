@@ -4,14 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Quantinuum/hugr](https://github.com/Quantinuum/hugr/releases/tag/hugr-v0.25.3) – `hugr-v0.25.3` (📅 2026-01-09)  
+  🔗 [Release Notes](https://github.com/Quantinuum/hugr/releases/tag/hugr-v0.25.3)
+- [quantumlib/Stim](https://github.com/quantumlib/Stim/releases/tag/v1.15.0) – `v1.15.0` (📅 2025-05-07)  
+  🔗 [Release Notes](https://github.com/quantumlib/Stim/releases/tag/v1.15.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.3) – `v2.12.3` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.3)
 
 ## 🔹 Webassembly
-- [wasm-fmt/mago_fmt](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.5.0) – `v0.5.0` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.5.0)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
