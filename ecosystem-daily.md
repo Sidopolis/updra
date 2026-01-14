@@ -10,8 +10,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.1) – `v10.2.1` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.1)
+- [hpcc-systems/hpcc-js-wasm](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.32.1) – `wasm-v2.32.1` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.32.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
