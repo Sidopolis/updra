@@ -10,12 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.197) – `v0.8.197` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.197)
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.572) – `v4.0.572` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.572)
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.237) – `v4.0.237` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.237)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.291) – `v4.0.291` (📅 2026-01-14)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.291)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
