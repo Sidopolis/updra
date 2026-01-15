@@ -10,8 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.1) – `v10.2.1` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.1)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.2) – `v40.0.2` (📅 2026-01-14)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v40.0.2)
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.197) – `v0.8.197` (📅 2026-01-14)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.197)
 
