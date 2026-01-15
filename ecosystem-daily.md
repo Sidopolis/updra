@@ -1,23 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2026-01-15
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qilimanjaro-tech/qilisdk](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.7) – `0.1.7` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.7)
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
+- [make87/m87](https://github.com/make87/m87/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-01-14)  
+  🔗 [Release Notes](https://github.com/make87/m87/releases/tag/v0.3.0)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.10.0) – `v1.10.0` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.10.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
-- No recent releases found.
+- [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0)
+- [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
+  🔗 [Release Notes](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2)
