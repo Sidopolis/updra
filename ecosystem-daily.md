@@ -7,16 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [make87/m87](https://github.com/make87/m87/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/make87/m87/releases/tag/v0.3.0)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
-- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.10.0) – `v1.10.0` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.10.0)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.3) – `v0.4.3` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.3)
+- [avwohl/romwbw_emu](https://github.com/avwohl/romwbw_emu/releases/tag/v1.24) – `v1.24` (📅 2026-01-05)  
+  🔗 [Release Notes](https://github.com/avwohl/romwbw_emu/releases/tag/v1.24)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
