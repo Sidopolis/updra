@@ -1,27 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2026-01-15
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [qilimanjaro-tech/qilisdk](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.7) – `0.1.7` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.7)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [good-lly/s3mini](https://github.com/good-lly/s3mini/releases/tag/v0.9.0) – `v0.9.0` (📅 2025-12-23)  
-  🔗 [Release Notes](https://github.com/good-lly/s3mini/releases/tag/v0.9.0)
-- [dayu-autostreamer/dayu](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2) – `v1.2` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.3) – `v0.4.3` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.3)
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
+- No recent releases found.
 
 ## 🔹 Green-software
-- [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0)
-- [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
-  🔗 [Release Notes](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2)
+- No recent releases found.
