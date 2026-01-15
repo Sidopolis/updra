@@ -4,20 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [quantumlib/Stim](https://github.com/quantumlib/Stim/releases/tag/v1.15.0) – `v1.15.0` (📅 2025-05-07)  
-  🔗 [Release Notes](https://github.com/quantumlib/Stim/releases/tag/v1.15.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [good-lly/s3mini](https://github.com/good-lly/s3mini/releases/tag/v0.9.0) – `v0.9.0` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/good-lly/s3mini/releases/tag/v0.9.0)
+- [dayu-autostreamer/dayu](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2) – `v1.2` (📅 2026-01-15)  
+  🔗 [Release Notes](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [onecoolx/picasso](https://github.com/onecoolx/picasso/releases/tag/v2.8.0) – `v2.8.0` (📅 2024-07-16)  
-  🔗 [Release Notes](https://github.com/onecoolx/picasso/releases/tag/v2.8.0)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.197) – `v0.8.197` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.197)
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.3) – `v0.4.3` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.3)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v0.7.0) – `v0.7.0` (📅 2025-12-17)  
