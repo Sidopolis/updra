@@ -7,16 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.48.19) – `1.48.19` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.48.19)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15) – `v0.8.15` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15)
+- [kkratterf/fratmscript](https://github.com/kkratterf/fratmscript/releases/tag/%400.1.0) – `@0.1.0` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/kkratterf/fratmscript/releases/tag/%400.1.0)
+- [kubewarden/policies](https://github.com/kubewarden/policies/releases/tag/flexvolume-drivers-psp-policy/v1.0.9) – `flexvolume-drivers-psp-policy/v1.0.9` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/kubewarden/policies/releases/tag/flexvolume-drivers-psp-policy/v1.0.9)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-16)  
