@@ -1,24 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-01-16
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.0) – `v3.4.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.9) – `v1.17.9` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.9)
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.48.19) – `1.48.19` (📅 2026-01-15)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.48.19)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [avwohl/romwbw_emu](https://github.com/avwohl/romwbw_emu/releases/tag/v1.24) – `v1.24` (📅 2026-01-05)  
-  🔗 [Release Notes](https://github.com/avwohl/romwbw_emu/releases/tag/v1.24)
-- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.3) – `v10.0.3` (📅 2025-12-25)  
-  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.3)
-- [SWI-Prolog/npm-swipl-wasm](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v6.0.0) – `v6.0.0` (📅 2025-12-30)  
-  🔗 [Release Notes](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v6.0.0)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15) – `v0.8.15` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-16)  
