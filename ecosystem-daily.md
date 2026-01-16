@@ -8,12 +8,11 @@
   🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.23.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.4) – `2.10.4` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.4)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.198) – `v0.8.198` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.198)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-16)  
