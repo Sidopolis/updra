@@ -4,17 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.23.0) – `v1.23.0` (📅 2025-12-09)  
+  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.23.0)
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.25) – `v0.0.25` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.25)
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [andyl-technologies/wasm-component-trampoline](https://github.com/andyl-technologies/wasm-component-trampoline/releases/tag/v40.0.0) – `v40.0.0` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/andyl-technologies/wasm-component-trampoline/releases/tag/v40.0.0)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.4) – `2.10.4` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.4)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-16)  
