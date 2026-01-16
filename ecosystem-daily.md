@@ -10,10 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [kkratterf/fratmscript](https://github.com/kkratterf/fratmscript/releases/tag/%400.1.0) – `@0.1.0` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/kkratterf/fratmscript/releases/tag/%400.1.0)
-- [kubewarden/policies](https://github.com/kubewarden/policies/releases/tag/flexvolume-drivers-psp-policy/v1.0.9) – `flexvolume-drivers-psp-policy/v1.0.9` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/kubewarden/policies/releases/tag/flexvolume-drivers-psp-policy/v1.0.9)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.197) – `v0.8.197` (📅 2026-01-14)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.197)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-16)  
