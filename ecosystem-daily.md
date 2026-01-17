@@ -4,15 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.117) – `v0.0.117` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.117)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+
 ## 🔹 Webassembly
-- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346) – `v4.251121.1346` (📅 2025-11-21)  
-  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.1) – `v10.2.1` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.1)
 - [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0) – `0.2.0` (📅 2026-01-08)  
   🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0)
 
