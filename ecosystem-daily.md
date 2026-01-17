@@ -1,24 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2026-01-17
 
 ## 🔹 Ai-ethics
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qmap](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.5.0) – `v3.5.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.5.0)
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.0) – `v3.4.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [netsim-labs/netsim](https://github.com/netsim-labs/netsim/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-17)  
-  🔗 [Release Notes](https://github.com/netsim-labs/netsim/releases/tag/v1.0.0)
+- [iceshard-engine/ice-build-tools](https://github.com/iceshard-engine/ice-build-tools/releases/tag/v1.11.1) – `v1.11.1` (📅 2025-11-29)  
+  🔗 [Release Notes](https://github.com/iceshard-engine/ice-build-tools/releases/tag/v1.11.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.198) – `v0.8.198` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.198)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-16)  
