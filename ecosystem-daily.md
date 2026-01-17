@@ -4,18 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.199) – `v0.8.199` (📅 2026-01-17)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.199)
-- [jedisct1/EtchDNS](https://github.com/jedisct1/EtchDNS/releases/tag/0.1.2) – `0.1.2` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/jedisct1/EtchDNS/releases/tag/0.1.2)
+- [vertigo-web/vertigo](https://github.com/vertigo-web/vertigo/releases/tag/v0.10.0) – `v0.10.0` (📅 2026-01-03)  
+  🔗 [Release Notes](https://github.com/vertigo-web/vertigo/releases/tag/v0.10.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
