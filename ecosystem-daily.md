@@ -4,16 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.199) – `v0.8.199` (📅 2026-01-17)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.199)
+- [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.39.0) – `rust-v0.39.0` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.39.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
