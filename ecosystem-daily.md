@@ -4,18 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [kkratterf/fratmscript](https://github.com/kkratterf/fratmscript/releases/tag/%400.1.0) – `@0.1.0` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/kkratterf/fratmscript/releases/tag/%400.1.0)
-- [kryonlabs/kryon](https://github.com/kryonlabs/kryon/releases/tag/latest) – `latest` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/kryonlabs/kryon/releases/tag/latest)
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v2.0.4) – `v2.0.4` (📅 2026-01-03)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v2.0.4)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
