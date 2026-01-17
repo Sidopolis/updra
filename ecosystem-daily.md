@@ -10,8 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [Jurioli/Blazor.WebForm.Components](https://github.com/Jurioli/Blazor.WebForm.Components/releases/tag/2.6.0.1) – `2.6.0.1` (📅 2026-01-17)  
-  🔗 [Release Notes](https://github.com/Jurioli/Blazor.WebForm.Components/releases/tag/2.6.0.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.198) – `v0.8.198` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.198)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
