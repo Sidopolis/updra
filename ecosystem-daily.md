@@ -4,17 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.0) – `v3.4.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.0)
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.117) – `v0.0.117` (📅 2026-01-14)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.117)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [iceshard-engine/ice-build-tools](https://github.com/iceshard-engine/ice-build-tools/releases/tag/v1.11.1) – `v1.11.1` (📅 2025-11-29)  
-  🔗 [Release Notes](https://github.com/iceshard-engine/ice-build-tools/releases/tag/v1.11.1)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.198) – `v0.8.198` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.198)
+- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346) – `v4.251121.1346` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v4.251121.1346)
+- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0) – `0.2.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0)
 
 ## 🔹 Green-software
 - [ScottLogic/sl-tech-carbon-estimator](https://github.com/ScottLogic/sl-tech-carbon-estimator/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-16)  
