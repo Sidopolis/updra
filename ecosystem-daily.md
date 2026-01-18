@@ -10,12 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [kryonlabs/kryon](https://github.com/kryonlabs/kryon/releases/tag/latest) – `latest` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/kryonlabs/kryon/releases/tag/latest)
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v2.0.4) – `v2.0.4` (📅 2026-01-03)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v2.0.4)
-- [branc116/brplot](https://github.com/branc116/brplot/releases/tag/v0.0.13) – `v0.0.13` (📅 2025-12-23)  
-  🔗 [Release Notes](https://github.com/branc116/brplot/releases/tag/v0.0.13)
+- [alanbld/utf8proj](https://github.com/alanbld/utf8proj/releases/tag/v0.10.0) – `v0.10.0` (📅 2026-01-18)  
+  🔗 [Release Notes](https://github.com/alanbld/utf8proj/releases/tag/v0.10.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
