@@ -10,10 +10,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.3) – `v0.4.3` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.3)
-- [wasm-fmt/yamlfmt](https://github.com/wasm-fmt/yamlfmt/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/yamlfmt/releases/tag/v0.2.0)
+- [alanbld/utf8proj](https://github.com/alanbld/utf8proj/releases/tag/v0.9.1) – `v0.9.1` (📅 2026-01-17)  
+  🔗 [Release Notes](https://github.com/alanbld/utf8proj/releases/tag/v0.9.1)
+- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v5.260117.0500) – `v5.260117.0500` (📅 2026-01-17)  
+  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v5.260117.0500)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
