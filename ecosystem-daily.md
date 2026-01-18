@@ -1,19 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2026-01-18
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [Tamplier/llm_safety_guardian](https://github.com/Tamplier/llm_safety_guardian/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/Tamplier/llm_safety_guardian/releases/tag/v0.1.3)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [branc116/brplot](https://github.com/branc116/brplot/releases/tag/v0.0.13) – `v0.0.13` (📅 2025-12-23)  
-  🔗 [Release Notes](https://github.com/branc116/brplot/releases/tag/v0.0.13)
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.292) – `v4.0.292` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.292)
+- [libadlmidi-js/libadlmidi-js](https://github.com/libadlmidi-js/libadlmidi-js/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-18)  
+  🔗 [Release Notes](https://github.com/libadlmidi-js/libadlmidi-js/releases/tag/v1.0.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
