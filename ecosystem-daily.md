@@ -4,18 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [elias-utf8/qcaml](https://github.com/elias-utf8/qcaml/releases/tag/v0.1.7) – `v0.1.7` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/elias-utf8/qcaml/releases/tag/v0.1.7)
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.0) – `v3.4.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.575) – `v4.0.575` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.575)
+- [kryonlabs/kryon](https://github.com/kryonlabs/kryon/releases/tag/latest) – `latest` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/kryonlabs/kryon/releases/tag/latest)
+- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v2.0.4) – `v2.0.4` (📅 2026-01-03)  
+  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v2.0.4)
+- [branc116/brplot](https://github.com/branc116/brplot/releases/tag/v0.0.13) – `v0.0.13` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/branc116/brplot/releases/tag/v0.0.13)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
