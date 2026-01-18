@@ -10,8 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [LostBeard/SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.35.0) – `v2.35.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.35.0)
+- [branc116/brplot](https://github.com/branc116/brplot/releases/tag/v0.0.13) – `v0.0.13` (📅 2025-12-23)  
+  🔗 [Release Notes](https://github.com/branc116/brplot/releases/tag/v0.0.13)
 - [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.292) – `v4.0.292` (📅 2026-01-14)  
   🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.292)
 
