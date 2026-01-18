@@ -4,16 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [itsubaki/qasm](https://github.com/itsubaki/qasm/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/itsubaki/qasm/releases/tag/v0.1.3)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.3) – `v0.4.3` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.3)
+- [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.40.0) – `rust-v0.40.0` (📅 2026-01-18)  
+  🔗 [Release Notes](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.40.0)
+- [wasm-fmt/mago_fmt](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.5.1) – `v0.5.1` (📅 2026-01-18)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.5.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
