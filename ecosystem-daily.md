@@ -4,16 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [itsubaki/qasm](https://github.com/itsubaki/qasm/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-12)  
+  🔗 [Release Notes](https://github.com/itsubaki/qasm/releases/tag/v0.1.3)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [alanbld/utf8proj](https://github.com/alanbld/utf8proj/releases/tag/v0.9.1) – `v0.9.1` (📅 2026-01-17)  
-  🔗 [Release Notes](https://github.com/alanbld/utf8proj/releases/tag/v0.9.1)
-- [arianrhodsandlot/retroassembly](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v5.260117.0500) – `v5.260117.0500` (📅 2026-01-17)  
-  🔗 [Release Notes](https://github.com/arianrhodsandlot/retroassembly/releases/tag/v5.260117.0500)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
