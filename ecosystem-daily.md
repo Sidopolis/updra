@@ -1,28 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-01-19
 
 ## 🔹 Ai-ethics
-- [haku-field/RET-anchor](https://github.com/haku-field/RET-anchor/releases/tag/v1.1.0) – `v1.1.0` (📅 2026-01-19)  
-  🔗 [Release Notes](https://github.com/haku-field/RET-anchor/releases/tag/v1.1.0)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Quantinuum/guppylang](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-v0.21.8) – `guppylang-v0.21.8` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-v0.21.8)
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0) – `v1.5.0` (📅 2023-06-15)  
-  🔗 [Release Notes](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0)
-- [dayu-autostreamer/dayu](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2) – `v1.2` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
-- [wasm-fmt/yamlfmt](https://github.com/wasm-fmt/yamlfmt/releases/tag/v0.2.1) – `v0.2.1` (📅 2026-01-19)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/yamlfmt/releases/tag/v0.2.1)
-- [wasm-fmt/gofmt](https://github.com/wasm-fmt/gofmt/releases/tag/v0.7.2) – `v0.7.2` (📅 2026-01-19)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/gofmt/releases/tag/v0.7.2)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.4) – `2.10.4` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.4)
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.3) – `v10.0.3` (📅 2025-12-25)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.3)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
