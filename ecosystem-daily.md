@@ -4,19 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qubernetes-dev/q8s-kernel](https://github.com/qubernetes-dev/q8s-kernel/releases/tag/v0.12.0-dev1) – `v0.12.0-dev1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/qubernetes-dev/q8s-kernel/releases/tag/v0.12.0-dev1)
+- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v10.0.0) – `vm6502q.v10.0.0` (📅 2026-01-14)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v10.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.295) – `v4.0.295` (📅 2026-01-19)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.295)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.199) – `v0.8.199` (📅 2026-01-17)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.199)
-- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm/releases/tag/v3.0.2) – `v3.0.2` (📅 2025-08-26)  
-  🔗 [Release Notes](https://github.com/CosmWasm/cosmwasm/releases/tag/v3.0.2)
+- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.57.0) – `v2.57.0` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.57.0)
+- [LostBeard/SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.35.0) – `v2.35.0` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.35.0)
+- [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.31.0) – `v1.31.0` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.31.0)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
