@@ -4,18 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [harmoniqs/QuantumCollocation.jl](https://github.com/harmoniqs/QuantumCollocation.jl/releases/tag/v0.10.0) – `v0.10.0` (📅 2026-01-19)  
-  🔗 [Release Notes](https://github.com/harmoniqs/QuantumCollocation.jl/releases/tag/v0.10.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [lfedgeai/SPEAR](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4) – `v0.0.4` (📅 2025-07-08)  
-  🔗 [Release Notes](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [lfedgeai/SPEAR](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4) – `v0.0.4` (📅 2025-07-08)  
-  🔗 [Release Notes](https://github.com/lfedgeai/SPEAR/releases/tag/v0.0.4)
+- [kubewarden/trusted-repos-policy](https://github.com/kubewarden/trusted-repos-policy/releases/tag/v2.0.4) – `v2.0.4` (📅 2025-12-12)  
+  🔗 [Release Notes](https://github.com/kubewarden/trusted-repos-policy/releases/tag/v2.0.4)
+- [kubewarden/seccomp-psp-policy](https://github.com/kubewarden/seccomp-psp-policy/releases/tag/v1.0.8) – `v1.0.8` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/kubewarden/seccomp-psp-policy/releases/tag/v1.0.8)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
