@@ -4,20 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/debugger](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [mewz-project/mewz](https://github.com/mewz-project/mewz/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-31)  
-  🔗 [Release Notes](https://github.com/mewz-project/mewz/releases/tag/v0.1.3)
-- [seliumlabs/selium](https://github.com/seliumlabs/selium/releases/tag/server-0.5.0) – `server-0.5.0` (📅 2024-05-06)  
-  🔗 [Release Notes](https://github.com/seliumlabs/selium/releases/tag/server-0.5.0)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.199) – `v0.8.199` (📅 2026-01-17)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.199)
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
