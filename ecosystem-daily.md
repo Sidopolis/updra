@@ -1,17 +1,18 @@
 # 🌐 Ecosystem Daily Log – 2026-01-19
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [hollowhouseinstitute/Master_License_Suite](https://github.com/hollowhouseinstitute/Master_License_Suite/releases/tag/v1.0.0-canonical-lock) – `v1.0.0-canonical-lock` (📅 2026-01-17)  
+  🔗 [Release Notes](https://github.com/hollowhouseinstitute/Master_License_Suite/releases/tag/v1.0.0-canonical-lock)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
 
