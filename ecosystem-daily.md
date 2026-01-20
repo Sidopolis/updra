@@ -4,20 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qi-rub/traq](https://github.com/qi-rub/traq/releases/tag/v0.1) – `v0.1` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/qi-rub/traq/releases/tag/v0.1)
+- [softwareQinc/staq](https://github.com/softwareQinc/staq/releases/tag/v3.5) – `v3.5` (📅 2024-03-08)  
+  🔗 [Release Notes](https://github.com/softwareQinc/staq/releases/tag/v3.5)
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.3) – `v2.12.3` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.3)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
-- [kubewarden/pod-privileged-policy](https://github.com/kubewarden/pod-privileged-policy/releases/tag/v1.0.8) – `v1.0.8` (📅 2025-11-13)  
-  🔗 [Release Notes](https://github.com/kubewarden/pod-privileged-policy/releases/tag/v1.0.8)
-- [kubewarden/verify-image-signatures](https://github.com/kubewarden/verify-image-signatures/releases/tag/v1.0.4) – `v1.0.4` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/kubewarden/verify-image-signatures/releases/tag/v1.0.4)
+- [kubewarden/volumes-psp-policy](https://github.com/kubewarden/volumes-psp-policy/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-12-12)  
+  🔗 [Release Notes](https://github.com/kubewarden/volumes-psp-policy/releases/tag/v1.1.5)
+- [kubewarden/hostpaths-psp-policy](https://github.com/kubewarden/hostpaths-psp-policy/releases/tag/v1.1.3) – `v1.1.3` (📅 2025-12-12)  
+  🔗 [Release Notes](https://github.com/kubewarden/hostpaths-psp-policy/releases/tag/v1.1.3)
+- [kubewarden/allowed-fsgroups-psp-policy](https://github.com/kubewarden/allowed-fsgroups-psp-policy/releases/tag/v1.0.5) – `v1.0.5` (📅 2025-09-15)  
+  🔗 [Release Notes](https://github.com/kubewarden/allowed-fsgroups-psp-policy/releases/tag/v1.0.5)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
