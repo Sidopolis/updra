@@ -4,16 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.16) – `v0.5.16` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.16)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.200) – `v0.8.200` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.200)
+- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/jupyterlite/jupyterlite/releases/tag/v0.7.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
