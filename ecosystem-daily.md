@@ -4,17 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [qi-rub/traq](https://github.com/qi-rub/traq/releases/tag/v0.1) – `v0.1` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/qi-rub/traq/releases/tag/v0.1)
 
 ## 🔹 Edge-computing
-- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.48.19) – `1.48.19` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.48.19)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
-- [jedisct1/zigly](https://github.com/jedisct1/zigly/releases/tag/0.1.13) – `0.1.13` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/jedisct1/zigly/releases/tag/0.1.13)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.200) – `v0.8.200` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.200)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [kubewarden/pod-privileged-policy](https://github.com/kubewarden/pod-privileged-policy/releases/tag/v1.0.8) – `v1.0.8` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/kubewarden/pod-privileged-policy/releases/tag/v1.0.8)
+- [kubewarden/verify-image-signatures](https://github.com/kubewarden/verify-image-signatures/releases/tag/v1.0.4) – `v1.0.4` (📅 2025-08-13)  
+  🔗 [Release Notes](https://github.com/kubewarden/verify-image-signatures/releases/tag/v1.0.4)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
