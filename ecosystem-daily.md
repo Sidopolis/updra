@@ -7,16 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.3) – `v2.12.3` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.3)
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.7.2) – `1.7.2` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.7.2)
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.48.19) – `1.48.19` (📅 2026-01-15)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.48.19)
 
 ## 🔹 Webassembly
-- [jedisct1/zigly](https://github.com/jedisct1/zigly/releases/tag/0.1.12) – `0.1.12` (📅 2026-01-19)  
-  🔗 [Release Notes](https://github.com/jedisct1/zigly/releases/tag/0.1.12)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [jedisct1/zigly](https://github.com/jedisct1/zigly/releases/tag/0.1.13) – `0.1.13` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/jedisct1/zigly/releases/tag/0.1.13)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.200) – `v0.8.200` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.200)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
