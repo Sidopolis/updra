@@ -10,7 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [kubewarden/github-actions](https://github.com/kubewarden/github-actions/releases/tag/v4.5.16) – `v4.5.16` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/kubewarden/github-actions/releases/tag/v4.5.16)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
