@@ -4,22 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/bench](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-10-18)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.1.0)
-- [Quantinuum/hugr](https://github.com/Quantinuum/hugr/releases/tag/hugr-v0.25.4) – `hugr-v0.25.4` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/Quantinuum/hugr/releases/tag/hugr-v0.25.4)
-- [Quantinuum/tket](https://github.com/Quantinuum/tket/releases/tag/v2.11.0) – `v2.11.0` (📅 2025-11-24)  
-  🔗 [Release Notes](https://github.com/Quantinuum/tket/releases/tag/v2.11.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
-- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.3) – `v2.12.3` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.3)
+- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.7.2) – `1.7.2` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.7.2)
 
 ## 🔹 Webassembly
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.17) – `v1.0.0-beta.17` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.17)
+- [jedisct1/zigly](https://github.com/jedisct1/zigly/releases/tag/0.1.12) – `0.1.12` (📅 2026-01-19)  
+  🔗 [Release Notes](https://github.com/jedisct1/zigly/releases/tag/0.1.12)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
