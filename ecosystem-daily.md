@@ -4,22 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [csnp/qramm-cryptoscan](https://github.com/csnp/qramm-cryptoscan/releases/tag/v1.0.3) – `v1.0.3` (📅 2025-12-26)  
-  🔗 [Release Notes](https://github.com/csnp/qramm-cryptoscan/releases/tag/v1.0.3)
-- [csnp/qramm-tls-analyzer](https://github.com/csnp/qramm-tls-analyzer/releases/tag/v0.2.2) – `v0.2.2` (📅 2025-12-26)  
-  🔗 [Release Notes](https://github.com/csnp/qramm-tls-analyzer/releases/tag/v0.2.2)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0) – `v0.14.0` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0)
 
 ## 🔹 Edge-computing
-- [make87/m87](https://github.com/make87/m87/releases/tag/v0.5.1) – `v0.5.1` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/make87/m87/releases/tag/v0.5.1)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
-- [LostBeard/SpawnDev.BlazorJS.WebWorkers](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.36.0) – `v2.36.0` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS.WebWorkers/releases/tag/v2.36.0)
-- [tinywasm/fmt](https://github.com/tinywasm/fmt/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-09-06)  
-  🔗 [Release Notes](https://github.com/tinywasm/fmt/releases/tag/v0.5.0)
+- [savannahostrowski/pyrepl-web](https://github.com/savannahostrowski/pyrepl-web/releases/tag/0.1.8) – `0.1.8` (📅 2026-01-21)  
+  🔗 [Release Notes](https://github.com/savannahostrowski/pyrepl-web/releases/tag/0.1.8)
+- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.59.0) – `v2.59.0` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.59.0)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
