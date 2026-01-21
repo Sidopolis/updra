@@ -1,23 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2026-01-21
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [harmoniqs/Piccolo.jl](https://github.com/harmoniqs/Piccolo.jl/releases/tag/v0.10.0) – `v0.10.0` (📅 2025-11-06)  
-  🔗 [Release Notes](https://github.com/harmoniqs/Piccolo.jl/releases/tag/v0.10.0)
-- [munich-quantum-toolkit/qusat](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.4) – `v0.18.4` (📅 2025-12-31)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.4)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [arhantbarmate/nexus-core](https://github.com/arhantbarmate/nexus-core/releases/tag/v1.3.1) – `v1.3.1` (📅 2026-01-18)  
+  🔗 [Release Notes](https://github.com/arhantbarmate/nexus-core/releases/tag/v1.3.1)
 
 ## 🔹 Webassembly
-- [jupyterlite/xeus](https://github.com/jupyterlite/xeus/releases/tag/v4.4.0) – `v4.4.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/jupyterlite/xeus/releases/tag/v4.4.0)
-- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.29.2) – `0.29.2` (📅 2026-01-21)  
-  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.29.2)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.5) – `2.10.5` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.5)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
