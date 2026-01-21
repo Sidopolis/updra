@@ -4,18 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v10.0.0) – `vm6502q.v10.0.0` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v10.0.0)
 - [nikolasibalic/ARC-Alkali-Rydberg-Calculator](https://github.com/nikolasibalic/ARC-Alkali-Rydberg-Calculator/releases/tag/v3.10.0) – `v3.10.0` (📅 2026-01-18)  
   🔗 [Release Notes](https://github.com/nikolasibalic/ARC-Alkali-Rydberg-Calculator/releases/tag/v3.10.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.0) – `v41.0.0` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.0)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.4.1) – `v1.4.1` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.4.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
