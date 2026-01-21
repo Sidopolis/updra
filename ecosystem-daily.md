@@ -4,25 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [amazon-braket/amazon-braket-sdk-python](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.109.0) – `v1.109.0` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.109.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [open-horizon/exchange-api](https://github.com/open-horizon/exchange-api/releases/tag/v2.87.0) – `v2.87.0` (📅 2021-09-13)  
-  🔗 [Release Notes](https://github.com/open-horizon/exchange-api/releases/tag/v2.87.0)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [alanbld/utf8proj](https://github.com/alanbld/utf8proj/releases/tag/v0.11.0) – `v0.11.0` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/alanbld/utf8proj/releases/tag/v0.11.0)
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.5) – `2.10.5` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.5)
 - [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.4.1) – `v1.4.1` (📅 2026-01-08)  
   🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.4.1)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.0) – `v41.0.0` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5)
-- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.0) – `0.60.0` (📅 2026-01-11)  
-  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.0)
