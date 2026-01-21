@@ -4,15 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [nikolasibalic/ARC-Alkali-Rydberg-Calculator](https://github.com/nikolasibalic/ARC-Alkali-Rydberg-Calculator/releases/tag/v3.10.0) – `v3.10.0` (📅 2026-01-18)  
-  🔗 [Release Notes](https://github.com/nikolasibalic/ARC-Alkali-Rydberg-Calculator/releases/tag/v3.10.0)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0) – `v0.44.0` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0)
+- [nichechristie/Luxbin-Quantum-internet](https://github.com/nichechristie/Luxbin-Quantum-internet/releases/tag/v.1.0) – `v.1.0` (📅 2026-01-09)  
+  🔗 [Release Notes](https://github.com/nichechristie/Luxbin-Quantum-internet/releases/tag/v.1.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [adhamhaithameid/Classroom-Quick-Downloader](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0)
+- [open-horizon/anax](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1739) – `v2.32.0-1739` (📅 2025-09-22)  
+  🔗 [Release Notes](https://github.com/open-horizon/anax/releases/tag/v2.32.0-1739)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.4.1) – `v1.4.1` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.4.1)
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt/releases/tag/1.0.39) – `1.0.39` (📅 2025-11-04)  
+  🔗 [Release Notes](https://github.com/WebAssembly/wabt/releases/tag/1.0.39)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
