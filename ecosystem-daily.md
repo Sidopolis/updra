@@ -1,21 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-01-22
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.35.0) – `v0.35.0` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.35.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.239) – `v4.0.239` (📅 2026-01-18)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.239)
-- [RibirX/Ribir](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0) – `ribir-v0.3.0` (📅 2024-08-26)  
-  🔗 [Release Notes](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0)
+- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.4.58) – `6.4.58` (📅 2026-01-15)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.4.58)
+- [taubyte/tau](https://github.com/taubyte/tau/releases/tag/v1.1.9) – `v1.1.9` (📅 2025-11-23)  
+  🔗 [Release Notes](https://github.com/taubyte/tau/releases/tag/v1.1.9)
+- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
