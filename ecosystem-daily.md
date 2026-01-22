@@ -1,19 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2026-01-22
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [dwavesystems/dwave-hybrid](https://github.com/dwavesystems/dwave-hybrid/releases/tag/0.6.15) – `0.6.15` (📅 2026-01-22)  
-  🔗 [Release Notes](https://github.com/dwavesystems/dwave-hybrid/releases/tag/0.6.15)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [open-horizon/examples](https://github.com/open-horizon/examples/releases/tag/v2.32.0-1739) – `v2.32.0-1739` (📅 2025-09-22)  
-  🔗 [Release Notes](https://github.com/open-horizon/examples/releases/tag/v2.32.0-1739)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.25) – `v0.0.25` (📅 2026-01-14)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.25)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.5.0) – `v1.5.0` (📅 2026-01-22)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.5.0)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.299) – `v4.0.299` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.299)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
