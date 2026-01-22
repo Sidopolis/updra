@@ -4,14 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [quantumlib/Qualtran](https://github.com/quantumlib/Qualtran/releases/tag/v0.7.0) – `v0.7.0` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/quantumlib/Qualtran/releases/tag/v0.7.0)
+- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.23.0) – `v1.23.0` (📅 2025-12-09)  
+  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.23.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.5.1) – `v1.5.1` (📅 2026-01-22)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.5.1)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.0) – `v41.0.0` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.0)
 - [proxy-wasm/proxy-wasm-rust-sdk](https://github.com/proxy-wasm/proxy-wasm-rust-sdk/releases/tag/v0.2.4) – `v0.2.4` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/proxy-wasm/proxy-wasm-rust-sdk/releases/tag/v0.2.4)
 
