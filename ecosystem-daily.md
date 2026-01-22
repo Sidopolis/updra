@@ -7,16 +7,15 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [wasm-fmt/mago_fmt](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.5.2) – `v0.5.2` (📅 2026-01-18)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.5.2)
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.239) – `v4.0.239` (📅 2026-01-18)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.239)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
+  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.18) – `v1.0.0-beta.18` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0-beta.18)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.5) – `2.10.5` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.5)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
