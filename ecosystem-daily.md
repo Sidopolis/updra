@@ -1,18 +1,21 @@
-# 🌐 Ecosystem Daily Log – 2026-01-21
+# 🌐 Ecosystem Daily Log – 2026-01-22
 
 ## 🔹 Ai-ethics
 - [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [quantumlib/qsim](https://github.com/quantumlib/qsim/releases/tag/v0.22.0) – `v0.22.0` (📅 2025-06-24)  
-  🔗 [Release Notes](https://github.com/quantumlib/qsim/releases/tag/v0.22.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.35.0) – `v0.35.0` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.35.0)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.239) – `v4.0.239` (📅 2026-01-18)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.239)
+- [RibirX/Ribir](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0) – `ribir-v0.3.0` (📅 2024-08-26)  
+  🔗 [Release Notes](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
