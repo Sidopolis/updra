@@ -7,12 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [SonicJs-Org/sonicjs](https://github.com/SonicJs-Org/sonicjs/releases/tag/v2.5.0) – `v2.5.0` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/SonicJs-Org/sonicjs/releases/tag/v2.5.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.37) – `0.0.37` (📅 2025-11-01)  
-  🔗 [Release Notes](https://github.com/dlemstra/magick-wasm/releases/tag/0.0.37)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.5.1) – `v1.5.1` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.5.1)
+- [proxy-wasm/proxy-wasm-rust-sdk](https://github.com/proxy-wasm/proxy-wasm-rust-sdk/releases/tag/v0.2.4) – `v0.2.4` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/proxy-wasm/proxy-wasm-rust-sdk/releases/tag/v0.2.4)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
