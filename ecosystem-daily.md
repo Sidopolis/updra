@@ -4,16 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0) – `v0.44.0` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.4.58) – `6.4.58` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.4.58)
-- [taubyte/tau](https://github.com/taubyte/tau/releases/tag/v1.1.9) – `v1.1.9` (📅 2025-11-23)  
-  🔗 [Release Notes](https://github.com/taubyte/tau/releases/tag/v1.1.9)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.38.0) – `0.38.0` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.38.0)
 - [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
   🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
 
