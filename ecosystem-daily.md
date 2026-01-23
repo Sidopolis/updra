@@ -1,23 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2026-01-23
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0) – `v0.44.0` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0)
+
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.9) – `v1.17.9` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.9)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
 
 ## 🔹 Webassembly
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.2) – `v10.2.2` (📅 2026-01-22)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.2)
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.200) – `v0.8.200` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.200)
+- [kubewarden/policies](https://github.com/kubewarden/policies/releases/tag/rancher-project-propagate-labels/v0.1.2) – `rancher-project-propagate-labels/v0.1.2` (📅 2026-01-21)  
+  🔗 [Release Notes](https://github.com/kubewarden/policies/releases/tag/rancher-project-propagate-labels/v0.1.2)
+- [ratatui/ratzilla](https://github.com/ratatui/ratzilla/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-09-28)  
+  🔗 [Release Notes](https://github.com/ratatui/ratzilla/releases/tag/v0.2.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.1) – `0.60.1` (📅 2026-01-23)  
