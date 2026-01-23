@@ -1,22 +1,17 @@
-# 🌐 Ecosystem Daily Log – 2026-01-22
+# 🌐 Ecosystem Daily Log – 2026-01-23
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [quantumlib/Qualtran](https://github.com/quantumlib/Qualtran/releases/tag/v0.7.0) – `v0.7.0` (📅 2026-01-22)  
-  🔗 [Release Notes](https://github.com/quantumlib/Qualtran/releases/tag/v0.7.0)
-- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.23.0) – `v1.23.0` (📅 2025-12-09)  
-  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.23.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.0) – `v41.0.0` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.0)
-- [proxy-wasm/proxy-wasm-rust-sdk](https://github.com/proxy-wasm/proxy-wasm-rust-sdk/releases/tag/v0.2.4) – `v0.2.4` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/proxy-wasm/proxy-wasm-rust-sdk/releases/tag/v0.2.4)
+- [pondpilot/flowscope](https://github.com/pondpilot/flowscope/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-01-19)  
+  🔗 [Release Notes](https://github.com/pondpilot/flowscope/releases/tag/v0.2.0)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
