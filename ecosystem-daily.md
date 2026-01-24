@@ -4,14 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qiboteam/qibolab](https://github.com/qiboteam/qibolab/releases/tag/v0.2.11) – `v0.2.11` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibolab/releases/tag/v0.2.11)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [mavdol/capsule](https://github.com/mavdol/capsule/releases/tag/v0.4.0) – `v0.4.0` (📅 2026-01-24)  
+  🔗 [Release Notes](https://github.com/mavdol/capsule/releases/tag/v0.4.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
