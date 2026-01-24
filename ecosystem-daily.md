@@ -4,20 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [itsubaki/qasm](https://github.com/itsubaki/qasm/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-12)  
-  🔗 [Release Notes](https://github.com/itsubaki/qasm/releases/tag/v0.1.3)
-- [itsubaki/q](https://github.com/itsubaki/q/releases/tag/v0.0.9) – `v0.0.9` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/itsubaki/q/releases/tag/v0.0.9)
+- [qiskit-community/qrmi](https://github.com/qiskit-community/qrmi/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-11-08)  
+  🔗 [Release Notes](https://github.com/qiskit-community/qrmi/releases/tag/v0.10.2)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.8.0) – `v0.8.0` (📅 2025-12-27)  
-  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.8.0)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.3) – `v0.4.3` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.3)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.0) – `v41.0.0` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.0)
 
 ## 🔹 Green-software
 - [genai-impact/ecologits](https://github.com/genai-impact/ecologits/releases/tag/0.9.2) – `0.9.2` (📅 2026-01-24)  
