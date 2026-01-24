@@ -7,14 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.17.9) – `v1.17.9` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.17.9)
 
 ## 🔹 Webassembly
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 - [CharlieTap/chasm](https://github.com/CharlieTap/chasm/releases/tag/1.2.1) – `1.2.1` (📅 2025-12-25)  
   🔗 [Release Notes](https://github.com/CharlieTap/chasm/releases/tag/1.2.1)
-- [dhanushka2001/citeorder-github](https://github.com/dhanushka2001/citeorder-github/releases/tag/v0.1.2) – `v0.1.2` (📅 2026-01-17)  
-  🔗 [Release Notes](https://github.com/dhanushka2001/citeorder-github/releases/tag/v0.1.2)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.6) – `0.60.6` (📅 2026-01-24)  
