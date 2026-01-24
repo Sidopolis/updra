@@ -10,10 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.16) – `v0.5.16` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.16)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.200) – `v0.8.200` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.200)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.6) – `0.60.6` (📅 2026-01-24)  
