@@ -7,14 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [bejranonda/MedEdge-Gateway](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v1.3.1) – `v1.3.1` (📅 2026-01-25)  
-  🔗 [Release Notes](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v1.3.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.3) – `v0.4.3` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.3)
+- [grain-lang/grain](https://github.com/grain-lang/grain/releases/tag/grain-v0.7.1) – `grain-v0.7.1` (📅 2025-07-01)  
+  🔗 [Release Notes](https://github.com/grain-lang/grain/releases/tag/grain-v0.7.1)
+- [kryonlabs/kryon](https://github.com/kryonlabs/kryon/releases/tag/latest) – `latest` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/kryonlabs/kryon/releases/tag/latest)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
