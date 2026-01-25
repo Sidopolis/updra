@@ -4,20 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Deniskain3D/Quantum-Messenger](https://github.com/Deniskain3D/Quantum-Messenger/releases/tag/messenger) – `messenger` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/Deniskain3D/Quantum-Messenger/releases/tag/messenger)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [pulseengine/rules_wasm_component](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-07-24)  
-  🔗 [Release Notes](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0)
-- [gkd-kit/gkd](https://github.com/gkd-kit/gkd/releases/tag/v1.11.6) – `v1.11.6` (📅 2025-12-13)  
-  🔗 [Release Notes](https://github.com/gkd-kit/gkd/releases/tag/v1.11.6)
+- [kryonlabs/kryon](https://github.com/kryonlabs/kryon/releases/tag/latest) – `latest` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/kryonlabs/kryon/releases/tag/latest)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.16) – `v0.5.16` (📅 2026-01-15)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.16)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
