@@ -7,13 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [bejranonda/MedEdge-Gateway](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v1.3.1) – `v1.3.1` (📅 2026-01-25)  
+  🔗 [Release Notes](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v1.3.1)
 
 ## 🔹 Webassembly
-- [kryonlabs/kryon](https://github.com/kryonlabs/kryon/releases/tag/latest) – `latest` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/kryonlabs/kryon/releases/tag/latest)
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.16) – `v0.5.16` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.16)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.3) – `v0.4.3` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.3)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
