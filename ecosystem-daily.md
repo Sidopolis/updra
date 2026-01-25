@@ -1,26 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-01-25
 
 ## 🔹 Ai-ethics
-- [cloudpedagogy/cloudpedagogy-ai-capability-framework](https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework/releases/tag/v1.2) – `v1.2` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/cloudpedagogy/cloudpedagogy-ai-capability-framework/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
-- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [bejranonda/MedEdge-Gateway](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v1.3.1) – `v1.3.1` (📅 2026-01-25)  
-  🔗 [Release Notes](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v1.3.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [SamChou19815/samlang](https://github.com/SamChou19815/samlang/releases/tag/v0.10.1) – `v0.10.1` (📅 2024-02-25)  
-  🔗 [Release Notes](https://github.com/SamChou19815/samlang/releases/tag/v0.10.1)
+- [kryonlabs/kryon](https://github.com/kryonlabs/kryon/releases/tag/latest) – `latest` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/kryonlabs/kryon/releases/tag/latest)
+- [fineshopdesign/cf-wasm](https://github.com/fineshopdesign/cf-wasm/releases/tag/%40cf-wasm/og%400.3.5) – `@cf-wasm/og@0.3.5` (📅 2026-01-25)  
+  🔗 [Release Notes](https://github.com/fineshopdesign/cf-wasm/releases/tag/%40cf-wasm/og%400.3.5)
+- [ThatOpen/engine_web-ifc](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.74) – `0.74` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.74)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
