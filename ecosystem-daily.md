@@ -7,14 +7,10 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [dayu-autostreamer/dayu](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2) – `v1.2` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.3) – `v0.4.3` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.3)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
