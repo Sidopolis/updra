@@ -4,20 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Deniskain3D/Quantum-Messenger](https://github.com/Deniskain3D/Quantum-Messenger/releases/tag/messenger) – `messenger` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/Deniskain3D/Quantum-Messenger/releases/tag/messenger)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0) – `v0.44.0` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0)
+- [marunigno-ship-it/QERRA-v2](https://github.com/marunigno-ship-it/QERRA-v2/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-12-11)  
+  🔗 [Release Notes](https://github.com/marunigno-ship-it/QERRA-v2/releases/tag/v0.1.0)
 
 ## 🔹 Edge-computing
-- [dayu-autostreamer/dayu](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2) – `v1.2` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
-- [wasm-fmt/clang-format](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.8) – `v21.1.8` (📅 2025-12-22)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/clang-format/releases/tag/v21.1.8)
+- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.4) – `WAMR-2.4.4` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.4)
+- [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.1) – `1.5.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.1)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
