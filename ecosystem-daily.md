@@ -8,12 +8,13 @@
   🔗 [Release Notes](https://github.com/akshayuttarkarc/QuPepFold/releases/tag/0.6.2)
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v7.0.0) – `v7.0.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v7.0.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.38.0) – `0.38.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.38.0)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.2) – `v10.2.2` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.2.2)
+- [kryonlabs/kryon](https://github.com/kryonlabs/kryon/releases/tag/latest) – `latest` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/kryonlabs/kryon/releases/tag/latest)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.6) – `0.60.6` (📅 2026-01-24)  
