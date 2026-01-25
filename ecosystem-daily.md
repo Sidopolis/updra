@@ -4,19 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0) – `v0.44.0` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0)
-- [marunigno-ship-it/QERRA-v2](https://github.com/marunigno-ship-it/QERRA-v2/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-12-11)  
-  🔗 [Release Notes](https://github.com/marunigno-ship-it/QERRA-v2/releases/tag/v0.1.0)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [dayu-autostreamer/dayu](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2) – `v1.2` (📅 2026-01-15)  
+  🔗 [Release Notes](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+
 ## 🔹 Webassembly
-- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.4) – `WAMR-2.4.4` (📅 2025-11-24)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.4)
-- [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.1) – `1.5.1` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.3) – `v0.4.3` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.3)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
