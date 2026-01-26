@@ -1,4 +1,4 @@
-# 🌐 Ecosystem Daily Log – 2026-01-25
+# 🌐 Ecosystem Daily Log – 2026-01-26
 
 ## 🔹 Ai-ethics
 - No recent releases found.
@@ -10,8 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.4) – `v20.0.4` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.4)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.3) – `v0.4.3` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.3)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
