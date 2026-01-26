@@ -4,19 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [christopher-altman/ibm-qml-kernel](https://github.com/christopher-altman/ibm-qml-kernel/releases/tag/v1.0-wigner-branch-benchmark) – `v1.0-wigner-branch-benchmark` (📅 2026-01-22)  
-  🔗 [Release Notes](https://github.com/christopher-altman/ibm-qml-kernel/releases/tag/v1.0-wigner-branch-benchmark)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.38.0) – `0.38.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.38.0)
-- [13rac1/gowasm-bindgen](https://github.com/13rac1/gowasm-bindgen/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-26)  
-  🔗 [Release Notes](https://github.com/13rac1/gowasm-bindgen/releases/tag/v1.0.0)
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.16) – `v0.5.16` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.16)
+- [aperturerobotics/bifrost](https://github.com/aperturerobotics/bifrost/releases/tag/v0.43.4) – `v0.43.4` (📅 2025-11-13)  
+  🔗 [Release Notes](https://github.com/aperturerobotics/bifrost/releases/tag/v0.43.4)
+- [kubewarden/policy-sdk-go](https://github.com/kubewarden/policy-sdk-go/releases/tag/v0.12.0) – `v0.12.0` (📅 2025-07-09)  
+  🔗 [Release Notes](https://github.com/kubewarden/policy-sdk-go/releases/tag/v0.12.0)
+- [kubewarden/policies](https://github.com/kubewarden/policies/releases/tag/psa-label-enforcer-policy/v1.0.10) – `psa-label-enforcer-policy/v1.0.10` (📅 2026-01-24)  
+  🔗 [Release Notes](https://github.com/kubewarden/policies/releases/tag/psa-label-enforcer-policy/v1.0.10)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
