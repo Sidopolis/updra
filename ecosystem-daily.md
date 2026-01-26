@@ -4,19 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [TeamGraphix/graphix](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.3) – `v0.3.3` (📅 2025-11-28)  
-  🔗 [Release Notes](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.3)
+- [cirKITers/qml-essentials](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.37) – `0.1.37` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.37)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
 
 ## 🔹 Webassembly
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.38.0) – `0.38.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.38.0)
-- [RibirX/Ribir](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0) – `ribir-v0.3.0` (📅 2024-08-26)  
-  🔗 [Release Notes](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0)
-- [wasm-fmt/mago_fmt](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.5.3) – `v0.5.3` (📅 2026-01-26)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.5.3)
+- [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm/releases/tag/3.51.2-build5) – `3.51.2-build5` (📅 2026-01-26)  
+  🔗 [Release Notes](https://github.com/sqlite/sqlite-wasm/releases/tag/3.51.2-build5)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
