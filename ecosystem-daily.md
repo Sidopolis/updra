@@ -4,22 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.119) – `v0.0.119` (📅 2026-01-24)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.119)
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [KroderDev/kube-edge-router](https://github.com/KroderDev/kube-edge-router/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-01-26)  
-  🔗 [Release Notes](https://github.com/KroderDev/kube-edge-router/releases/tag/v0.3.0)
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+- [SonicJs-Org/sonicjs](https://github.com/SonicJs-Org/sonicjs/releases/tag/v2.7.0) – `v2.7.0` (📅 2026-01-24)  
+  🔗 [Release Notes](https://github.com/SonicJs-Org/sonicjs/releases/tag/v2.7.0)
+- [KroderDev/kube-edge-router](https://github.com/KroderDev/kube-edge-router/releases/tag/v0.4.2) – `v0.4.2` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/KroderDev/kube-edge-router/releases/tag/v0.4.2)
 
 ## 🔹 Webassembly
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
-- [lfi-project/lfi](https://github.com/lfi-project/lfi/releases/tag/v0.11) – `v0.11` (📅 2025-10-24)  
-  🔗 [Release Notes](https://github.com/lfi-project/lfi/releases/tag/v0.11)
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0) – `v6.1.0` (📅 2025-10-08)  
-  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v6.1.0)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
