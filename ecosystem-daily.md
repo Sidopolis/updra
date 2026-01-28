@@ -8,13 +8,14 @@
   🔗 [Release Notes](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-v0.21.8)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [arhantbarmate/nexus-core](https://github.com/arhantbarmate/nexus-core/releases/tag/v1.3.2) – `v1.3.2` (📅 2026-01-23)  
+  🔗 [Release Notes](https://github.com/arhantbarmate/nexus-core/releases/tag/v1.3.2)
+- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
-- [alanbld/utf8proj](https://github.com/alanbld/utf8proj/releases/tag/v0.12.2) – `v0.12.2` (📅 2026-01-28)  
-  🔗 [Release Notes](https://github.com/alanbld/utf8proj/releases/tag/v0.12.2)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4) – `v10.0.4` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.8) – `0.60.8` (📅 2026-01-28)  
