@@ -4,14 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [make87/m87](https://github.com/make87/m87/releases/tag/v0.6.4) – `v0.6.4` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/make87/m87/releases/tag/v0.6.4)
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.2) – `1.7.2` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.2)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [dylibso/chicory](https://github.com/dylibso/chicory/releases/tag/1.6.1) – `1.6.1` (📅 2025-12-11)  
+  🔗 [Release Notes](https://github.com/dylibso/chicory/releases/tag/1.6.1)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.2.3) – `v4.2.3` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.2.3)
+- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.10.0) – `v1.10.0` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.10.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
