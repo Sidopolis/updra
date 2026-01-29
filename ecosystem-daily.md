@@ -1,25 +1,30 @@
 # 🌐 Ecosystem Daily Log – 2026-01-29
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [jcmgray/quimb](https://github.com/jcmgray/quimb/releases/tag/v1.12.1) – `v1.12.1` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/jcmgray/quimb/releases/tag/v1.12.1)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
 
 ## 🔹 Edge-computing
-- [ankur-paan/ekuiper-manager](https://github.com/ankur-paan/ekuiper-manager/releases/tag/v1.2.0) – `v1.2.0` (📅 2026-01-26)  
-  🔗 [Release Notes](https://github.com/ankur-paan/ekuiper-manager/releases/tag/v1.2.0)
-- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.35.0) – `v0.35.0` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.35.0)
+- [AxonOS-org/AxonOS](https://github.com/AxonOS-org/AxonOS/releases/tag/V2.1) – `V2.1` (📅 2026-01-21)  
+  🔗 [Release Notes](https://github.com/AxonOS-org/AxonOS/releases/tag/V2.1)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.200) – `v0.8.200` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.200)
-- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
-- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.29.3) – `0.29.3` (📅 2026-01-28)  
-  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.29.3)
+- [frogfishio/zasm](https://github.com/frogfishio/zasm/releases/tag/v1.0.5) – `v1.0.5` (📅 2026-01-05)  
+  🔗 [Release Notes](https://github.com/frogfishio/zasm/releases/tag/v1.0.5)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.591) – `v4.0.591` (📅 2026-01-29)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.591)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.8) – `0.60.8` (📅 2026-01-28)  
