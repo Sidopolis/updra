@@ -4,16 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.2) – `v0.9.2` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.2)
+- [FluidInference/mobius](https://github.com/FluidInference/mobius/releases/tag/v0.0.3) – `v0.0.3` (📅 2025-10-29)  
+  🔗 [Release Notes](https://github.com/FluidInference/mobius/releases/tag/v0.0.3)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.5) – `v0.18.5` (📅 2026-01-23)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.5)
 
 ## 🔹 Webassembly
-- [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/bfactory-ai/zignal/releases/tag/0.9.1)
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.17) – `v0.5.17` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.17)
+- [frogfishio/zasm](https://github.com/frogfishio/zasm/releases/tag/v1.0.5) – `v1.0.5` (📅 2026-01-05)  
+  🔗 [Release Notes](https://github.com/frogfishio/zasm/releases/tag/v1.0.5)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
