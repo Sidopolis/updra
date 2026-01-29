@@ -4,22 +4,24 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
-  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
+- [pasqal-io/Pulser](https://github.com/pasqal-io/Pulser/releases/tag/v1.6.6) – `v1.6.6` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/pasqal-io/Pulser/releases/tag/v1.6.6)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [arrufat/zignal](https://github.com/arrufat/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/arrufat/zignal/releases/tag/0.9.1)
-- [andrewdavidmackenzie/flow](https://github.com/andrewdavidmackenzie/flow/releases/tag/v0.135.0) – `v0.135.0` (📅 2023-09-19)  
-  🔗 [Release Notes](https://github.com/andrewdavidmackenzie/flow/releases/tag/v0.135.0)
+- [alanbld/utf8proj](https://github.com/alanbld/utf8proj/releases/tag/v0.12.2) – `v0.12.2` (📅 2026-01-28)  
+  🔗 [Release Notes](https://github.com/alanbld/utf8proj/releases/tag/v0.12.2)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0)
+- [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.31.0) – `v1.31.0` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.31.0)
 
 ## 🔹 Green-software
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5)
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.8) – `0.60.8` (📅 2026-01-28)  
   🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.8)
-- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
-  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
