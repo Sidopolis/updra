@@ -1,22 +1,25 @@
-# 🌐 Ecosystem Daily Log – 2026-01-28
+# 🌐 Ecosystem Daily Log – 2026-01-29
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [jcmgray/quimb](https://github.com/jcmgray/quimb/releases/tag/v1.12.1) – `v1.12.1` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/jcmgray/quimb/releases/tag/v1.12.1)
 
 ## 🔹 Edge-computing
-- [mulgadc/predastore](https://github.com/mulgadc/predastore/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/mulgadc/predastore/releases/tag/v1.0.0)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [ankur-paan/ekuiper-manager](https://github.com/ankur-paan/ekuiper-manager/releases/tag/v1.2.0) – `v1.2.0` (📅 2026-01-26)  
+  🔗 [Release Notes](https://github.com/ankur-paan/ekuiper-manager/releases/tag/v1.2.0)
+- [rulego/rulego](https://github.com/rulego/rulego/releases/tag/v0.35.0) – `v0.35.0` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/rulego/rulego/releases/tag/v0.35.0)
 
 ## 🔹 Webassembly
-- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0) – `0.2.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0)
-- [kryonlabs/kryon](https://github.com/kryonlabs/kryon/releases/tag/latest) – `latest` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/kryonlabs/kryon/releases/tag/latest)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.200) – `v0.8.200` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.200)
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
+- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.29.3) – `0.29.3` (📅 2026-01-28)  
+  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.29.3)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.8) – `0.60.8` (📅 2026-01-28)  
