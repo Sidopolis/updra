@@ -4,19 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Quantinuum/tket](https://github.com/Quantinuum/tket/releases/tag/v2.11.0) – `v2.11.0` (📅 2025-11-24)  
-  🔗 [Release Notes](https://github.com/Quantinuum/tket/releases/tag/v2.11.0)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+
 ## 🔹 Webassembly
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v7.0.0) – `v7.0.0` (📅 2026-01-28)  
-  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v7.0.0)
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-22)  
-  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0)
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.5) – `2.10.5` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.5)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
