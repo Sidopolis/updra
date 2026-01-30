@@ -10,12 +10,7 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [kryonlabs/kryon](https://github.com/kryonlabs/kryon/releases/tag/latest) – `latest` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/kryonlabs/kryon/releases/tag/latest)
-- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.10.0) – `v1.10.0` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.10.0)
-- [lfedgeai/SPEAR](https://github.com/lfedgeai/SPEAR/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-01-22)  
-  🔗 [Release Notes](https://github.com/lfedgeai/SPEAR/releases/tag/v0.1.0)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
