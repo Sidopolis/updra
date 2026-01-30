@@ -1,21 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2026-01-30
 
 ## 🔹 Ai-ethics
-- [atlantyde-labs/cognitive-suite](https://github.com/atlantyde-labs/cognitive-suite/releases/tag/v0.1.7) – `v0.1.7` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/atlantyde-labs/cognitive-suite/releases/tag/v0.1.7)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [munich-quantum-toolkit/syrec](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0)
+
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26) – `v0.0.26` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26)
+- [arhantbarmate/nexus-core](https://github.com/arhantbarmate/nexus-core/releases/tag/v1.3.2) – `v1.3.2` (📅 2026-01-23)  
+  🔗 [Release Notes](https://github.com/arhantbarmate/nexus-core/releases/tag/v1.3.2)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
-- [ArshVermaGit/SimplyPDF](https://github.com/ArshVermaGit/SimplyPDF/releases/tag/v3.0.0) – `v3.0.0` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/ArshVermaGit/SimplyPDF/releases/tag/v3.0.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.0) – `0.61.0` (📅 2026-01-30)  
