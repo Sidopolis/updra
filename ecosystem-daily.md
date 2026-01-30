@@ -1,28 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-01-30
 
 ## 🔹 Ai-ethics
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
-- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
-- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
+- [Quantinuum/tket](https://github.com/Quantinuum/tket/releases/tag/v2.11.0) – `v2.11.0` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/Quantinuum/tket/releases/tag/v2.11.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [lf-edge/ekuiper](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.1) – `v2.3.1` (📅 2025-11-21)  
-  🔗 [Release Notes](https://github.com/lf-edge/ekuiper/releases/tag/v2.3.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.39.0) – `0.39.0` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.39.0)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v7.0.0) – `v7.0.0` (📅 2026-01-28)  
+  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v7.0.0)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.5) – `2.10.5` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.5)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
