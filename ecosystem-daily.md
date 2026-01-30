@@ -1,24 +1,19 @@
-# 🌐 Ecosystem Daily Log – 2026-01-29
+# 🌐 Ecosystem Daily Log – 2026-01-30
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [microsoft/qdk-chemistry](https://github.com/microsoft/qdk-chemistry/releases/tag/v1.0.1) – `v1.0.1` (📅 2026-01-26)  
-  🔗 [Release Notes](https://github.com/microsoft/qdk-chemistry/releases/tag/v1.0.1)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [SonicJs-Org/sonicjs](https://github.com/SonicJs-Org/sonicjs/releases/tag/v2.7.0) – `v2.7.0` (📅 2026-01-24)  
+  🔗 [Release Notes](https://github.com/SonicJs-Org/sonicjs/releases/tag/v2.7.0)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
-- [alanbld/utf8proj](https://github.com/alanbld/utf8proj/releases/tag/v0.15.1) – `v0.15.1` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/alanbld/utf8proj/releases/tag/v0.15.1)
+- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.5) – `v20.0.5` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.5)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.60.9) – `0.60.9` (📅 2026-01-29)  
