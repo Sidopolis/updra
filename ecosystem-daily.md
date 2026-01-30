@@ -8,13 +8,18 @@
   🔗 [Release Notes](https://github.com/jcmgray/quimb/releases/tag/v1.12.1)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26) – `v0.0.26` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26)
+- [bejranonda/MedEdge-Gateway](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v1.3.0-beta) – `v1.3.0-beta` (📅 2026-01-25)  
+  🔗 [Release Notes](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v1.3.0-beta)
 
 ## 🔹 Webassembly
-- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.17) – `v0.5.17` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.17)
-- [CharlieTap/chasm](https://github.com/CharlieTap/chasm/releases/tag/1.2.1) – `1.2.1` (📅 2025-12-25)  
-  🔗 [Release Notes](https://github.com/CharlieTap/chasm/releases/tag/1.2.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [dy/watr](https://github.com/dy/watr/releases/tag/v4.2.0) – `v4.2.0` (📅 2026-01-21)  
+  🔗 [Release Notes](https://github.com/dy/watr/releases/tag/v4.2.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.0) – `0.61.0` (📅 2026-01-30)  
