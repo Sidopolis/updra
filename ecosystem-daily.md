@@ -1,18 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-01-30
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [atlantyde-labs/cognitive-suite](https://github.com/atlantyde-labs/cognitive-suite/releases/tag/v0.1.7) – `v0.1.7` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/atlantyde-labs/cognitive-suite/releases/tag/v0.1.7)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0) – `v0.14.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26) – `v0.0.26` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26)
 
 ## 🔹 Webassembly
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [ArshVermaGit/SimplyPDF](https://github.com/ArshVermaGit/SimplyPDF/releases/tag/v3.0.0) – `v3.0.0` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/ArshVermaGit/SimplyPDF/releases/tag/v3.0.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.0) – `0.61.0` (📅 2026-01-30)  
