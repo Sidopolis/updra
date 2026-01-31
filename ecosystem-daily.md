@@ -10,12 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v2.0.6) – `v2.0.6` (📅 2026-01-25)  
-  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v2.0.6)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
-- [themattspiral/vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.2.2) – `v0.2.2` (📅 2026-01-31)  
-  🔗 [Release Notes](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.2.2)
+- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.0.0) – `1.0.0` (📅 2026-01-29)  
+  🔗 [Release Notes](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.0.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
