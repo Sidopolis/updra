@@ -4,7 +4,8 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
@@ -12,8 +13,8 @@
 ## 🔹 Webassembly
 - [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.3.0) – `v10.3.0` (📅 2026-01-30)  
   🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.3.0)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
+- [igorski/bitmappery](https://github.com/igorski/bitmappery/releases/tag/1.1.0) – `1.1.0` (📅 2025-04-07)  
+  🔗 [Release Notes](https://github.com/igorski/bitmappery/releases/tag/1.1.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
