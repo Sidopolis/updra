@@ -4,22 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v0.6.12) – `v0.6.12` (📅 2025-12-24)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v0.6.12)
+
 ## 🔹 Webassembly
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.3.0) – `v10.3.0` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.3.0)
-- [igorski/bitmappery](https://github.com/igorski/bitmappery/releases/tag/1.1.0) – `1.1.0` (📅 2025-04-07)  
-  🔗 [Release Notes](https://github.com/igorski/bitmappery/releases/tag/1.1.0)
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.8.0) – `v0.8.0` (📅 2025-12-27)  
+  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.8.0)
 
 ## 🔹 Green-software
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5)
-- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.0) – `0.61.0` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.0)
-- [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
-  🔗 [Release Notes](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2)
+- No recent releases found.
