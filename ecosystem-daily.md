@@ -1,19 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2026-01-31
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [salah55s/winnowDB](https://github.com/salah55s/winnowDB/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-01-31)  
-  🔗 [Release Notes](https://github.com/salah55s/winnowDB/releases/tag/v0.1.0)
+- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.0.0) – `1.0.0` (📅 2026-01-29)  
+  🔗 [Release Notes](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.0.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
