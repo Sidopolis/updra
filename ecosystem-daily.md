@@ -4,18 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.121) – `v0.0.121` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.121)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [bambooww/iot-tree](https://github.com/bambooww/iot-tree/releases/tag/1.8.5) – `1.8.5` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/bambooww/iot-tree/releases/tag/1.8.5)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.3.0) – `v10.3.0` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.3.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
