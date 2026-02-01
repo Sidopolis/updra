@@ -7,16 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v0.6.12) – `v0.6.12` (📅 2025-12-24)  
-  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v0.6.12)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
-- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.0.0) – `1.0.0` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.0.0)
+- [svenstaro/genact](https://github.com/svenstaro/genact/releases/tag/v1.5.1) – `v1.5.1` (📅 2026-01-26)  
+  🔗 [Release Notes](https://github.com/svenstaro/genact/releases/tag/v1.5.1)
+- [mavdol/capsule](https://github.com/mavdol/capsule/releases/tag/v0.4.2) – `v0.4.2` (📅 2026-01-26)  
+  🔗 [Release Notes](https://github.com/mavdol/capsule/releases/tag/v0.4.2)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
