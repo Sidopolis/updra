@@ -7,14 +7,11 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [Puzzaks/PAIOS](https://github.com/Puzzaks/PAIOS/releases/tag/v1.1.2) – `v1.1.2` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/Puzzaks/PAIOS/releases/tag/v1.1.2)
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26) – `v0.0.26` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26)
+- No recent releases found.
 
 ## 🔹 Webassembly
+- [mmomtchev/ol-mbtiles](https://github.com/mmomtchev/ol-mbtiles/releases/tag/v3.3.0) – `v3.3.0` (📅 2025-02-03)  
+  🔗 [Release Notes](https://github.com/mmomtchev/ol-mbtiles/releases/tag/v3.3.0)
 - [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/react%401.0.0) – `@stlite/react@1.0.0` (📅 2026-01-13)  
   🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/react%401.0.0)
 
