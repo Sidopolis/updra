@@ -4,18 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
+  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
 
 ## 🔹 Edge-computing
-- [arhantbarmate/nexus-core](https://github.com/arhantbarmate/nexus-core/releases/tag/v1.3.2) – `v1.3.2` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/arhantbarmate/nexus-core/releases/tag/v1.3.2)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [AppSolves/LanePilot](https://github.com/AppSolves/LanePilot/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-24)  
-  🔗 [Release Notes](https://github.com/AppSolves/LanePilot/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [ganemedelabs/compress-jpeg](https://github.com/ganemedelabs/compress-jpeg/releases/tag/v1.1.1) – `v1.1.1` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/ganemedelabs/compress-jpeg/releases/tag/v1.1.1)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.2.3) – `v4.2.3` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.2.3)
+- [konsoletyper/teavm](https://github.com/konsoletyper/teavm/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-03)  
+  🔗 [Release Notes](https://github.com/konsoletyper/teavm/releases/tag/0.13.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
