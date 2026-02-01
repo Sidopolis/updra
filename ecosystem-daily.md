@@ -4,18 +4,13 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [adhamhaithameid/Classroom-Quick-Downloader](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-21)  
-  🔗 [Release Notes](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
-- [themattspiral/vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.2.4) – `v0.2.4` (📅 2026-01-31)  
-  🔗 [Release Notes](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.2.4)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
