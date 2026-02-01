@@ -7,7 +7,10 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [thomasvincent/terraform-cloudflare-maintenance](https://github.com/thomasvincent/terraform-cloudflare-maintenance/releases/tag/v3.0.0) – `v3.0.0` (📅 2025-10-04)  
+  🔗 [Release Notes](https://github.com/thomasvincent/terraform-cloudflare-maintenance/releases/tag/v3.0.0)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
 - No recent releases found.
