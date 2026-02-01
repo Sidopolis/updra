@@ -4,19 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [thomasvincent/terraform-cloudflare-maintenance](https://github.com/thomasvincent/terraform-cloudflare-maintenance/releases/tag/v3.0.0) – `v3.0.0` (📅 2025-10-04)  
-  🔗 [Release Notes](https://github.com/thomasvincent/terraform-cloudflare-maintenance/releases/tag/v3.0.0)
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v0.6.12) – `v0.6.12` (📅 2025-12-24)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v0.6.12)
 
 ## 🔹 Webassembly
-- [Gumichocopengin8/crate-trends](https://github.com/Gumichocopengin8/crate-trends/releases/tag/v7.0.0) – `v7.0.0` (📅 2024-05-20)  
-  🔗 [Release Notes](https://github.com/Gumichocopengin8/crate-trends/releases/tag/v7.0.0)
+- [themattspiral/vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.3.0)
 - [GhevondW/cortex](https://github.com/GhevondW/cortex/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-01)  
   🔗 [Release Notes](https://github.com/GhevondW/cortex/releases/tag/v0.2.0)
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
