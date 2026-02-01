@@ -1,18 +1,10 @@
 # 🌐 Ecosystem Daily Log – 2026-02-01
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
-- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
-  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
-- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
-  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
@@ -21,10 +13,12 @@
   🔗 [Release Notes](https://github.com/GeekLuffy/PixEdge/releases/tag/PixEdge-v1)
 
 ## 🔹 Webassembly
-- [konsoletyper/teavm](https://github.com/konsoletyper/teavm/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-03)  
-  🔗 [Release Notes](https://github.com/konsoletyper/teavm/releases/tag/0.13.0)
-- [bytecodealliance/vscode-wit](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.25) – `wit-idl-v0.3.25` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/vscode-wit/releases/tag/wit-idl-v0.3.25)
+- [haddocking/haddock-restraints](https://github.com/haddocking/haddock-restraints/releases/tag/v0.11.1) – `v0.11.1` (📅 2025-11-26)  
+  🔗 [Release Notes](https://github.com/haddocking/haddock-restraints/releases/tag/v0.11.1)
+- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/react%401.0.0) – `@stlite/react@1.0.0` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/react%401.0.0)
+- [mrubyedge/mrubyedge](https://github.com/mrubyedge/mrubyedge/releases/tag/v1.0.20) – `v1.0.20` (📅 2026-01-31)  
+  🔗 [Release Notes](https://github.com/mrubyedge/mrubyedge/releases/tag/v1.0.20)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
