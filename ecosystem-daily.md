@@ -4,20 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
-  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.122) – `v0.0.122` (📅 2026-01-31)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.122)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
+- No recent releases found.
 
 ## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [Puzzaks/PAIOS](https://github.com/Puzzaks/PAIOS/releases/tag/v1.1.2) – `v1.1.2` (📅 2026-01-16)  
+  🔗 [Release Notes](https://github.com/Puzzaks/PAIOS/releases/tag/v1.1.2)
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26) – `v0.0.26` (📅 2026-01-27)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26)
 
 ## 🔹 Webassembly
-- [maehw/WebPBrick](https://github.com/maehw/WebPBrick/releases/tag/v0.2.0) – `v0.2.0` (📅 2024-05-03)  
-  🔗 [Release Notes](https://github.com/maehw/WebPBrick/releases/tag/v0.2.0)
+- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/react%401.0.0) – `@stlite/react@1.0.0` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/react%401.0.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
