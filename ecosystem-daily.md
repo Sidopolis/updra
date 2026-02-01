@@ -4,19 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
-  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.122) – `v0.0.122` (📅 2026-01-31)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.122)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26) – `v0.0.26` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26)
 
 ## 🔹 Webassembly
-- [ganemedelabs/compress-jpeg](https://github.com/ganemedelabs/compress-jpeg/releases/tag/v1.1.1) – `v1.1.1` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/ganemedelabs/compress-jpeg/releases/tag/v1.1.1)
-- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.2.3) – `v4.2.3` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.2.3)
-- [konsoletyper/teavm](https://github.com/konsoletyper/teavm/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-03)  
-  🔗 [Release Notes](https://github.com/konsoletyper/teavm/releases/tag/0.13.0)
+- [maehw/WebPBrick](https://github.com/maehw/WebPBrick/releases/tag/v0.2.0) – `v0.2.0` (📅 2024-05-03)  
+  🔗 [Release Notes](https://github.com/maehw/WebPBrick/releases/tag/v0.2.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
