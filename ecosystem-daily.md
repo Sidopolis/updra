@@ -7,13 +7,16 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [mmomtchev/ol-mbtiles](https://github.com/mmomtchev/ol-mbtiles/releases/tag/v3.3.0) – `v3.3.0` (📅 2025-02-03)  
-  🔗 [Release Notes](https://github.com/mmomtchev/ol-mbtiles/releases/tag/v3.3.0)
-- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/react%401.0.0) – `@stlite/react@1.0.0` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/react%401.0.0)
+- [themattspiral/vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.3.0)
+- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.1.0) – `1.1.0` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.1.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
