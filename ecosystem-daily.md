@@ -4,17 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [munich-quantum-toolkit/qmap](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.5.0) – `v3.5.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qmap/releases/tag/v3.5.0)
 
 ## 🔹 Edge-computing
-- [adhamhaithameid/Classroom-Quick-Downloader](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-21)  
-  🔗 [Release Notes](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [jupyterlite/jupyterlite-sphinx](https://github.com/jupyterlite/jupyterlite-sphinx/releases/tag/v0.22.0) – `v0.22.0` (📅 2025-09-19)  
-  🔗 [Release Notes](https://github.com/jupyterlite/jupyterlite-sphinx/releases/tag/v0.22.0)
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
+- [lichess-org/stockfish-web](https://github.com/lichess-org/stockfish-web/releases/tag/v0.2.1) – `v0.2.1` (📅 2026-02-02)  
+  🔗 [Release Notes](https://github.com/lichess-org/stockfish-web/releases/tag/v0.2.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
