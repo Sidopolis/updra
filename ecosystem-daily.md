@@ -1,23 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2026-02-02
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qcec](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.4.0) – `v3.4.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.4.0)
-- [QuantumSavory/QuantumClifford.jl](https://github.com/QuantumSavory/QuantumClifford.jl/releases/tag/v0.11.0) – `v0.11.0` (📅 2026-01-01)  
-  🔗 [Release Notes](https://github.com/QuantumSavory/QuantumClifford.jl/releases/tag/v0.11.0)
+- [munich-quantum-toolkit/syrec](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-16)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0)
 
 ## 🔹 Edge-computing
-- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.15) – `v1.9.15` (📅 2026-02-02)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.15)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
-- [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-07-04)  
-  🔗 [Release Notes](https://github.com/fluvio-community/fluvio/releases/tag/v0.18.1)
 - [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.31.0) – `v1.31.0` (📅 2025-11-24)  
   🔗 [Release Notes](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.31.0)
 
