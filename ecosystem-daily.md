@@ -1,22 +1,21 @@
-# 🌐 Ecosystem Daily Log – 2026-02-01
+# 🌐 Ecosystem Daily Log – 2026-02-02
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [Steel-SecAdv-LLC/Mercury-Agent](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1) – `v1.1` (📅 2025-12-10)  
+  🔗 [Release Notes](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [pauloappbr/gojinn](https://github.com/pauloappbr/gojinn/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/pauloappbr/gojinn/releases/tag/v0.8.0)
-- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.10) – `v1.9.10` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.10)
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.12) – `v1.9.12` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.12)
 
 ## 🔹 Webassembly
-- [pauloappbr/gojinn](https://github.com/pauloappbr/gojinn/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/pauloappbr/gojinn/releases/tag/v0.8.0)
-- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.1.0) – `1.1.0` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.1.0)
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
+- [artifact-keeper/artifact-keeper-example-plugin](https://github.com/artifact-keeper/artifact-keeper-example-plugin/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-02)  
+  🔗 [Release Notes](https://github.com/artifact-keeper/artifact-keeper-example-plugin/releases/tag/v0.1.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
