@@ -1,21 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2026-02-02
 
 ## 🔹 Ai-ethics
-- [Steel-SecAdv-LLC/Mercury-Agent](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1) – `v1.1` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [qutip/qutip](https://github.com/qutip/qutip/releases/tag/v5.2.3) – `v5.2.3` (📅 2026-01-26)  
+  🔗 [Release Notes](https://github.com/qutip/qutip/releases/tag/v5.2.3)
+
 ## 🔹 Edge-computing
-- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.12) – `v1.9.12` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.12)
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.13) – `v1.9.13` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.13)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
-- [artifact-keeper/artifact-keeper-example-plugin](https://github.com/artifact-keeper/artifact-keeper-example-plugin/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-02)  
-  🔗 [Release Notes](https://github.com/artifact-keeper/artifact-keeper-example-plugin/releases/tag/v0.1.0)
+- [themattspiral/vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.4.0) – `v0.4.0` (📅 2026-02-02)  
+  🔗 [Release Notes](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.4.0)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.1) – `v41.0.1` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.1)
+- [seliumlabs/selium](https://github.com/seliumlabs/selium/releases/tag/server-0.5.0) – `server-0.5.0` (📅 2024-05-06)  
+  🔗 [Release Notes](https://github.com/seliumlabs/selium/releases/tag/server-0.5.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
