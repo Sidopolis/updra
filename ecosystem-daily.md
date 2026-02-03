@@ -7,13 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.15) – `v1.9.15` (📅 2026-02-02)  
-  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.15)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v7.0.0) – `v7.0.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v7.0.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
+- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.4) – `WAMR-2.4.4` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.4)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
