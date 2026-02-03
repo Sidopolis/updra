@@ -7,16 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [pauloappbr/gojinn](https://github.com/pauloappbr/gojinn/releases/tag/v0.14.0) – `v0.14.0` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/pauloappbr/gojinn/releases/tag/v0.14.0)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
 
 ## 🔹 Webassembly
-- [WebAssembly/WASI](https://github.com/WebAssembly/WASI/releases/tag/v0.2.10) – `v0.2.10` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/WebAssembly/WASI/releases/tag/v0.2.10)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.2) – `v41.0.2` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.2)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
+- [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.40.2) – `rust-v0.40.2` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.40.2)
 
 ## 🔹 Green-software
 - [Aryash2003/Green-cart](https://github.com/Aryash2003/Green-cart/releases/tag/interfering) – `interfering` (📅 2025-07-09)  
