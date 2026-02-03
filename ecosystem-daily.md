@@ -4,20 +4,27 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/1.25.1) – `1.25.1` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/1.25.1)
-- [qilimanjaro-tech/qilisdk](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.7) – `0.1.7` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.7)
+- [qilimanjaro-tech/qilisdk](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.8) – `0.1.8` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.8)
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
-- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.27) – `v1.9.27` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.27)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.40.0) – `0.40.0` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.40.0)
+- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.24) – `v3.3.24` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.24)
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
+- [danieletorelli/golem-journai](https://github.com/danieletorelli/golem-journai/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/danieletorelli/golem-journai/releases/tag/v1.0.0)
 
 ## 🔹 Green-software
-- No recent releases found.
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
+- [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
+  🔗 [Release Notes](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2)
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5)
