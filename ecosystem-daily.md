@@ -4,22 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.5.7) – `v1.5.7` (📅 2025-12-24)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.5.7)
+- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/1.25.1) – `1.25.1` (📅 2026-01-23)  
+  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/1.25.1)
+- [qilimanjaro-tech/qilisdk](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.7) – `0.1.7` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.7)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0) – `4.17.44-202511171347.p0` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.44-202511171347.p0)
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.27) – `v1.9.27` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.27)
 
 ## 🔹 Webassembly
-- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.23) – `v3.3.23` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.23)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.40.0) – `0.40.0` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.40.0)
 
 ## 🔹 Green-software
-- [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
-  🔗 [Release Notes](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2)
-- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
-  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5)
+- No recent releases found.
