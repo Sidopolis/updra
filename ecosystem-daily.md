@@ -4,17 +4,24 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [tensorflow/quantum](https://github.com/tensorflow/quantum/releases/tag/v0.7.5) – `v0.7.5` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/tensorflow/quantum/releases/tag/v0.7.5)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0) – `v0.14.0` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
+- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
 - [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26) – `v0.0.26` (📅 2026-01-27)  
   🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26)
 
 ## 🔹 Webassembly
-- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
+- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
 
 ## 🔹 Green-software
 - [Aryash2003/Green-cart](https://github.com/Aryash2003/Green-cart/releases/tag/interfering) – `interfering` (📅 2025-07-09)  
