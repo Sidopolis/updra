@@ -4,27 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.5) – `v0.18.5` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.5)
-- [bejranonda/MedEdge-Gateway](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v2.1.1) – `v2.1.1` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v2.1.1)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [hyperpolymath/iota-ssg](https://github.com/hyperpolymath/iota-ssg/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/hyperpolymath/iota-ssg/releases/tag/v0.1.0)
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.49.24) – `1.49.24` (📅 2026-01-29)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.49.24)
 
 ## 🔹 Webassembly
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-22)  
-  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0)
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.6) – `2.10.6` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.6)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.596) – `v4.0.596` (📅 2026-02-04)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.596)
 
 ## 🔹 Green-software
+- [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
+  🔗 [Release Notes](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5)
-- [Aryash2003/Green-cart](https://github.com/Aryash2003/Green-cart/releases/tag/interfering) – `interfering` (📅 2025-07-09)  
-  🔗 [Release Notes](https://github.com/Aryash2003/Green-cart/releases/tag/interfering)
