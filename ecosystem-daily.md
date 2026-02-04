@@ -4,17 +4,24 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
+- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.5) – `v0.18.5` (📅 2026-01-23)  
+  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.5)
 - [bejranonda/MedEdge-Gateway](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v2.1.1) – `v2.1.1` (📅 2026-02-03)  
   🔗 [Release Notes](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v2.1.1)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
-- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.5.1) – `v1.5.1` (📅 2026-01-22)  
-  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.5.1)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.6) – `2.10.6` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.6)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
