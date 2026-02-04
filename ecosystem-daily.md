@@ -4,20 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qilimanjaro-tech/qilisdk](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.8) – `0.1.8` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.8)
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
 
 ## 🔹 Edge-computing
-- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.30) – `v1.9.30` (📅 2026-02-04)  
-  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.30)
-- [tamylaa/clodo-framework](https://github.com/tamylaa/clodo-framework/releases/tag/v4.3.4) – `v4.3.4` (📅 2026-02-04)  
-  🔗 [Release Notes](https://github.com/tamylaa/clodo-framework/releases/tag/v4.3.4)
-- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.2) – `v0.9.2` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [arrufat/zignal](https://github.com/arrufat/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/arrufat/zignal/releases/tag/0.9.1)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.14.1) – `v1.14.1` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.14.1)
+- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.24) – `v3.3.24` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.24)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
