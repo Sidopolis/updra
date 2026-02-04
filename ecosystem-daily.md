@@ -4,20 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.5.7) – `v1.5.7` (📅 2025-12-24)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.5.7)
+- [qilimanjaro-tech/qilisdk](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.8) – `0.1.8` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/qilimanjaro-tech/qilisdk/releases/tag/0.1.8)
 
 ## 🔹 Edge-computing
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.30) – `v1.9.30` (📅 2026-02-04)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.30)
 - [tamylaa/clodo-framework](https://github.com/tamylaa/clodo-framework/releases/tag/v4.3.4) – `v4.3.4` (📅 2026-02-04)  
   🔗 [Release Notes](https://github.com/tamylaa/clodo-framework/releases/tag/v4.3.4)
-- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.2) – `v0.9.2` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.2)
 
 ## 🔹 Webassembly
-- [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.31.0) – `v1.31.0` (📅 2025-11-24)  
-  🔗 [Release Notes](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.31.0)
-- [hpcc-systems/hpcc-js-wasm](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.32.3) – `wasm-v2.32.3` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/hpcc-systems/hpcc-js-wasm/releases/tag/wasm-v2.32.3)
+- [arrufat/zignal](https://github.com/arrufat/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/arrufat/zignal/releases/tag/0.9.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
