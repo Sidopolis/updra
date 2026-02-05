@@ -4,27 +4,23 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qinnovates/mindloft](https://github.com/qinnovates/mindloft/releases/tag/v0.4.0) – `v0.4.0` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/qinnovates/mindloft/releases/tag/v0.4.0)
 - [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
   🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [tamylaa/clodo-framework](https://github.com/tamylaa/clodo-framework/releases/tag/v4.4.0) – `v4.4.0` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/tamylaa/clodo-framework/releases/tag/v4.4.0)
-- [container-registry/harbor-satellite](https://github.com/container-registry/harbor-satellite/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-25)  
-  🔗 [Release Notes](https://github.com/container-registry/harbor-satellite/releases/tag/v0.0.1)
+- [zetic-ai/ZETIC_Melange_apps](https://github.com/zetic-ai/ZETIC_Melange_apps/releases/tag/v1.1.0) – `v1.1.0` (📅 2026-01-28)  
+  🔗 [Release Notes](https://github.com/zetic-ai/ZETIC_Melange_apps/releases/tag/v1.1.0)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [themattspiral/vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.5.1) – `v0.5.1` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.5.1)
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.40.0) – `0.40.0` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.40.0)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v7.0.1) – `v7.0.1` (📅 2026-02-02)  
+  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v7.0.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0) – `v2.3.0` (📅 2025-12-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.0)
 
 ## 🔹 Green-software
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
   🔗 [Release Notes](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta)
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5)
