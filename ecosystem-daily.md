@@ -11,8 +11,10 @@
   🔗 [Release Notes](https://github.com/zetic-ai/ZETIC_Melange_apps/releases/tag/v1.1.0)
 
 ## 🔹 Webassembly
-- [ndtao2020/lz-string-wasm-vn](https://github.com/ndtao2020/lz-string-wasm-vn/releases/tag/v1.2.2) – `v1.2.2` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/ndtao2020/lz-string-wasm-vn/releases/tag/v1.2.2)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.43) – `6.4.43` (📅 2025-11-20)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.43)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
