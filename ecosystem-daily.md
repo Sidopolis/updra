@@ -4,18 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.3.0) – `2.3.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.3.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [zetic-ai/ZETIC_Melange_apps](https://github.com/zetic-ai/ZETIC_Melange_apps/releases/tag/v1.1.0) – `v1.1.0` (📅 2026-01-28)  
+  🔗 [Release Notes](https://github.com/zetic-ai/ZETIC_Melange_apps/releases/tag/v1.1.0)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [ndtao2020/lz-string-wasm-vn](https://github.com/ndtao2020/lz-string-wasm-vn/releases/tag/v1.2.2) – `v1.2.2` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/ndtao2020/lz-string-wasm-vn/releases/tag/v1.2.2)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
