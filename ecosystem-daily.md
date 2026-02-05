@@ -4,23 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Quantinuum/guppylang](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-internals-v0.28.0) – `guppylang-internals-v0.28.0` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-internals-v0.28.0)
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-22)  
-  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4) – `v10.0.4` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
+- [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
+  🔗 [Release Notes](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5)
-- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
-  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
