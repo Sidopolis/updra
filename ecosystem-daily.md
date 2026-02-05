@@ -4,15 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qinnovates/mindloft](https://github.com/qinnovates/mindloft/releases/tag/v0.4.0) – `v0.4.0` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/qinnovates/mindloft/releases/tag/v0.4.0)
+- [cirKITers/qml-essentials](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.37) – `0.1.37` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.37)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
+- [container-registry/harbor-satellite](https://github.com/container-registry/harbor-satellite/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-25)  
+  🔗 [Release Notes](https://github.com/container-registry/harbor-satellite/releases/tag/v0.0.1)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- [jupyterlite/xeus](https://github.com/jupyterlite/xeus/releases/tag/v4.4.1) – `v4.4.1` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/jupyterlite/xeus/releases/tag/v4.4.1)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
