@@ -4,17 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qinnovates/mindloft](https://github.com/qinnovates/mindloft/releases/tag/v0.4.0) – `v0.4.0` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/qinnovates/mindloft/releases/tag/v0.4.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [arrufat/zignal](https://github.com/arrufat/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/arrufat/zignal/releases/tag/0.9.1)
-- [RibirX/Ribir](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0) – `ribir-v0.3.0` (📅 2024-08-26)  
-  🔗 [Release Notes](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
