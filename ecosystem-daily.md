@@ -4,22 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/mitiq](https://github.com/unitaryfoundation/mitiq/releases/tag/v0.48.1) – `v0.48.1` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/mitiq/releases/tag/v0.48.1)
-- [cirKITers/qml-essentials](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.37) – `0.1.37` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.37)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.49.24) – `1.49.24` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.49.24)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
-- [LiveSplit/LiveSplitOne](https://github.com/LiveSplit/LiveSplitOne/releases/tag/latest) – `latest` (📅 2024-07-21)  
-  🔗 [Release Notes](https://github.com/LiveSplit/LiveSplitOne/releases/tag/latest)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.6.0) – `v1.6.0` (📅 2026-02-04)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.6.0)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
