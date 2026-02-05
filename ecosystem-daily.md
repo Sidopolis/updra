@@ -1,4 +1,4 @@
-# 🌐 Ecosystem Daily Log – 2026-02-04
+# 🌐 Ecosystem Daily Log – 2026-02-05
 
 ## 🔹 Ai-ethics
 - No recent releases found.
@@ -11,12 +11,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio/releases/tag/v0.18.1) – `v0.18.1` (📅 2025-07-04)  
-  🔗 [Release Notes](https://github.com/fluvio-community/fluvio/releases/tag/v0.18.1)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.3) – `v41.0.3` (📅 2026-02-04)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.3)
+- [arrufat/zignal](https://github.com/arrufat/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/arrufat/zignal/releases/tag/0.9.1)
+- [RibirX/Ribir](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0) – `ribir-v0.3.0` (📅 2024-08-26)  
+  🔗 [Release Notes](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
