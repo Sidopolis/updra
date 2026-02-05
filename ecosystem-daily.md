@@ -4,17 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Quantinuum/guppylang](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-internals-v0.28.0) – `guppylang-internals-v0.28.0` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-internals-v0.28.0)
 
 ## 🔹 Edge-computing
 - [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
   🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
 
 ## 🔹 Webassembly
-- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.6) – `2.10.6` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.6)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.0.0)
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
 
