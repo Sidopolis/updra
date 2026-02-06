@@ -7,14 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [NachoPeinador/FRUGAL_AI_CHIP](https://github.com/NachoPeinador/FRUGAL_AI_CHIP/releases/tag/v2) – `v2` (📅 2026-02-06)  
-  🔗 [Release Notes](https://github.com/NachoPeinador/FRUGAL_AI_CHIP/releases/tag/v2)
+- No recent releases found.
 
 ## 🔹 Webassembly
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15) – `v0.8.15` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15)
 - [4mritGiri/npdatetime](https://github.com/4mritGiri/npdatetime/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-06)  
   🔗 [Release Notes](https://github.com/4mritGiri/npdatetime/releases/tag/v0.2.0)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.2) – `0.61.2` (📅 2026-02-06)  
