@@ -1,21 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2026-02-06
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [nichechristie/Luxbin-Quantum-internet](https://github.com/nichechristie/Luxbin-Quantum-internet/releases/tag/v.1.0) – `v.1.0` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/nichechristie/Luxbin-Quantum-internet/releases/tag/v.1.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.20.13-202601301305.p0) – `4.20.13-202601301305.p0` (📅 2026-02-06)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.20.13-202601301305.p0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [artifact-keeper/artifact-keeper-example-plugin](https://github.com/artifact-keeper/artifact-keeper-example-plugin/releases/tag/v1.0.0-a1) – `v1.0.0-a1` (📅 2026-02-06)  
-  🔗 [Release Notes](https://github.com/artifact-keeper/artifact-keeper-example-plugin/releases/tag/v1.0.0-a1)
-- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.4.58) – `6.4.58` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.4.58)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
+- [themattspiral/vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.6.0) – `v0.6.0` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.6.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.12) – `0.61.12` (📅 2026-02-06)  
