@@ -4,18 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v10.0.2) – `vm6502q.v10.0.2` (📅 2026-01-21)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v10.0.2)
+- [tensorflow/quantum](https://github.com/tensorflow/quantum/releases/tag/v0.7.5) – `v0.7.5` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/tensorflow/quantum/releases/tag/v0.7.5)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
 
 ## 🔹 Edge-computing
-- [Puzzaks/PAIOS](https://github.com/Puzzaks/PAIOS/releases/tag/v1.1.2) – `v1.1.2` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/Puzzaks/PAIOS/releases/tag/v1.1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
-- [donatodelpeschio/soundBlade](https://github.com/donatodelpeschio/soundBlade/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-06)  
-  🔗 [Release Notes](https://github.com/donatodelpeschio/soundBlade/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.2) – `0.61.2` (📅 2026-02-06)  
