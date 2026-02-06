@@ -8,13 +8,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
+- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-12-06)  
+  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.6.0)
 - [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
   🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
-- [themattspiral/vitest-pool-assemblyscript](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.6.0) – `v0.6.0` (📅 2026-02-06)  
-  🔗 [Release Notes](https://github.com/themattspiral/vitest-pool-assemblyscript/releases/tag/v0.6.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.12) – `0.61.12` (📅 2026-02-06)  
