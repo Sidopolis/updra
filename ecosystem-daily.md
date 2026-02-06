@@ -1,23 +1,21 @@
-# 🌐 Ecosystem Daily Log – 2026-02-05
+# 🌐 Ecosystem Daily Log – 2026-02-06
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [jakobmina/simons](https://github.com/jakobmina/simons/releases/tag/version2.4) – `version2.4` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/jakobmina/simons/releases/tag/version2.4)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [bejranonda/MedEdge-Gateway](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v2.3.0) – `v2.3.0` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/bejranonda/MedEdge-Gateway/releases/tag/v2.3.0)
-- [Puzzaks/PAIOS](https://github.com/Puzzaks/PAIOS/releases/tag/v1.1.2) – `v1.1.2` (📅 2026-01-16)  
-  🔗 [Release Notes](https://github.com/Puzzaks/PAIOS/releases/tag/v1.1.2)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
+- [WebAssembly/WASI](https://github.com/WebAssembly/WASI/releases/tag/v0.2.10) – `v0.2.10` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/WebAssembly/WASI/releases/tag/v0.2.10)
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
