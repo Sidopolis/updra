@@ -7,15 +7,18 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v7.0.0) – `v7.0.0` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v7.0.0)
 
 ## 🔹 Webassembly
-- [WebAssembly/WASI](https://github.com/WebAssembly/WASI/releases/tag/v0.2.10) – `v0.2.10` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/WebAssembly/WASI/releases/tag/v0.2.10)
-- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.42.1) – `0.42.1` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.42.1)
+- [scribeocr/scribe.js](https://github.com/scribeocr/scribe.js/releases/tag/v0.9.3) – `v0.9.3` (📅 2025-11-15)  
+  🔗 [Release Notes](https://github.com/scribeocr/scribe.js/releases/tag/v0.9.3)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.310) – `v4.0.310` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.310)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
