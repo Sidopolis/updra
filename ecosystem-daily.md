@@ -7,13 +7,12 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15) – `v0.8.15` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15)
-- [4mritGiri/npdatetime](https://github.com/4mritGiri/npdatetime/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-06)  
-  🔗 [Release Notes](https://github.com/4mritGiri/npdatetime/releases/tag/v0.2.0)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.6) – `2.10.6` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.6)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.2) – `0.61.2` (📅 2026-02-06)  
