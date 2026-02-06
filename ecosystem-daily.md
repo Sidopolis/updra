@@ -4,22 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [aws-cqc/DeviceLayout.jl](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.8.0) – `v1.8.0` (📅 2026-01-05)  
-  🔗 [Release Notes](https://github.com/aws-cqc/DeviceLayout.jl/releases/tag/v1.8.0)
+- [SyntheticBrains/nematode](https://github.com/SyntheticBrains/nematode/releases/tag/v1.6.0) – `v1.6.0` (📅 2026-01-26)  
+  🔗 [Release Notes](https://github.com/SyntheticBrains/nematode/releases/tag/v1.6.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [container-registry/harbor-satellite](https://github.com/container-registry/harbor-satellite/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-25)  
+  🔗 [Release Notes](https://github.com/container-registry/harbor-satellite/releases/tag/v0.0.1)
 
 ## 🔹 Webassembly
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
-- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.1.0) – `1.1.0` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.1.0)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
+- [mosra/magnum](https://github.com/mosra/magnum/releases/tag/v2020.06) – `v2020.06` (📅 2020-07-02)  
+  🔗 [Release Notes](https://github.com/mosra/magnum/releases/tag/v2020.06)
+- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/12.3.0) – `12.3.0` (📅 2026-01-21)  
+  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/12.3.0)
 
 ## 🔹 Green-software
-- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.2) – `0.61.2` (📅 2026-02-06)  
-  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.2)
-- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
-  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
+- No recent releases found.
