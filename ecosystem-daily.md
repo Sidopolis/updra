@@ -4,18 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/syrec](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0) – `v2.0.0` (📅 2025-10-16)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/syrec/releases/tag/v2.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [wasm-fmt/wasm-fmt-vscode](https://github.com/wasm-fmt/wasm-fmt-vscode/releases/tag/v0.6.0) – `v0.6.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/wasm-fmt-vscode/releases/tag/v0.6.0)
-- [fiorix/cat-o-licious](https://github.com/fiorix/cat-o-licious/releases/tag/v1.0) – `v1.0` (📅 2018-07-29)  
-  🔗 [Release Notes](https://github.com/fiorix/cat-o-licious/releases/tag/v1.0)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.15.0) – `v1.15.0` (📅 2026-02-04)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.15.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.13) – `0.61.13` (📅 2026-02-07)  
