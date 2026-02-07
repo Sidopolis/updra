@@ -1,17 +1,24 @@
 # 🌐 Ecosystem Daily Log – 2026-02-07
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.123) – `v0.0.123` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.123)
+- [qubit-os/qubit-os-hardware](https://github.com/qubit-os/qubit-os-hardware/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-07)  
+  🔗 [Release Notes](https://github.com/qubit-os/qubit-os-hardware/releases/tag/v0.1.0)
+- [qubit-os/qubit-os-core](https://github.com/qubit-os/qubit-os-core/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-07)  
+  🔗 [Release Notes](https://github.com/qubit-os/qubit-os-core/releases/tag/v0.1.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.12) – `v0.4.12` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.12)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
+- [GhevondW/cortex](https://github.com/GhevondW/cortex/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/GhevondW/cortex/releases/tag/v0.2.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.13) – `0.61.13` (📅 2026-02-07)  
