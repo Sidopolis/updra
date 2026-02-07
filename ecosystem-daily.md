@@ -4,15 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qcec](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.5.0) – `v3.5.0` (📅 2026-02-02)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qcec/releases/tag/v3.5.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [philfreshman/algo-visualizer](https://github.com/philfreshman/algo-visualizer/releases/tag/v0.4.1) – `v0.4.1` (📅 2024-04-25)  
-  🔗 [Release Notes](https://github.com/philfreshman/algo-visualizer/releases/tag/v0.4.1)
+- [scribeocr/scribe.js](https://github.com/scribeocr/scribe.js/releases/tag/v0.9.3) – `v0.9.3` (📅 2025-11-15)  
+  🔗 [Release Notes](https://github.com/scribeocr/scribe.js/releases/tag/v0.9.3)
+- [fiorix/cat-o-licious](https://github.com/fiorix/cat-o-licious/releases/tag/v1.0) – `v1.0` (📅 2018-07-29)  
+  🔗 [Release Notes](https://github.com/fiorix/cat-o-licious/releases/tag/v1.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
