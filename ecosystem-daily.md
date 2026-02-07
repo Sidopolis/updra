@@ -4,19 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [tqec/tqec](https://github.com/tqec/tqec/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-11-12)  
-  🔗 [Release Notes](https://github.com/tqec/tqec/releases/tag/v0.1.0)
+- [itsubaki/q](https://github.com/itsubaki/q/releases/tag/v0.0.10) – `v0.0.10` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/itsubaki/q/releases/tag/v0.0.10)
 - [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
   🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [tqec/tqec](https://github.com/tqec/tqec/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-11-12)  
+  🔗 [Release Notes](https://github.com/tqec/tqec/releases/tag/v0.1.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [pulseengine/rules_wasm_component](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-07-24)  
-  🔗 [Release Notes](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0)
-- [eyereasoner/eye-js](https://github.com/eyereasoner/eye-js/releases/tag/v19.0.1) – `v19.0.1` (📅 2026-01-02)  
-  🔗 [Release Notes](https://github.com/eyereasoner/eye-js/releases/tag/v19.0.1)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.15.0) – `v1.15.0` (📅 2026-02-04)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.15.0)
 
 ## 🔹 Green-software
 - [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
