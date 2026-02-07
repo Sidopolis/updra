@@ -5,20 +5,16 @@
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [qubit-os/qubit-os-hardware](https://github.com/qubit-os/qubit-os-hardware/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/qubit-os/qubit-os-hardware/releases/tag/v0.1.0)
-- [qubit-os/qubit-os-core](https://github.com/qubit-os/qubit-os-core/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/qubit-os/qubit-os-core/releases/tag/v0.1.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.12) – `v0.4.12` (📅 2026-01-22)  
   🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.12)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
-- [GhevondW/cortex](https://github.com/GhevondW/cortex/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/GhevondW/cortex/releases/tag/v0.2.0)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.13) – `0.61.13` (📅 2026-02-07)  
