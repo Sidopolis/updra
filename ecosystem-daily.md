@@ -4,18 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.123) – `v0.0.123` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.123)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.3.0)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.13) – `0.61.13` (📅 2026-02-07)  
