@@ -7,12 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [arrufat/zignal](https://github.com/arrufat/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/arrufat/zignal/releases/tag/0.9.1)
+- [kamakiri01/qulacs-wasm](https://github.com/kamakiri01/qulacs-wasm/releases/tag/v0.0.5) – `v0.0.5` (📅 2023-12-26)  
+  🔗 [Release Notes](https://github.com/kamakiri01/qulacs-wasm/releases/tag/v0.0.5)
+- [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.7.0) – `v0.7.0` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.7.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
