@@ -4,17 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.1) – `v3.4.1` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.1)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [frogfishio/zasm](https://github.com/frogfishio/zasm/releases/tag/v1.0.5) – `v1.0.5` (📅 2026-01-05)  
-  🔗 [Release Notes](https://github.com/frogfishio/zasm/releases/tag/v1.0.5)
-- [gogins/csound-wasm](https://github.com/gogins/csound-wasm/releases/tag/v3.3.0) – `v3.3.0` (📅 2024-01-18)  
-  🔗 [Release Notes](https://github.com/gogins/csound-wasm/releases/tag/v3.3.0)
+- [wasm-fmt/mago_fmt](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.6.0) – `v0.6.0` (📅 2026-02-04)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.6.0)
+- [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-02-07)  
+  🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.3.0)
+- [hasnainroopawalla/flux](https://github.com/hasnainroopawalla/flux/releases/tag/v1.3.1) – `v1.3.1` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/hasnainroopawalla/flux/releases/tag/v1.3.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
