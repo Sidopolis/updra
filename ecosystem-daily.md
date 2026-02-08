@@ -1,21 +1,26 @@
 # 🌐 Ecosystem Daily Log – 2026-02-08
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.204) – `v0.8.204` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.204)
-- [jturcotte/chiptrack](https://github.com/jturcotte/chiptrack/releases/tag/v0.5) – `v0.5` (📅 2024-11-05)  
-  🔗 [Release Notes](https://github.com/jturcotte/chiptrack/releases/tag/v0.5)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
+- [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v2.0.7) – `v2.0.7` (📅 2026-01-31)  
+  🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v2.0.7)
+- [grain-lang/grain](https://github.com/grain-lang/grain/releases/tag/stdlib-v0.7.2) – `stdlib-v0.7.2` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/grain-lang/grain/releases/tag/stdlib-v0.7.2)
 
 ## 🔹 Green-software
-- No recent releases found.
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14)
+- [hyperpolymath/sustainabot](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta) – `v0.1.1-beta` (📅 2025-12-26)  
+  🔗 [Release Notes](https://github.com/hyperpolymath/sustainabot/releases/tag/v0.1.1-beta)
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5)
