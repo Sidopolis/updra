@@ -4,19 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qubit-os/qubit-os-core](https://github.com/qubit-os/qubit-os-core/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/qubit-os/qubit-os-core/releases/tag/v0.1.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.202) – `v0.8.202` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.202)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.43.1) – `0.43.1` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.43.1)
+- [LambBread/lipsum-cpp](https://github.com/LambBread/lipsum-cpp/releases/tag/0.3.7) – `0.3.7` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/LambBread/lipsum-cpp/releases/tag/0.3.7)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.13) – `0.61.13` (📅 2026-02-07)  
