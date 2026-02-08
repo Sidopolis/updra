@@ -4,17 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qubit-os/qubit-os-proto](https://github.com/qubit-os/qubit-os-proto/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/qubit-os/qubit-os-proto/releases/tag/v0.1.0)
 - [qubit-os/qubit-os-hardware](https://github.com/qubit-os/qubit-os-hardware/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-07)  
   🔗 [Release Notes](https://github.com/qubit-os/qubit-os-hardware/releases/tag/v0.1.0)
+- [qubit-os/qubit-os-core](https://github.com/qubit-os/qubit-os-core/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-07)  
+  🔗 [Release Notes](https://github.com/qubit-os/qubit-os-core/releases/tag/v0.1.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os/releases/tag/v1.10.0) – `v1.10.0` (📅 2025-03-07)  
-  🔗 [Release Notes](https://github.com/plbrault/youre-the-os/releases/tag/v1.10.0)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.43.1) – `0.43.1` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.43.1)
 - [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
   🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
 
