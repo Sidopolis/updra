@@ -10,12 +10,12 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
+- [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.7.0) – `v0.7.0` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.7.0)
 - [kyleu/projectforge](https://github.com/kyleu/projectforge/releases/tag/v2.0.7) – `v2.0.7` (📅 2026-01-31)  
   🔗 [Release Notes](https://github.com/kyleu/projectforge/releases/tag/v2.0.7)
-- [grain-lang/grain](https://github.com/grain-lang/grain/releases/tag/stdlib-v0.7.2) – `stdlib-v0.7.2` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/grain-lang/grain/releases/tag/stdlib-v0.7.2)
+- [lichess-org/stockfish-web](https://github.com/lichess-org/stockfish-web/releases/tag/v0.2.2) – `v0.2.2` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/lichess-org/stockfish-web/releases/tag/v0.2.2)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
