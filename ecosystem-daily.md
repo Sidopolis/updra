@@ -4,16 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Jayshah25/Quantum-Reinforcement-Learning](https://github.com/Jayshah25/Quantum-Reinforcement-Learning/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-10-07)  
+  🔗 [Release Notes](https://github.com/Jayshah25/Quantum-Reinforcement-Learning/releases/tag/v0.2.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [kamakiri01/qulacs-wasm](https://github.com/kamakiri01/qulacs-wasm/releases/tag/v0.0.5) – `v0.0.5` (📅 2023-12-26)  
-  🔗 [Release Notes](https://github.com/kamakiri01/qulacs-wasm/releases/tag/v0.0.5)
-- [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.7.0) – `v0.7.0` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.7.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.203) – `v0.8.203` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.203)
+- [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os/releases/tag/v1.10.0) – `v1.10.0` (📅 2025-03-07)  
+  🔗 [Release Notes](https://github.com/plbrault/youre-the-os/releases/tag/v1.10.0)
+- [grain-lang/grain](https://github.com/grain-lang/grain/releases/tag/grain-v0.7.1) – `grain-v0.7.1` (📅 2025-07-01)  
+  🔗 [Release Notes](https://github.com/grain-lang/grain/releases/tag/grain-v0.7.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
