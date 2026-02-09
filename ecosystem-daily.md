@@ -1,22 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2026-02-09
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [TuringQ/deepquantum](https://github.com/TuringQ/deepquantum/releases/tag/v4.4.0) – `v4.4.0` (📅 2025-09-30)  
-  🔗 [Release Notes](https://github.com/TuringQ/deepquantum/releases/tag/v4.4.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [lfedgeai/SPEAR](https://github.com/lfedgeai/SPEAR/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/lfedgeai/SPEAR/releases/tag/v0.1.0)
 
 ## 🔹 Webassembly
 - [frogfishio/zasm](https://github.com/frogfishio/zasm/releases/tag/v1.0.5) – `v1.0.5` (📅 2026-01-05)  
   🔗 [Release Notes](https://github.com/frogfishio/zasm/releases/tag/v1.0.5)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
+- [kubewarden/policies](https://github.com/kubewarden/policies/releases/tag/allowed-fsgroups-psp-policy/v1.0.9) – `allowed-fsgroups-psp-policy/v1.0.9` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/kubewarden/policies/releases/tag/allowed-fsgroups-psp-policy/v1.0.9)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
