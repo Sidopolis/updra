@@ -1,22 +1,20 @@
-# 🌐 Ecosystem Daily Log – 2026-02-08
+# 🌐 Ecosystem Daily Log – 2026-02-09
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qubit-os/qubit-os-hardware](https://github.com/qubit-os/qubit-os-hardware/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/qubit-os/qubit-os-hardware/releases/tag/v0.1.0)
-- [qubit-os/qubit-os-core](https://github.com/qubit-os/qubit-os-core/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/qubit-os/qubit-os-core/releases/tag/v0.1.0)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+
 ## 🔹 Webassembly
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.43.1) – `0.43.1` (📅 2026-02-06)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.43.1)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
+- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.9.0) – `v0.9.0` (📅 2026-02-07)  
+  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.9.0)
+- [frogfishio/zasm](https://github.com/frogfishio/zasm/releases/tag/v1.0.5) – `v1.0.5` (📅 2026-01-05)  
+  🔗 [Release Notes](https://github.com/frogfishio/zasm/releases/tag/v1.0.5)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
