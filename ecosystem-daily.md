@@ -4,16 +4,24 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Quantinuum/hugr](https://github.com/Quantinuum/hugr/releases/tag/hugr-py-v0.15.2) – `hugr-py-v0.15.2` (📅 2026-02-06)  
-  🔗 [Release Notes](https://github.com/Quantinuum/hugr/releases/tag/hugr-py-v0.15.2)
+- [vprusso/toqito](https://github.com/vprusso/toqito/releases/tag/v1.1.3) – `v1.1.3` (📅 2025-10-23)  
+  🔗 [Release Notes](https://github.com/vprusso/toqito/releases/tag/v1.1.3)
+- [Quantinuum/hugr](https://github.com/Quantinuum/hugr/releases/tag/hugr-py-v0.15.3) – `hugr-py-v0.15.3` (📅 2026-02-09)  
+  🔗 [Release Notes](https://github.com/Quantinuum/hugr/releases/tag/hugr-py-v0.15.3)
 
 ## 🔹 Edge-computing
-- [absmach/supermq](https://github.com/absmach/supermq/releases/tag/v0.18.5) – `v0.18.5` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/absmach/supermq/releases/tag/v0.18.5)
+- [supabase/edge-runtime](https://github.com/supabase/edge-runtime/releases/tag/v1.70.3) – `v1.70.3` (📅 2026-02-09)  
+  🔗 [Release Notes](https://github.com/supabase/edge-runtime/releases/tag/v1.70.3)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.43.1) – `0.43.1` (📅 2026-02-06)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.43.1)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.6) – `2.10.6` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.6)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
