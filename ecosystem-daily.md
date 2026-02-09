@@ -4,19 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit-serverless](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.28.0) – `v0.28.0` (📅 2025-12-05)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.28.0)
-- [oqtopus-team/oqtopus-cloud](https://github.com/oqtopus-team/oqtopus-cloud/releases/tag/v1.4.1) – `v1.4.1` (📅 2025-11-21)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/oqtopus-cloud/releases/tag/v1.4.1)
+- [QuantumSavory/QuantumSavory.jl](https://github.com/QuantumSavory/QuantumSavory.jl/releases/tag/v0.5.1) – `v0.5.1` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/QuantumSavory/QuantumSavory.jl/releases/tag/v0.5.1)
+- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.1) – `v3.4.1` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.1)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.32.1) – `v1.32.1` (📅 2026-02-09)  
-  🔗 [Release Notes](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.32.1)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.15.0) – `v1.15.0` (📅 2026-02-04)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.15.0)
+- [alanbld/utf8proj](https://github.com/alanbld/utf8proj/releases/tag/v0.15.1) – `v0.15.1` (📅 2026-01-29)  
+  🔗 [Release Notes](https://github.com/alanbld/utf8proj/releases/tag/v0.15.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
