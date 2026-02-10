@@ -5,22 +5,24 @@
   🔗 [Release Notes](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0) – `v0.44.0` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0)
-- [unitaryfoundation/metriq-gym](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.6.1) – `v0.6.1` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.6.1)
+- [Qiskit/qiskit-serverless](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.29.0) – `v0.29.0` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.29.0)
+- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/1.25.1) – `1.25.1` (📅 2026-01-23)  
+  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/1.25.1)
 
 ## 🔹 Edge-computing
-- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.34) – `v1.9.34` (📅 2026-02-10)  
-  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.34)
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.36-rc1) – `v1.9.36-rc1` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.36-rc1)
+- [ORNL/iris](https://github.com/ORNL/iris/releases/tag/v3.0.1) – `v3.0.1` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/ORNL/iris/releases/tag/v3.0.1)
 
 ## 🔹 Webassembly
-- [LiveSplit/LiveSplitOne](https://github.com/LiveSplit/LiveSplitOne/releases/tag/latest) – `latest` (📅 2024-07-21)  
-  🔗 [Release Notes](https://github.com/LiveSplit/LiveSplitOne/releases/tag/latest)
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15) – `v0.8.15` (📅 2025-12-19)  
-  🔗 [Release Notes](https://github.com/leptos-rs/leptos/releases/tag/v0.8.15)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- [tinywasm/fmt](https://github.com/tinywasm/fmt/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-09-06)  
+  🔗 [Release Notes](https://github.com/tinywasm/fmt/releases/tag/v0.5.0)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.6) – `2.10.6` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.6)
+- [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.7.0) – `v0.7.0` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.7.0)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
