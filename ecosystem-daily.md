@@ -7,13 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.20.13-202601301305.p0) – `4.20.13-202601301305.p0` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.20.13-202601301305.p0)
 
 ## 🔹 Webassembly
-- [pulseengine/rules_wasm_component](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-07-24)  
-  🔗 [Release Notes](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0)
-- [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.1) – `1.5.1` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/ant-design-blazor/ant-design-blazor/releases/tag/1.5.1)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.43.1) – `0.43.1` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.43.1)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
