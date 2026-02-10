@@ -1,25 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-02-10
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [Steel-SecAdv-LLC/Mercury-Agent](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1) – `v1.1` (📅 2025-12-10)  
+  🔗 [Release Notes](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0) – `v0.14.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0)
-- [nichechristie/Luxbin-Quantum-internet](https://github.com/nichechristie/Luxbin-Quantum-internet/releases/tag/v.1.0) – `v.1.0` (📅 2026-01-09)  
-  🔗 [Release Notes](https://github.com/nichechristie/Luxbin-Quantum-internet/releases/tag/v.1.0)
+- [unitaryfoundation/metriq-gym](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.6.1) – `v0.6.1` (📅 2026-01-23)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/metriq-gym/releases/tag/v0.6.1)
 
 ## 🔹 Edge-computing
-- [container-registry/harbor-satellite](https://github.com/container-registry/harbor-satellite/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-25)  
-  🔗 [Release Notes](https://github.com/container-registry/harbor-satellite/releases/tag/v0.0.1)
+- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.13) – `v0.4.13` (📅 2026-02-07)  
+  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.13)
 
 ## 🔹 Webassembly
-- [ratatui/ratzilla](https://github.com/ratatui/ratzilla/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/ratatui/ratzilla/releases/tag/v0.3.0)
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.244) – `v4.0.244` (📅 2026-02-10)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.244)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os/releases/tag/v1.10.1) – `v1.10.1` (📅 2026-02-09)  
+  🔗 [Release Notes](https://github.com/plbrault/youre-the-os/releases/tag/v1.10.1)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
