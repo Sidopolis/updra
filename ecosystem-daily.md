@@ -4,20 +4,25 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
+- [Qiskit/qiskit-serverless](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.29.0) – `v0.29.0` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.29.0)
+- [qiskit-community/spank-plugins](https://github.com/qiskit-community/spank-plugins/releases/tag/v0.4.0) – `v0.4.0` (📅 2025-10-24)  
+  🔗 [Release Notes](https://github.com/qiskit-community/spank-plugins/releases/tag/v0.4.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
-- [jedisct1/libsodium.js](https://github.com/jedisct1/libsodium.js/releases/tag/0.8.2) – `0.8.2` (📅 2026-01-24)  
-  🔗 [Release Notes](https://github.com/jedisct1/libsodium.js/releases/tag/0.8.2)
+- [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm/releases/tag/v3.0.3) – `v3.0.3` (📅 2026-02-09)  
+  🔗 [Release Notes](https://github.com/CosmWasm/cosmwasm/releases/tag/v3.0.3)
+- [mrubyedge/mrubyedge](https://github.com/mrubyedge/mrubyedge/releases/tag/v1.1.3) – `v1.1.3` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/mrubyedge/mrubyedge/releases/tag/v1.1.3)
+- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0) – `0.2.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5)
-- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14)
