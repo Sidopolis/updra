@@ -1,23 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2026-02-11
 
 ## 🔹 Ai-ethics
-- [aloth/JudgeGPT](https://github.com/aloth/JudgeGPT/releases/tag/v1.0.2) – `v1.0.2` (📅 2025-09-01)  
-  🔗 [Release Notes](https://github.com/aloth/JudgeGPT/releases/tag/v1.0.2)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [qinnovates/mindloft](https://github.com/qinnovates/mindloft/releases/tag/v0.4.0) – `v0.4.0` (📅 2026-01-23)  
+  🔗 [Release Notes](https://github.com/qinnovates/mindloft/releases/tag/v0.4.0)
+
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.49.24) – `1.49.24` (📅 2026-01-29)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.49.24)
+- [pauloappbr/gojinn](https://github.com/pauloappbr/gojinn/releases/tag/v0.21.0) – `v0.21.0` (📅 2026-02-11)  
+  🔗 [Release Notes](https://github.com/pauloappbr/gojinn/releases/tag/v0.21.0)
 
 ## 🔹 Webassembly
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.3) – `v41.0.3` (📅 2026-02-04)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.3)
-- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.5.31) – `6.5.31` (📅 2026-02-10)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.5.31)
-- [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.7.0) – `v0.7.0` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.7.0)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.6) – `2.10.6` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.6)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
