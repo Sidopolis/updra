@@ -4,17 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qecc](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-03-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [4mritGiri/npdatetime](https://github.com/4mritGiri/npdatetime/releases/tag/v0.2.2) – `v0.2.2` (📅 2026-02-11)  
-  🔗 [Release Notes](https://github.com/4mritGiri/npdatetime/releases/tag/v0.2.2)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [jedisct1/libsodium.js](https://github.com/jedisct1/libsodium.js/releases/tag/0.8.2) – `0.8.2` (📅 2026-01-24)  
+  🔗 [Release Notes](https://github.com/jedisct1/libsodium.js/releases/tag/0.8.2)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
