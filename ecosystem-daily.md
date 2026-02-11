@@ -7,20 +7,21 @@
 ## 🔹 Quantum-computing
 - [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
   🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [microsoft/qdk-chemistry](https://github.com/microsoft/qdk-chemistry/releases/tag/v1.0.2) – `v1.0.2` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/microsoft/qdk-chemistry/releases/tag/v1.0.2)
 
 ## 🔹 Edge-computing
-- [Zhayr1/bitmamba.cpp](https://github.com/Zhayr1/bitmamba.cpp/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/Zhayr1/bitmamba.cpp/releases/tag/v1.0.0)
-- [tamylaa/clodo-framework](https://github.com/tamylaa/clodo-framework/releases/tag/v4.5.0) – `v4.5.0` (📅 2026-02-11)  
-  🔗 [Release Notes](https://github.com/tamylaa/clodo-framework/releases/tag/v4.5.0)
-- [mulgadc/predastore](https://github.com/mulgadc/predastore/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/mulgadc/predastore/releases/tag/v1.0.0)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v7.0.0) – `v7.0.0` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v7.0.0)
+- [container-registry/harbor-satellite](https://github.com/container-registry/harbor-satellite/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-25)  
+  🔗 [Release Notes](https://github.com/container-registry/harbor-satellite/releases/tag/v0.0.1)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
-- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.24) – `v3.3.24` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.24)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
