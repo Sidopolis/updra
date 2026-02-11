@@ -4,17 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/qlass](https://github.com/unitaryfoundation/qlass/releases/tag/v0.2.2) – `v0.2.2` (📅 2026-01-14)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qlass/releases/tag/v0.2.2)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0) – `v0.44.0` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [RalphBigBear/q-lite](https://github.com/RalphBigBear/q-lite/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-11)  
+  🔗 [Release Notes](https://github.com/RalphBigBear/q-lite/releases/tag/v0.2.0)
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.3) – `v0.9.3` (📅 2026-02-11)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.3)
 
 ## 🔹 Webassembly
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.4.242) – `6.4.242` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.4.242)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
