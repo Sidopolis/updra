@@ -7,21 +7,20 @@
 ## 🔹 Quantum-computing
 - [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
   🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [microsoft/qdk-chemistry](https://github.com/microsoft/qdk-chemistry/releases/tag/v1.0.2) – `v1.0.2` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/microsoft/qdk-chemistry/releases/tag/v1.0.2)
+- [qiboteam/qibo](https://github.com/qiboteam/qibo/releases/tag/v0.2.23) – `v0.2.23` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/qiboteam/qibo/releases/tag/v0.2.23)
 
 ## 🔹 Edge-computing
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v7.0.0) – `v7.0.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v7.0.0)
-- [container-registry/harbor-satellite](https://github.com/container-registry/harbor-satellite/releases/tag/v0.0.1) – `v0.0.1` (📅 2025-08-25)  
-  🔗 [Release Notes](https://github.com/container-registry/harbor-satellite/releases/tag/v0.0.1)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
+- [implyinfer/jetson-orin-nano-field-kit](https://github.com/implyinfer/jetson-orin-nano-field-kit/releases/tag/release-v2.1) – `release-v2.1` (📅 2025-12-24)  
+  🔗 [Release Notes](https://github.com/implyinfer/jetson-orin-nano-field-kit/releases/tag/release-v2.1)
+- [adhamhaithameid/Classroom-Quick-Downloader](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.244) – `v4.0.244` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.244)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
