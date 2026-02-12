@@ -7,18 +7,20 @@
 ## 🔹 Quantum-computing
 - [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
   🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
 
 ## 🔹 Edge-computing
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
-  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.7.0) – `v0.7.0` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.7.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_125) – `version_125` (📅 2025-11-19)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_125)
+- [pygame-web/pygbag](https://github.com/pygame-web/pygbag/releases/tag/0.9.2) – `0.9.2` (📅 2024-08-18)  
+  🔗 [Release Notes](https://github.com/pygame-web/pygbag/releases/tag/0.9.2)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
