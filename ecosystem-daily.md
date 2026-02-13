@@ -10,10 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective/releases/tag/v4.1.1) – `v4.1.1` (📅 2026-02-02)  
+  🔗 [Release Notes](https://github.com/perspective-dev/perspective/releases/tag/v4.1.1)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
