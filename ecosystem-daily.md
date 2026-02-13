@@ -4,18 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [gojinn-io/gojinn](https://github.com/gojinn-io/gojinn/releases/tag/v0.28.0) – `v0.28.0` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/gojinn-io/gojinn/releases/tag/v0.28.0)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26) – `v0.0.26` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26)
 
 ## 🔹 Webassembly
-- [arrufat/zignal](https://github.com/arrufat/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
-  🔗 [Release Notes](https://github.com/arrufat/zignal/releases/tag/0.9.1)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.15.1) – `v1.15.1` (📅 2026-02-12)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.15.1)
-- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4) – `v10.0.4` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4)
+- [gojinn-io/gojinn](https://github.com/gojinn-io/gojinn/releases/tag/v0.28.0) – `v0.28.0` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/gojinn-io/gojinn/releases/tag/v0.28.0)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_126) – `version_126` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_126)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
