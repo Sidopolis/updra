@@ -7,11 +7,18 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [gojinn-io/gojinn](https://github.com/gojinn-io/gojinn/releases/tag/v0.27.0) – `v0.27.0` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/gojinn-io/gojinn/releases/tag/v0.27.0)
+- [theawakener0/OpenEye](https://github.com/theawakener0/OpenEye/releases/tag/AlexFair) – `AlexFair` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/theawakener0/OpenEye/releases/tag/AlexFair)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective/releases/tag/v4.1.1) – `v4.1.1` (📅 2026-02-02)  
-  🔗 [Release Notes](https://github.com/perspective-dev/perspective/releases/tag/v4.1.1)
+- [gojinn-io/gojinn](https://github.com/gojinn-io/gojinn/releases/tag/v0.27.0) – `v0.27.0` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/gojinn-io/gojinn/releases/tag/v0.27.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
