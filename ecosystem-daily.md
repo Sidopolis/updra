@@ -4,19 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.124) – `v0.0.124` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.124)
+- [cirKITers/qml-essentials](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.38) – `0.1.38` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/cirKITers/qml-essentials/releases/tag/0.1.38)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.44) – `v1.9.44` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.44)
 
 ## 🔹 Webassembly
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.44.0) – `0.44.0` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.44.0)
-- [inseri-swiss/inseri-core-wp](https://github.com/inseri-swiss/inseri-core-wp/releases/tag/v1.0.4) – `v1.0.4` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/inseri-swiss/inseri-core-wp/releases/tag/v1.0.4)
-- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.1.0) – `1.1.0` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.1.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v7.0.1) – `v7.0.1` (📅 2026-02-02)  
+  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v7.0.1)
+- [wasm-fmt/ruff_fmt](https://github.com/wasm-fmt/ruff_fmt/releases/tag/v0.15.0) – `v0.15.0` (📅 2026-02-04)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/ruff_fmt/releases/tag/v0.15.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
