@@ -1,19 +1,28 @@
 # 🌐 Ecosystem Daily Log – 2026-02-13
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.43) – `v1.9.43` (📅 2026-02-12)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.43)
+- [oakestra/oakestra](https://github.com/oakestra/oakestra/releases/tag/v0.4.401) – `v0.4.401` (📅 2025-01-29)  
+  🔗 [Release Notes](https://github.com/oakestra/oakestra/releases/tag/v0.4.401)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
-- [andrewdavidmackenzie/flow](https://github.com/andrewdavidmackenzie/flow/releases/tag/v0.135.0) – `v0.135.0` (📅 2023-09-19)  
-  🔗 [Release Notes](https://github.com/andrewdavidmackenzie/flow/releases/tag/v0.135.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0) – `0.2.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
