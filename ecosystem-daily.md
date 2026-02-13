@@ -4,21 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.124) – `v0.0.124` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.124)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
-- [gojinn-io/gojinn](https://github.com/gojinn-io/gojinn/releases/tag/v0.24.0) – `v0.24.0` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/gojinn-io/gojinn/releases/tag/v0.24.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [scribeocr/scribe.js](https://github.com/scribeocr/scribe.js/releases/tag/v0.10.0) – `v0.10.0` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/scribeocr/scribe.js/releases/tag/v0.10.0)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.44.0) – `0.44.0` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.44.0)
+- [inseri-swiss/inseri-core-wp](https://github.com/inseri-swiss/inseri-core-wp/releases/tag/v1.0.4) – `v1.0.4` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/inseri-swiss/inseri-core-wp/releases/tag/v1.0.4)
+- [patriciogonzalezvivo/vera](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.1.0) – `1.1.0` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/patriciogonzalezvivo/vera/releases/tag/1.1.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.5) – `v2.5` (📅 2026-01-02)  
