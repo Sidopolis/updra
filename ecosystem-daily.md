@@ -7,14 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26) – `v0.0.26` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.26)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
-- [MercuryWorkshop/celeste-wasm](https://github.com/MercuryWorkshop/celeste-wasm/releases/tag/latest) – `latest` (📅 2026-02-14)  
-  🔗 [Release Notes](https://github.com/MercuryWorkshop/celeste-wasm/releases/tag/latest)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- [animagram-jp/state-engine](https://github.com/animagram-jp/state-engine/releases/tag/0.1.2) – `0.1.2` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/animagram-jp/state-engine/releases/tag/0.1.2)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
