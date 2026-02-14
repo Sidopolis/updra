@@ -1,8 +1,7 @@
 # 🌐 Ecosystem Daily Log – 2026-02-14
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -11,6 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
 - [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.18.4) – `v0.18.4` (📅 2026-02-14)  
   🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.18.4)
 
