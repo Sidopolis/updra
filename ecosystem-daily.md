@@ -1,7 +1,8 @@
 # 🌐 Ecosystem Daily Log – 2026-02-14
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -10,10 +11,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
-- [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.18.4) – `v0.18.4` (📅 2026-02-14)  
-  🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.18.4)
+- [MarimerLLC/csla](https://github.com/MarimerLLC/csla/releases/tag/v10.0.0) – `v10.0.0` (📅 2026-01-23)  
+  🔗 [Release Notes](https://github.com/MarimerLLC/csla/releases/tag/v10.0.0)
+- [havit/Havit.Blazor](https://github.com/havit/Havit.Blazor/releases/tag/v4.22.0) – `v4.22.0` (📅 2026-01-29)  
+  🔗 [Release Notes](https://github.com/havit/Havit.Blazor/releases/tag/v4.22.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
