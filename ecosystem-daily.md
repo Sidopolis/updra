@@ -1,24 +1,26 @@
 # 🌐 Ecosystem Daily Log – 2026-02-14
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [roryschadler/roryschadler](https://github.com/roryschadler/roryschadler/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-12-12)  
-  🔗 [Release Notes](https://github.com/roryschadler/roryschadler/releases/tag/v0.6.1)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.44.1) – `0.44.1` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.44.1)
-- [MikkoParkkola/translate-browser-extension](https://github.com/MikkoParkkola/translate-browser-extension/releases/tag/v1.4.1) – `v1.4.1` (📅 2025-08-09)  
-  🔗 [Release Notes](https://github.com/MikkoParkkola/translate-browser-extension/releases/tag/v1.4.1)
-- [capstone-engine/capstone](https://github.com/capstone-engine/capstone/releases/tag/6.0.0-Alpha6) – `6.0.0-Alpha6` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/capstone-engine/capstone/releases/tag/6.0.0-Alpha6)
+- [arrufat/zignal](https://github.com/arrufat/zignal/releases/tag/0.9.1) – `0.9.1` (📅 2025-12-15)  
+  🔗 [Release Notes](https://github.com/arrufat/zignal/releases/tag/0.9.1)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
