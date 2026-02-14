@@ -1,22 +1,19 @@
-# 🌐 Ecosystem Daily Log – 2026-02-13
+# 🌐 Ecosystem Daily Log – 2026-02-14
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [gojinn-io/gojinn](https://github.com/gojinn-io/gojinn/releases/tag/v0.28.0) – `v0.28.0` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/gojinn-io/gojinn/releases/tag/v0.28.0)
+- [WORKWAYCO/WORKWAY](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-11-14)  
+  🔗 [Release Notes](https://github.com/WORKWAYCO/WORKWAY/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [animagram-jp/state-engine](https://github.com/animagram-jp/state-engine/releases/tag/0.1.0) – `0.1.0` (📅 2026-02-12)  
-  🔗 [Release Notes](https://github.com/animagram-jp/state-engine/releases/tag/0.1.0)
-- [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.41.0) – `rust-v0.41.0` (📅 2026-02-04)  
-  🔗 [Release Notes](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.41.0)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
