@@ -7,13 +7,16 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.45) – `v1.9.45` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.45)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [MikkoParkkola/translate-browser-extension](https://github.com/MikkoParkkola/translate-browser-extension/releases/tag/v1.4.1) – `v1.4.1` (📅 2025-08-09)  
-  🔗 [Release Notes](https://github.com/MikkoParkkola/translate-browser-extension/releases/tag/v1.4.1)
-- [zemlyansky/arima](https://github.com/zemlyansky/arima/releases/tag/v0.2.4) – `v0.2.4` (📅 2021-11-25)  
-  🔗 [Release Notes](https://github.com/zemlyansky/arima/releases/tag/v0.2.4)
+- [eyereasoner/eye-js](https://github.com/eyereasoner/eye-js/releases/tag/v20.0.0) – `v20.0.0` (📅 2026-02-15)  
+  🔗 [Release Notes](https://github.com/eyereasoner/eye-js/releases/tag/v20.0.0)
+- [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.18.4) – `v0.18.4` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.18.4)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
