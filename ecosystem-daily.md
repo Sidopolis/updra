@@ -4,21 +4,24 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qecc](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-03-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0)
-- [munich-quantum-toolkit/debugger](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.15) – `v0.4.15` (📅 2026-02-15)  
+  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.15)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.0.0) – `v3.0.0` (📅 2026-02-15)  
-  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.0.0)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.25) – `v1.25` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.25)
-- [clojurewasm/ClojureWasm](https://github.com/clojurewasm/ClojureWasm/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/clojurewasm/ClojureWasm/releases/tag/v0.2.0)
+- [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui/releases/tag/0.1.4) – `0.1.4` (📅 2026-02-15)  
+  🔗 [Release Notes](https://github.com/elementary-swift/elementary-ui/releases/tag/0.1.4)
+- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.2.0) – `v3.2.0` (📅 2026-02-15)  
+  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.2.0)
+- [MikkoParkkola/translate-browser-extension](https://github.com/MikkoParkkola/translate-browser-extension/releases/tag/v1.4.1) – `v1.4.1` (📅 2025-08-09)  
+  🔗 [Release Notes](https://github.com/MikkoParkkola/translate-browser-extension/releases/tag/v1.4.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
