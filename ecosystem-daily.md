@@ -1,23 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-02-15
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
-- [Steel-SecAdv-LLC/Mercury-Agent](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1) – `v1.1` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [LostBeard/SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v2.1.0) – `v2.1.0` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v2.1.0)
-- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4) – `v10.0.4` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4)
+- [apersongithub/Speech-Recognition-Polyfill](https://github.com/apersongithub/Speech-Recognition-Polyfill/releases/tag/1.5.5) – `1.5.5` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/apersongithub/Speech-Recognition-Polyfill/releases/tag/1.5.5)
+- [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.19.1) – `v0.19.1` (📅 2026-02-15)  
+  🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.19.1)
+- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.59.0) – `v2.59.0` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.59.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
