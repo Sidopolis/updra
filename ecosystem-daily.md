@@ -1,26 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-02-15
 
 ## 🔹 Ai-ethics
-- [richard-porter/frozen-kernel](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0) – `v1.0` (📅 2026-02-10)  
-  🔗 [Release Notes](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0)
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [welshDog/THE-HYPERCODE](https://github.com/welshDog/THE-HYPERCODE/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-12-31)  
-  🔗 [Release Notes](https://github.com/welshDog/THE-HYPERCODE/releases/tag/v0.1.0)
 - [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v10.03) – `vm6502q.v10.03` (📅 2026-02-11)  
   🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v10.03)
 
 ## 🔹 Edge-computing
 - [dfeen87/Ambient-AI-VCP-System](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-15)  
   🔗 [Release Notes](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v1.0.0)
-- [adhamhaithameid/Classroom-Quick-Downloader](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-21)  
-  🔗 [Release Notes](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0)
 
 ## 🔹 Webassembly
-- [fiorix/cat-o-licious](https://github.com/fiorix/cat-o-licious/releases/tag/v1.0) – `v1.0` (📅 2018-07-29)  
-  🔗 [Release Notes](https://github.com/fiorix/cat-o-licious/releases/tag/v1.0)
+- [msakai/cpl](https://github.com/msakai/cpl/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/msakai/cpl/releases/tag/v0.2.0)
+- [alliecatowo/lumen](https://github.com/alliecatowo/lumen/releases/tag/v0.1.10) – `v0.1.10` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/alliecatowo/lumen/releases/tag/v0.1.10)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
