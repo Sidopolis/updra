@@ -1,24 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-02-16
 
 ## 🔹 Ai-ethics
-- [richard-porter/frozen-kernel](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0) – `v1.0` (📅 2026-02-10)  
-  🔗 [Release Notes](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.45) – `v1.9.45` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.45)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [clojurewasm/ClojureWasm](https://github.com/clojurewasm/ClojureWasm/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/clojurewasm/ClojureWasm/releases/tag/v0.2.0)
-- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
-- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.2.0) – `v3.2.0` (📅 2026-02-15)  
-  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.2.0)
+- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.3.0) – `v3.3.0` (📅 2026-02-16)  
+  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.3.0)
+- [LostBeard/SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v2.1.0) – `v2.1.0` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v2.1.0)
+- [esengine/microes](https://github.com/esengine/microes/releases/tag/v0.5.0) – `v0.5.0` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/esengine/microes/releases/tag/v0.5.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
