@@ -1,19 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2026-02-16
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [OrchardHarmonics/orchard-kit](https://github.com/OrchardHarmonics/orchard-kit/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/OrchardHarmonics/orchard-kit/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [Deniskain3D/Quantum-Messenger](https://github.com/Deniskain3D/Quantum-Messenger/releases/tag/messenger) – `messenger` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/Deniskain3D/Quantum-Messenger/releases/tag/messenger)
+- [amazon-braket/amazon-braket-sdk-python](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.112.0) – `v1.112.0` (📅 2026-02-16)  
+  🔗 [Release Notes](https://github.com/amazon-braket/amazon-braket-sdk-python/releases/tag/v1.112.0)
+- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
+  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
 
 ## 🔹 Edge-computing
-- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.5.1-beta) – `v0.5.1-beta` (📅 2025-12-11)  
-  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.5.1-beta)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [EarthyScience/netcdf4-wasm](https://github.com/EarthyScience/netcdf4-wasm/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-15)  
-  🔗 [Release Notes](https://github.com/EarthyScience/netcdf4-wasm/releases/tag/v0.2.0)
+- [MikkoParkkola/translate-browser-extension](https://github.com/MikkoParkkola/translate-browser-extension/releases/tag/v1.4.1) – `v1.4.1` (📅 2025-08-09)  
+  🔗 [Release Notes](https://github.com/MikkoParkkola/translate-browser-extension/releases/tag/v1.4.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- [CosmWasm/wasmd](https://github.com/CosmWasm/wasmd/releases/tag/v0.61.8) – `v0.61.8` (📅 2026-02-11)  
+  🔗 [Release Notes](https://github.com/CosmWasm/wasmd/releases/tag/v0.61.8)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
