@@ -1,20 +1,28 @@
 # 🌐 Ecosystem Daily Log – 2026-02-16
 
 ## 🔹 Ai-ethics
+- [OrchardHarmonics/orchard-kit](https://github.com/OrchardHarmonics/orchard-kit/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/OrchardHarmonics/orchard-kit/releases/tag/v1.0.0)
 - [hernancapucci/agent-manifest](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-14)  
   🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [eigenvue/eigenvue](https://github.com/eigenvue/eigenvue/releases/tag/v1.0.1) – `v1.0.1` (📅 2026-02-16)  
+  🔗 [Release Notes](https://github.com/eigenvue/eigenvue/releases/tag/v1.0.1)
+- [michaelchips/volq-quantum](https://github.com/michaelchips/volq-quantum/releases/tag/v0.4.0-alpha) – `v0.4.0-alpha` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/michaelchips/volq-quantum/releases/tag/v0.4.0-alpha)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
 
 ## 🔹 Webassembly
-- [mrubyedge/mrubyedge](https://github.com/mrubyedge/mrubyedge/releases/tag/v1.1.5) – `v1.1.5` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/mrubyedge/mrubyedge/releases/tag/v1.1.5)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [unum-cloud/USearch](https://github.com/unum-cloud/USearch/releases/tag/v2.24.0) – `v2.24.0` (📅 2026-02-16)  
+  🔗 [Release Notes](https://github.com/unum-cloud/USearch/releases/tag/v2.24.0)
+- [ArshVermaGit/SimplyPDF](https://github.com/ArshVermaGit/SimplyPDF/releases/tag/v3.0.0) – `v3.0.0` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/ArshVermaGit/SimplyPDF/releases/tag/v3.0.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
