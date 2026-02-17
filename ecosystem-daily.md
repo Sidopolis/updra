@@ -4,16 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
-  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
+- [qi-rub/traq](https://github.com/qi-rub/traq/releases/tag/v0.1) – `v0.1` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/qi-rub/traq/releases/tag/v0.1)
+- [quantumlib/Qualtran](https://github.com/quantumlib/Qualtran/releases/tag/v0.7.0) – `v0.7.0` (📅 2026-01-22)  
+  🔗 [Release Notes](https://github.com/quantumlib/Qualtran/releases/tag/v0.7.0)
 
 ## 🔹 Edge-computing
+- [adhamhaithameid/Classroom-Quick-Downloader](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0)
 - [dfeen87/Ambient-AI-VCP-System](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v1.7.0) – `v1.7.0` (📅 2026-02-17)  
   🔗 [Release Notes](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v1.7.0)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.27) – `v0.0.27` (📅 2026-02-16)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.27)
 
 ## 🔹 Webassembly
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.3) – `v41.0.3` (📅 2026-02-04)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.3)
 - [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.19.1) – `v0.19.1` (📅 2026-02-15)  
   🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.19.1)
 
