@@ -1,23 +1,26 @@
 # 🌐 Ecosystem Daily Log – 2026-02-17
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [richard-porter/frozen-kernel](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0) – `v1.0` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0)
 
 ## 🔹 Quantum-computing
-- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
-  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0) – `v0.14.0` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0) – `v0.44.0` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0)
 
 ## 🔹 Edge-computing
-- [dfeen87/Ambient-AI-VCP-System](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v1.4.0) – `v1.4.0` (📅 2026-02-17)  
-  🔗 [Release Notes](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v1.4.0)
+- [Ryan-Atkinson87/trive_aquasense](https://github.com/Ryan-Atkinson87/trive_aquasense/releases/tag/v2.4.1) – `v2.4.1` (📅 2026-02-17)  
+  🔗 [Release Notes](https://github.com/Ryan-Atkinson87/trive_aquasense/releases/tag/v2.4.1)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.27) – `v0.0.27` (📅 2026-02-16)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.27)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
-- [esengine/microes](https://github.com/esengine/microes/releases/tag/v0.5.1) – `v0.5.1` (📅 2026-02-17)  
-  🔗 [Release Notes](https://github.com/esengine/microes/releases/tag/v0.5.1)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [animagram-jp/state-engine](https://github.com/animagram-jp/state-engine/releases/tag/0.1.2) – `0.1.2` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/animagram-jp/state-engine/releases/tag/0.1.2)
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.9) – `v1.0.9` (📅 2026-02-09)  
+  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.9)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
