@@ -4,19 +4,23 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QuEraComputing/bloqade](https://github.com/QuEraComputing/bloqade/releases/tag/v0.32.0) – `v0.32.0` (📅 2026-01-29)  
-  🔗 [Release Notes](https://github.com/QuEraComputing/bloqade/releases/tag/v0.32.0)
+- [Quantinuum/guppylang](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-internals-v0.29.0) – `guppylang-internals-v0.29.0` (📅 2026-02-11)  
+  🔗 [Release Notes](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-internals-v0.29.0)
+- [QuantBlockchain/qc-bc-interactive](https://github.com/QuantBlockchain/qc-bc-interactive/releases/tag/zenodo) – `zenodo` (📅 2026-02-17)  
+  🔗 [Release Notes](https://github.com/QuantBlockchain/qc-bc-interactive/releases/tag/zenodo)
+- [TeamGraphix/graphix](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.3) – `v0.3.3` (📅 2025-11-28)  
+  🔗 [Release Notes](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.3)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui/releases/tag/0.1.4) – `0.1.4` (📅 2026-02-15)  
-  🔗 [Release Notes](https://github.com/elementary-swift/elementary-ui/releases/tag/0.1.4)
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer/releases/tag/v7.0.1) – `v7.0.1` (📅 2026-02-02)  
-  🔗 [Release Notes](https://github.com/wasmerio/wasmer/releases/tag/v7.0.1)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- [dylibso/chicory](https://github.com/dylibso/chicory/releases/tag/1.6.1) – `1.6.1` (📅 2025-12-11)  
+  🔗 [Release Notes](https://github.com/dylibso/chicory/releases/tag/1.6.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
