@@ -1,26 +1,27 @@
 # 🌐 Ecosystem Daily Log – 2026-02-17
 
 ## 🔹 Ai-ethics
-- [richard-porter/frozen-kernel](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0) – `v1.0` (📅 2026-02-10)  
-  🔗 [Release Notes](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0)
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0) – `v0.14.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0)
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0) – `v0.44.0` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [Ryan-Atkinson87/trive_aquasense](https://github.com/Ryan-Atkinson87/trive_aquasense/releases/tag/v2.4.1) – `v2.4.1` (📅 2026-02-17)  
-  🔗 [Release Notes](https://github.com/Ryan-Atkinson87/trive_aquasense/releases/tag/v2.4.1)
-- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.27) – `v0.0.27` (📅 2026-02-16)  
-  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.27)
+- [dfeen87/Ambient-AI-VCP-System](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v1.5.0) – `v1.5.0` (📅 2026-02-17)  
+  🔗 [Release Notes](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v1.5.0)
+- [adhamhaithameid/Classroom-Quick-Downloader](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
 
 ## 🔹 Webassembly
-- [animagram-jp/state-engine](https://github.com/animagram-jp/state-engine/releases/tag/0.1.2) – `0.1.2` (📅 2026-02-14)  
-  🔗 [Release Notes](https://github.com/animagram-jp/state-engine/releases/tag/0.1.2)
-- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.9) – `v1.0.9` (📅 2026-02-09)  
-  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.9)
+- [unoplatform/Uno.Wasm.Bootstrap](https://github.com/unoplatform/Uno.Wasm.Bootstrap/releases/tag/9.0.3) – `9.0.3` (📅 2024-10-31)  
+  🔗 [Release Notes](https://github.com/unoplatform/Uno.Wasm.Bootstrap/releases/tag/9.0.3)
+- [augmnt/norn-protocol](https://github.com/augmnt/norn-protocol/releases/tag/v0.19.1) – `v0.19.1` (📅 2026-02-15)  
+  🔗 [Release Notes](https://github.com/augmnt/norn-protocol/releases/tag/v0.19.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
