@@ -4,16 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [eclipse-qrisp/Qrisp](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7) – `0.7` (📅 2025-05-16)  
+  🔗 [Release Notes](https://github.com/eclipse-qrisp/Qrisp/releases/tag/0.7)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [dfeen87/Ambient-AI-VCP-System](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v1.4.0) – `v1.4.0` (📅 2026-02-17)  
+  🔗 [Release Notes](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v1.4.0)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
-- [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.42.1) – `rust-v0.42.1` (📅 2026-02-17)  
-  🔗 [Release Notes](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.42.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [esengine/microes](https://github.com/esengine/microes/releases/tag/v0.5.1) – `v0.5.1` (📅 2026-02-17)  
+  🔗 [Release Notes](https://github.com/esengine/microes/releases/tag/v0.5.1)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
