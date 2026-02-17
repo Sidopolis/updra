@@ -7,16 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
-- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v1.9.45) – `v1.9.45` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v1.9.45)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
-- [wasm-fmt/wasm-fmt-vscode](https://github.com/wasm-fmt/wasm-fmt-vscode/releases/tag/v0.6.0) – `v0.6.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/wasm-fmt-vscode/releases/tag/v0.6.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- [wasm-fmt/mago_fmt](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.6.3) – `v0.6.3` (📅 2026-02-17)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/mago_fmt/releases/tag/v0.6.3)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
