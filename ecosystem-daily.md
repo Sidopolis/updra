@@ -1,24 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2026-02-18
 
 ## 🔹 Ai-ethics
-- [richard-porter/frozen-kernel](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0) – `v1.0` (📅 2026-02-10)  
-  🔗 [Release Notes](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0)
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
-  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [GoogleCloudPlatform/recaptcha-edge](https://github.com/GoogleCloudPlatform/recaptcha-edge/releases/tag/v1.0.5) – `v1.0.5` (📅 2025-06-17)  
-  🔗 [Release Notes](https://github.com/GoogleCloudPlatform/recaptcha-edge/releases/tag/v1.0.5)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [pathsim/pathview](https://github.com/pathsim/pathview/releases/tag/v0.7.4) – `v0.7.4` (📅 2026-02-18)  
-  🔗 [Release Notes](https://github.com/pathsim/pathview/releases/tag/v0.7.4)
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
