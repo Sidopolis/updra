@@ -4,16 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0) – `v0.14.0` (📅 2026-01-12)  
+  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.18.4) – `v1.18.4` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.18.4)
+- [JohnBasrai/rust-edge-agent](https://github.com/JohnBasrai/rust-edge-agent/releases/tag/v0.3.2) – `v0.3.2` (📅 2026-02-15)  
+  🔗 [Release Notes](https://github.com/JohnBasrai/rust-edge-agent/releases/tag/v0.3.2)
 
 ## 🔹 Webassembly
-- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- [pathsim/pathview](https://github.com/pathsim/pathview/releases/tag/v0.7.5) – `v0.7.5` (📅 2026-02-18)  
+  🔗 [Release Notes](https://github.com/pathsim/pathview/releases/tag/v0.7.5)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
