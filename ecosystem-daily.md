@@ -4,18 +4,21 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0) – `v0.14.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.18.4) – `v1.18.4` (📅 2026-02-10)  
-  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.18.4)
-- [JohnBasrai/rust-edge-agent](https://github.com/JohnBasrai/rust-edge-agent/releases/tag/v0.3.2) – `v0.3.2` (📅 2026-02-15)  
-  🔗 [Release Notes](https://github.com/JohnBasrai/rust-edge-agent/releases/tag/v0.3.2)
+- [groundlight/edge-endpoint](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1) – `0.7.1` (📅 2025-06-11)  
+  🔗 [Release Notes](https://github.com/groundlight/edge-endpoint/releases/tag/0.7.1)
+- [jfreed-dev/turing-rk1-cluster](https://github.com/jfreed-dev/turing-rk1-cluster/releases/tag/v1.1.1) – `v1.1.1` (📅 2025-12-22)  
+  🔗 [Release Notes](https://github.com/jfreed-dev/turing-rk1-cluster/releases/tag/v1.1.1)
 
 ## 🔹 Webassembly
-- [pathsim/pathview](https://github.com/pathsim/pathview/releases/tag/v0.7.5) – `v0.7.5` (📅 2026-02-18)  
-  🔗 [Release Notes](https://github.com/pathsim/pathview/releases/tag/v0.7.5)
+- [cosmonic-labs/cviz](https://github.com/cosmonic-labs/cviz/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-18)  
+  🔗 [Release Notes](https://github.com/cosmonic-labs/cviz/releases/tag/v1.0.0)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.6) – `2.10.6` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.6)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.613) – `v4.0.613` (📅 2026-02-12)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.613)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
