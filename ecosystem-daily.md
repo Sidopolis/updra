@@ -1,27 +1,24 @@
 # 🌐 Ecosystem Daily Log – 2026-02-18
 
 ## 🔹 Ai-ethics
-- [mukul975/compliancekit](https://github.com/mukul975/compliancekit/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-18)  
-  🔗 [Release Notes](https://github.com/mukul975/compliancekit/releases/tag/v1.0.0)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [qcaml/qcaml](https://github.com/qcaml/qcaml/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-18)  
+  🔗 [Release Notes](https://github.com/qcaml/qcaml/releases/tag/v1.0.0)
+- [Quantinuum/guppylang](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-internals-v0.30.0) – `guppylang-internals-v0.30.0` (📅 2026-02-18)  
+  🔗 [Release Notes](https://github.com/Quantinuum/guppylang/releases/tag/guppylang-internals-v0.30.0)
+
 ## 🔹 Edge-computing
-- [oakestra/oakestra](https://github.com/oakestra/oakestra/releases/tag/v0.4.401) – `v0.4.401` (📅 2025-01-29)  
-  🔗 [Release Notes](https://github.com/oakestra/oakestra/releases/tag/v0.4.401)
-- [Ryan-Atkinson87/trive_aquasense](https://github.com/Ryan-Atkinson87/trive_aquasense/releases/tag/v2.4.1) – `v2.4.1` (📅 2026-02-17)  
-  🔗 [Release Notes](https://github.com/Ryan-Atkinson87/trive_aquasense/releases/tag/v2.4.1)
-- [dfeen87/Ambient-AI-VCP-System](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v1.9.0) – `v1.9.0` (📅 2026-02-18)  
-  🔗 [Release Notes](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v1.9.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [miinso/flang-releases](https://github.com/miinso/flang-releases/releases/tag/v21.1.3) – `v21.1.3` (📅 2025-10-28)  
-  🔗 [Release Notes](https://github.com/miinso/flang-releases/releases/tag/v21.1.3)
-- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.9) – `v1.0.9` (📅 2026-02-09)  
-  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.9)
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.45.0) – `0.45.0` (📅 2026-02-16)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.45.0)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.15.1) – `v1.15.1` (📅 2026-02-12)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.15.1)
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
