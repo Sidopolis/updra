@@ -7,11 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory/releases/tag/v0.1.80) – `v0.1.80` (📅 2026-02-17)  
+  🔗 [Release Notes](https://github.com/varun29ankuS/shodh-memory/releases/tag/v0.1.80)
 
 ## 🔹 Webassembly
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.46.0) – `0.46.0` (📅 2026-02-19)  
-  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.46.0)
+- [ThatOpen/engine_web-ifc](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.75) – `0.75` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.75)
+- [ENQT-GmbH/remoc](https://github.com/ENQT-GmbH/remoc/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-09-19)  
+  🔗 [Release Notes](https://github.com/ENQT-GmbH/remoc/releases/tag/v0.18.3)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
