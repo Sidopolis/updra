@@ -1,24 +1,27 @@
 # 🌐 Ecosystem Daily Log – 2026-02-19
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [aloth/JudgeGPT](https://github.com/aloth/JudgeGPT/releases/tag/v1.0.3) – `v1.0.3` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/aloth/JudgeGPT/releases/tag/v1.0.3)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Qiskit/qiskit-serverless](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.29.0) – `v0.29.0` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit-serverless/releases/tag/v0.29.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [dfeen87/Ambient-AI-VCP-System](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/1.2.0) – `1.2.0` (📅 2026-02-19)  
+  🔗 [Release Notes](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/1.2.0)
 
 ## 🔹 Webassembly
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.5.64) – `6.5.64` (📅 2026-02-11)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.5.64)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.3) – `v41.0.3` (📅 2026-02-04)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.3)
+- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.5.31) – `6.5.31` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.5.31)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.15.1) – `v1.15.1` (📅 2026-02-12)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.15.1)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4) – `v10.0.4` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4)
 
 ## 🔹 Green-software
+- [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2) – `v0.8.2` (📅 2025-10-02)  
+  🔗 [Release Notes](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.2)
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
   🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6)
