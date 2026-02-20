@@ -4,18 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
-  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.4.9) – `v0.4.9` (📅 2026-02-19)  
-  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.4.9)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [matx64/fjson](https://github.com/matx64/fjson/releases/tag/0.1.0) – `0.1.0` (📅 2025-09-29)  
-  🔗 [Release Notes](https://github.com/matx64/fjson/releases/tag/0.1.0)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4) – `v10.0.4` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4)
+- [nasomers/flycast-wasm](https://github.com/nasomers/flycast-wasm/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-20)  
+  🔗 [Release Notes](https://github.com/nasomers/flycast-wasm/releases/tag/v1.0.0)
+- [Mostafasaad1/pinocchio-js](https://github.com/Mostafasaad1/pinocchio-js/releases/tag/v1.2.1) – `v1.2.1` (📅 2026-02-20)  
+  🔗 [Release Notes](https://github.com/Mostafasaad1/pinocchio-js/releases/tag/v1.2.1)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
