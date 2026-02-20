@@ -1,29 +1,28 @@
 # 🌐 Ecosystem Daily Log – 2026-02-20
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
+- [QuantumSavory/LDPCDecoders.jl](https://github.com/QuantumSavory/LDPCDecoders.jl/releases/tag/v0.3.3) – `v0.3.3` (📅 2025-04-17)  
+  🔗 [Release Notes](https://github.com/QuantumSavory/LDPCDecoders.jl/releases/tag/v0.3.3)
 - [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
   🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
-- [QuantumSavory/Quantikz.jl](https://github.com/QuantumSavory/Quantikz.jl/releases/tag/v1.3.1) – `v1.3.1` (📅 2023-08-31)  
-  🔗 [Release Notes](https://github.com/QuantumSavory/Quantikz.jl/releases/tag/v1.3.1)
-- [QuantumSavory/QEPOptimize.jl](https://github.com/QuantumSavory/QEPOptimize.jl/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-08-22)  
-  🔗 [Release Notes](https://github.com/QuantumSavory/QEPOptimize.jl/releases/tag/v0.1.3)
 
 ## 🔹 Edge-computing
-- [dfeen87/Ambient-AI-VCP-System](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v2.7.0) – `v2.7.0` (📅 2026-02-20)  
-  🔗 [Release Notes](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v2.7.0)
-- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.4.9) – `v0.4.9` (📅 2026-02-19)  
-  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.4.9)
+- [llama-farm/llamafarm](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.27) – `v0.0.27` (📅 2026-02-16)  
+  🔗 [Release Notes](https://github.com/llama-farm/llamafarm/releases/tag/v0.0.27)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
-- [SerratedSharp/SerratedJQ](https://github.com/SerratedSharp/SerratedJQ/releases/tag/info) – `info` (📅 2023-10-08)  
-  🔗 [Release Notes](https://github.com/SerratedSharp/SerratedJQ/releases/tag/info)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.3) – `v41.0.3` (📅 2026-02-04)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.3)
+- [apiantonio/Age-Emotion_Recognition](https://github.com/apiantonio/Age-Emotion_Recognition/releases/tag/1.1) – `1.1` (📅 2026-02-20)  
+  🔗 [Release Notes](https://github.com/apiantonio/Age-Emotion_Recognition/releases/tag/1.1)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.326) – `v4.0.326` (📅 2026-02-20)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.326)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
