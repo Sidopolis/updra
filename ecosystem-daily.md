@@ -4,18 +4,26 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
+- [QuantumSavory/Quantikz.jl](https://github.com/QuantumSavory/Quantikz.jl/releases/tag/v1.3.1) – `v1.3.1` (📅 2023-08-31)  
+  🔗 [Release Notes](https://github.com/QuantumSavory/Quantikz.jl/releases/tag/v1.3.1)
+- [QuantumSavory/QEPOptimize.jl](https://github.com/QuantumSavory/QEPOptimize.jl/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-08-22)  
+  🔗 [Release Notes](https://github.com/QuantumSavory/QEPOptimize.jl/releases/tag/v0.1.3)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [dfeen87/Ambient-AI-VCP-System](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v2.7.0) – `v2.7.0` (📅 2026-02-20)  
+  🔗 [Release Notes](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v2.7.0)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.4.9) – `v0.4.9` (📅 2026-02-19)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.4.9)
 
 ## 🔹 Webassembly
-- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4) – `v10.0.4` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4)
-- [nasomers/flycast-wasm](https://github.com/nasomers/flycast-wasm/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-20)  
-  🔗 [Release Notes](https://github.com/nasomers/flycast-wasm/releases/tag/v1.0.0)
-- [Mostafasaad1/pinocchio-js](https://github.com/Mostafasaad1/pinocchio-js/releases/tag/v1.2.1) – `v1.2.1` (📅 2026-02-20)  
-  🔗 [Release Notes](https://github.com/Mostafasaad1/pinocchio-js/releases/tag/v1.2.1)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
+- [SerratedSharp/SerratedJQ](https://github.com/SerratedSharp/SerratedJQ/releases/tag/info) – `info` (📅 2023-10-08)  
+  🔗 [Release Notes](https://github.com/SerratedSharp/SerratedJQ/releases/tag/info)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.3) – `v41.0.3` (📅 2026-02-04)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v41.0.3)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
