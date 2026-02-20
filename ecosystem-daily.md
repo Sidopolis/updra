@@ -4,21 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [microsoft/qdk-chemistry](https://github.com/microsoft/qdk-chemistry/releases/tag/v1.0.2) – `v1.0.2` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/microsoft/qdk-chemistry/releases/tag/v1.0.2)
 
 ## 🔹 Edge-computing
-- [insight-platform/Savant](https://github.com/insight-platform/Savant/releases/tag/v0.6.0) – `v0.6.0` (📅 2025-12-08)  
-  🔗 [Release Notes](https://github.com/insight-platform/Savant/releases/tag/v0.6.0)
-- [thingsboard/thingsboard-edge](https://github.com/thingsboard/thingsboard-edge/releases/tag/v4.3.0.1) – `v4.3.0.1` (📅 2026-02-06)  
-  🔗 [Release Notes](https://github.com/thingsboard/thingsboard-edge/releases/tag/v4.3.0.1)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.4.9) – `v0.4.9` (📅 2026-02-19)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.4.9)
 
 ## 🔹 Webassembly
-- [epam/Indigo](https://github.com/epam/Indigo/releases/tag/indigo-1.37.0) – `indigo-1.37.0` (📅 2026-02-19)  
-  🔗 [Release Notes](https://github.com/epam/Indigo/releases/tag/indigo-1.37.0)
-- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4) – `v10.0.4` (📅 2026-01-20)  
-  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.0.4)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [CosmWasm/wasmd](https://github.com/CosmWasm/wasmd/releases/tag/v0.61.8) – `v0.61.8` (📅 2026-02-11)  
+  🔗 [Release Notes](https://github.com/CosmWasm/wasmd/releases/tag/v0.61.8)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.6) – `2.10.6` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.6)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
