@@ -10,10 +10,8 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [mrubyedge/mrubyedge](https://github.com/mrubyedge/mrubyedge/releases/tag/v1.1.6) – `v1.1.6` (📅 2026-02-16)  
-  🔗 [Release Notes](https://github.com/mrubyedge/mrubyedge/releases/tag/v1.1.6)
-- [onyx-lang/onyx](https://github.com/onyx-lang/onyx/releases/tag/v0.1.13-beta) – `v0.1.13-beta` (📅 2024-11-09)  
-  🔗 [Release Notes](https://github.com/onyx-lang/onyx/releases/tag/v0.1.13-beta)
+- [ratatui/ratzilla](https://github.com/ratatui/ratzilla/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-01-23)  
+  🔗 [Release Notes](https://github.com/ratatui/ratzilla/releases/tag/v0.3.0)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.2) – `0.9.2` (📅 2026-01-24)  
