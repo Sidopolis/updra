@@ -1,26 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2026-02-21
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qcaml/qcaml](https://github.com/qcaml/qcaml/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-18)  
-  🔗 [Release Notes](https://github.com/qcaml/qcaml/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [dayu-autostreamer/dayu](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2) – `v1.2` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/dayu-autostreamer/dayu/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [LostBeard/SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.2.0) – `v3.2.0` (📅 2026-02-21)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.2.0)
-- [wasm-fmt/web_fmt](https://github.com/wasm-fmt/web_fmt/releases/tag/v0.2.5) – `v0.2.5` (📅 2026-02-21)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/web_fmt/releases/tag/v0.2.5)
-- [EarthyScience/netcdf4-wasm](https://github.com/EarthyScience/netcdf4-wasm/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-15)  
-  🔗 [Release Notes](https://github.com/EarthyScience/netcdf4-wasm/releases/tag/v0.2.0)
+- [mrubyedge/mrubyedge](https://github.com/mrubyedge/mrubyedge/releases/tag/v1.1.6) – `v1.1.6` (📅 2026-02-16)  
+  🔗 [Release Notes](https://github.com/mrubyedge/mrubyedge/releases/tag/v1.1.6)
+- [onyx-lang/onyx](https://github.com/onyx-lang/onyx/releases/tag/v0.1.13-beta) – `v0.1.13-beta` (📅 2024-11-09)  
+  🔗 [Release Notes](https://github.com/onyx-lang/onyx/releases/tag/v0.1.13-beta)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.2) – `0.9.2` (📅 2026-01-24)  
