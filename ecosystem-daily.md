@@ -1,17 +1,20 @@
-# 🌐 Ecosystem Daily Log – 2026-02-20
+# 🌐 Ecosystem Daily Log – 2026-02-21
 
 ## 🔹 Ai-ethics
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [munich-quantum-toolkit/qusat](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-14)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0)
+- [QuantumSavory/LDPCDecoders.jl](https://github.com/QuantumSavory/LDPCDecoders.jl/releases/tag/v0.3.3) – `v0.3.3` (📅 2025-04-17)  
+  🔗 [Release Notes](https://github.com/QuantumSavory/LDPCDecoders.jl/releases/tag/v0.3.3)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [dfeen87/Ambient-AI-VCP-System](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v2.8.0) – `v2.8.0` (📅 2026-02-21)  
+  🔗 [Release Notes](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v2.8.0)
 
 ## 🔹 Webassembly
-- [taubyte/tau](https://github.com/taubyte/tau/releases/tag/v1.1.9) – `v1.1.9` (📅 2025-11-23)  
-  🔗 [Release Notes](https://github.com/taubyte/tau/releases/tag/v1.1.9)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
