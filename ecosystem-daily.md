@@ -4,15 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qusat](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
+- [xemantic/xemantic-kotlin-js](https://github.com/xemantic/xemantic-kotlin-js/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-02-21)  
+  🔗 [Release Notes](https://github.com/xemantic/xemantic-kotlin-js/releases/tag/v0.3.0)
+- [pion/webrtc](https://github.com/pion/webrtc/releases/tag/v4.2.9) – `v4.2.9` (📅 2026-02-21)  
+  🔗 [Release Notes](https://github.com/pion/webrtc/releases/tag/v4.2.9)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.2) – `0.9.2` (📅 2026-01-24)  
