@@ -1,10 +1,14 @@
 # 🌐 Ecosystem Daily Log – 2026-02-21
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [hernancapucci/agent-manifest](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0)
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [QoroQuantum/divi](https://github.com/QoroQuantum/divi/releases/tag/v0.7.0) – `v0.7.0` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/QoroQuantum/divi/releases/tag/v0.7.0)
 
 ## 🔹 Edge-computing
 - [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.4.9) – `v0.4.9` (📅 2026-02-19)  
@@ -13,8 +17,6 @@
 ## 🔹 Webassembly
 - [LostBeard/SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.2.0) – `v3.2.0` (📅 2026-02-21)  
   🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.2.0)
-- [StefanRichterHuber/quickjs-wasm-java](https://github.com/StefanRichterHuber/quickjs-wasm-java/releases/tag/v1.1.0) – `v1.1.0` (📅 2026-02-15)  
-  🔗 [Release Notes](https://github.com/StefanRichterHuber/quickjs-wasm-java/releases/tag/v1.1.0)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
