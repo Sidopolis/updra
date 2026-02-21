@@ -4,17 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/qusat](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0) – `v1.4.0` (📅 2025-10-14)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qusat/releases/tag/v1.4.0)
-- [QuantumSavory/LDPCDecoders.jl](https://github.com/QuantumSavory/LDPCDecoders.jl/releases/tag/v0.3.3) – `v0.3.3` (📅 2025-04-17)  
-  🔗 [Release Notes](https://github.com/QuantumSavory/LDPCDecoders.jl/releases/tag/v0.3.3)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [dfeen87/Ambient-AI-VCP-System](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v2.8.0) – `v2.8.0` (📅 2026-02-21)  
-  🔗 [Release Notes](https://github.com/dfeen87/Ambient-AI-VCP-System/releases/tag/v2.8.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [LostBeard/SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.0.0) – `v3.0.0` (📅 2026-02-16)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.0.0)
+- [artifact-keeper/artifact-keeper-example-plugin](https://github.com/artifact-keeper/artifact-keeper-example-plugin/releases/tag/v1.0.0-a1) – `v1.0.0-a1` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/artifact-keeper/artifact-keeper-example-plugin/releases/tag/v1.0.0-a1)
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.246) – `v4.0.246` (📅 2026-02-20)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.246)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
