@@ -4,12 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
+- [konsoletyper/teavm](https://github.com/konsoletyper/teavm/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-03)  
+  🔗 [Release Notes](https://github.com/konsoletyper/teavm/releases/tag/0.13.0)
 - [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
   🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
