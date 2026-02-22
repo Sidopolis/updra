@@ -4,20 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [gryszzz/Forge.OS](https://github.com/gryszzz/Forge.OS/releases/tag/v1.0.1) – `v1.0.1` (📅 2026-02-19)  
-  🔗 [Release Notes](https://github.com/gryszzz/Forge.OS/releases/tag/v1.0.1)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [snowolf-zlex/Jetson-Mamba-SSM](https://github.com/snowolf-zlex/Jetson-Mamba-SSM/releases/tag/v2.2.4%2Bjetson) – `v2.2.4+jetson` (📅 2026-02-02)  
-  🔗 [Release Notes](https://github.com/snowolf-zlex/Jetson-Mamba-SSM/releases/tag/v2.2.4%2Bjetson)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.4.9) – `v0.4.9` (📅 2026-02-19)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.4.9)
 
 ## 🔹 Webassembly
-- [MudBlazor/Templates](https://github.com/MudBlazor/Templates/releases/tag/v0.6.1) – `v0.6.1` (📅 2022-02-10)  
-  🔗 [Release Notes](https://github.com/MudBlazor/Templates/releases/tag/v0.6.1)
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
+- [LostBeard/SpawnDev.BlazorJS](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.59.0) – `v2.59.0` (📅 2026-01-20)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.BlazorJS/releases/tag/v2.59.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
