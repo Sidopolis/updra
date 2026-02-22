@@ -4,16 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [snowolf-zlex/Jetson-Mamba-SSM](https://github.com/snowolf-zlex/Jetson-Mamba-SSM/releases/tag/v2.2.4%2Bjetson) – `v2.2.4+jetson` (📅 2026-02-02)  
+  🔗 [Release Notes](https://github.com/snowolf-zlex/Jetson-Mamba-SSM/releases/tag/v2.2.4%2Bjetson)
 
 ## 🔹 Webassembly
-- [LostBeard/SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.3.0) – `v3.3.0` (📅 2026-02-22)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.3.0)
-- [StefanRichterHuber/quickjs-wasm-java](https://github.com/StefanRichterHuber/quickjs-wasm-java/releases/tag/v1.1.1) – `v1.1.1` (📅 2026-02-22)  
-  🔗 [Release Notes](https://github.com/StefanRichterHuber/quickjs-wasm-java/releases/tag/v1.1.1)
+- [wasm-fmt/zig_fmt](https://github.com/wasm-fmt/zig_fmt/releases/tag/v0.15.2) – `v0.15.2` (📅 2026-01-01)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/zig_fmt/releases/tag/v0.15.2)
+- [wasm-fmt/yamlfmt](https://github.com/wasm-fmt/yamlfmt/releases/tag/v0.2.1) – `v0.2.1` (📅 2026-01-19)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/yamlfmt/releases/tag/v0.2.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
