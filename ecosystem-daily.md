@@ -1,23 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2026-02-22
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [hernancapucci/agent-manifest](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0)
 
 ## 🔹 Quantum-computing
 - [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
   🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
-- [tensorcircuit/tensorcircuit-ng](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.5.0) – `v1.5.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.5.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.19) – `v0.4.19` (📅 2026-02-21)  
-  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.19)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.9.0) – `v0.9.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.9.0)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.5.64) – `6.5.64` (📅 2026-02-11)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.5.64)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
