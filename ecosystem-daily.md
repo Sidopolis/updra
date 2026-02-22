@@ -4,15 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.128) – `v0.0.128` (📅 2026-02-18)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.128)
 
 ## 🔹 Edge-computing
-- [realness-online/web](https://github.com/realness-online/web/releases/tag/1.8.18) – `1.8.18` (📅 2025-02-14)  
-  🔗 [Release Notes](https://github.com/realness-online/web/releases/tag/1.8.18)
+- [Aid-On/nagare](https://github.com/Aid-On/nagare/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-12-31)  
+  🔗 [Release Notes](https://github.com/Aid-On/nagare/releases/tag/v0.2.0)
+- [syncupsuite/webplatform4sync](https://github.com/syncupsuite/webplatform4sync/releases/tag/v0.5.0) – `v0.5.0` (📅 2026-02-22)  
+  🔗 [Release Notes](https://github.com/syncupsuite/webplatform4sync/releases/tag/v0.5.0)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.247) – `v4.0.247` (📅 2026-02-22)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.247)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.26) – `v1.26` (📅 2026-02-15)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.26)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
