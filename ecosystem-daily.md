@@ -4,15 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qubitpage/QubitPage-OS](https://github.com/qubitpage/QubitPage-OS/releases/tag/v1.1.0) – `v1.1.0` (📅 2026-02-22)  
-  🔗 [Release Notes](https://github.com/qubitpage/QubitPage-OS/releases/tag/v1.1.0)
+- [munich-quantum-toolkit/qecc](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0) – `v1.9.0` (📅 2025-03-14)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/qecc/releases/tag/v1.9.0)
+- [munich-quantum-toolkit/bench](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-10-18)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.1.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [conradBruchmann/claude-admin](https://github.com/conradBruchmann/claude-admin/releases/tag/v0.1.4) – `v0.1.4` (📅 2026-02-22)  
-  🔗 [Release Notes](https://github.com/conradBruchmann/claude-admin/releases/tag/v0.1.4)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
