@@ -6,20 +6,13 @@
 ## 🔹 Quantum-computing
 - [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
   🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.128) – `v0.0.128` (📅 2026-02-18)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.128)
 
 ## 🔹 Edge-computing
-- [Aid-On/nagare](https://github.com/Aid-On/nagare/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-12-31)  
-  🔗 [Release Notes](https://github.com/Aid-On/nagare/releases/tag/v0.2.0)
-- [syncupsuite/webplatform4sync](https://github.com/syncupsuite/webplatform4sync/releases/tag/v0.5.0) – `v0.5.0` (📅 2026-02-22)  
-  🔗 [Release Notes](https://github.com/syncupsuite/webplatform4sync/releases/tag/v0.5.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.247) – `v4.0.247` (📅 2026-02-22)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.247)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.26) – `v1.26` (📅 2026-02-15)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.26)
+- [LostBeard/SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.2.0) – `v3.2.0` (📅 2026-02-21)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.2.0)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
