@@ -4,8 +4,7 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
-  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
@@ -13,8 +12,8 @@
 ## 🔹 Webassembly
 - [LostBeard/SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.3.0) – `v3.3.0` (📅 2026-02-22)  
   🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.3.0)
-- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.9.0) – `v0.9.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.9.0)
+- [StefanRichterHuber/quickjs-wasm-java](https://github.com/StefanRichterHuber/quickjs-wasm-java/releases/tag/v1.1.1) – `v1.1.1` (📅 2026-02-22)  
+  🔗 [Release Notes](https://github.com/StefanRichterHuber/quickjs-wasm-java/releases/tag/v1.1.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
