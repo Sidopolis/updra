@@ -1,24 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-02-23
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [aloth/JudgeGPT](https://github.com/aloth/JudgeGPT/releases/tag/v1.1.0) – `v1.1.0` (📅 2026-02-23)  
+  🔗 [Release Notes](https://github.com/aloth/JudgeGPT/releases/tag/v1.1.0)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.7.0) – `v1.7.0` (📅 2026-02-22)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.7.0)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.3.0) – `2.3.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.3.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
+  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.15.1) – `v1.15.1` (📅 2026-02-12)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.15.1)
-- [dylibso/chicory](https://github.com/dylibso/chicory/releases/tag/1.6.1) – `1.6.1` (📅 2025-12-11)  
-  🔗 [Release Notes](https://github.com/dylibso/chicory/releases/tag/1.6.1)
-- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.11.0) – `v3.11.0` (📅 2026-02-23)  
-  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.11.0)
+- No recent releases found.
 
 ## 🔹 Green-software
-- [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
-  🔗 [Release Notes](https://github.com/kube-green/kube-green/releases/tag/v0.7.1)
-- [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.3) – `v0.8.3` (📅 2026-02-23)  
-  🔗 [Release Notes](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.3)
+- No recent releases found.
