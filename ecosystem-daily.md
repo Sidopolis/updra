@@ -4,22 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [gryszzz/Forge.OS](https://github.com/gryszzz/Forge.OS/releases/tag/v1.0.1) – `v1.0.1` (📅 2026-02-19)  
-  🔗 [Release Notes](https://github.com/gryszzz/Forge.OS/releases/tag/v1.0.1)
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.19) – `v0.4.19` (📅 2026-02-21)  
-  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.19)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
+- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v2.0.0-nightly202602230432) – `v2.0.0-nightly202602230432` (📅 2026-02-23)  
+  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v2.0.0-nightly202602230432)
 
 ## 🔹 Webassembly
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1) – `0.16.1` (📅 2026-01-06)  
-  🔗 [Release Notes](https://github.com/WasmEdge/WasmEdge/releases/tag/0.16.1)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.26) – `v1.26` (📅 2026-02-15)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.26)
-- [SudoDevStudio/rilot](https://github.com/SudoDevStudio/rilot/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-05-09)  
-  🔗 [Release Notes](https://github.com/SudoDevStudio/rilot/releases/tag/v0.1.0)
+- [conradBruchmann/claude-admin](https://github.com/conradBruchmann/claude-admin/releases/tag/v0.1.4) – `v0.1.4` (📅 2026-02-22)  
+  🔗 [Release Notes](https://github.com/conradBruchmann/claude-admin/releases/tag/v0.1.4)
+- [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.42.1) – `rust-v0.42.1` (📅 2026-02-17)  
+  🔗 [Release Notes](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.42.1)
 
 ## 🔹 Green-software
 - [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
