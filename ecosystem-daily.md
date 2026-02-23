@@ -4,15 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.7.0) – `v1.7.0` (📅 2026-02-22)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.7.0)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1) – `v0.6.1` (📅 2026-02-23)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1)
 
 ## 🔹 Webassembly
-- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.12.1) – `v3.12.1` (📅 2026-02-23)  
-  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.12.1)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.18) – `v0.5.18` (📅 2026-02-20)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.18)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
 - [animagram-jp/state-engine](https://github.com/animagram-jp/state-engine/releases/tag/0.1.2) – `0.1.2` (📅 2026-02-14)  
   🔗 [Release Notes](https://github.com/animagram-jp/state-engine/releases/tag/0.1.2)
 
