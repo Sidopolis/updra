@@ -1,23 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-02-24
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [Steel-SecAdv-LLC/Mercury-Agent](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1) – `v1.1` (📅 2025-12-10)  
+  🔗 [Release Notes](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1)
 
 ## 🔹 Quantum-computing
+- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.8) – `v1.84.8` (📅 2026-02-24)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.8)
 - [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v10.1.1) – `vm6502q.v10.1.1` (📅 2026-02-16)  
   🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v10.1.1)
-- [vprusso/toqito](https://github.com/vprusso/toqito/releases/tag/v1.1.3) – `v1.1.3` (📅 2025-10-23)  
-  🔗 [Release Notes](https://github.com/vprusso/toqito/releases/tag/v1.1.3)
 
 ## 🔹 Edge-computing
 - [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
   🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_126) – `version_126` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_126)
+- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.13.1) – `v3.13.1` (📅 2026-02-24)  
+  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.13.1)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.2) – `0.9.2` (📅 2026-01-24)  
