@@ -4,24 +4,23 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qiskit-community/qrmi](https://github.com/qiskit-community/qrmi/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-11-08)  
-  🔗 [Release Notes](https://github.com/qiskit-community/qrmi/releases/tag/v0.10.2)
-- [sorydima/REChain-IDE](https://github.com/sorydima/REChain-IDE/releases/tag/1.0.0) – `1.0.0` (📅 2026-02-16)  
-  🔗 [Release Notes](https://github.com/sorydima/REChain-IDE/releases/tag/1.0.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
-- [patharanordev/med-mirror](https://github.com/patharanordev/med-mirror/releases/tag/v0.0.1-mobileapp_assets) – `v0.0.1-mobileapp_assets` (📅 2026-02-23)  
-  🔗 [Release Notes](https://github.com/patharanordev/med-mirror/releases/tag/v0.0.1-mobileapp_assets)
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.3) – `v0.9.3` (📅 2026-02-11)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.3)
+- [korvexai/axon](https://github.com/korvexai/axon/releases/tag/v0.1.0-alpha) – `v0.1.0-alpha` (📅 2026-02-24)  
+  🔗 [Release Notes](https://github.com/korvexai/axon/releases/tag/v0.1.0-alpha)
+- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
 
 ## 🔹 Webassembly
-- [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.14.0) – `v4.14.0` (📅 2026-02-12)  
-  🔗 [Release Notes](https://github.com/microsoft/fluentui-blazor/releases/tag/v4.14.0)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
-- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.13.0) – `v3.13.0` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.13.0)
+- [ENQT-GmbH/remoc](https://github.com/ENQT-GmbH/remoc/releases/tag/v0.18.3) – `v0.18.3` (📅 2025-09-19)  
+  🔗 [Release Notes](https://github.com/ENQT-GmbH/remoc/releases/tag/v0.18.3)
+- [Sec-ant/barcode-detector](https://github.com/Sec-ant/barcode-detector/releases/tag/v3.0.8) – `v3.0.8` (📅 2025-11-18)  
+  🔗 [Release Notes](https://github.com/Sec-ant/barcode-detector/releases/tag/v3.0.8)
+- [mavdol/capsule](https://github.com/mavdol/capsule/releases/tag/v0.6.1) – `v0.6.1` (📅 2026-02-16)  
+  🔗 [Release Notes](https://github.com/mavdol/capsule/releases/tag/v0.6.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/eco-ci-energy-estimation](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5.2) – `v5.2` (📅 2025-12-13)  
