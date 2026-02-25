@@ -1,19 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2026-02-25
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [rakytap/sequential-quantum-gate-decomposer](https://github.com/rakytap/sequential-quantum-gate-decomposer/releases/tag/1.9.6) – `1.9.6` (📅 2025-12-05)  
-  🔗 [Release Notes](https://github.com/rakytap/sequential-quantum-gate-decomposer/releases/tag/1.9.6)
+- [QuEraComputing/bloqade-decoders](https://github.com/QuEraComputing/bloqade-decoders/releases/tag/v0.4.0) – `v0.4.0` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/QuEraComputing/bloqade-decoders/releases/tag/v0.4.0)
+- [microsoft/qdk-chemistry](https://github.com/microsoft/qdk-chemistry/releases/tag/v1.0.2) – `v1.0.2` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/microsoft/qdk-chemistry/releases/tag/v1.0.2)
+- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.13) – `v1.84.13` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.13)
 
 ## 🔹 Edge-computing
-- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1) – `v0.6.1` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use/releases/tag/v0.18.2) – `v0.18.2` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/Synphonyte/leptos-use/releases/tag/v0.18.2)
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt/releases/tag/1.0.39) – `1.0.39` (📅 2025-11-04)  
+  🔗 [Release Notes](https://github.com/WebAssembly/wabt/releases/tag/1.0.39)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
