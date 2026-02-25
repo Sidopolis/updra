@@ -4,20 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Quantinuum/tket2](https://github.com/Quantinuum/tket2/releases/tag/tket-qsystem-v0.23.0) – `tket-qsystem-v0.23.0` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/Quantinuum/tket2/releases/tag/tket-qsystem-v0.23.0)
+- [qiskit-community/qrmi](https://github.com/qiskit-community/qrmi/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-11-08)  
+  🔗 [Release Notes](https://github.com/qiskit-community/qrmi/releases/tag/v0.10.2)
 
 ## 🔹 Edge-computing
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.5) – `v0.18.5` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.5)
-- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.3) – `v0.9.3` (📅 2026-02-11)  
-  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.3)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [AndrewAltimit/breakpoint](https://github.com/AndrewAltimit/breakpoint/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-22)  
-  🔗 [Release Notes](https://github.com/AndrewAltimit/breakpoint/releases/tag/v0.1.0)
-- [g-plane/wasm-language-tools](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.9.0) – `v0.9.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/g-plane/wasm-language-tools/releases/tag/v0.9.0)
+- [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui/releases/tag/0.1.5) – `0.1.5` (📅 2026-02-18)  
+  🔗 [Release Notes](https://github.com/elementary-swift/elementary-ui/releases/tag/0.1.5)
+- [jupyterlite/jupyterlite-sphinx](https://github.com/jupyterlite/jupyterlite-sphinx/releases/tag/v0.22.1) – `v0.22.1` (📅 2026-02-16)  
+  🔗 [Release Notes](https://github.com/jupyterlite/jupyterlite-sphinx/releases/tag/v0.22.1)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.3) – `v0.8.3` (📅 2026-02-23)  
