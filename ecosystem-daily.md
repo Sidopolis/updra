@@ -1,18 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-02-25
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
+- [mNik033/kitchen-guardian-cv](https://github.com/mNik033/kitchen-guardian-cv/releases/tag/v1.0-flame-model) – `v1.0-flame-model` (📅 2026-02-19)  
+  🔗 [Release Notes](https://github.com/mNik033/kitchen-guardian-cv/releases/tag/v1.0-flame-model)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.3.2) – `v10.3.2` (📅 2026-02-13)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.3.2)
 - [SudoDevStudio/rilot](https://github.com/SudoDevStudio/rilot/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-05-09)  
   🔗 [Release Notes](https://github.com/SudoDevStudio/rilot/releases/tag/v0.1.0)
 
