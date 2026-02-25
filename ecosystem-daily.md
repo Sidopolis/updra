@@ -5,23 +5,24 @@
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0) – `v0.44.0` (📅 2026-01-13)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/pennylane/releases/tag/v0.44.0)
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v10.1.9) – `vm6502q.v10.1.9` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502q.v10.1.9)
-- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.13) – `v1.84.13` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.13)
+- [harmoniqs/Piccolo.jl](https://github.com/harmoniqs/Piccolo.jl/releases/tag/v1.2.1) – `v1.2.1` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/harmoniqs/Piccolo.jl/releases/tag/v1.2.1)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [kdeps/kdeps](https://github.com/kdeps/kdeps/releases/tag/v2.0.1) – `v2.0.1` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/kdeps/kdeps/releases/tag/v2.0.1)
+- [arminfabritzek/WatchMyBirds](https://github.com/arminfabritzek/WatchMyBirds/releases/tag/rpi-2026-02-24-2118) – `rpi-2026-02-24-2118` (📅 2026-02-24)  
+  🔗 [Release Notes](https://github.com/arminfabritzek/WatchMyBirds/releases/tag/rpi-2026-02-24-2118)
+- [tang-edge/tang-edge](https://github.com/tang-edge/tang-edge/releases/tag/v0.2.1) – `v0.2.1` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/tang-edge/tang-edge/releases/tag/v0.2.1)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [dylibso/chicory](https://github.com/dylibso/chicory/releases/tag/1.7.0) – `1.7.0` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/dylibso/chicory/releases/tag/1.7.0)
 
 ## 🔹 Green-software
-- [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.2) – `0.9.2` (📅 2026-01-24)  
-  🔗 [Release Notes](https://github.com/mlco2/ecologits/releases/tag/0.9.2)
+- [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/mlco2/ecologits/releases/tag/0.9.3)
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
   🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14)
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.3) – `v0.8.3` (📅 2026-02-23)  
