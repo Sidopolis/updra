@@ -4,20 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.12) – `v1.84.12` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.12)
-- [unitaryfoundation/qrack](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502qv10.1.8) – `vm6502qv10.1.8` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/qrack/releases/tag/vm6502qv10.1.8)
+- [rakytap/sequential-quantum-gate-decomposer](https://github.com/rakytap/sequential-quantum-gate-decomposer/releases/tag/1.9.6) – `1.9.6` (📅 2025-12-05)  
+  🔗 [Release Notes](https://github.com/rakytap/sequential-quantum-gate-decomposer/releases/tag/1.9.6)
 
 ## 🔹 Edge-computing
-- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1) – `v0.6.1` (📅 2026-02-24)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1)
 
 ## 🔹 Webassembly
-- [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm/releases/tag/wasm-0.0.13) – `wasm-0.0.13` (📅 2019-12-30)  
-  🔗 [Release Notes](https://github.com/rhysd/vim.wasm/releases/tag/wasm-0.0.13)
-- [dylibso/chicory](https://github.com/dylibso/chicory/releases/tag/1.6.1) – `1.6.1` (📅 2025-12-11)  
-  🔗 [Release Notes](https://github.com/dylibso/chicory/releases/tag/1.6.1)
+- [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use/releases/tag/v0.18.2) – `v0.18.2` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/Synphonyte/leptos-use/releases/tag/v0.18.2)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
