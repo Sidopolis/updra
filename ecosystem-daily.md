@@ -1,20 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2026-02-25
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [hernancapucci/agent-manifest](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0)
 
 ## 🔹 Quantum-computing
-- [qiskit-community/qrmi](https://github.com/qiskit-community/qrmi/releases/tag/v0.10.2) – `v0.10.2` (📅 2025-11-08)  
-  🔗 [Release Notes](https://github.com/qiskit-community/qrmi/releases/tag/v0.10.2)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.49-202602161401.p0) – `4.17.49-202602161401.p0` (📅 2026-02-23)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.49-202602161401.p0)
+
 ## 🔹 Webassembly
-- [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui/releases/tag/0.1.5) – `0.1.5` (📅 2026-02-18)  
-  🔗 [Release Notes](https://github.com/elementary-swift/elementary-ui/releases/tag/0.1.5)
-- [jupyterlite/jupyterlite-sphinx](https://github.com/jupyterlite/jupyterlite-sphinx/releases/tag/v0.22.1) – `v0.22.1` (📅 2026-02-16)  
-  🔗 [Release Notes](https://github.com/jupyterlite/jupyterlite-sphinx/releases/tag/v0.22.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.3) – `v0.8.3` (📅 2026-02-23)  
