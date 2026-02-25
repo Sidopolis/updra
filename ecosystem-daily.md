@@ -4,16 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qi-rub/traq](https://github.com/qi-rub/traq/releases/tag/v0.1) – `v0.1` (📅 2025-07-15)  
-  🔗 [Release Notes](https://github.com/qi-rub/traq/releases/tag/v0.1)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1) – `v0.6.1` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1)
+- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
 
 ## 🔹 Webassembly
-- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.4) – `v0.7.4` (📅 2026-01-15)  
-  🔗 [Release Notes](https://github.com/cloudflare/workers-rs/releases/tag/v0.7.4)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.3.2) – `v10.3.2` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.3.2)
+- [SudoDevStudio/rilot](https://github.com/SudoDevStudio/rilot/releases/tag/v0.1.0) – `v0.1.0` (📅 2025-05-09)  
+  🔗 [Release Notes](https://github.com/SudoDevStudio/rilot/releases/tag/v0.1.0)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.2) – `0.9.2` (📅 2026-01-24)  
