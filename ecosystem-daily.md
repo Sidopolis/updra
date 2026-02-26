@@ -1,18 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-02-26
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [chakravala/Grassmann.jl](https://github.com/chakravala/Grassmann.jl/releases/tag/v0.8.43) – `v0.8.43` (📅 2025-12-26)  
-  🔗 [Release Notes](https://github.com/chakravala/Grassmann.jl/releases/tag/v0.8.43)
+- [tensorcircuit/tensorcircuit-ng](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.5.0) – `v1.5.0` (📅 2026-02-07)  
+  🔗 [Release Notes](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.5.0)
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use/releases/tag/v0.18.1) – `v0.18.1` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/Synphonyte/leptos-use/releases/tag/v0.18.1)
+- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.15.1) – `v1.15.1` (📅 2026-02-12)  
+  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.15.1)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
