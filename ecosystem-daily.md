@@ -3,19 +3,24 @@
 ## 🔹 Ai-ethics
 - [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- [hernancapucci/agent-manifest](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0)
 
 ## 🔹 Quantum-computing
-- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-08-14)  
-  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1)
+- [zxcalc/pyzx](https://github.com/zxcalc/pyzx/releases/tag/v0.9.0) – `v0.9.0` (📅 2025-01-30)  
+  🔗 [Release Notes](https://github.com/zxcalc/pyzx/releases/tag/v0.9.0)
+- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.14) – `v1.84.14` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.14)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0) – `1.54.0` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0)
 
 ## 🔹 Webassembly
-- [aperturerobotics/bifrost](https://github.com/aperturerobotics/bifrost/releases/tag/v0.46.1) – `v0.46.1` (📅 2026-02-23)  
-  🔗 [Release Notes](https://github.com/aperturerobotics/bifrost/releases/tag/v0.46.1)
-- [MudBlazor/Templates](https://github.com/MudBlazor/Templates/releases/tag/v0.6.1) – `v0.6.1` (📅 2022-02-10)  
-  🔗 [Release Notes](https://github.com/MudBlazor/Templates/releases/tag/v0.6.1)
+- [konovalov-aleks/reSL](https://github.com/konovalov-aleks/reSL/releases/tag/release-1.1.2) – `release-1.1.2` (📅 2025-06-15)  
+  🔗 [Release Notes](https://github.com/konovalov-aleks/reSL/releases/tag/release-1.1.2)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_126) – `version_126` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_126)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
