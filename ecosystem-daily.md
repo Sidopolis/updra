@@ -4,27 +4,31 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Quantinuum/tierkreis](https://github.com/Quantinuum/tierkreis/releases/tag/v2.0.10_viz_0.1.8) – `v2.0.10_viz_0.1.8` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/Quantinuum/tierkreis/releases/tag/v2.0.10_viz_0.1.8)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0) – `v0.14.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0)
+- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.14) – `v1.84.14` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.14)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
+  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
 
 ## 🔹 Edge-computing
-- [paceval/paceval](https://github.com/paceval/paceval/releases/tag/v4.25-release) – `v4.25-release` (📅 2024-08-06)  
-  🔗 [Release Notes](https://github.com/paceval/paceval/releases/tag/v4.25-release)
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0) – `1.54.0` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0)
 - [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1) – `v0.6.1` (📅 2026-02-24)  
   🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1)
+- [liaoran123/sfsDb](https://github.com/liaoran123/sfsDb/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/liaoran123/sfsDb/releases/tag/v1.0.0)
 
 ## 🔹 Webassembly
-- [WebAssembly/wabt](https://github.com/WebAssembly/wabt/releases/tag/1.0.39) – `1.0.39` (📅 2025-11-04)  
-  🔗 [Release Notes](https://github.com/WebAssembly/wabt/releases/tag/1.0.39)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_126) – `version_126` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_126)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
+- [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14)
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
   🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6)
-- [kube-green/kube-green](https://github.com/kube-green/kube-green/releases/tag/v0.7.1) – `v0.7.1` (📅 2025-06-29)  
-  🔗 [Release Notes](https://github.com/kube-green/kube-green/releases/tag/v0.7.1)
