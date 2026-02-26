@@ -6,22 +6,24 @@
 ## 🔹 Quantum-computing
 - [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/1.25.1) – `1.25.1` (📅 2026-01-23)  
   🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/1.25.1)
-- [PennyLaneAI/catalyst](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0) – `v0.14.0` (📅 2026-01-12)  
-  🔗 [Release Notes](https://github.com/PennyLaneAI/catalyst/releases/tag/v0.14.0)
+- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.14) – `v1.84.14` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.14)
+- [quantumlib/Cirq](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1) – `v1.6.1` (📅 2025-08-14)  
+  🔗 [Release Notes](https://github.com/quantumlib/Cirq/releases/tag/v1.6.1)
 
 ## 🔹 Edge-computing
 - [rwilliamspbg-ops/Sovereign-Mohawk-Proto](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto/releases/tag/v2.0.0b1) – `v2.0.0b1` (📅 2026-02-23)  
   🔗 [Release Notes](https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto/releases/tag/v2.0.0b1)
 - [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
   🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
-- [rwilliamspbg-ops/Sovereign_Map_Federated_Learning](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/V1.0.0a) – `V1.0.0a` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/V1.0.0a)
 
 ## 🔹 Webassembly
-- [spinframework/containerd-shim-spin](https://github.com/spinframework/containerd-shim-spin/releases/tag/v0.23.0) – `v0.23.0` (📅 2026-02-26)  
-  🔗 [Release Notes](https://github.com/spinframework/containerd-shim-spin/releases/tag/v0.23.0)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.625) – `v4.0.625` (📅 2026-02-26)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.625)
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v42.0.1) – `v42.0.1` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v42.0.1)
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt/releases/tag/1.0.39) – `1.0.39` (📅 2025-11-04)  
+  🔗 [Release Notes](https://github.com/WebAssembly/wabt/releases/tag/1.0.39)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
