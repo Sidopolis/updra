@@ -4,15 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [QuantumSavory/QuantumSavory.jl](https://github.com/QuantumSavory/QuantumSavory.jl/releases/tag/v0.5.1) – `v0.5.1` (📅 2025-07-15)  
+  🔗 [Release Notes](https://github.com/QuantumSavory/QuantumSavory.jl/releases/tag/v0.5.1)
 
 ## 🔹 Edge-computing
-- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1) – `v0.6.1` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
+- [esengine/microes](https://github.com/esengine/microes/releases/tag/v0.6.1) – `v0.6.1` (📅 2026-02-26)  
+  🔗 [Release Notes](https://github.com/esengine/microes/releases/tag/v0.6.1)
+- [eljojo/rememory](https://github.com/eljojo/rememory/releases/tag/v0.0.16) – `v0.0.16` (📅 2026-02-26)  
+  🔗 [Release Notes](https://github.com/eljojo/rememory/releases/tag/v0.0.16)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
