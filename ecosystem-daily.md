@@ -1,19 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2026-02-27
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [mlco2/codecarbon](https://github.com/mlco2/codecarbon/releases/tag/v3.2.3) – `v3.2.3` (📅 2026-02-22)  
+  🔗 [Release Notes](https://github.com/mlco2/codecarbon/releases/tag/v3.2.3)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [itsubaki/qasm](https://github.com/itsubaki/qasm/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-12)  
+  🔗 [Release Notes](https://github.com/itsubaki/qasm/releases/tag/v0.1.3)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.10.1) – `v1.10.1` (📅 2026-02-10)  
-  🔗 [Release Notes](https://github.com/JetBrains/compose-multiplatform/releases/tag/v1.10.1)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- [mavdol/capsule](https://github.com/mavdol/capsule/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-02-24)  
+  🔗 [Release Notes](https://github.com/mavdol/capsule/releases/tag/v0.6.2)
 
 ## 🔹 Green-software
 - [green-coding-solutions/eco-ci-energy-estimation](https://github.com/green-coding-solutions/eco-ci-energy-estimation/releases/tag/v5.2.1) – `v5.2.1` (📅 2026-02-27)  
