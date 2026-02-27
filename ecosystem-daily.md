@@ -7,11 +7,15 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
+- [aallan/vera](https://github.com/aallan/vera/releases/tag/v0.0.35) – `v0.0.35` (📅 2026-02-27)  
+  🔗 [Release Notes](https://github.com/aallan/vera/releases/tag/v0.0.35)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
