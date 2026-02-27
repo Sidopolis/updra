@@ -4,14 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [unitaryfoundation/pyqrack](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.14) – `v1.84.14` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/pyqrack/releases/tag/v1.84.14)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v2.0.1) – `v2.0.1` (📅 2025-12-27)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v2.0.1)
+- [ExaPsi/IQCP](https://github.com/ExaPsi/IQCP/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-27)  
+  🔗 [Release Notes](https://github.com/ExaPsi/IQCP/releases/tag/v1.0.0)
 - [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.94.0) – `@stlite/desktop@0.94.0` (📅 2026-02-27)  
   🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.94.0)
 
