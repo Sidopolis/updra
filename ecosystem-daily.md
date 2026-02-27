@@ -4,16 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.3.0) – `2.3.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.3.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0) – `1.54.0` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.633) – `v4.0.633` (📅 2026-02-27)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.633)
+- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.46.4) – `0.46.4` (📅 2026-02-27)  
+  🔗 [Release Notes](https://github.com/swiftwasm/JavaScriptKit/releases/tag/0.46.4)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.6) – `2.10.6` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.6)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
