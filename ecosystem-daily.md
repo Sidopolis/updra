@@ -4,19 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [tensorcircuit/tensorcircuit-ng](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.5.0) – `v1.5.0` (📅 2026-02-07)  
-  🔗 [Release Notes](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.5.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+
 ## 🔹 Webassembly
-- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.253) – `v4.0.253` (📅 2026-02-28)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.253)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.641) – `v4.0.641` (📅 2026-02-28)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.641)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
