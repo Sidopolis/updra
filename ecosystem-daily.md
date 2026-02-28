@@ -7,14 +7,11 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rwilliamspbg-ops/Sovereign_Map_Federated_Learning](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/V1.0.0a) – `V1.0.0a` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/V1.0.0a)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [ThatOpen/engine_web-ifc](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.75) – `0.75` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.75)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.15.1) – `v1.15.1` (📅 2026-02-12)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.15.1)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
