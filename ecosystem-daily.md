@@ -3,22 +3,26 @@
 ## 🔹 Ai-ethics
 - [hernancapucci/agent-manifest](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-14)  
   🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0)
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [anulum/scpn-quantum-control](https://github.com/anulum/scpn-quantum-control/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-02-28)  
-  🔗 [Release Notes](https://github.com/anulum/scpn-quantum-control/releases/tag/v0.3.0)
-- [harmoniqs/Piccolo.jl](https://github.com/harmoniqs/Piccolo.jl/releases/tag/v1.3.2) – `v1.3.2` (📅 2026-02-27)  
-  🔗 [Release Notes](https://github.com/harmoniqs/Piccolo.jl/releases/tag/v1.3.2)
+- [Alvoradozerouno/GENESIS-v10.1](https://github.com/Alvoradozerouno/GENESIS-v10.1/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-22)  
+  🔗 [Release Notes](https://github.com/Alvoradozerouno/GENESIS-v10.1/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [rwilliamspbg-ops/Sovereign_Map_Federated_Learning](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/V1.0.0a) – `V1.0.0a` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/V1.0.0a)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.9.0) – `v0.9.0` (📅 2026-02-27)  
+  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.9.0)
 
 ## 🔹 Webassembly
-- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.5) – `v20.0.5` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.5)
-- [capstone-engine/capstone](https://github.com/capstone-engine/capstone/releases/tag/6.0.0-Alpha7) – `6.0.0-Alpha7` (📅 2026-02-16)  
-  🔗 [Release Notes](https://github.com/capstone-engine/capstone/releases/tag/6.0.0-Alpha7)
+- [aallan/vera](https://github.com/aallan/vera/releases/tag/v0.0.44) – `v0.0.44` (📅 2026-02-28)  
+  🔗 [Release Notes](https://github.com/aallan/vera/releases/tag/v0.0.44)
+- [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.43.0) – `rust-v0.43.0` (📅 2026-02-28)  
+  🔗 [Release Notes](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.43.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
