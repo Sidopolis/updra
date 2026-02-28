@@ -1,25 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2026-02-28
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [hernancapucci/agent-manifest](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-14)  
-  🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rwilliamspbg-ops/Sovereign_Map_Federated_Learning](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/V1.0.0a) – `V1.0.0a` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/V1.0.0a)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [illarionov/wasm-sqlite-driver-binary](https://github.com/illarionov/wasm-sqlite-driver-binary/releases/tag/0.7) – `0.7` (📅 2025-03-13)  
-  🔗 [Release Notes](https://github.com/illarionov/wasm-sqlite-driver-binary/releases/tag/0.7)
-- [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.43.0) – `rust-v0.43.0` (📅 2026-02-28)  
-  🔗 [Release Notes](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.43.0)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.26) – `v1.26` (📅 2026-02-15)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.26)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.205) – `v0.8.205` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.205)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
