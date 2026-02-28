@@ -1,20 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2026-02-28
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
+- [racpast/DoHflare](https://github.com/racpast/DoHflare/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-28)  
+  🔗 [Release Notes](https://github.com/racpast/DoHflare/releases/tag/v1.0.0)
 - [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
   🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [esengine/microes](https://github.com/esengine/microes/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-02-27)  
-  🔗 [Release Notes](https://github.com/esengine/microes/releases/tag/v0.6.2)
-- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.14.0) – `v3.14.0` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.14.0)
+- [eljojo/rememory](https://github.com/eljojo/rememory/releases/tag/v0.0.16) – `v0.0.16` (📅 2026-02-26)  
+  🔗 [Release Notes](https://github.com/eljojo/rememory/releases/tag/v0.0.16)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
