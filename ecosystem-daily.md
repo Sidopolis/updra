@@ -7,13 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [klyx-dev/klyx](https://github.com/klyx-dev/klyx/releases/tag/v2.0.1) – `v2.0.1` (📅 2025-12-27)  
-  🔗 [Release Notes](https://github.com/klyx-dev/klyx/releases/tag/v2.0.1)
 - [esengine/microes](https://github.com/esengine/microes/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-02-27)  
   🔗 [Release Notes](https://github.com/esengine/microes/releases/tag/v0.6.2)
+- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.14.0) – `v3.14.0` (📅 2026-02-24)  
+  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.14.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
