@@ -5,20 +5,16 @@
   🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0)
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/debugger](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-10-15)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/debugger/releases/tag/v1.2.0)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.129) – `v0.0.129` (📅 2026-02-22)  
+  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.129)
 
 ## 🔹 Edge-computing
-- [liaoran123/sfsDb](https://github.com/liaoran123/sfsDb/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/liaoran123/sfsDb/releases/tag/v1.0.0)
+- [agent-auth-protocol/ts-sdk](https://github.com/agent-auth-protocol/ts-sdk/releases/tag/ts-sdk-v0.1.4) – `ts-sdk-v0.1.4` (📅 2026-02-26)  
+  🔗 [Release Notes](https://github.com/agent-auth-protocol/ts-sdk/releases/tag/ts-sdk-v0.1.4)
 
 ## 🔹 Webassembly
-- [pathsim/pathview](https://github.com/pathsim/pathview/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-02-26)  
-  🔗 [Release Notes](https://github.com/pathsim/pathview/releases/tag/v0.8.0)
-- [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.43.0) – `rust-v0.43.0` (📅 2026-02-28)  
-  🔗 [Release Notes](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.43.0)
+- [OGRECave/ogre](https://github.com/OGRECave/ogre/releases/tag/v14.5.2) – `v14.5.2` (📅 2026-01-31)  
+  🔗 [Release Notes](https://github.com/OGRECave/ogre/releases/tag/v14.5.2)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
