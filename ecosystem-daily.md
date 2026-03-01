@@ -1,23 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-03-01
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
+  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 
 ## 🔹 Quantum-computing
-- [itsubaki/q](https://github.com/itsubaki/q/releases/tag/v0.0.10) – `v0.0.10` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/itsubaki/q/releases/tag/v0.0.10)
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
+- [Angellrdz/repeated-measurement](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4) – `v3.1.3-alpha.4` (📅 2025-05-14)  
+  🔗 [Release Notes](https://github.com/Angellrdz/repeated-measurement/releases/tag/v3.1.3-alpha.4)
 
 ## 🔹 Edge-computing
-- [rwilliamspbg-ops/Sovereign_Map_Federated_Learning](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/V1.0.0a) – `V1.0.0a` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/V1.0.0a)
+- [liaoran123/sfsDb](https://github.com/liaoran123/sfsDb/releases/tag/V1.9.2) – `V1.9.2` (📅 2026-03-01)  
+  🔗 [Release Notes](https://github.com/liaoran123/sfsDb/releases/tag/V1.9.2)
 
 ## 🔹 Webassembly
-- [esengine/microes](https://github.com/esengine/microes/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-03-01)  
-  🔗 [Release Notes](https://github.com/esengine/microes/releases/tag/v0.8.0)
-- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.9.0) – `v0.9.0` (📅 2026-02-27)  
-  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.9.0)
+- [pulseengine/bazel-file-ops-component](https://github.com/pulseengine/bazel-file-ops-component/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-11-01)  
+  🔗 [Release Notes](https://github.com/pulseengine/bazel-file-ops-component/releases/tag/v0.2.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
