@@ -4,16 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [itsubaki/q](https://github.com/itsubaki/q/releases/tag/v0.0.10) – `v0.0.10` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/itsubaki/q/releases/tag/v0.0.10)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rwilliamspbg-ops/Sovereign_Map_Federated_Learning](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/V1.0.0a) – `V1.0.0a` (📅 2026-02-24)  
+  🔗 [Release Notes](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/V1.0.0a)
 
 ## 🔹 Webassembly
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.15.1) – `v1.15.1` (📅 2026-02-12)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.15.1)
-- [aallan/vera](https://github.com/aallan/vera/releases/tag/v0.0.45) – `v0.0.45` (📅 2026-02-28)  
-  🔗 [Release Notes](https://github.com/aallan/vera/releases/tag/v0.0.45)
+- [esengine/microes](https://github.com/esengine/microes/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-03-01)  
+  🔗 [Release Notes](https://github.com/esengine/microes/releases/tag/v0.8.0)
+- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.9.0) – `v0.9.0` (📅 2026-02-27)  
+  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.9.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
