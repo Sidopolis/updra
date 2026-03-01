@@ -1,21 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2026-03-01
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [badursun/terlik.js](https://github.com/badursun/terlik.js/releases/tag/v2.4.0) – `v2.4.0` (📅 2026-03-01)  
+  🔗 [Release Notes](https://github.com/badursun/terlik.js/releases/tag/v2.4.0)
+- [matte1782/edgevec](https://github.com/matte1782/edgevec/releases/tag/v0.9.0) – `v0.9.0` (📅 2026-02-27)  
+  🔗 [Release Notes](https://github.com/matte1782/edgevec/releases/tag/v0.9.0)
 
 ## 🔹 Webassembly
-- [illarionov/wasi-emscripten-host](https://github.com/illarionov/wasi-emscripten-host/releases/tag/0.6.0) – `0.6.0` (📅 2025-08-13)  
-  🔗 [Release Notes](https://github.com/illarionov/wasi-emscripten-host/releases/tag/0.6.0)
-- [pongasoft/emscripten-glfw](https://github.com/pongasoft/emscripten-glfw/releases/tag/v3.4.0.20260301) – `v3.4.0.20260301` (📅 2026-03-01)  
-  🔗 [Release Notes](https://github.com/pongasoft/emscripten-glfw/releases/tag/v3.4.0.20260301)
-- [aallan/vera](https://github.com/aallan/vera/releases/tag/v0.0.45) – `v0.0.45` (📅 2026-02-28)  
-  🔗 [Release Notes](https://github.com/aallan/vera/releases/tag/v0.0.45)
+- [pulseengine/bazel-file-ops-component](https://github.com/pulseengine/bazel-file-ops-component/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-11-01)  
+  🔗 [Release Notes](https://github.com/pulseengine/bazel-file-ops-component/releases/tag/v0.2.0)
+- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.5) – `v20.0.5` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.5)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
