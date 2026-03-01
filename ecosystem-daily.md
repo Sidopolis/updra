@@ -4,16 +4,14 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [QuantumBFS/Yao.jl](https://github.com/QuantumBFS/Yao.jl/releases/tag/v0.9.2) – `v0.9.2` (📅 2025-07-10)  
+  🔗 [Release Notes](https://github.com/QuantumBFS/Yao.jl/releases/tag/v0.9.2)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.5) – `v20.0.5` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.5)
-- [wa-lang/wa-lang-cn.github.io](https://github.com/wa-lang/wa-lang-cn.github.io/releases/tag/v1.0.0) – `v1.0.0` (📅 2022-10-30)  
-  🔗 [Release Notes](https://github.com/wa-lang/wa-lang-cn.github.io/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
