@@ -1,20 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2026-03-01
 
 ## 🔹 Ai-ethics
-- [hernancapucci/agent-manifest](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-14)  
-  🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v0.2.0)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Drix10/ai-resources](https://github.com/Drix10/ai-resources/releases/tag/v0.0.129) – `v0.0.129` (📅 2026-02-22)  
-  🔗 [Release Notes](https://github.com/Drix10/ai-resources/releases/tag/v0.0.129)
+- [itsubaki/qasm](https://github.com/itsubaki/qasm/releases/tag/v0.1.3) – `v0.1.3` (📅 2025-07-12)  
+  🔗 [Release Notes](https://github.com/itsubaki/qasm/releases/tag/v0.1.3)
+- [itsubaki/q](https://github.com/itsubaki/q/releases/tag/v0.0.10) – `v0.0.10` (📅 2026-02-01)  
+  🔗 [Release Notes](https://github.com/itsubaki/q/releases/tag/v0.0.10)
 
 ## 🔹 Edge-computing
-- [agent-auth-protocol/ts-sdk](https://github.com/agent-auth-protocol/ts-sdk/releases/tag/ts-sdk-v0.1.4) – `ts-sdk-v0.1.4` (📅 2026-02-26)  
-  🔗 [Release Notes](https://github.com/agent-auth-protocol/ts-sdk/releases/tag/ts-sdk-v0.1.4)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [EPoY74/pstg](https://github.com/EPoY74/pstg/releases/tag/0.1.0) – `0.1.0` (📅 2026-02-28)  
+  🔗 [Release Notes](https://github.com/EPoY74/pstg/releases/tag/0.1.0)
 
 ## 🔹 Webassembly
-- [OGRECave/ogre](https://github.com/OGRECave/ogre/releases/tag/v14.5.2) – `v14.5.2` (📅 2026-01-31)  
-  🔗 [Release Notes](https://github.com/OGRECave/ogre/releases/tag/v14.5.2)
+- [pathsim/pathview](https://github.com/pathsim/pathview/releases/tag/v0.8.1) – `v0.8.1` (📅 2026-03-01)  
+  🔗 [Release Notes](https://github.com/pathsim/pathview/releases/tag/v0.8.1)
+- [aallan/vera](https://github.com/aallan/vera/releases/tag/v0.0.45) – `v0.0.45` (📅 2026-02-28)  
+  🔗 [Release Notes](https://github.com/aallan/vera/releases/tag/v0.0.45)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
