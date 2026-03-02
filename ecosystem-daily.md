@@ -6,15 +6,20 @@
 ## 🔹 Quantum-computing
 - [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
   🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
+- [jcmgray/quimb](https://github.com/jcmgray/quimb/releases/tag/v1.12.1) – `v1.12.1` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/jcmgray/quimb/releases/tag/v1.12.1)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [luxonis/modelconverter](https://github.com/luxonis/modelconverter/releases/tag/v0.5.2-beta) – `v0.5.2-beta` (📅 2026-03-02)  
+  🔗 [Release Notes](https://github.com/luxonis/modelconverter/releases/tag/v0.5.2-beta)
+- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.1) – `v1.22.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.1)
 
 ## 🔹 Webassembly
-- [StefanRichterHuber/quickjs-wasm-java](https://github.com/StefanRichterHuber/quickjs-wasm-java/releases/tag/v1.2.1) – `v1.2.1` (📅 2026-02-28)  
-  🔗 [Release Notes](https://github.com/StefanRichterHuber/quickjs-wasm-java/releases/tag/v1.2.1)
-- [pulseengine/rules_wasm_component](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-07-24)  
-  🔗 [Release Notes](https://github.com/pulseengine/rules_wasm_component/releases/tag/v1.0.0)
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
+- [ThatOpen/engine_web-ifc](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.75) – `0.75` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.75)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
