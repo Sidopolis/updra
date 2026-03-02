@@ -1,23 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-03-02
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [hernancapucci/agent-manifest](https://github.com/hernancapucci/agent-manifest/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-02)  
+  🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [vprusso/toqito](https://github.com/vprusso/toqito/releases/tag/v1.1.4) – `v1.1.4` (📅 2026-03-01)  
-  🔗 [Release Notes](https://github.com/vprusso/toqito/releases/tag/v1.1.4)
+- [anulum/scpn-quantum-control](https://github.com/anulum/scpn-quantum-control/releases/tag/v0.6.4) – `v0.6.4` (📅 2026-03-01)  
+  🔗 [Release Notes](https://github.com/anulum/scpn-quantum-control/releases/tag/v0.6.4)
 
 ## 🔹 Edge-computing
-- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0) – `1.54.0` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
+- [EPoY74/pstg](https://github.com/EPoY74/pstg/releases/tag/0.1.0) – `0.1.0` (📅 2026-02-28)  
+  🔗 [Release Notes](https://github.com/EPoY74/pstg/releases/tag/0.1.0)
+- [rwilliamspbg-ops/Sovereign_Map_Federated_Learning](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/v1.0.1) – `v1.0.1` (📅 2026-03-01)  
+  🔗 [Release Notes](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/v1.0.1)
 
 ## 🔹 Webassembly
-- [denoland/deno_graph](https://github.com/denoland/deno_graph/releases/tag/0.107.1) – `0.107.1` (📅 2026-03-02)  
-  🔗 [Release Notes](https://github.com/denoland/deno_graph/releases/tag/0.107.1)
-- [jupyterlite/xeus](https://github.com/jupyterlite/xeus/releases/tag/v4.4.2) – `v4.4.2` (📅 2026-03-02)  
-  🔗 [Release Notes](https://github.com/jupyterlite/xeus/releases/tag/v4.4.2)
+- [unoplatform/uno.templates](https://github.com/unoplatform/uno.templates/releases/tag/6.5.31) – `6.5.31` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno.templates/releases/tag/6.5.31)
 
 ## 🔹 Green-software
 - No recent releases found.
