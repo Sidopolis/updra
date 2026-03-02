@@ -1,20 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-03-02
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [hernancapucci/agent-manifest](https://github.com/hernancapucci/agent-manifest/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-02)  
+  🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1) – `v0.6.1` (📅 2026-02-24)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.1)
 
 ## 🔹 Webassembly
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
-- [nnirror/wax](https://github.com/nnirror/wax/releases/tag/v0.0.2) – `v0.0.2` (📅 2024-11-08)  
-  🔗 [Release Notes](https://github.com/nnirror/wax/releases/tag/v0.0.2)
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.9) – `v1.0.9` (📅 2026-02-09)  
+  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.9)
 
 ## 🔹 Green-software
 - No recent releases found.
