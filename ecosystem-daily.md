@@ -1,8 +1,7 @@
-# 🌐 Ecosystem Daily Log – 2026-03-02
+# 🌐 Ecosystem Daily Log – 2026-03-03
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
@@ -11,10 +10,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [pondpilot/flowscope](https://github.com/pondpilot/flowscope/releases/tag/v0.3.1) – `v0.3.1` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/pondpilot/flowscope/releases/tag/v0.3.1)
-- [tractordev/apptron](https://github.com/tractordev/apptron/releases/tag/v0.7.0) – `v0.7.0` (📅 2026-03-02)  
-  🔗 [Release Notes](https://github.com/tractordev/apptron/releases/tag/v0.7.0)
+- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
+- [kurisu994/belobog-stellar-grid](https://github.com/kurisu994/belobog-stellar-grid/releases/tag/v1.0.10) – `v1.0.10` (📅 2026-02-28)  
+  🔗 [Release Notes](https://github.com/kurisu994/belobog-stellar-grid/releases/tag/v1.0.10)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
