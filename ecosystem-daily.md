@@ -4,18 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Infleqtion/client-superstaq](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.62) – `v0.5.62` (📅 2026-02-17)  
+  🔗 [Release Notes](https://github.com/Infleqtion/client-superstaq/releases/tag/v0.5.62)
 
 ## 🔹 Edge-computing
-- [draphy/nooxy](https://github.com/draphy/nooxy/releases/tag/nooxy%401.9.0) – `nooxy@1.9.0` (📅 2026-03-03)  
-  🔗 [Release Notes](https://github.com/draphy/nooxy/releases/tag/nooxy%401.9.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [creative-connections/Bodylight-Scenarios](https://github.com/creative-connections/Bodylight-Scenarios/releases/tag/v.2310) – `v.2310` (📅 2023-11-03)  
+  🔗 [Release Notes](https://github.com/creative-connections/Bodylight-Scenarios/releases/tag/v.2310)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.6) – `2.10.6` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.6)
 
 ## 🔹 Green-software
+- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
+  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6)
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
   🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
