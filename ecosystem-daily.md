@@ -7,16 +7,16 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.1) – `v1.22.1` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/kubeedge/kubeedge/releases/tag/v1.22.1)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [EPoY74/pstg](https://github.com/EPoY74/pstg/releases/tag/0.1.0) – `0.1.0` (📅 2026-02-28)  
+  🔗 [Release Notes](https://github.com/EPoY74/pstg/releases/tag/0.1.0)
 
 ## 🔹 Webassembly
-- [ABCrimson/modern-xlsx](https://github.com/ABCrimson/modern-xlsx/releases/tag/v0.4.0) – `v0.4.0` (📅 2026-03-03)  
-  🔗 [Release Notes](https://github.com/ABCrimson/modern-xlsx/releases/tag/v0.4.0)
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
+- [esengine/microes](https://github.com/esengine/microes/releases/tag/v0.8.1) – `v0.8.1` (📅 2026-03-02)  
+  🔗 [Release Notes](https://github.com/esengine/microes/releases/tag/v0.8.1)
+- [FlatAssembler/AECforWebAssembly](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.4.1) – `v3.4.1` (📅 2025-11-08)  
+  🔗 [Release Notes](https://github.com/FlatAssembler/AECforWebAssembly/releases/tag/v3.4.1)
+- [pyodide/pyodide](https://github.com/pyodide/pyodide/releases/tag/0.29.3) – `0.29.3` (📅 2026-01-28)  
+  🔗 [Release Notes](https://github.com/pyodide/pyodide/releases/tag/0.29.3)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
