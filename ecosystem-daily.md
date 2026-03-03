@@ -4,15 +4,15 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/workflows](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.17.14) – `v1.17.14` (📅 2026-03-01)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/workflows/releases/tag/v1.17.14)
+- [jcmgray/quimb](https://github.com/jcmgray/quimb/releases/tag/v1.12.1) – `v1.12.1` (📅 2026-01-13)  
+  🔗 [Release Notes](https://github.com/jcmgray/quimb/releases/tag/v1.12.1)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [GrokImageCompression/grok](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.5) – `v20.0.5` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/GrokImageCompression/grok/releases/tag/v20.0.5)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
