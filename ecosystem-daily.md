@@ -1,26 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2026-03-04
 
 ## 🔹 Ai-ethics
-- [Secret-Uzbek/AIUZ-](https://github.com/Secret-Uzbek/AIUZ-/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/Secret-Uzbek/AIUZ-/releases/tag/v1.0.0)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [oqtopus-team/oqtopus-cloud](https://github.com/oqtopus-team/oqtopus-cloud/releases/tag/v1.4.1) – `v1.4.1` (📅 2025-11-21)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/oqtopus-cloud/releases/tag/v1.4.1)
+
 ## 🔹 Edge-computing
-- [defilantech/LLMKube](https://github.com/defilantech/LLMKube/releases/tag/v0.4.20) – `v0.4.20` (📅 2026-03-01)  
-  🔗 [Release Notes](https://github.com/defilantech/LLMKube/releases/tag/v0.4.20)
-- [liaoran123/sfsDb](https://github.com/liaoran123/sfsDb/releases/tag/v1.9.3) – `v1.9.3` (📅 2026-03-02)  
-  🔗 [Release Notes](https://github.com/liaoran123/sfsDb/releases/tag/v1.9.3)
+- No recent releases found.
 
 ## 🔹 Webassembly
 - [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
   🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
-- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.24) – `v3.3.24` (📅 2026-02-03)  
-  🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.24)
-- [ABCrimson/modern-xlsx](https://github.com/ABCrimson/modern-xlsx/releases/tag/v0.6.1) – `v0.6.1` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/ABCrimson/modern-xlsx/releases/tag/v0.6.1)
+- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.9) – `v1.0.9` (📅 2026-02-09)  
+  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.9)
+- [creative-connections/Bodylight-Scenarios](https://github.com/creative-connections/Bodylight-Scenarios/releases/tag/v.2310) – `v.2310` (📅 2023-11-03)  
+  🔗 [Release Notes](https://github.com/creative-connections/Bodylight-Scenarios/releases/tag/v.2310)
 
 ## 🔹 Green-software
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6)
+- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
+  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
