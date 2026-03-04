@@ -7,14 +7,16 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0) – `1.54.0` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-03-03)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2)
 
 ## 🔹 Webassembly
-- [aallan/vera](https://github.com/aallan/vera/releases/tag/v0.0.65) – `v0.0.65` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/aallan/vera/releases/tag/v0.0.65)
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.26) – `v1.26` (📅 2026-02-15)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.26)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.7) – `2.10.7` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.7)
+- [Sowiedu/Edict](https://github.com/Sowiedu/Edict/releases/tag/v1.2.0) – `v1.2.0` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/Sowiedu/Edict/releases/tag/v1.2.0)
+- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
