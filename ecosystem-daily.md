@@ -4,19 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [oqtopus-team/oqtopus-cloud](https://github.com/oqtopus-team/oqtopus-cloud/releases/tag/v1.4.1) – `v1.4.1` (📅 2025-11-21)  
-  🔗 [Release Notes](https://github.com/oqtopus-team/oqtopus-cloud/releases/tag/v1.4.1)
+- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.3.0) – `2.3.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.3.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [kiranvenom1209/voerynth-os](https://github.com/kiranvenom1209/voerynth-os/releases/tag/v5.0.1) – `v5.0.1` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/kiranvenom1209/voerynth-os/releases/tag/v5.0.1)
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.17.49-202602161401.p0) – `4.17.49-202602161401.p0` (📅 2026-02-23)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.17.49-202602161401.p0)
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
-- [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.9) – `v1.0.9` (📅 2026-02-09)  
-  🔗 [Release Notes](https://github.com/wasmi-labs/wasmi/releases/tag/v1.0.9)
-- [creative-connections/Bodylight-Scenarios](https://github.com/creative-connections/Bodylight-Scenarios/releases/tag/v.2310) – `v.2310` (📅 2023-11-03)  
-  🔗 [Release Notes](https://github.com/creative-connections/Bodylight-Scenarios/releases/tag/v.2310)
+- [Sowiedu/Edict](https://github.com/Sowiedu/Edict/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/Sowiedu/Edict/releases/tag/v1.0.0)
+- [wazero/wazero](https://github.com/wazero/wazero/releases/tag/v1.11.0) – `v1.11.0` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/wazero/wazero/releases/tag/v1.11.0)
+- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.24) – `v3.3.24` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.24)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
