@@ -5,14 +5,18 @@
   🔗 [Release Notes](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Quantinuum/hugr](https://github.com/Quantinuum/hugr/releases/tag/hugr-v0.25.6) – `hugr-v0.25.6` (📅 2026-02-20)  
+  🔗 [Release Notes](https://github.com/Quantinuum/hugr/releases/tag/hugr-v0.25.6)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-03-03)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2)
 
 ## 🔹 Webassembly
-- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.1.0) – `v1.1.0` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.1.0)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.654) – `v4.0.654` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.654)
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.260) – `v4.0.260` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.260)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
