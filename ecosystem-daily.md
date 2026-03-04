@@ -4,17 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [qiboteam/qibotn](https://github.com/qiboteam/qibotn/releases/tag/v0.0.6) – `v0.0.6` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibotn/releases/tag/v0.0.6)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0) – `1.54.0` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0)
+
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
-- [LiveSplit/LiveSplitOne](https://github.com/LiveSplit/LiveSplitOne/releases/tag/latest) – `latest` (📅 2024-07-21)  
-  🔗 [Release Notes](https://github.com/LiveSplit/LiveSplitOne/releases/tag/latest)
+- [aallan/vera](https://github.com/aallan/vera/releases/tag/v0.0.65) – `v0.0.65` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/aallan/vera/releases/tag/v0.0.65)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.26) – `v1.26` (📅 2026-02-15)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.26)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
