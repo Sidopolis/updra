@@ -4,19 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [qiskit-community/qrmi](https://github.com/qiskit-community/qrmi/releases/tag/v0.11.0) – `v0.11.0` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/qiskit-community/qrmi/releases/tag/v0.11.0)
 
 ## 🔹 Edge-computing
-- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-03-03)  
-  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.4.4) – `v0.4.4` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.4.4)
+- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0) – `0.2.0` (📅 2026-01-08)  
+  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0)
+- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.15.3) – `v3.15.3` (📅 2026-03-01)  
+  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.15.3)
+- [SWI-Prolog/npm-swipl-wasm](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v7.0.1) – `v7.0.1` (📅 2026-03-01)  
+  🔗 [Release Notes](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v7.0.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
