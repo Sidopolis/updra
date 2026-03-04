@@ -1,22 +1,26 @@
 # 🌐 Ecosystem Daily Log – 2026-03-04
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [richard-porter/frozen-kernel](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0) – `v1.0` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0)
 
 ## 🔹 Quantum-computing
-- [qiskit-community/qrmi](https://github.com/qiskit-community/qrmi/releases/tag/v0.11.0) – `v0.11.0` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/qiskit-community/qrmi/releases/tag/v0.11.0)
+- [Quantinuum/tierkreis](https://github.com/Quantinuum/tierkreis/releases/tag/v2.0.10_viz_0.1.8) – `v2.0.10_viz_0.1.8` (📅 2026-02-24)  
+  🔗 [Release Notes](https://github.com/Quantinuum/tierkreis/releases/tag/v2.0.10_viz_0.1.8)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [adhamhaithameid/Classroom-Quick-Downloader](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0) – `v1.1.0` (📅 2025-12-21)  
+  🔗 [Release Notes](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.1.0)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-03-03)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2)
 
 ## 🔹 Webassembly
-- [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0) – `0.2.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/swiftwasm/WasmKit/releases/tag/0.2.0)
-- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.15.3) – `v3.15.3` (📅 2026-03-01)  
-  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.15.3)
-- [SWI-Prolog/npm-swipl-wasm](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v7.0.1) – `v7.0.1` (📅 2026-03-01)  
-  🔗 [Release Notes](https://github.com/SWI-Prolog/npm-swipl-wasm/releases/tag/v7.0.1)
+- [oqtane/oqtane.framework](https://github.com/oqtane/oqtane.framework/releases/tag/v10.1.0) – `v10.1.0` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/oqtane/oqtane.framework/releases/tag/v10.1.0)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
