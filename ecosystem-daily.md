@@ -4,17 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Quantinuum/tierkreis](https://github.com/Quantinuum/tierkreis/releases/tag/v2.0.10_viz_0.1.8) – `v2.0.10_viz_0.1.8` (📅 2026-02-24)  
-  🔗 [Release Notes](https://github.com/Quantinuum/tierkreis/releases/tag/v2.0.10_viz_0.1.8)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-03-03)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2)
+
 ## 🔹 Webassembly
-- [wasm-fmt/gofmt](https://github.com/wasm-fmt/gofmt/releases/tag/v0.7.3) – `v0.7.3` (📅 2026-02-17)  
-  🔗 [Release Notes](https://github.com/wasm-fmt/gofmt/releases/tag/v0.7.3)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.15.1) – `v1.15.1` (📅 2026-02-12)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.15.1)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.663) – `v4.0.663` (📅 2026-03-05)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.663)
+- [arcjet/arcjet-js](https://github.com/arcjet/arcjet-js/releases/tag/v1.1.0) – `v1.1.0` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/arcjet/arcjet-js/releases/tag/v1.1.0)
+- [LostBeard/SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.3.0) – `v3.3.0` (📅 2026-02-22)  
+  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.3.0)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.3) – `v0.8.3` (📅 2026-02-23)  
