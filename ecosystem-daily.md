@@ -4,17 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
 - [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-03-03)  
   🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [jameslan/libxml2-wasm](https://github.com/jameslan/libxml2-wasm/releases/tag/v0.7.0) – `v0.7.0` (📅 2026-03-05)  
-  🔗 [Release Notes](https://github.com/jameslan/libxml2-wasm/releases/tag/v0.7.0)
-- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite/releases/tag/v0.7.3) – `v0.7.3` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/jupyterlite/jupyterlite/releases/tag/v0.7.3)
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.262) – `v4.0.262` (📅 2026-03-05)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.262)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.61.14) – `0.61.14` (📅 2026-02-08)  
