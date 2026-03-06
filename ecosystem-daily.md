@@ -4,17 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [qiboteam/qibotn](https://github.com/qiboteam/qibotn/releases/tag/v0.0.6) – `v0.0.6` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/qiboteam/qibotn/releases/tag/v0.0.6)
+- [qiboteam/qibolab](https://github.com/qiboteam/qibolab/releases/tag/v0.2.11) – `v0.2.11` (📅 2025-12-04)  
+  🔗 [Release Notes](https://github.com/qiboteam/qibolab/releases/tag/v0.2.11)
 
 ## 🔹 Edge-computing
-- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.4) – `v2.12.4` (📅 2026-01-27)  
-  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.4)
+- [Ratio1/r1setup](https://github.com/Ratio1/r1setup/releases/tag/v1.3.5) – `v1.3.5` (📅 2025-07-25)  
+  🔗 [Release Notes](https://github.com/Ratio1/r1setup/releases/tag/v1.3.5)
 
 ## 🔹 Webassembly
-- [creative-connections/Bodylight-Scenarios](https://github.com/creative-connections/Bodylight-Scenarios/releases/tag/v.2310) – `v.2310` (📅 2023-11-03)  
-  🔗 [Release Notes](https://github.com/creative-connections/Bodylight-Scenarios/releases/tag/v.2310)
-- [smapiot/Piral.Blazor](https://github.com/smapiot/Piral.Blazor/releases/tag/v8.0.18) – `v8.0.18` (📅 2025-03-18)  
-  🔗 [Release Notes](https://github.com/smapiot/Piral.Blazor/releases/tag/v8.0.18)
+- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
+  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
