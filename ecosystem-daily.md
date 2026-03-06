@@ -1,21 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2026-03-06
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [richard-porter/frozen-kernel](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0) – `v1.0` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0)
 
 ## 🔹 Quantum-computing
-- [qiboteam/qibotn](https://github.com/qiboteam/qibotn/releases/tag/v0.0.6) – `v0.0.6` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibotn/releases/tag/v0.0.6)
-- [qiboteam/qibolab](https://github.com/qiboteam/qibolab/releases/tag/v0.2.11) – `v0.2.11` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibolab/releases/tag/v0.2.11)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [Ratio1/r1setup](https://github.com/Ratio1/r1setup/releases/tag/v1.3.5) – `v1.3.5` (📅 2025-07-25)  
-  🔗 [Release Notes](https://github.com/Ratio1/r1setup/releases/tag/v1.3.5)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-03-03)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2)
 
 ## 🔹 Webassembly
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [smapiot/Piral.Blazor](https://github.com/smapiot/Piral.Blazor/releases/tag/v8.0.18) – `v8.0.18` (📅 2025-03-18)  
+  🔗 [Release Notes](https://github.com/smapiot/Piral.Blazor/releases/tag/v8.0.18)
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen/releases/tag/version_126) – `version_126` (📅 2026-02-13)  
+  🔗 [Release Notes](https://github.com/WebAssembly/binaryen/releases/tag/version_126)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
