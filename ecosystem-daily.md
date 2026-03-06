@@ -1,25 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2026-03-06
 
 ## 🔹 Ai-ethics
-- [alpha-one-index/ai-trism-index](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-03-03)  
-  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2)
-- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v7.1.1) – `v7.1.1` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v7.1.1)
+- No recent releases found.
 
 ## 🔹 Webassembly
+- [eunomia-bpf/wasm-bpf](https://github.com/eunomia-bpf/wasm-bpf/releases/tag/v0.1.0) – `v0.1.0` (📅 2023-03-22)  
+  🔗 [Release Notes](https://github.com/eunomia-bpf/wasm-bpf/releases/tag/v0.1.0)
 - [eunomia-bpf/eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf/releases/tag/v1.0.27) – `v1.0.27` (📅 2024-08-29)  
   🔗 [Release Notes](https://github.com/eunomia-bpf/eunomia-bpf/releases/tag/v1.0.27)
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
-- [toyobayashi/emnapi](https://github.com/toyobayashi/emnapi/releases/tag/v1.8.1) – `v1.8.1` (📅 2026-01-04)  
-  🔗 [Release Notes](https://github.com/toyobayashi/emnapi/releases/tag/v1.8.1)
 
 ## 🔹 Green-software
 - [carbonintensityio/green-scheduler](https://github.com/carbonintensityio/green-scheduler/releases/tag/v0.8.3) – `v0.8.3` (📅 2026-02-23)  
