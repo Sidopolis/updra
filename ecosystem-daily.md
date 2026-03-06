@@ -4,22 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [nicolasloizeau/PauliStrings.jl](https://github.com/nicolasloizeau/PauliStrings.jl/releases/tag/v1.9.1) – `v1.9.1` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/nicolasloizeau/PauliStrings.jl/releases/tag/v1.9.1)
-- [qiboteam/qibo](https://github.com/qiboteam/qibo/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/qiboteam/qibo/releases/tag/v0.3.0)
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [eclipse-zenoh/zenoh-python](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.7.2) – `1.7.2` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-python/releases/tag/1.7.2)
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.7.2) – `1.7.2` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.7.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [thoth-pub/thoth](https://github.com/thoth-pub/thoth/releases/tag/v0.13.16) – `v0.13.16` (📅 2026-03-06)  
-  🔗 [Release Notes](https://github.com/thoth-pub/thoth/releases/tag/v0.13.16)
-- [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.32.1) – `v1.32.1` (📅 2026-02-09)  
-  🔗 [Release Notes](https://github.com/kubewarden/kubewarden-controller/releases/tag/v1.32.1)
+- [mmomtchev/ol-mbtiles](https://github.com/mmomtchev/ol-mbtiles/releases/tag/v3.3.0) – `v3.3.0` (📅 2025-02-03)  
+  🔗 [Release Notes](https://github.com/mmomtchev/ol-mbtiles/releases/tag/v3.3.0)
+- [Sowiedu/Edict](https://github.com/Sowiedu/Edict/releases/tag/v1.4.0) – `v1.4.0` (📅 2026-03-05)  
+  🔗 [Release Notes](https://github.com/Sowiedu/Edict/releases/tag/v1.4.0)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
 
