@@ -1,22 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2026-03-07
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.11.2) – `v9.11.2` (📅 2026-02-20)  
+  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.11.2)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [scribeocr/scribe.js](https://github.com/scribeocr/scribe.js/releases/tag/v0.10.0) – `v0.10.0` (📅 2026-02-08)  
-  🔗 [Release Notes](https://github.com/scribeocr/scribe.js/releases/tag/v0.10.0)
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos/releases/tag/v0.8.17) – `v0.8.17` (📅 2026-03-01)  
-  🔗 [Release Notes](https://github.com/leptos-rs/leptos/releases/tag/v0.8.17)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.5.0) – `v0.5.0` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.5.0)
+- [eunomia-bpf/eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf/releases/tag/v1.0.33) – `v1.0.33` (📅 2026-03-07)  
+  🔗 [Release Notes](https://github.com/eunomia-bpf/eunomia-bpf/releases/tag/v1.0.33)
+- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.19.0) – `v3.19.0` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.19.0)
+- [ABCrimson/modern-cmdk](https://github.com/ABCrimson/modern-cmdk/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-03-07)  
+  🔗 [Release Notes](https://github.com/ABCrimson/modern-cmdk/releases/tag/v0.8.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
