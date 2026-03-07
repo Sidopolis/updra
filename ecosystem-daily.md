@@ -1,21 +1,24 @@
 # 🌐 Ecosystem Daily Log – 2026-03-07
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- [alpha-one-index/ai-trism-index](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [vm6502q/PyQrackIsing](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.11.2) – `v9.11.2` (📅 2026-02-20)  
-  🔗 [Release Notes](https://github.com/vm6502q/PyQrackIsing/releases/tag/v9.11.2)
+- [richarc/qx](https://github.com/richarc/qx/releases/tag/v0.5.1) – `v0.5.1` (📅 2026-03-07)  
+  🔗 [Release Notes](https://github.com/richarc/qx/releases/tag/v0.5.1)
+- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
+  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [tyssejc/junction](https://github.com/tyssejc/junction/releases/tag/%40junctionjs/core%400.1.3) – `@junctionjs/core@0.1.3` (📅 2026-03-07)  
+  🔗 [Release Notes](https://github.com/tyssejc/junction/releases/tag/%40junctionjs/core%400.1.3)
+- [Mattbusel/wasm-agent](https://github.com/Mattbusel/wasm-agent/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-03-07)  
+  🔗 [Release Notes](https://github.com/Mattbusel/wasm-agent/releases/tag/v0.1.0)
 
 ## 🔹 Webassembly
-- [eunomia-bpf/eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf/releases/tag/v1.0.33) – `v1.0.33` (📅 2026-03-07)  
-  🔗 [Release Notes](https://github.com/eunomia-bpf/eunomia-bpf/releases/tag/v1.0.33)
-- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.19.0) – `v3.19.0` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.19.0)
+- [animagram-jp/state-engine](https://github.com/animagram-jp/state-engine/releases/tag/0.1.3) – `0.1.3` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/animagram-jp/state-engine/releases/tag/0.1.3)
 - [ABCrimson/modern-cmdk](https://github.com/ABCrimson/modern-cmdk/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-03-07)  
   🔗 [Release Notes](https://github.com/ABCrimson/modern-cmdk/releases/tag/v0.8.0)
 
