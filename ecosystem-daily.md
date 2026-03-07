@@ -7,14 +7,15 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [schwabauerbriantomas-gif/m2m-vector-search](https://github.com/schwabauerbriantomas-gif/m2m-vector-search/releases/tag/1.0.6) – `1.0.6` (📅 2026-03-06)  
-  🔗 [Release Notes](https://github.com/schwabauerbriantomas-gif/m2m-vector-search/releases/tag/1.0.6)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [eelab-dev/EEcircuit](https://github.com/eelab-dev/EEcircuit/releases/tag/v3.1) – `v3.1` (📅 2022-09-26)  
-  🔗 [Release Notes](https://github.com/eelab-dev/EEcircuit/releases/tag/v3.1)
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
+- [yieldspace/imago](https://github.com/yieldspace/imago/releases/tag/imago-v0.2.0) – `imago-v0.2.0` (📅 2026-03-06)  
+  🔗 [Release Notes](https://github.com/yieldspace/imago/releases/tag/imago-v0.2.0)
+- [eunomia-bpf/eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf/releases/tag/v1.0.32) – `v1.0.32` (📅 2026-03-06)  
+  🔗 [Release Notes](https://github.com/eunomia-bpf/eunomia-bpf/releases/tag/v1.0.32)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.359) – `v4.0.359` (📅 2026-03-07)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.359)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
