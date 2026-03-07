@@ -5,18 +5,18 @@
   🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Deniskain3D/Quantum-Messenger](https://github.com/Deniskain3D/Quantum-Messenger/releases/tag/v0.5.4) – `v0.5.4` (📅 2026-03-06)  
+  🔗 [Release Notes](https://github.com/Deniskain3D/Quantum-Messenger/releases/tag/v0.5.4)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [arminfabritzek/WatchMyBirds](https://github.com/arminfabritzek/WatchMyBirds/releases/tag/docker-2026-03-07) – `docker-2026-03-07` (📅 2026-03-07)  
+  🔗 [Release Notes](https://github.com/arminfabritzek/WatchMyBirds/releases/tag/docker-2026-03-07)
 
 ## 🔹 Webassembly
-- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.26) – `v1.26` (📅 2026-02-15)  
-  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.26)
 - [Sowiedu/Edict](https://github.com/Sowiedu/Edict/releases/tag/v1.6.0) – `v1.6.0` (📅 2026-03-07)  
   🔗 [Release Notes](https://github.com/Sowiedu/Edict/releases/tag/v1.6.0)
-- [zhaohappy/libmedia](https://github.com/zhaohappy/libmedia/releases/tag/v1.2.0) – `v1.2.0` (📅 2025-11-25)  
-  🔗 [Release Notes](https://github.com/zhaohappy/libmedia/releases/tag/v1.2.0)
+- [mavdol/capsule](https://github.com/mavdol/capsule/releases/tag/v0.6.3) – `v0.6.3` (📅 2026-03-02)  
+  🔗 [Release Notes](https://github.com/mavdol/capsule/releases/tag/v0.6.3)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
