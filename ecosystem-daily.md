@@ -4,21 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [rudvincci/ierahkwa-platform](https://github.com/rudvincci/ierahkwa-platform/releases/tag/v16.0.0) – `v16.0.0` (📅 2026-03-06)  
+  🔗 [Release Notes](https://github.com/rudvincci/ierahkwa-platform/releases/tag/v16.0.0)
+- [tensorcircuit/tensorcircuit-ng](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.5.0) – `v1.5.0` (📅 2026-02-07)  
+  🔗 [Release Notes](https://github.com/tensorcircuit/tensorcircuit-ng/releases/tag/v1.5.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [yieldspace/imago](https://github.com/yieldspace/imago/releases/tag/imago-v0.2.0) – `imago-v0.2.0` (📅 2026-03-06)  
-  🔗 [Release Notes](https://github.com/yieldspace/imago/releases/tag/imago-v0.2.0)
-- [eunomia-bpf/eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf/releases/tag/v1.0.32) – `v1.0.32` (📅 2026-03-06)  
-  🔗 [Release Notes](https://github.com/eunomia-bpf/eunomia-bpf/releases/tag/v1.0.32)
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.359) – `v4.0.359` (📅 2026-03-07)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.359)
+- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
+- [RibirX/Ribir](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0) – `ribir-v0.3.0` (📅 2024-08-26)  
+  🔗 [Release Notes](https://github.com/RibirX/Ribir/releases/tag/ribir-v0.3.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.206) – `v0.8.206` (📅 2026-03-03)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.206)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
   🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6)
