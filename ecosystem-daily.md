@@ -1,27 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-03-07
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
-- [alpha-one-index/ai-trism-index](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
-- [Steel-SecAdv-LLC/Mercury-Agent](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1) – `v1.1` (📅 2025-12-10)  
-  🔗 [Release Notes](https://github.com/Steel-SecAdv-LLC/Mercury-Agent/releases/tag/v1.1)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [liaoran123/sfsDb](https://github.com/liaoran123/sfsDb/releases/tag/v1.9.3) – `v1.9.3` (📅 2026-03-02)  
-  🔗 [Release Notes](https://github.com/liaoran123/sfsDb/releases/tag/v1.9.3)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.360) – `v4.0.360` (📅 2026-03-07)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.360)
-- [LostBeard/SpawnDev.ILGPU](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.5.0) – `v3.5.0` (📅 2026-03-06)  
-  🔗 [Release Notes](https://github.com/LostBeard/SpawnDev.ILGPU/releases/tag/v3.5.0)
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.206) – `v0.8.206` (📅 2026-03-03)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.206)
+- [scribeocr/scribe.js](https://github.com/scribeocr/scribe.js/releases/tag/v0.10.0) – `v0.10.0` (📅 2026-02-08)  
+  🔗 [Release Notes](https://github.com/scribeocr/scribe.js/releases/tag/v0.10.0)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos/releases/tag/v0.8.17) – `v0.8.17` (📅 2026-03-01)  
+  🔗 [Release Notes](https://github.com/leptos-rs/leptos/releases/tag/v0.8.17)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.5.0) – `v0.5.0` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.5.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
