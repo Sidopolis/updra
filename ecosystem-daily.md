@@ -4,16 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [ciphernom/midstate](https://github.com/ciphernom/midstate/releases/tag/v1.0.0-rc2-BEGIN-RESIST) – `v1.0.0-rc2-BEGIN-RESIST` (📅 2026-03-05)  
-  🔗 [Release Notes](https://github.com/ciphernom/midstate/releases/tag/v1.0.0-rc2-BEGIN-RESIST)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-03-03)  
-  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [eunomia-bpf/eunomia-bpf](https://github.com/eunomia-bpf/eunomia-bpf/releases/tag/v1.0.35) – `v1.0.35` (📅 2026-03-07)  
-  🔗 [Release Notes](https://github.com/eunomia-bpf/eunomia-bpf/releases/tag/v1.0.35)
+- [ABCrimson/modern-cmdk](https://github.com/ABCrimson/modern-cmdk/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-03-07)  
+  🔗 [Release Notes](https://github.com/ABCrimson/modern-cmdk/releases/tag/v0.8.0)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.360) – `v4.0.360` (📅 2026-03-07)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.360)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
