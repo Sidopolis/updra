@@ -1,20 +1,25 @@
 # 🌐 Ecosystem Daily Log – 2026-03-08
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [alpha-one-index/ai-trism-index](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit/releases/tag/2.3.0) – `2.3.0` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/Qiskit/qiskit/releases/tag/2.3.0)
-- [pyRiemann/pyRiemann-qiskit](https://github.com/pyRiemann/pyRiemann-qiskit/releases/tag/v0.4.2) – `v0.4.2` (📅 2025-09-04)  
-  🔗 [Release Notes](https://github.com/pyRiemann/pyRiemann-qiskit/releases/tag/v0.4.2)
-
-## 🔹 Edge-computing
 - No recent releases found.
 
+## 🔹 Edge-computing
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-03-03)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+
 ## 🔹 Webassembly
-- [ABCrimson/modern-cmdk](https://github.com/ABCrimson/modern-cmdk/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-03-07)  
-  🔗 [Release Notes](https://github.com/ABCrimson/modern-cmdk/releases/tag/v0.8.0)
+- [zhaohappy/libmedia](https://github.com/zhaohappy/libmedia/releases/tag/v1.3.0) – `v1.3.0` (📅 2026-03-07)  
+  🔗 [Release Notes](https://github.com/zhaohappy/libmedia/releases/tag/v1.3.0)
+- [Stranger6667/jsonschema](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.44.1) – `rust-v0.44.1` (📅 2026-03-03)  
+  🔗 [Release Notes](https://github.com/Stranger6667/jsonschema/releases/tag/rust-v0.44.1)
+- [wazero/wazero](https://github.com/wazero/wazero/releases/tag/v1.11.0) – `v1.11.0` (📅 2025-12-19)  
+  🔗 [Release Notes](https://github.com/wazero/wazero/releases/tag/v1.11.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
