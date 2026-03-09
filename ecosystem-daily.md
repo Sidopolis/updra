@@ -4,15 +4,22 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [TeamGraphix/graphix](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.4) – `v0.3.4` (📅 2026-02-06)  
+  🔗 [Release Notes](https://github.com/TeamGraphix/graphix/releases/tag/v0.3.4)
 
 ## 🔹 Edge-computing
-- [Ryan-Atkinson87/trive_aquasense](https://github.com/Ryan-Atkinson87/trive_aquasense/releases/tag/v3.0.0) – `v3.0.0` (📅 2026-03-07)  
-  🔗 [Release Notes](https://github.com/Ryan-Atkinson87/trive_aquasense/releases/tag/v3.0.0)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2) – `v0.6.2` (📅 2026-03-03)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.2)
+- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
+  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
+- [lightninglabs/lnc-web](https://github.com/lightninglabs/lnc-web/releases/tag/v0.3.5-alpha) – `v0.3.5-alpha` (📅 2026-01-05)  
+  🔗 [Release Notes](https://github.com/lightninglabs/lnc-web/releases/tag/v0.3.5-alpha)
+- [Sowiedu/Edict](https://github.com/Sowiedu/Edict/releases/tag/v1.8.0) – `v1.8.0` (📅 2026-03-09)  
+  🔗 [Release Notes](https://github.com/Sowiedu/Edict/releases/tag/v1.8.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
