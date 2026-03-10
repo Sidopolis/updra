@@ -7,12 +7,18 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.19.25-202603020814.p0) – `4.19.25-202603020814.p0` (📅 2026-03-05)  
-  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.19.25-202603020814.p0)
+- [oakestra/oakestra](https://github.com/oakestra/oakestra/releases/tag/v0.4.401) – `v0.4.401` (📅 2025-01-29)  
+  🔗 [Release Notes](https://github.com/oakestra/oakestra/releases/tag/v0.4.401)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.5) – `v0.6.5` (📅 2026-03-09)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.5)
+- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.5) – `v0.18.5` (📅 2026-01-23)  
+  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.5)
 
 ## 🔹 Webassembly
-- [almide/almide](https://github.com/almide/almide/releases/tag/v0.4.2) – `v0.4.2` (📅 2026-03-10)  
-  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.4.2)
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
+- [tinywasm/fmt](https://github.com/tinywasm/fmt/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-09-06)  
+  🔗 [Release Notes](https://github.com/tinywasm/fmt/releases/tag/v0.5.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
