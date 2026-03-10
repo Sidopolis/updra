@@ -8,14 +8,11 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.5) – `v0.6.5` (📅 2026-03-09)  
-  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.5)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [spinframework/spin-operator](https://github.com/spinframework/spin-operator/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-07-09)  
-  🔗 [Release Notes](https://github.com/spinframework/spin-operator/releases/tag/v0.6.1)
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.5.64) – `6.5.64` (📅 2026-02-11)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.5.64)
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
