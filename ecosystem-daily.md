@@ -1,20 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-03-10
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [hernancapucci/agent-manifest](https://github.com/hernancapucci/agent-manifest/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-02)  
+  🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.5) – `v0.18.5` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.5)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
-- [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm/releases/tag/3.51.2-build6) – `3.51.2-build6` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/sqlite/sqlite-wasm/releases/tag/3.51.2-build6)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [ring-lang/ring](https://github.com/ring-lang/ring/releases/tag/v1.26) – `v1.26` (📅 2026-02-15)  
+  🔗 [Release Notes](https://github.com/ring-lang/ring/releases/tag/v1.26)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.5.0) – `v0.5.0` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.5.0)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
