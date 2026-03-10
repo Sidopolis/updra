@@ -4,20 +4,20 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.1) – `v3.4.1` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.1)
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
+- [amachino/qubex](https://github.com/amachino/qubex/releases/tag/v1.4.7) – `v1.4.7` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/amachino/qubex/releases/tag/v1.4.7)
 
 ## 🔹 Edge-computing
-- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.5) – `v0.6.5` (📅 2026-03-09)  
-  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.5)
+- [mNik033/kitchen-guardian-cv](https://github.com/mNik033/kitchen-guardian-cv/releases/tag/v1.0-flame-model) – `v1.0-flame-model` (📅 2026-02-19)  
+  🔗 [Release Notes](https://github.com/mNik033/kitchen-guardian-cv/releases/tag/v1.0-flame-model)
 
 ## 🔹 Webassembly
-- [almide/almide](https://github.com/almide/almide/releases/tag/v0.4.1) – `v0.4.1` (📅 2026-03-10)  
-  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.4.1)
-- [MercuryWorkshop/celeste-wasm](https://github.com/MercuryWorkshop/celeste-wasm/releases/tag/latest) – `latest` (📅 2026-02-17)  
-  🔗 [Release Notes](https://github.com/MercuryWorkshop/celeste-wasm/releases/tag/latest)
-- [aim2bpg/rubree](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0) – `v1.3.0` (📅 2025-12-04)  
-  🔗 [Release Notes](https://github.com/aim2bpg/rubree/releases/tag/v1.3.0)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.372) – `v4.0.372` (📅 2026-03-10)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.372)
+- [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm/releases/tag/v0.8.3) – `v0.8.3` (📅 2025-07-28)  
+  🔗 [Release Notes](https://github.com/container2wasm/container2wasm/releases/tag/v0.8.3)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
