@@ -4,20 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
-  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
-- [amachino/qubex](https://github.com/amachino/qubex/releases/tag/v1.4.7) – `v1.4.7` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/amachino/qubex/releases/tag/v1.4.7)
+- No recent releases found.
 
 ## 🔹 Edge-computing
-- [mNik033/kitchen-guardian-cv](https://github.com/mNik033/kitchen-guardian-cv/releases/tag/v1.0-flame-model) – `v1.0-flame-model` (📅 2026-02-19)  
-  🔗 [Release Notes](https://github.com/mNik033/kitchen-guardian-cv/releases/tag/v1.0-flame-model)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.372) – `v4.0.372` (📅 2026-03-10)  
-  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.372)
-- [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm/releases/tag/v0.8.3) – `v0.8.3` (📅 2025-07-28)  
-  🔗 [Release Notes](https://github.com/container2wasm/container2wasm/releases/tag/v0.8.3)
+- [almide/almide](https://github.com/almide/almide/releases/tag/v0.4.2) – `v0.4.2` (📅 2026-03-10)  
+  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.4.2)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.682) – `v4.0.682` (📅 2026-03-10)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.682)
+- [esengine/microes](https://github.com/esengine/microes/releases/tag/v0.9.1) – `v0.9.1` (📅 2026-03-10)  
+  🔗 [Release Notes](https://github.com/esengine/microes/releases/tag/v0.9.1)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
