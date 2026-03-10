@@ -7,14 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.19.25-202603020814.p0) – `4.19.25-202603020814.p0` (📅 2026-03-05)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.19.25-202603020814.p0)
 
 ## 🔹 Webassembly
-- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
+- [almide/almide](https://github.com/almide/almide/releases/tag/v0.4.2) – `v0.4.2` (📅 2026-03-10)  
+  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.4.2)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
   🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6)
-- [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
-  🔗 [Release Notes](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0)
