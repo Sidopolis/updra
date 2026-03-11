@@ -5,22 +5,20 @@
   🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/core](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.1) – `v3.4.1` (📅 2026-02-01)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/core/releases/tag/v3.4.1)
+- [oqtopus-team/qdash](https://github.com/oqtopus-team/qdash/releases/tag/v1.7.1) – `v1.7.1` (📅 2026-02-26)  
+  🔗 [Release Notes](https://github.com/oqtopus-team/qdash/releases/tag/v1.7.1)
+- [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0) – `0.13.0` (📅 2025-11-25)  
+  🔗 [Release Notes](https://github.com/NVIDIA/cuda-quantum/releases/tag/0.13.0)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.5) – `v0.6.5` (📅 2026-03-09)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.5)
 - [adhamhaithameid/Classroom-Quick-Downloader](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.5.0) – `v1.5.0` (📅 2026-03-10)  
   🔗 [Release Notes](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.5.0)
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.2) – `1.7.2` (📅 2026-01-08)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh/releases/tag/1.7.2)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.214) – `v0.8.214` (📅 2026-03-11)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.214)
-- [OGRECave/ogre](https://github.com/OGRECave/ogre/releases/tag/v14.5.2) – `v14.5.2` (📅 2026-01-31)  
-  🔗 [Release Notes](https://github.com/OGRECave/ogre/releases/tag/v14.5.2)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
 
 ## 🔹 Green-software
 - No recent releases found.
