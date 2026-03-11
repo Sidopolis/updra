@@ -1,20 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-03-11
 
 ## 🔹 Ai-ethics
-- [alpha-one-index/ai-trism-index](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [alumet-dev/alumet](https://github.com/alumet-dev/alumet/releases/tag/v0.9.3) – `v0.9.3` (📅 2026-02-11)  
+  🔗 [Release Notes](https://github.com/alumet-dev/alumet/releases/tag/v0.9.3)
+- [oakestra/oakestra](https://github.com/oakestra/oakestra/releases/tag/v0.4.401) – `v0.4.401` (📅 2025-01-29)  
+  🔗 [Release Notes](https://github.com/oakestra/oakestra/releases/tag/v0.4.401)
 
 ## 🔹 Webassembly
-- [Rouast-Labs/vitallens-core](https://github.com/Rouast-Labs/vitallens-core/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/Rouast-Labs/vitallens-core/releases/tag/v0.1.0)
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [almide/almide](https://github.com/almide/almide/releases/tag/v0.4.7) – `v0.4.7` (📅 2026-03-10)  
+  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.4.7)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.5.1) – `v0.5.1` (📅 2026-03-10)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.5.1)
 
 ## 🔹 Green-software
 - [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
