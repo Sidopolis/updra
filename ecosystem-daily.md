@@ -10,8 +10,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [aciderix/HyperPack](https://github.com/aciderix/HyperPack/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-03-10)  
-  🔗 [Release Notes](https://github.com/aciderix/HyperPack/releases/tag/v0.1.0)
+- [BartWaardenburg/srcmap](https://github.com/BartWaardenburg/srcmap/releases/tag/v0.1.1) – `v0.1.1` (📅 2026-03-11)  
+  🔗 [Release Notes](https://github.com/BartWaardenburg/srcmap/releases/tag/v0.1.1)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.9.0) – `v1.9.0` (📅 2026-02-27)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.9.0)
 
 ## 🔹 Green-software
 - No recent releases found.
