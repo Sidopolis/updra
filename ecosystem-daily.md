@@ -4,24 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [4thWaveAI/feeds](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-09-20)  
-  🔗 [Release Notes](https://github.com/4thWaveAI/feeds/releases/tag/v1.0.0)
-- [QComputingSoftware/pypi-qiskit-connector](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6) – `2.4.6` (📅 2026-01-07)  
-  🔗 [Release Notes](https://github.com/QComputingSoftware/pypi-qiskit-connector/releases/tag/2.4.6)
+- [Quantinuum/hugr](https://github.com/Quantinuum/hugr/releases/tag/hugr-v0.25.7) – `hugr-v0.25.7` (📅 2026-03-06)  
+  🔗 [Release Notes](https://github.com/Quantinuum/hugr/releases/tag/hugr-v0.25.7)
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
-- [absmach/magistrala](https://github.com/absmach/magistrala/releases/tag/v0.18.5) – `v0.18.5` (📅 2026-01-23)  
-  🔗 [Release Notes](https://github.com/absmach/magistrala/releases/tag/v0.18.5)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [Sowiedu/Edict](https://github.com/Sowiedu/Edict/releases/tag/v1.9.1) – `v1.9.1` (📅 2026-03-11)  
-  🔗 [Release Notes](https://github.com/Sowiedu/Edict/releases/tag/v1.9.1)
-- [onecoolx/picasso](https://github.com/onecoolx/picasso/releases/tag/v2.8.0) – `v2.8.0` (📅 2024-07-16)  
-  🔗 [Release Notes](https://github.com/onecoolx/picasso/releases/tag/v2.8.0)
+- [soenneker/soenneker.serilog.sinks.browser.blazor](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.284) – `v4.0.284` (📅 2026-03-11)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.serilog.sinks.browser.blazor/releases/tag/v4.0.284)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
   🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
+- [soenneker/soenneker.telnyx.blazor.webrtc](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.388) – `v4.0.388` (📅 2026-03-11)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.telnyx.blazor.webrtc/releases/tag/v4.0.388)
 
 ## 🔹 Green-software
 - No recent releases found.
