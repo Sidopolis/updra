@@ -7,15 +7,18 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [tidbcloud/serverless-js](https://github.com/tidbcloud/serverless-js/releases/tag/v0.2.0) – `v0.2.0` (📅 2024-07-09)  
+  🔗 [Release Notes](https://github.com/tidbcloud/serverless-js/releases/tag/v0.2.0)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server/releases/tag/v2.12.5) – `v2.12.5` (📅 2026-03-09)  
+  🔗 [Release Notes](https://github.com/nats-io/nats-server/releases/tag/v2.12.5)
 
 ## 🔹 Webassembly
-- [esengine/estella](https://github.com/esengine/estella/releases/tag/v0.9.2) – `v0.9.2` (📅 2026-03-10)  
-  🔗 [Release Notes](https://github.com/esengine/estella/releases/tag/v0.9.2)
-- [BartWaardenburg/srcmap](https://github.com/BartWaardenburg/srcmap/releases/tag/v0.1.1) – `v0.1.1` (📅 2026-03-11)  
-  🔗 [Release Notes](https://github.com/BartWaardenburg/srcmap/releases/tag/v0.1.1)
-- [aallan/vera](https://github.com/aallan/vera/releases/tag/v0.0.82) – `v0.0.82` (📅 2026-03-11)  
-  🔗 [Release Notes](https://github.com/aallan/vera/releases/tag/v0.0.82)
+- [Sowiedu/Edict](https://github.com/Sowiedu/Edict/releases/tag/v1.9.0) – `v1.9.0` (📅 2026-03-11)  
+  🔗 [Release Notes](https://github.com/Sowiedu/Edict/releases/tag/v1.9.0)
+- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
+  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
 
 ## 🔹 Green-software
 - No recent releases found.
