@@ -1,19 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-03-12
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [richard-porter/frozen-kernel](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0) – `v1.0` (📅 2026-02-10)  
+  🔗 [Release Notes](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0)
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [splch/qgo](https://github.com/splch/qgo/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-11)  
+  🔗 [Release Notes](https://github.com/splch/qgo/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.6) – `v0.6.6` (📅 2026-03-12)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.6)
 
 ## 🔹 Webassembly
-- [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1) – `devtools-extension-v0.0.1` (📅 2025-12-17)  
-  🔗 [Release Notes](https://github.com/WordPress/wordpress-playground/releases/tag/devtools-extension-v0.0.1)
-- [tinywasm/fmt](https://github.com/tinywasm/fmt/releases/tag/v0.5.0) – `v0.5.0` (📅 2025-09-06)  
-  🔗 [Release Notes](https://github.com/tinywasm/fmt/releases/tag/v0.5.0)
+- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.5.1) – `v0.5.1` (📅 2026-03-10)  
+  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.5.1)
+- [Pradeeparul2/unisights](https://github.com/Pradeeparul2/unisights/releases/tag/0.0.1-beta.1) – `0.0.1-beta.1` (📅 2026-03-12)  
+  🔗 [Release Notes](https://github.com/Pradeeparul2/unisights/releases/tag/0.0.1-beta.1)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.66.0) – `0.66.0` (📅 2026-03-12)  
