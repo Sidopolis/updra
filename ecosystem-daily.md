@@ -4,16 +4,17 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [qBraid/pyqasm](https://github.com/qBraid/pyqasm/releases/tag/v1.0.1) – `v1.0.1` (📅 2026-02-27)  
+  🔗 [Release Notes](https://github.com/qBraid/pyqasm/releases/tag/v1.0.1)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.5.1) – `v0.5.1` (📅 2026-03-10)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.5.1)
-- [ABCrimson/modern-cmdk](https://github.com/ABCrimson/modern-cmdk/releases/tag/modern-cmdk%401.1.1) – `modern-cmdk@1.1.1` (📅 2026-03-12)  
-  🔗 [Release Notes](https://github.com/ABCrimson/modern-cmdk/releases/tag/modern-cmdk%401.1.1)
+- [telerik/blazor-docs](https://github.com/telerik/blazor-docs/releases/tag/13.0.0) – `13.0.0` (📅 2026-02-12)  
+  🔗 [Release Notes](https://github.com/telerik/blazor-docs/releases/tag/13.0.0)
+- [kurisu994/belobog-stellar-grid](https://github.com/kurisu994/belobog-stellar-grid/releases/tag/v1.1.0) – `v1.1.0` (📅 2026-03-03)  
+  🔗 [Release Notes](https://github.com/kurisu994/belobog-stellar-grid/releases/tag/v1.1.0)
 
 ## 🔹 Green-software
 - No recent releases found.
