@@ -1,25 +1,28 @@
 # 🌐 Ecosystem Daily Log – 2026-03-13
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [jayweiler/ai-writing-guardrails](https://github.com/jayweiler/ai-writing-guardrails/releases/tag/v1.1.1) – `v1.1.1` (📅 2026-03-13)  
+  🔗 [Release Notes](https://github.com/jayweiler/ai-writing-guardrails/releases/tag/v1.1.1)
 
 ## 🔹 Quantum-computing
-- [kpobrien/JosephsonCircuits.jl](https://github.com/kpobrien/JosephsonCircuits.jl/releases/tag/v0.4.20) – `v0.4.20` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/kpobrien/JosephsonCircuits.jl/releases/tag/v0.4.20)
-- [Quantinuum/hugr](https://github.com/Quantinuum/hugr/releases/tag/hugr-v0.25.7) – `hugr-v0.25.7` (📅 2026-03-06)  
-  🔗 [Release Notes](https://github.com/Quantinuum/hugr/releases/tag/hugr-v0.25.7)
+- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
 
 ## 🔹 Edge-computing
-- [adhamhaithameid/Classroom-Quick-Downloader](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.5.0) – `v1.5.0` (📅 2026-03-10)  
-  🔗 [Release Notes](https://github.com/adhamhaithameid/Classroom-Quick-Downloader/releases/tag/v1.5.0)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [TrentPierce/Shard](https://github.com/TrentPierce/Shard/releases/tag/v0.6.6) – `v0.6.6` (📅 2026-03-12)  
+  🔗 [Release Notes](https://github.com/TrentPierce/Shard/releases/tag/v0.6.6)
+- [aziontech/bundler](https://github.com/aziontech/bundler/releases/tag/v7.2.0) – `v7.2.0` (📅 2026-03-13)  
+  🔗 [Release Notes](https://github.com/aziontech/bundler/releases/tag/v7.2.0)
 
 ## 🔹 Webassembly
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
-  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime/releases/tag/v42.0.1) – `v42.0.1` (📅 2026-02-25)  
-  🔗 [Release Notes](https://github.com/bytecodealliance/wasmtime/releases/tag/v42.0.1)
+- [BartWaardenburg/srcmap](https://github.com/BartWaardenburg/srcmap/releases/tag/v0.2.2) – `v0.2.2` (📅 2026-03-13)  
+  🔗 [Release Notes](https://github.com/BartWaardenburg/srcmap/releases/tag/v0.2.2)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
