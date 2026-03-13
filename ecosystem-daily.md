@@ -4,19 +4,16 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [pasqal-io/Pulser](https://github.com/pasqal-io/Pulser/releases/tag/v1.7.2) – `v1.7.2` (📅 2026-03-06)  
-  🔗 [Release Notes](https://github.com/pasqal-io/Pulser/releases/tag/v1.7.2)
-- [JooNiv/QCut](https://github.com/JooNiv/QCut/releases/tag/v1.1.0) – `v1.1.0` (📅 2026-02-11)  
-  🔗 [Release Notes](https://github.com/JooNiv/QCut/releases/tag/v1.1.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [ABCrimson/modern-cmdk](https://github.com/ABCrimson/modern-cmdk/releases/tag/create-modern-cmdk%401.1.5) – `create-modern-cmdk@1.1.5` (📅 2026-03-13)  
-  🔗 [Release Notes](https://github.com/ABCrimson/modern-cmdk/releases/tag/create-modern-cmdk%401.1.5)
-- [lightninglabs/lnc-web](https://github.com/lightninglabs/lnc-web/releases/tag/v0.3.5-alpha) – `v0.3.5-alpha` (📅 2026-01-05)  
-  🔗 [Release Notes](https://github.com/lightninglabs/lnc-web/releases/tag/v0.3.5-alpha)
+- [near/nearcore](https://github.com/near/nearcore/releases/tag/2.10.7) – `2.10.7` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/near/nearcore/releases/tag/2.10.7)
+- [Automattic/harper](https://github.com/Automattic/harper/releases/tag/v1.10.0) – `v1.10.0` (📅 2026-03-11)  
+  🔗 [Release Notes](https://github.com/Automattic/harper/releases/tag/v1.10.0)
 
 ## 🔹 Green-software
 - [ertgl/babel-plugin-report-runtime-free-files](https://github.com/ertgl/babel-plugin-report-runtime-free-files/releases/tag/v1.0.0) – `v1.0.0` (📅 2025-05-08)  
