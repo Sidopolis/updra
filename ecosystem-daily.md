@@ -3,20 +3,23 @@
 ## 🔹 Ai-ethics
 - [alpha-one-index/ai-trism-index](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
   🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
+- [hhidatasettechs-oss/Hollow_House_Standards_Library](https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library/releases/tag/v1.3.0) – `v1.3.0` (📅 2026-03-08)  
+  🔗 [Release Notes](https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library/releases/tag/v1.3.0)
 
 ## 🔹 Quantum-computing
-- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
-  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
+- [QoroQuantum/maestro](https://github.com/QoroQuantum/maestro/releases/tag/v0.2.1) – `v0.2.1` (📅 2026-03-13)  
+  🔗 [Release Notes](https://github.com/QoroQuantum/maestro/releases/tag/v0.2.1)
 
 ## 🔹 Edge-computing
-- [BingoWon/Keyaos](https://github.com/BingoWon/Keyaos/releases/tag/v0.52.5) – `v0.52.5` (📅 2026-03-13)  
-  🔗 [Release Notes](https://github.com/BingoWon/Keyaos/releases/tag/v0.52.5)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [Rouast-Labs/vitallens-core](https://github.com/Rouast-Labs/vitallens-core/releases/tag/v0.2.1) – `v0.2.1` (📅 2026-03-11)  
-  🔗 [Release Notes](https://github.com/Rouast-Labs/vitallens-core/releases/tag/v0.2.1)
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
+- [zag/pegmill](https://github.com/zag/pegmill/releases/tag/v0.1.1) – `v0.1.1` (📅 2026-03-12)  
+  🔗 [Release Notes](https://github.com/zag/pegmill/releases/tag/v0.1.1)
+- [Sowiedu/Edict](https://github.com/Sowiedu/Edict/releases/tag/v1.11.0) – `v1.11.0` (📅 2026-03-12)  
+  🔗 [Release Notes](https://github.com/Sowiedu/Edict/releases/tag/v1.11.0)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10) – `v2.3.10` (📅 2026-02-05)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.10)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.66.5) – `0.66.5` (📅 2026-03-12)  
