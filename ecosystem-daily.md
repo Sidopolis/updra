@@ -1,12 +1,7 @@
 # 🌐 Ecosystem Daily Log – 2026-03-14
 
 ## 🔹 Ai-ethics
-- [alpha-one-index/ai-trism-index](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
-- [hernancapucci/agent-manifest](https://github.com/hernancapucci/agent-manifest/releases/tag/v1.1.0) – `v1.1.0` (📅 2026-03-12)  
-  🔗 [Release Notes](https://github.com/hernancapucci/agent-manifest/releases/tag/v1.1.0)
-- [Hollow-house-institute/Hollow_House_Standards_Library](https://github.com/Hollow-house-institute/Hollow_House_Standards_Library/releases/tag/v1.0.0-series-overview) – `v1.0.0-series-overview` (📅 2026-03-13)  
-  🔗 [Release Notes](https://github.com/Hollow-house-institute/Hollow_House_Standards_Library/releases/tag/v1.0.0-series-overview)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
@@ -16,8 +11,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [jigonzalez930209/sci-form](https://github.com/jigonzalez930209/sci-form/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-03-14)  
-  🔗 [Release Notes](https://github.com/jigonzalez930209/sci-form/releases/tag/v0.2.0)
+- [Pradeeparul2/unisights](https://github.com/Pradeeparul2/unisights/releases/tag/0.0.1-beta.1) – `0.0.1-beta.1` (📅 2026-03-12)  
+  🔗 [Release Notes](https://github.com/Pradeeparul2/unisights/releases/tag/0.0.1-beta.1)
+- [almide/almide](https://github.com/almide/almide/releases/tag/v0.5.13) – `v0.5.13` (📅 2026-03-14)  
+  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.5.13)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
