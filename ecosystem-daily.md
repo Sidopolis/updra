@@ -7,12 +7,13 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [almide/almide](https://github.com/almide/almide/releases/tag/v0.5.13) – `v0.5.13` (📅 2026-03-14)  
-  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.5.13)
+- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
+- [wasm-fmt/markdown](https://github.com/wasm-fmt/markdown/releases/tag/v0.1.5) – `v0.1.5` (📅 2026-01-27)  
+  🔗 [Release Notes](https://github.com/wasm-fmt/markdown/releases/tag/v0.1.5)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
