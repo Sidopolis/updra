@@ -1,21 +1,20 @@
 # 🌐 Ecosystem Daily Log – 2026-03-14
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [munich-quantum-toolkit/bench](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-10-18)  
+  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.1.0)
+
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [almide/almide](https://github.com/almide/almide/releases/tag/v0.5.13) – `v0.5.13` (📅 2026-03-14)  
-  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.5.13)
 - [surban/upc](https://github.com/surban/upc/releases/tag/v0.8.1) – `v0.8.1` (📅 2025-07-28)  
   🔗 [Release Notes](https://github.com/surban/upc/releases/tag/v0.8.1)
+- [gwelby/PhiFlow](https://github.com/gwelby/PhiFlow/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-27)  
+  🔗 [Release Notes](https://github.com/gwelby/PhiFlow/releases/tag/v0.2.0)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
