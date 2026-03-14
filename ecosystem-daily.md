@@ -4,17 +4,18 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- [munich-quantum-toolkit/bench](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.1.0) – `v2.1.0` (📅 2025-10-18)  
-  🔗 [Release Notes](https://github.com/munich-quantum-toolkit/bench/releases/tag/v2.1.0)
+- No recent releases found.
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [surban/upc](https://github.com/surban/upc/releases/tag/v0.8.1) – `v0.8.1` (📅 2025-07-28)  
-  🔗 [Release Notes](https://github.com/surban/upc/releases/tag/v0.8.1)
-- [gwelby/PhiFlow](https://github.com/gwelby/PhiFlow/releases/tag/v0.2.0) – `v0.2.0` (📅 2026-02-27)  
-  🔗 [Release Notes](https://github.com/gwelby/PhiFlow/releases/tag/v0.2.0)
+- [almide/almide](https://github.com/almide/almide/releases/tag/v0.5.13) – `v0.5.13` (📅 2026-03-14)  
+  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.5.13)
+- [esengine/estella](https://github.com/esengine/estella/releases/tag/v0.11.0) – `v0.11.0` (📅 2026-03-13)  
+  🔗 [Release Notes](https://github.com/esengine/estella/releases/tag/v0.11.0)
+- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.4.0) – `v10.4.0` (📅 2026-03-02)  
+  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.4.0)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
