@@ -11,10 +11,12 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [almide/almide](https://github.com/almide/almide/releases/tag/v0.5.13) – `v0.5.13` (📅 2026-03-14)  
-  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.5.13)
-- [dotnetcore/BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.4.0) – `v10.4.0` (📅 2026-03-02)  
-  🔗 [Release Notes](https://github.com/dotnetcore/BootstrapBlazor/releases/tag/v10.4.0)
+- [soenneker/soenneker.blazor.stripe.elements](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.736) – `v4.0.736` (📅 2026-03-15)  
+  🔗 [Release Notes](https://github.com/soenneker/soenneker.blazor.stripe.elements/releases/tag/v4.0.736)
+- [Pradeeparul2/unisights](https://github.com/Pradeeparul2/unisights/releases/tag/0.0.1-beta.1) – `0.0.1-beta.1` (📅 2026-03-12)  
+  🔗 [Release Notes](https://github.com/Pradeeparul2/unisights/releases/tag/0.0.1-beta.1)
+- [phi-ag/argon2](https://github.com/phi-ag/argon2/releases/tag/v0.5.19) – `v0.5.19` (📅 2026-03-02)  
+  🔗 [Release Notes](https://github.com/phi-ag/argon2/releases/tag/v0.5.19)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
