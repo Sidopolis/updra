@@ -1,23 +1,19 @@
 # 🌐 Ecosystem Daily Log – 2026-03-15
 
 ## 🔹 Ai-ethics
-- [vertbera/beyond-the-mirror](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8) – `2.7.8` (📅 2025-05-12)  
-  🔗 [Release Notes](https://github.com/vertbera/beyond-the-mirror/releases/tag/2.7.8)
-- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
-  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [pulseengine/kiln](https://github.com/pulseengine/kiln/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-04-24)  
-  🔗 [Release Notes](https://github.com/pulseengine/kiln/releases/tag/v0.2.0)
-- [whitphx/stlite](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.94.0) – `@stlite/desktop@0.94.0` (📅 2026-02-27)  
-  🔗 [Release Notes](https://github.com/whitphx/stlite/releases/tag/%40stlite/desktop%400.94.0)
+- [almide/almide](https://github.com/almide/almide/releases/tag/v0.5.13) – `v0.5.13` (📅 2026-03-14)  
+  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.5.13)
+- [gregorycarnegie/iron_insights](https://github.com/gregorycarnegie/iron_insights/releases/tag/v0.3.0) – `v0.3.0` (📅 2026-03-08)  
+  🔗 [Release Notes](https://github.com/gregorycarnegie/iron_insights/releases/tag/v0.3.0)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
