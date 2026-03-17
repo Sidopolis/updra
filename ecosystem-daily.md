@@ -10,12 +10,10 @@
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [almide/almide](https://github.com/almide/almide/releases/tag/v0.6.3) – `v0.6.3` (📅 2026-03-17)  
-  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.6.3)
-- [ThatOpen/engine_web-ifc](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.77) – `0.77` (📅 2026-03-06)  
-  🔗 [Release Notes](https://github.com/ThatOpen/engine_web-ifc/releases/tag/0.77)
-- [slint-ui/slint](https://github.com/slint-ui/slint/releases/tag/v1.15.1) – `v1.15.1` (📅 2026-02-12)  
-  🔗 [Release Notes](https://github.com/slint-ui/slint/releases/tag/v1.15.1)
+- [mopeyjellyfish/hookr](https://github.com/mopeyjellyfish/hookr/releases/tag/v1.3.0) – `v1.3.0` (📅 2026-03-16)  
+  🔗 [Release Notes](https://github.com/mopeyjellyfish/hookr/releases/tag/v1.3.0)
+- [surban/upc](https://github.com/surban/upc/releases/tag/v0.10.4) – `v0.10.4` (📅 2026-03-16)  
+  🔗 [Release Notes](https://github.com/surban/upc/releases/tag/v0.10.4)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.67.0) – `0.67.0` (📅 2026-03-17)  
