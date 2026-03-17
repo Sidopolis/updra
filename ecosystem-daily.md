@@ -1,21 +1,24 @@
 # 🌐 Ecosystem Daily Log – 2026-03-17
 
 ## 🔹 Ai-ethics
-- [alpha-one-index/ai-trism-index](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
-  🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
+- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
+  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [unitaryfoundation/mitiq](https://github.com/unitaryfoundation/mitiq/releases/tag/v0.49.0) – `v0.49.0` (📅 2026-03-08)  
-  🔗 [Release Notes](https://github.com/unitaryfoundation/mitiq/releases/tag/v0.49.0)
-- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
-  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
+- [ONMARTECH/quanta-sdk](https://github.com/ONMARTECH/quanta-sdk/releases/tag/v0.8.1) – `v0.8.1` (📅 2026-03-15)  
+  🔗 [Release Notes](https://github.com/ONMARTECH/quanta-sdk/releases/tag/v0.8.1)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [SonicJs-Org/sonicjs](https://github.com/SonicJs-Org/sonicjs/releases/tag/v2.8.0) – `v2.8.0` (📅 2026-01-30)  
+  🔗 [Release Notes](https://github.com/SonicJs-Org/sonicjs/releases/tag/v2.8.0)
+- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.8.0) – `1.8.0` (📅 2026-03-16)  
+  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.8.0)
 
 ## 🔹 Webassembly
-- [surban/websocket-web](https://github.com/surban/websocket-web/releases/tag/v0.1.8) – `v0.1.8` (📅 2026-03-17)  
-  🔗 [Release Notes](https://github.com/surban/websocket-web/releases/tag/v0.1.8)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.214) – `v0.8.214` (📅 2026-03-11)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.214)
+- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.5.64) – `6.5.64` (📅 2026-02-11)  
+  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.5.64)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
