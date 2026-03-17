@@ -1,22 +1,21 @@
 # 🌐 Ecosystem Daily Log – 2026-03-17
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [alpha-one-index/ai-trism-index](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
+- [unitaryfoundation/mitiq](https://github.com/unitaryfoundation/mitiq/releases/tag/v0.49.0) – `v0.49.0` (📅 2026-03-08)  
+  🔗 [Release Notes](https://github.com/unitaryfoundation/mitiq/releases/tag/v0.49.0)
 - [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
   🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
-- [splch/goqu](https://github.com/splch/goqu/releases/tag/v1.2.0) – `v1.2.0` (📅 2026-03-17)  
-  🔗 [Release Notes](https://github.com/splch/goqu/releases/tag/v1.2.0)
 
 ## 🔹 Edge-computing
 - No recent releases found.
 
 ## 🔹 Webassembly
-- [spinframework/spin-operator](https://github.com/spinframework/spin-operator/releases/tag/v0.6.1) – `v0.6.1` (📅 2025-07-09)  
-  🔗 [Release Notes](https://github.com/spinframework/spin-operator/releases/tag/v0.6.1)
-- [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui/releases/tag/0.1.7) – `0.1.7` (📅 2026-03-11)  
-  🔗 [Release Notes](https://github.com/elementary-swift/elementary-ui/releases/tag/0.1.7)
+- [surban/websocket-web](https://github.com/surban/websocket-web/releases/tag/v0.1.8) – `v0.1.8` (📅 2026-03-17)  
+  🔗 [Release Notes](https://github.com/surban/websocket-web/releases/tag/v0.1.8)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
