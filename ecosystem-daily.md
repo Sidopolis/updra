@@ -1,23 +1,23 @@
 # 🌐 Ecosystem Daily Log – 2026-03-17
 
 ## 🔹 Ai-ethics
-- No recent releases found.
+- [Hollow-house-institute/Hollow_House_Standards_Library](https://github.com/Hollow-house-institute/Hollow_House_Standards_Library/releases/tag/v1.0.0-series-overview) – `v1.0.0-series-overview` (📅 2026-03-13)  
+  🔗 [Release Notes](https://github.com/Hollow-house-institute/Hollow_House_Standards_Library/releases/tag/v1.0.0-series-overview)
 
 ## 🔹 Quantum-computing
-- [QoroQuantum/maestro](https://github.com/QoroQuantum/maestro/releases/tag/v0.2.1) – `v0.2.1` (📅 2026-03-13)  
-  🔗 [Release Notes](https://github.com/QoroQuantum/maestro/releases/tag/v0.2.1)
+- [Kesendo/R-equals-C-Psi-squared](https://github.com/Kesendo/R-equals-C-Psi-squared/releases/tag/v2.0-proof) – `v2.0-proof` (📅 2026-03-14)  
+  🔗 [Release Notes](https://github.com/Kesendo/R-equals-C-Psi-squared/releases/tag/v2.0-proof)
+- [taoq-ai/ziran](https://github.com/taoq-ai/ziran/releases/tag/v0.11.0) – `v0.11.0` (📅 2026-03-16)  
+  🔗 [Release Notes](https://github.com/taoq-ai/ziran/releases/tag/v0.11.0)
 
 ## 🔹 Edge-computing
-- [CWALabs/SkyCMS](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0) – `AWS-v1.1.0` (📅 2025-12-29)  
-  🔗 [Release Notes](https://github.com/CWALabs/SkyCMS/releases/tag/AWS-v1.1.0)
-- [ElmadaniS/nrp](https://github.com/ElmadaniS/nrp/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-03-16)  
-  🔗 [Release Notes](https://github.com/ElmadaniS/nrp/releases/tag/v0.1.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
 - [almide/almide](https://github.com/almide/almide/releases/tag/v0.5.13) – `v0.5.13` (📅 2026-03-14)  
   🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.5.13)
-- [shrec/UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.21.1) – `v3.21.1` (📅 2026-03-09)  
-  🔗 [Release Notes](https://github.com/shrec/UltrafastSecp256k1/releases/tag/v3.21.1)
+- [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.4) – `WAMR-2.4.4` (📅 2025-11-24)  
+  🔗 [Release Notes](https://github.com/bytecodealliance/wasm-micro-runtime/releases/tag/WAMR-2.4.4)
 
 ## 🔹 Green-software
 - [Green-Software-Foundation/patterns](https://github.com/Green-Software-Foundation/patterns/releases/tag/v1.2.1) – `v1.2.1` (📅 2024-07-30)  
