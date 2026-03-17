@@ -1,24 +1,33 @@
 # 🌐 Ecosystem Daily Log – 2026-03-17
 
 ## 🔹 Ai-ethics
+- [alpha-one-index/ai-trism-index](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
+- [PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4) – `2.7.4` (📅 2025-04-26)  
+  🔗 [Release Notes](https://github.com/PatoGGs/Danbing-Natural-Language-Driven-AI-Protocol-System-Public-Release/releases/tag/2.7.4)
 - [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
   🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
 
 ## 🔹 Quantum-computing
-- [microsoft/qdk](https://github.com/microsoft/qdk/releases/tag/v1.26.0) – `v1.26.0` (📅 2026-02-28)  
-  🔗 [Release Notes](https://github.com/microsoft/qdk/releases/tag/v1.26.0)
+- [splch/goqu](https://github.com/splch/goqu/releases/tag/v1.1.0) – `v1.1.0` (📅 2026-03-13)  
+  🔗 [Release Notes](https://github.com/splch/goqu/releases/tag/v1.1.0)
+- [jodz09/Meadows_CrashSuite](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2) – `v1.2.2` (📅 2025-04-23)  
+  🔗 [Release Notes](https://github.com/jodz09/Meadows_CrashSuite/releases/tag/v1.2.2)
+- [Charanzn/Meadows_Quantum_Minefield_Docs](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8) – `v1.2.8` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/Charanzn/Meadows_Quantum_Minefield_Docs/releases/tag/v1.2.8)
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
 
 ## 🔹 Webassembly
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.5.64) – `6.5.64` (📅 2026-02-11)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.5.64)
-- [raysan5/raylib](https://github.com/raysan5/raylib/releases/tag/5.5) – `5.5` (📅 2024-11-18)  
-  🔗 [Release Notes](https://github.com/raysan5/raylib/releases/tag/5.5)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso/releases/tag/v0.5.1) – `v0.5.1` (📅 2026-03-10)  
-  🔗 [Release Notes](https://github.com/tursodatabase/turso/releases/tag/v0.5.1)
+- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
+  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
+- [surban/upc](https://github.com/surban/upc/releases/tag/v0.10.5) – `v0.10.5` (📅 2026-03-17)  
+  🔗 [Release Notes](https://github.com/surban/upc/releases/tag/v0.10.5)
+- [pulseengine/meld](https://github.com/pulseengine/meld/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-03-02)  
+  🔗 [Release Notes](https://github.com/pulseengine/meld/releases/tag/v0.1.0)
 
 ## 🔹 Green-software
-- [green-coding-solutions/green-metrics-tool](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6) – `v2.6` (📅 2026-02-14)  
-  🔗 [Release Notes](https://github.com/green-coding-solutions/green-metrics-tool/releases/tag/v2.6)
+- [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/mlco2/ecologits/releases/tag/0.9.3)
