@@ -7,13 +7,14 @@
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [openshift/microshift](https://github.com/openshift/microshift/releases/tag/4.19.25-202603020814.p0) – `4.19.25-202603020814.p0` (📅 2026-03-05)  
+  🔗 [Release Notes](https://github.com/openshift/microshift/releases/tag/4.19.25-202603020814.p0)
+- [reductstore/reductstore](https://github.com/reductstore/reductstore/releases/tag/v1.18.6) – `v1.18.6` (📅 2026-03-09)  
+  🔗 [Release Notes](https://github.com/reductstore/reductstore/releases/tag/v1.18.6)
 
 ## 🔹 Webassembly
-- [mopeyjellyfish/hookr](https://github.com/mopeyjellyfish/hookr/releases/tag/v1.3.0) – `v1.3.0` (📅 2026-03-16)  
-  🔗 [Release Notes](https://github.com/mopeyjellyfish/hookr/releases/tag/v1.3.0)
-- [surban/upc](https://github.com/surban/upc/releases/tag/v0.10.4) – `v0.10.4` (📅 2026-03-16)  
-  🔗 [Release Notes](https://github.com/surban/upc/releases/tag/v0.10.4)
+- [aallan/vera](https://github.com/aallan/vera/releases/tag/v0.0.90) – `v0.0.90` (📅 2026-03-13)  
+  🔗 [Release Notes](https://github.com/aallan/vera/releases/tag/v0.0.90)
 
 ## 🔹 Green-software
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas/releases/tag/0.67.0) – `0.67.0` (📅 2026-03-17)  
