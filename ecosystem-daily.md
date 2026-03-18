@@ -1,24 +1,26 @@
-# 🌐 Ecosystem Daily Log – 2026-03-17
+# 🌐 Ecosystem Daily Log – 2026-03-18
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- [alpha-one-index/ai-trism-index](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-03-04)  
+  🔗 [Release Notes](https://github.com/alpha-one-index/ai-trism-index/releases/tag/v1.0.0)
 
 ## 🔹 Quantum-computing
-- [ONMARTECH/quanta-sdk](https://github.com/ONMARTECH/quanta-sdk/releases/tag/v0.8.1) – `v0.8.1` (📅 2026-03-15)  
-  🔗 [Release Notes](https://github.com/ONMARTECH/quanta-sdk/releases/tag/v0.8.1)
+- [ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5) – `v1.1.5` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/ujjawalverma0012/Meadows_Quantum_Minesweeper_Docs/releases/tag/v1.1.5)
+- [VaniaSilva18/Meadows_Quantum_Minesweeper](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7) – `v3.4.7` (📅 2025-04-05)  
+  🔗 [Release Notes](https://github.com/VaniaSilva18/Meadows_Quantum_Minesweeper/releases/tag/v3.4.7)
 
 ## 🔹 Edge-computing
-- [SonicJs-Org/sonicjs](https://github.com/SonicJs-Org/sonicjs/releases/tag/v2.8.0) – `v2.8.0` (📅 2026-01-30)  
-  🔗 [Release Notes](https://github.com/SonicJs-Org/sonicjs/releases/tag/v2.8.0)
-- [eclipse-zenoh/zenoh-c](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.8.0) – `1.8.0` (📅 2026-03-16)  
-  🔗 [Release Notes](https://github.com/eclipse-zenoh/zenoh-c/releases/tag/1.8.0)
+- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
+  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0) – `v1.5.0` (📅 2023-06-15)  
+  🔗 [Release Notes](https://github.com/aregtech/areg-sdk/releases/tag/v1.5.0)
 
 ## 🔹 Webassembly
-- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.214) – `v0.8.214` (📅 2026-03-11)  
-  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.214)
-- [unoplatform/uno](https://github.com/unoplatform/uno/releases/tag/6.5.64) – `6.5.64` (📅 2026-02-11)  
-  🔗 [Release Notes](https://github.com/unoplatform/uno/releases/tag/6.5.64)
+- [almide/almide](https://github.com/almide/almide/releases/tag/v0.6.3) – `v0.6.3` (📅 2026-03-17)  
+  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.6.3)
+- [surban/websocket-web](https://github.com/surban/websocket-web/releases/tag/v0.1.8) – `v0.1.8` (📅 2026-03-17)  
+  🔗 [Release Notes](https://github.com/surban/websocket-web/releases/tag/v0.1.8)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
