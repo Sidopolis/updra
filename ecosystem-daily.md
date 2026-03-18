@@ -1,17 +1,18 @@
 # 🌐 Ecosystem Daily Log – 2026-03-18
 
 ## 🔹 Ai-ethics
-- [FractonicMind/TernaryMoralLogic](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai) – `whitepaper-advanced-ai` (📅 2025-10-01)  
-  🔗 [Release Notes](https://github.com/FractonicMind/TernaryMoralLogic/releases/tag/whitepaper-advanced-ai)
+- No recent releases found.
 
 ## 🔹 Quantum-computing
 - No recent releases found.
 
 ## 🔹 Edge-computing
-- No recent releases found.
+- [aziontech/azion-console-kit](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0) – `1.54.0` (📅 2026-02-25)  
+  🔗 [Release Notes](https://github.com/aziontech/azion-console-kit/releases/tag/1.54.0)
 
 ## 🔹 Webassembly
-- No recent releases found.
+- [aperturerobotics/bifrost](https://github.com/aperturerobotics/bifrost/releases/tag/v0.47.3) – `v0.47.3` (📅 2026-03-18)  
+  🔗 [Release Notes](https://github.com/aperturerobotics/bifrost/releases/tag/v0.47.3)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.10.0) – `0.10.0` (📅 2026-03-18)  
