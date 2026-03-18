@@ -1,23 +1,22 @@
 # 🌐 Ecosystem Daily Log – 2026-03-18
 
 ## 🔹 Ai-ethics
-- [richard-porter/frozen-kernel](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0) – `v1.0` (📅 2026-02-10)  
-  🔗 [Release Notes](https://github.com/richard-porter/frozen-kernel/releases/tag/v1.0)
-
-## 🔹 Quantum-computing
 - No recent releases found.
 
+## 🔹 Quantum-computing
+- [taoq-ai/qkd-playground](https://github.com/taoq-ai/qkd-playground/releases/tag/v0.5.0) – `v0.5.0` (📅 2026-03-18)  
+  🔗 [Release Notes](https://github.com/taoq-ai/qkd-playground/releases/tag/v0.5.0)
+
 ## 🔹 Edge-computing
-- [rwilliamspbg-ops/Sovereign_Map_Federated_Learning](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/v1.2.0) – `v1.2.0` (📅 2026-03-16)  
-  🔗 [Release Notes](https://github.com/rwilliamspbg-ops/Sovereign_Map_Federated_Learning/releases/tag/v1.2.0)
-- [rish-1997/wsl-assistant](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2) – `v1.2` (📅 2025-03-12)  
-  🔗 [Release Notes](https://github.com/rish-1997/wsl-assistant/releases/tag/v1.2)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [boa-dev/boa](https://github.com/boa-dev/boa/releases/tag/v0.21) – `v0.21` (📅 2025-10-21)  
-  🔗 [Release Notes](https://github.com/boa-dev/boa/releases/tag/v0.21)
-- [yieldspace/imago](https://github.com/yieldspace/imago/releases/tag/imagod-v0.6.0) – `imagod-v0.6.0` (📅 2026-03-16)  
-  🔗 [Release Notes](https://github.com/yieldspace/imago/releases/tag/imagod-v0.6.0)
+- [langhuihui/jessibuca](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.24) – `v3.3.24` (📅 2026-02-03)  
+  🔗 [Release Notes](https://github.com/langhuihui/jessibuca/releases/tag/v3.3.24)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin/releases/tag/v2.3.20) – `v2.3.20` (📅 2026-03-16)  
+  🔗 [Release Notes](https://github.com/JetBrains/kotlin/releases/tag/v2.3.20)
+- [almide/almide](https://github.com/almide/almide/releases/tag/v0.8.0) – `v0.8.0` (📅 2026-03-18)  
+  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.8.0)
 
 ## 🔹 Green-software
 - [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.9.3) – `0.9.3` (📅 2026-02-25)  
