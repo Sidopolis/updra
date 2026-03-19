@@ -4,16 +4,19 @@
 - No recent releases found.
 
 ## 🔹 Quantum-computing
-- No recent releases found.
+- [Infin-8/STEADYWATCH-QUANTUM-DEMO](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0) – `v1.0.0` (📅 2026-01-11)  
+  🔗 [Release Notes](https://github.com/Infin-8/STEADYWATCH-QUANTUM-DEMO/releases/tag/v1.0.0)
 
 ## 🔹 Edge-computing
-- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge/releases/tag/v1.23.0) – `v1.23.0` (📅 2026-03-11)  
-  🔗 [Release Notes](https://github.com/kubeedge/kubeedge/releases/tag/v1.23.0)
+- No recent releases found.
 
 ## 🔹 Webassembly
-- [pulseengine/meld](https://github.com/pulseengine/meld/releases/tag/v0.1.0) – `v0.1.0` (📅 2026-03-02)  
-  🔗 [Release Notes](https://github.com/pulseengine/meld/releases/tag/v0.1.0)
+- [almide/almide](https://github.com/almide/almide/releases/tag/v0.8.4) – `v0.8.4` (📅 2026-03-19)  
+  🔗 [Release Notes](https://github.com/almide/almide/releases/tag/v0.8.4)
+- [pulseengine/kiln](https://github.com/pulseengine/kiln/releases/tag/v0.2.0) – `v0.2.0` (📅 2025-04-24)  
+  🔗 [Release Notes](https://github.com/pulseengine/kiln/releases/tag/v0.2.0)
+- [meshery/meshery](https://github.com/meshery/meshery/releases/tag/v0.8.214) – `v0.8.214` (📅 2026-03-11)  
+  🔗 [Release Notes](https://github.com/meshery/meshery/releases/tag/v0.8.214)
 
 ## 🔹 Green-software
-- [mlco2/ecologits](https://github.com/mlco2/ecologits/releases/tag/0.10.0) – `0.10.0` (📅 2026-03-18)  
-  🔗 [Release Notes](https://github.com/mlco2/ecologits/releases/tag/0.10.0)
+- No recent releases found.
